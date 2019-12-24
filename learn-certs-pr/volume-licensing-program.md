@@ -89,8 +89,7 @@ Microsoft培训和认证解决方案可帮助企业和经认可的学术机构�
 
 * 联系我们
 
-  要开始使用Microsoft培训和认证产品，请与批量许可客户经理联系。如需了解有关价格，许可和折扣问题，请发送电子邮件至
-  [MSLVLPurchase@microsoft.com](mailto：MSLVLPurchase@microsoft.com)。
+  要开始使用Microsoft培训和认证产品，请与批量许可客户经理联系。如需了解有关价格，许可和折扣问题，请发送电子邮件至 [MSLVLPurchase@microsoft.com](mailto:MSLVLPurchase@microsoft.com)。
 
   [联系我们的销售专家，咨询有关添加Microsoft培训和认证解决方案的信息](mailto:mslvlhlp@microsoft.com)
 
