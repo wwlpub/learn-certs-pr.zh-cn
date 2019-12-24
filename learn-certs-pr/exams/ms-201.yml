@@ -41,7 +41,7 @@ relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
 resources:
-- 标题培训和认证指南
+- title: 标题培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 考试重放
