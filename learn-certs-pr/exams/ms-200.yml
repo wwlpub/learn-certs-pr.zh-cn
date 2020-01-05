@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-200
 displayName: MS-200
 summary: |-
- <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月4日更新。请下载下面的技能评估文档，看看有何变化。<br/></div>
+ <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月4日更新。请下载下面的技能评估文档，看看有何变化。<br/><br/></div>
 
   本考试的考生是对本地和 Cloud 企业环境内的收件人、权限、邮箱保护、邮件流和公共文件夹进行部署、配置、管理、故障排除和监控的消息传送管理员。
 
@@ -19,7 +19,7 @@ subTitle: '此考试考查您完成以下技术任务的能力：管理现代消
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-200&examname=考试%20MS-200:%20规划和配置消息传送平台&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
 levels:

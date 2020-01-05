@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月4日更新。请下载下面的技能评估文档，看看有何变化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月4日更新。请下载下面的技能评估文档，看看有何变化。<br/><br/></div>
 
   此考试的考生是 Microsoft Azure 安全工程师，他们实施安全控制，维护安全状态，管理身份和访问，以及保护数据，应用程序和网络。考生通过使用各种安全工具来识别和修复漏洞，实施威胁防护并响应安全事件升级。作为 Microsoft Azure 安全工程师，考生通常作为致力于基于云的管理和安全的大型团队的一部分，并且还可以作为端到端基础架构的一部分来保护混合环境。
 
@@ -15,7 +15,7 @@ subTitle: '该考试考查您完成以下技术任务的能力：管理身份和
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-500&examname=考试%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja

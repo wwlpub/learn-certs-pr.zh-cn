@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-103
 displayName: AZ-103
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月4日更新。请下载下面的技能评估文档，看看有何变化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月4日更新。请下载下面的技能评估文档，看看有何变化。<br/><br/></div>
 
   从2019年5月1日开始，您只需通过考试 AZ-103 即可获得此认证。这项新考试结合了 AZ-100 和 AZ-101（2019年5月1日起停用）所涵盖的技能，大部分新的考试来自 AZ-100。
 
@@ -17,7 +17,7 @@ subTitle: '从2019年5月1日开始，您只需通过考试 AZ-103 即可获得�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-103
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-103&examname=考试%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja
