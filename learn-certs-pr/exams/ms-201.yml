@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-201
 displayName: MS-201
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年11月25日更新。请下载下面的技能测量文档，看看有何变化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年11月25日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
 
   本考试的考生是对本地和 Cloud 企业环境内的收件人、权限、邮箱保护、邮件流和公共文件夹进行部署、配置、管理、故障排除和监控的消息传送管理员。
 
@@ -18,16 +18,16 @@ summary: |-
 subTitle: '此考试考查您完成以下技术任务的能力：规划和实施混合配置和迁移；保护消息传递环境；以及管理组织设置。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-201&examname=Exam%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-201&examname=考试%20MS-201:%20实现混合和安全消息传送平台&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-201
 locales:
 - en
 levels:
 - intermediate
 skills:
 - 此考试内容于2019年11月25日更新。请下载下面的技能评估文档，看看有何变化。
-- 规划和实施混合配置和迁移（35-40%）
-- 保护消息传递环境（40-45%）
-- 管理组织设置（15-20%）
+- 规划和实施混合配置和迁移(35-40%)
+- 保护消息传递环境(40-45%)
+- 管理组织设置(15-20%)
 roles:
 - administrator
 products:

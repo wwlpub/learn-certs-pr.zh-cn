@@ -6,14 +6,14 @@ metadata:
 uid: exam.az-300
 displayName: AZ-300
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月4日更新。请下载下面的技能评估文档，看看有何变化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月4日更新。请下载下面的技能评估文档，看看有何变化。<br/><br/></div>
 
   该考试的考生是 Azure Solution 架构师，他们提供咨询，并将业务需求转换成安全、可扩展和可靠的解决方案。考生应该具有跨 IT 操作的各个方面的资深经验和知识，包括网络、虚拟化、标识、安全性、业务连续性、灾难恢复、数据管理、预算和治理。这个角色需要管理每个区域中的决策如何影响整体解决方案。考生必须精通 Azure 管理、Azure 开发和 DevOps，并具有至少一个领域的专家级技能。
 subTitle: '此考试考查您完成以下技术任务的能力：部署和配置基础架构；实施工作量和安全；创建和部署应用程序；实现身份验证和安全数据；以及开发云和Azure存储。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-300&examname=考试%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
 - en
 - ja

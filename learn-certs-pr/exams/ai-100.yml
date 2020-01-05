@@ -19,7 +19,7 @@ summary: |-
 subTitle: '该考试测量您完成以下技术任务的能力：分析解决方案要求；设计方案；将AI模型集成到解决方案中并部署和管理解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AI-100&examname=考试%20AI-100:%20设计和实现%20Azure%20AI%20解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja

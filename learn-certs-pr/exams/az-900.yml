@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年10月23日更新。请下载下面的技能测量文档，看看有何变化。<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年10月23日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
 
   此考试面向希望证明自己掌握 Cloud 服务基础知识以及如何通过 Microsoft Azure 提供这些服务的考生。该考试适用于具有非技术背景的考生，例如参与销售或购买基于 Cloud 的解决方案和服务的人员，或者参与基于 Cloud 的解决方案和服务的人员，以及具有技术背景并需要证明自己具有 Cloud 服务基础知识的人员。不要求具有 IT 技术经验，然而，一些一般性的 IT 知识或经验将是有益的。
 
@@ -15,7 +15,7 @@ subTitle: '此考试衡量您理解以下概念的能力：云概念；核心Azu
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-900
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=考试%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
@@ -25,10 +25,10 @@ levels:
 - beginner
 skills:
 - 此考试内容于2019年10月23日更新。请下载下面的技能评估文档，看看有何变化。
-- 了解云概念（15-20%）
-- 了解核心 Azure 服务（30-35%）
-- 了解安全性、隐私、合规性和信任（25-30%）
-- 了解 Azure 定价和支持（20-25%）
+- 了解云概念(15-20%)
+- 了解核心 Azure 服务(30-35%)
+- 了解安全性、隐私、合规性和信任(25-30%)
+- 了解 Azure 定价和支持(20-25%)
 roles:
 - developer
 products:
