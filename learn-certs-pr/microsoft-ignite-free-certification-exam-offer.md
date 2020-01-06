@@ -23,7 +23,7 @@ ms.author: micsullivan
 
 由于这是一个数字优惠，我们要求您在安排在线考试时使用用于活动注册的相同社交帐户（请参阅下面的步骤7）来验证您的活动出席率。如果您是团队注册，请确保您已完成活动登记配置文件。出席MS Ignite 2019的人员，请访问： [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/); 对于The Tour与会者,请访问： [https://register.msignite-the-tour.microsoft.com/cityname](https://register.msignite-the-tour.microsoft.com/cityname), 例 [https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london) 以完成您的活动配置。
 
-分步操作截图 [查看此处](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4i3R4)。
+分步操作截图 [查看此处](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1th)。
 
 ***报名参加免费考试：***
 
