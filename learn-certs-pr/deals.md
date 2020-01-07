@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 ## Exam Replay
 
-验证您的技能，获得专业优势，增强您的信心。Exam Replay 凭证自购买之日起十二 (12) 个月内有效，不能与其他优惠同时使用。您必须在购买后六个月内安排并参加考试（及补考）。有关更多信息，请参见[常见问题](#frequently-ask-questions)。如果您在购买或兑换 Exam Replay 优惠时遇到问题，请通过电子邮件发送给[Pearson VUE 团队](mailto:mindhub@pearson.com)
+验证您的技能，获得专业优势，增强您的信心。Exam Replay 凭证自购买之日起十二 (12) 个月内有效，不能与其他优惠同时使用。您必须在购买后六个月内安排并参加考试（及补考）。有关更多信息，请参见[常见问题](#frequently-asked-questions)。如果您在购买或兑换 Exam Replay 优惠时遇到问题，请通过电子邮件发送给[Pearson VUE 团队](mailto:mindhub@pearson.com)
 
 ### 从两项不同的 Exam Replay 优惠中选择一项：
 
@@ -46,7 +46,7 @@ ms.author: micsullivan
 
 [**了解详情**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-ask-questions"></a>常见问题解答
+## <a name="frequently-asked-questions"></a>常见问题解答
 
 **问什么是考试重播？**
 
