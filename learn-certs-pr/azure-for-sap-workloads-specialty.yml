@@ -1,0 +1,45 @@
+### YamlMime:Certification
+title: 'Microsoft 认证：Azure for SAP Workloads专业版'
+metadata:
+  title: 'Microsoft 认证：Azure for SAP Workloads专业版'
+  description: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
+uid: certification.azure-for-sap-workloads-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
+subTitle: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
+levels:
+- advanced
+skills:
+- 将SAP工作负载迁移到Azure
+- 设计Azure解决方案以支持SAP工作负载
+- 构建和部署Azure SAP工作负载
+- 验证Azure基础架构是否适用于SAP工作负载
+- 操作 Azure SAP 体系结构
+roles:
+- administrator
+- solution-architect
+type: role-based
+products:
+- azure
+courses:
+- uid: course.az-120t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
+exams:
+- uid: exam.az-120
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看關於基礎知識、角色型和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  href: help.md
+- title: 認證儀錶板
+  description: 檢閱並管理您的預定測驗、證書和成績單。
+  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
