@@ -1067,7 +1067,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **我如何请求获得便利？**
 
-如果您在考试时需要特殊设备或其他便利，则可以使用他们的合理调整要求系统通过[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 申请便利。[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。上面的[参加考试时的特殊住宿](#special-accommodations-when-taking-exams)部分提供了更多详细信息。
+如果您在考试时需要特殊设备或其他便利，则可以使用他们的合理调整要求系统通过[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 申请便利。[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。上面的 参加考试时的特殊住宿部分提供了更多详细信息。
 
 **为什么需要提交文件？**
 
