@@ -54,7 +54,7 @@ Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional 
 1. 常规 Microsoft Certified Professional (MCP) 考试补考政策
     1. 如果考生第一次没有达到考试的通过分数，那么该考生必须至少等待 24 小时后才能补考。
     2. 如果考生第二次没有达到通过分数，那么该考生必须至少等待 14 天的时间才能第三次补考。
-    3. 后续第四次和第五次补考也必须等待 14 天。考生每年（12 个月）最多可参加 5 次特定考试。此 12 个月的时间段从第 5 次补考失败之日起计算。从此日期开始计算，届满 12 个月后，考生才能再次补考。若希望每年参加特定考试的次数超过 5 次或免除两次考试之间的时间间隔，考生必须提交申请并获得 Microsoft 的事先许可。请求应发送到[mlsecure@microsoft.com](mailto：mlsecure@microsoft.com)。这些请求应包括以下信息：
+    3. 后续第四次和第五次补考也必须等待 14 天。考生每年（12 个月）最多可参加 5 次特定考试。此 12 个月的时间段从第 5 次补考失败之日起计算。从此日期开始计算，届满 12 个月后，考生才能再次补考。若希望每年参加特定考试的次数超过 5 次或免除两次考试之间的时间间隔，考生必须提交申请并获得 Microsoft 的事先许可。请求应发送到[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。这些请求应包括以下信息：
         - MCID
         - 名称
         - 电子邮件
@@ -89,7 +89,7 @@ Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional 
 
 ### 考试中心申诉过程
 
-考试中心所有者可以通过向[mlsecure@microsoft.com](mailto：mlsecure@microsoft.com)提出申诉来对网站关闭提出申诉。
+考试中心所有者可以通过向[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)提出申诉来对网站关闭提出申诉。
 
 ### 数据取证
 
@@ -654,7 +654,7 @@ Expert 和 Associate 考试通常需要165美元，但根据特定国家和地�
 
 如果您对特定项目的技术准确性有疑问，请按照[考试项目挑战](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx#policies-5)过程。
 
-要报告有关考试中心或考试期间遇到的技术困难的问题，请通过[Pearson VUE](http://www.pearsonvue.com/microsoft/)或[Certiport](http//www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)与客户服务联系。
+要报告有关考试中心或考试期间遇到的技术困难的问题，请通过[Pearson VUE](http://www.pearsonvue.com/microsoft/)或[Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)与客户服务联系。
 
 要提供其他类型的反馈，请联系您的[Microsoft区域服务中心](https://www.microsoft.com/zh-cn/learning/help.aspx)。
 
