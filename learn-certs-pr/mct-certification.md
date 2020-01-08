@@ -29,7 +29,7 @@ Microsoft 认证讲师计划属于年度会员计划。您必须满足方案要�
 
 [探索可用于MCT的所有好处。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## 要求
+## <a name="mctinfoheading-3"></a> 要求
 
 MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。如果您持有符合资格的认证而且对于从事 Microsoft 技术培训充满热情，我们鼓励您考虑申请此项计划。
 

@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 全球各地的合作伙伴和客户信赖 Microsoft 能提供最高质量的考试和认证。制定 Microsoft 认证考试政策是为了支持认证计划的目标，包括：
 
-## 安全和补考政策
+## <a name="security-policies"></a> 安全和补考政策
 
 Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional (MCP) 考试相关的安全领域。
 
@@ -517,7 +517,7 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 下载：[文字记录服务应用程序](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## 对 Microsoft 认证考题提出质疑
+## <a name="policies-5"></a> 对 Microsoft 认证考题提出质疑
 
 [每个考试问题均经过仔细审查](https://www.microsoft.com/zh-cn/learning/certification-exams.aspx)由技术和职务职能专家小组组成，他们对每个问题的技术准确性和清晰度进行了审查，以及相关性。如果您相信您在 Microsoft 认证考试中看到的特定考题无效，那么您可以按照下面所述的步骤申请评估该考题。您必须在参加考试后30天内提交考试项目质疑表。
 
@@ -553,7 +553,7 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 如果您因为无法使用您的母语进行考试而需要更多时间，索取特殊设备，或者在参加考试时想申请其他住宿，则可以按照[此处](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations)的流程提出申请。
 
-### 取消和改期政策：
+### <a name="cancellation-and-reschedule-policy"></a> 取消和改期政策：
 
 - 如果您在约定的考试时间之前至少6个工作日重新安排或取消考试预约，则没有任何收费。
 - 如果您在注册的考试时间的5个工作日内取消或重新安排考试，则需要收取费用。
