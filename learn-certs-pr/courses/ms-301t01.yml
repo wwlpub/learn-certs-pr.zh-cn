@@ -1,0 +1,99 @@
+### YamlMime:Course
+title: 实现SharePoint 2019基础架构
+metadata:
+  title: '课程 MS-301T01-A: 实现SharePoint 2019基础架构'
+  description: '课程 MS-301T01-A: 实现SharePoint 2019基础架构'
+uid: course.ms-301t01
+courseNumber: 'MS-301T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 SharePoint 2019 中的MinRole特性
+- skill: 描述如何安装和配置SharePoint  2019
+- skill: 描述如何实现SharePoint的高可用性
+- skill: 描述 SharePoint 2019 中的身份验证基础架构
+- skill: 解释联合身份背后的概念
+- skill: 描述如何创建网站集
+- skill: 描述如何规划SharePoint  2019中的身份验证
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  SharePoint Server 2019旨在满足现代工作方式的需求。它为用户提供了新的现代体验，这些体验在SharePoint Online中既直观又熟悉。在本课程中，您将学习如何部署和配置SharePoint Server 2019。我们还将讨论如何规划和配置SharePoint本地身份验证和安全性以保护环境。您还将学习如何管理SharePoint内容以与现代信息体系结构保持一致。
+
+  本课程是为在组织中部署和管理团队协作基础设施的IT专业人员设计的。
+
+  这是面向Teamwork Administrator角色的四门系列课程中的第一课。这些课程有助于准备考试MS-301&#58;部署SharePoint Server Hybrid。
+  
+  #### 受众概况
+  该考试适用于Microsoft 365 Teamwork Administrator角色。此角色负责配置、部署和管理专注于高效协作和采用的Office 365和Azure工作负载。他们管理应用程序、服务和支持基础架构，以满足业务需求。管理员知道并可以区分产品和服务，但不能直接管理每个产品或服务。
+
+  Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
+
+  Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 使用Windows PowerShell的体验
+  - 对SQL Server管理的基本了解
+  - 对网络（包括DNS）的基本了解
+  - 关于Windows服务器管理的工作知识
+  - 对活动目录和Azure AD的基本了解
+  - 基本了解移动设备管理和其他操作系统（Android和MacOS）
+outlineSection: |-
+  ### 模块 1&#58; SharePoint基础架构
+  本模块介绍基本的SharePoint基础架构。它描述了SharePoint场中的组件。还讨论了如何安装和配置SharePoint场。
+  #### 课程
+  - 规划 SharePoint 场
+  - SharePoint 2019
+  - 安装和管理SharePoint Farm
+  学完本模块后，学生将能够&#58;
+  - 描述 SharePoint 2019 中的MinRole特性
+  - 描述如何安装和配置SharePoint 2019
+  - 描述如何实现SharePoint的高可用性
+  - 规划场备份和恢复
+  
+  ### 模块 2&#58; SharePoint身份验证和安全性
+  此模块介绍SharePoint身份验证和安全性。它在SharePoint 2019中引入了不同的身份验证方法。
+  #### 课程
+  - 规划身份验证
+  - 配置联合身份验证
+  学完本模块后，学生将能够&#58;
+  - 描述 SharePoint 2019 中的身份验证基础架构
+  - NTLM 和 Kerberos 身份验证
+  - 描述服务器到服务器的身份验证
+  - 解释联合身份背后的概念
+
+
+  ### 模块 3&#58; SharePoint内容管理
+  此模块介绍SharePoint内容管理。它探讨SharePoint中的内容结构。它还提供了有关在SharePoint中进行授权和内容访问的详细信息。
+
+  #### 课程
+  - SharePoint内容结构概述
+  - 管理对内容的访问
+  - 管理网站集
+
+
+  学完本模块后，学生将能够&#58;
+  - 解释网站集的概念
+  - 描述如何创建网站集
+  - 描述如何规划SharePoint 2019中的身份验证
+  - 描述如何管理SharePoint 2019中的权限等级
+  - 描述如何管理SharePoint 2019中的SharePoint组
+
+
+  ### 模块 4&#58; 课程总结
+
+  #### 实验室 &#58; 创建和配置Web应用
+

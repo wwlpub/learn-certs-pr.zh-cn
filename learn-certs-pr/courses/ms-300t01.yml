@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 管理Office 365内容服务
+metadata:
+  title: '课程 MS-300T01-A: 管理Office 365内容服务'
+  description: '课程 MS-300T01-A: 管理Office 365内容服务'
+uid: course.ms-300t01
+courseNumber: 'MS-300T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 配置 SharePoint 网站集
+- skill: 管理网站集存储限制
+- skill: 部署OneDrive for Business同步客户端
+- skill: 使用组策略设置来控制 OneDrive 同步客户端设置
+- skill: 管理SharePoint Online和OneDrive for Business中的外部数据共享
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  对于每个组织，内容都是最关键的数字资产。在本课程中，您将学习如何规划、配置和管理SharePoint网站集和OneDrive for Business，以启用能够改变内容生命周期的现代内容服务。具体来说，本课程讨论现代的SharePoint网站结构，例如SharePoint中心网站。它提供了在组织内采用和部署OneDrive for Business的最佳实践。它还包括SharePoint Online和OneDrive for Business中的共享、安全和监视。
+  本课程是为在组织中部署和管理团队协作基础设施的IT专业人员设计的。 这是面向团队管理员角色的四门系列课程中的第一课。这些课程有助于准备考试MS-300&#58;部署Microsoft 365 Teamwork。
+  #### 受众概况
+  该考试适用于Microsoft 365 Teamwork Administrator角色。此角色负责配置、部署和管理专注于高效协作和采用的Office 365和Azure工作负载。他们管理应用程序、服务和支持基础架构，以满足业务需求。管理员知道并可以区分产品和服务，但不能直接管理每个产品或服务。
+  Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
+  Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 使用Windows PowerShell的体验
+  - 对活动目录和Azure AD的基本了解
+  - 基本了解移动设备管理和其他操作系统（Android和MacOS）
+outlineSection: |-
+  ### 模块 1&#58; 规划和配置SharePoint网站集
+  本模块主要介绍规划、配置和管理SharePoint网站集。它讨论了SharePoint管理员如何使用SharePoint管理中心来管理组织中网站集的生命周期。
+  #### 课程
+  - SharePoint Online概述
+  - 配置网站集
+  - 管理网站集
+  学完本模块后，学生将能够&#58;
+  - 解释网站集的概念
+  - 创建网站集
+  - 管理网站集存储限制
+  - 创建和配置SharePoint中心网站
+  - 描述如何使用SharePoint管理中心管理网站集
+
+  ### 模块 2&#58; 配置和管理OneDrive for Business
+  本模块说明如何规划OneDrive for Business的部署。它讨论了基于不同场景部署OneDrive for Business的不同方法。它还引入了在OneDrive for Business中管理内容的功能。
+
+  #### 课程
+  - OneDrive for Business概述
+  - 部署OneDrive for Business
+  - 管理Skype for Business
+
+
+  学完本模块后，学生将能够&#58;
+  - 管理用户存储限制
+  - 在 OneDrive for Business 中配置数据保留
+  - 使用组策略来控制 OneDrive 同步客户端设置
+  - 描述部署OneDrive for Business的不同方法
+  - 描述如何使用SharePoint管理中心管理OneDrive for Business
+
+
+  ### 模块 3&#58; 在SharePoint和OneDrive中的共享、安全和监视
+  本模块主要介绍在SharePoint和OneDrive中的共享、安全和监视。具体来说，我们将讨论在SharePoint和OneDrive中规划和管理外部共享以及访问控制。它还讨论了如何使用Office 365管理中心监视SharePoint Online和OneDrive for Business中的活动。
+
+
+  #### 课程
+  - 管理SharePoint和OneDrive中的共享
+  - 管理SharePoint和OneDrive中的安全
+  - 对SharePoint和OneDrive进行监控
+
+
+  学完本模块后，学生将能够&#58;
+  - 描述SharePoint Online和OneDrive for Business中的外部共享
+  - 描述对SharePoint Online和OneDrive for Business的设备访问进行管理的选项
+  - 查看衡量SharePoint Online和OneDrive业务使用情况的Office 365报告
+
+  ### 模块 4&#58; 课程总结
+
+  #### 实验室 &#58; 创建和配置网站集
+

@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: 管理 SharePoint Online
+metadata:
+  title: '课程 MS-300T02-A: 管理 SharePoint Online'
+  description: '课程 MS-300T02-A: 管理 SharePoint Online'
+uid: course.ms-300t02
+courseNumber: 'MS-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述如何配置用户配置文件属性
+- skill: 描述如何管理受众
+- skill: 描述如何使用应用程序目录创建自定义应用程序
+- skill: 创建和管理术语组、术语集和术语
+- skill: 描述现代和经典搜索体验的区别
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  在本课程中，您将学习如何使用适当的权限设置管理用户配置文件和应用程序。我们还将讨论如何规划和配置托管元数据、业务连接服务和搜索，以便在整个Office 365中查找、使用和管理内容。
+  本课程是为在组织中部署和管理团队协作基础设施的IT专业人员设计的。
+  这是Teamwork Administrator角色的四门系列课程中的第二课。这些课程有助于准备考试MS-300&#58;部署Microsoft 365 Teamwork。
+  
+  #### 受众概况
+  该考试适用于Microsoft 365 Teamwork Administrator角色。此角色负责配置、部署和管理专注于高效协作和采用的Office 365和Azure工作负载。他们管理应用程序、服务和支持基础架构，以满足业务需求。管理员知道并可以区分产品和服务，但不能直接管理每个产品或服务。
+  Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
+
+  Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 使用Windows PowerShell的体验
+  - 对活动目录和Azure AD的基本了解
+  - 基本了解移动设备管理和其他操作系统（Android和MacOS）
+outlineSection: |-
+  ### 模块 1&#58; 管理用户配置文件和应用程序
+  本模块介绍SharePoint Online中的用户配置文件和自定义。它讨论如何在SharePoint Online中管理用户配置文件。它还介绍了如何使用应用程序目录使自定义业务应用程序可用于您的SharePoint Online。
+  #### 课程
+  - 管理用户档案
+  - 规划和配置自定义项和应用
+  学完本模块后，学生将能够&#58;
+  - 描述如何配置用户配置文件属性
+  - 描述如何管理受众
+  - 描述如何使用应用程序目录创建自定义应用程序
+  
+  ### 模块 2&#58; 规划和配置托管元数据和业务连接
+  本模块介绍托管元数据和业务连接服务。它介绍了托管元数据的概念以及导入术语集的过程。它还描述了如何管理业务连接服务和创建外部列表。
+
+
+  #### 课程
+  - 规划和配置托管元数据
+  - 规划和配置 Business Connectivity Service (BCS) 和 Secure Store 服务
+
+
+  学完本模块后，学生将能够&#58;
+  - 描述托管元数据的功能
+  - 创建和管理术语组、术语集和术语
+  - 解释BDC模型的关键组件
+  - 描述BCS的高级架构
+  - 解释Secure Store服务的用途
+
+
+  ### 模块 3&#58; 规划和配置搜索
+  本模块介绍企业搜索服务应用。它提供了有关规划和配置内容源、爬网计划和爬网规则的详细信息。本文还讨论了如何为一系列搜索组件（如查询规则、结果类型和显示模板）提供搜索管理。
+
+  #### 课程
+  - SharePoint Online中的搜索概述
+  - 管理搜索
+
+
+  学完本模块后，学生将能够&#58;
+  - 描述现代和经典搜索体验的区别
+  - 描述如何规划和配置内容源
+  - 描述如何管理搜索架构
+  - 解释查询规则的使用和部署
+  - 解释结果源的使用和部署
+
+
+  ### 模块 4&#58; 课程总结
+
+  #### 实验室 &#58; 导入术语集
+

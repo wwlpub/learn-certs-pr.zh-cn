@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: 开发 Azure 存储
+metadata:
+  title: '课程 AZ-203T03-A: 开发 Azure 存储'
+  description: '课程 AZ-203T03-A: 开发 Azure 存储'
+uid: course.az-203t03
+courseNumber: 'AZ-203T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  在本课程中，学生将获得在开发解决方案中利用Azure存储服务和功能所需的知识和技能。本课程涵盖了Azure表存储，Azure Cosmos DB，Azure Blob以及针对Azure中的关系数据库进行开发。
+  #### 受众概况
+  - 本课程的学生对Azure开发或通过Microsoft Azure开发人员助理认证考试感兴趣。
+prerequisitesSection: |-
+  - 学生应具有1-2年的开发经验。本课程假定学生知道如何编码并具有Azure的基本知识。
+  - 建议学生具有在PowerShell或Azure CLI，在Azure门户中工作以及至少使用一种Azure支持的编程语言的经验。本课程中的大多数示例都以C＃.NET提供。
+outlineSection: |-
+  ### 模块 1&#58; 开发使用Azure表存储的解决方案
+  Azure表存储是一项服务，可在云中存储结构化的NoSQL数据，从而为键/属性存储提供无模式设计。由于表存储是无模式的，因此很容易根据应用程序的需求调整数据。
+  #### 课程
+  - Azure表存储概述
+  - 表存储中的授权
+  - 表服务REST API
+  学完本模块后，学生将能够&#58;
+  - 了解Azure表存储的功能和用途
+  - 知道如何利用共享密钥授权
+  - 知道如何使用Azure Table存储REST服务来管理数据
+
+  ### 模块 2&#58; 开发使用Azure Cosmos DB存储的解决方案
+  本模块介绍Azure Cosmos DB存储。它指导学生如何使用它，如何管理容器和物品以及如何使用代码创建和更新文档。
+  #### 课程
+  - Azure Cosmos DB概述
+  - 管理容器和物品
+  - 使用代码创建和更新文档
+  学完本模块后，学生将能够&#58;
+  - 了解Azure Cosmos DB的核心功能
+  - 管理容器和物品
+  - 创建和更新文档
+  
+  ### 模块 3&#58; 开发使用关系数据库的解决方案
+  SQL数据库是Microsoft Azure中的通用关系数据库托管服务，支持诸如关系数据，JSON，空间和XML之类的结构。
+  #### 课程
+  - Azure SQL概述
+  - 使用代码创建、读取、更新和删除数据库表
+
+  学完本模块后，学生将能够&#58;
+  - 了解Azure SQL数据库服务的工作方式
+  - 使用代码执行数据库操作
+
+
+  ### 模块 4&#58; 开发使用Microsoft Azure Blob存储的解决方案
+  Azure Blob存储是Microsoft的云对象存储解决方案。Blob存储经过优化，可存储大量非结构化数据。非结构化数据是不遵循特定数据模型或定义的数据，例如文本或二进制数据。
+  #### 课程
+  - Azure Blob存储概述
+  - 使用Azure Blob存储
+
+  学完本模块后，学生将能够&#58;
+  - 了解何时以及为何使用Azure Blob存储
+  - 设置和检索Blob存储属性和元数据
+  - 复制和复制Blob
+

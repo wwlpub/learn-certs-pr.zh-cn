@@ -1,0 +1,124 @@
+### YamlMime:Course
+title: 在Dynamics 365 for Finance and Operations中配置和使用仓库和运输管理
+metadata:
+  title: '课程 MB-330T03-A: 在Dynamics 365 for Finance and Operations中配置和使用仓库和运输管理'
+  description: '课程 MB-330T03-A: 在Dynamics 365 for Finance and Operations中配置和使用仓库和运输管理'
+uid: course.mb-330t03
+courseNumber: 'MB-330T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  通过使业务物流现代化、及时提供客户响应、提前预测洞察力、优化采购以及统一从销售到履行的流程，企业使用Dynamics 365 for Finance and Operations实现供应链的自动化和优化。本课程讨论如何在Microsoft Dynamics 365 for Finance and Operations中配置和使用仓库和运输管理。
+  #### 受众概况
+  Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
+prerequisitesSection: |-
+  对ERP和CRM概念的基本理解。
+outlineSection: |-
+  ### 模块 1&#58; 配置仓库管理
+  Dynamics 365 for Finance and Operations的仓库管理模块有助于管理制造、分销和零售公司的仓库流程。
+  它有一系列广泛的功能，以支持仓库设施在任何时候维持在最佳水平。在Finance and Operations中，仓库管理与其他业务流程（如运输、制造、质量控制、采购、转移、销售和退货）完全集成。
+  #### 课程
+  - 简介
+  - 配置仓库管理设置
+  - 了解保留层次结构
+  - 位置指令和工作模板
+  - 实习实验室
+  - 模块总结
+  在本模块中，学生学习了&#58;
+  - 配置仓库管理参数
+  - 创建仓库和位置
+  - 配置工作池、区域、位置格式和配置文件
+  - 创建保留层次结构
+  - 配置位置指令
+  - 配置弃权声明
+  - 配置负载
+  - 配置库存状态
+  - 执行周期盘点
+  - 配置包装和货柜运输
+  - 设置和生产标签
+  
+  ### 模块 2&#58; 为仓库管理配置移动设备
+  本主题说明如何在Finance and Operations中为仓库管理配置移动设备。
+  #### 课程
+  - 简介
+  - 配置移动设备
+  - 实习实验室
+  - 模块总结
+  在本模块中，学生学习了如何&#58;
+  - 创建新的工作类
+  - 配置移动设备
+  - 为作业和查询配置菜单项
+  - 配置菜单项，以便为另一个人员或进程创建工作
+  - 配置菜单项以处理现有工作
+  - 定义移动设备菜单的布局
+  - 配置移动设备的基本外观
+  - 创建移动设备用户
+  - 设置标签布局并定义打印标签的设置
+
+  ### 模块 3&#58; 使用仓库管理
+  在使用移动设备进行仓库管理之前，必须安装应用程序。本课介绍如何在Finance and Operations中使用仓库管理流程。
+  #### 课程
+  - 简介
+  - 配置移动设备
+  - 入站操作
+  - 周期盘点
+  - 转移和补充
+  - 出站操作
+  - 群集挑选
+  - 包装和货柜运输
+  - 实习实验室
+  - 模块总结
+
+
+  在本模块中，学生学习了如何执行&#58;
+  - 入站操作
+  - 出站操作
+  - 群集挑选
+  - 包装和货柜运输
+  - 周期盘点
+  - 转移和补充
+
+
+  ### 模块 4&#58; 配置运输管理
+  本模块概述了Microsoft Dynamics 365 for Finance and Operations中的运输管理功能，并介绍如何配置和使用运输管理。
+  #### 课程
+  - 简介
+  - 规划和配置运输管理
+  - 程序
+  - 确定路线和运输流程
+  - 运输引擎与货运管理
+  - 实习实验室
+  - 模块总结
+
+
+  在本模块中，学生学习了如何执行&#58;
+  - 运输规划
+  - 确定路线
+  - 评级
+  - 入站操作
+  - 装载流程
+  - 出站操作
+
+
+  ### 模块 5&#58; 课程总结
+  最终评估和课程总结，以及课程的课后调查。
+  #### 课程
+  - 最终评估
+  - 课程总结
+  - 课后调查
+
+
+  学生已经完成课程。
+

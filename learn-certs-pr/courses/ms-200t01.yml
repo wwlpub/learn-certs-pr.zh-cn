@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: 了解现代消息传递架构
+metadata:
+  title: '课程 MS-200T01-A: 了解现代消息传递基础架构'
+  description: '课程 MS-200T01-A: 了解现代消息传递基础架构'
+uid: course.ms-200t01
+courseNumber: 'MS-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解现代消息传递架构
+- skill: 部署和管理现代消息传递架构
+- skill: 创建和管理Exchange收件人
+- skill: 管理电子邮件地址、清单和资源
+- skill: 规划邮箱数据库
+- skill: 创建和管理邮箱数据库
+- skill: 管理消息传递的身份验证
+- skill: 配置组织设置
+- skill: 配置组织共享
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  在本课程中，学生将学习使用Exchange Server和Exchange Online的现代消息传递基础架构，以及如何在不同的场景和组织中部署消息传递。它们将在指导下完成初始部署过程，并初步了解消息传递管理工具。学生将学习如何创建和管理不同类型的收件人，以及如何创建和管理作为所有邮件数据存储位置的Exchange Server邮箱数据库。最后，将向消息传递基础结构组织设置介绍它们，例如如何管理消息传递环境的身份验证、如何为组织中的用户配置配额，以及如何配置与联合的组织共享。
+  #### 受众概况
+  消息管理员部署、配置、管理
+  本地和云企业环境中的收件人、权限、邮件保护、邮件流和公用
+  文件夹并对其进行故障排除。职责
+  包括管理消息卫生、消息基础结构以及混合配置
+  和迁移。消息管理员还实现和管理灾难
+  恢复、高可用性和客户端访问。为了实现安全的混合
+  拓扑以满足现代组织的业务需求，消息管理员
+  必须与安全管理员和Microsoft 365企业管理员协作。
+  消息管理员应该具备身份验证类型方面的工作知识，
+  与Microsoft 365应用集成方面的工作知识。
+prerequisitesSection: |-
+  - 熟练理解DNS。
+  - 基本了解在Exchange Server或Exchange Online内部的消息传递。
+  - 基本了解活动目录和域控制器基础结构以及身份管理。
+  - 具有Microsoft 365服务和目录同步的基本功能体验。
+  - 至少5年的一般IT经验。
+outlineSection: |-
+  ### 模块 1&#58; 管理现代消息传递基础结构
+  #### 课程
+  - 现代消息传递架构概述
+  - 部署现代消息传递基础结构
+  - 管理现代消息传递基础结构
+
+  ### 模块 2&#58; 管理收件人对象和资源
+  #### 课程
+  - Exchange收件人
+  - 创建和管理Exchange收件人
+  - 管理电子邮件地址、清单和资源
+
+  ### 模块 3&#58; 管理邮箱数据库
+  #### 课程
+  - Exchange Server中的邮箱数据库
+  - 规划邮箱数据库
+  - 创建和管理邮箱数据库
+  - 对邮箱数据库进行故障排除
+
+  ### 模块 4&#58; 管理组织设置
+  #### 课程
+  - 管理消息传递的身份验证
+  - 配置组织设置
+  - 设计外部访问解决方案
+  
+  ### 模块 5&#58; 课程总结
+
+  ### 实验室 &#58; 管理收件人基础结构
+  - 创建本地收件人
+  - 创建云端收件人
+  - 创建本地分发组
+  - 创建云端分发组
+  - 创建Office 365组
+

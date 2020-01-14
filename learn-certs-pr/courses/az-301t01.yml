@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: 身份和安全设计
+metadata:
+  title: '课程 AZ-301T01-A: 身份和安全设计'
+  description: '课程 AZ-301T01-A: 身份和安全设计'
+uid: course.az-301t01
+courseNumber: 'AZ-301T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用Azure AD B2B或B2C将现有解决方案与外部身份提供商集成
+- skill: 设计混合身份解决方案
+- skill: 确定何时使用Azure AD的高级功能，例如托管服务身份，MFA和特权身份管理
+- skill: 使用Key Vault保护应用程序机密
+- skill: 使用SQL数据库和Azure存储功能保护应用程序数据的安全
+- skill: 详细介绍认知服务中可用的各种API
+- skill: 确定何时使用Face API，语音API或语言理解（LUIS）服务
+- skill: 描述与Bot Framework和Azure Bot Services的关系
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  了解如何在Azure环境中管理安全性和身份。此外，还将向您介绍Azure中可用的多种软件即服务（SaaS）功能，这些功能可以集成到现有的Azure解决方案中。
+  #### 受众概况
+  成功的云解决方案架构师从在操作系统，虚拟化，云基础架构，存储结构，计费和网络方面的实践经验开始担任这一角色。
+outlineSection: |-
+  ### 模块 1&#58; 管理Azure解决方案的安全性和身份
+  本模块讨论了Azure环境中的安全性和身份。为了安全起见，此模块检查了用于监视安全性的各种选项，可用于保护数据的选项以及用于保护应用程序机密的选项。对于身份，此模块专门针对Azure Active Directory（Azure AD）和可用的各种功能，例如，多重身份验证（MFA），托管服务身份，Azure AD Connect，ADFS和Azure AD B2B / B2C。
+  #### 实验 &#58; 保护Azure中的秘密
+  学完本模块后，学生将能够&#58;
+  - 使用Azure AD B2B或B2C将现有解决方案与外部身份提供商集成。
+  - 设计混合身份解决方案。
+  - 确定何时使用Azure AD的高级功能，例如托管服务身份，MFA和特权身份管理。
+  - 使用Key Vault保护应用程序机密。
+  - 使用SQL数据库和Azure存储功能保护应用程序数据的安全。
+  
+  ### 模块 2&#58; 集成Azure平台上可用的SaaS服务
+  本模块介绍了Azure中可用的多种SaaS服务，可将这些服务集成到现有的Azure解决方案中。这些服务包括认知服务、机器人服务、机器学习和媒体服务。
+  #### 实验 &#58; 将服务实例部署为整体Azure解决方案的组件
+  学完本模块后，学生将能够&#58;
+  - 详细介绍认知服务中可用的各种API。
+  - 确定何时使用Face API，语音API或语言理解（LUIS）服务。
+

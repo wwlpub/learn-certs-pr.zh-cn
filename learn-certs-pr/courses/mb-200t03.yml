@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform集成'
+metadata:
+  title: '课程 MB-200T03-A: Dynamics 365: Power Platform集成'
+  description: '课程 MB-200T03-A: Dynamics 365: Power Platform集成'
+uid: course.mb-200t03
+courseNumber: 'MB-200T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 识别关键集成场景
+- skill: 配置和使用集成电子邮件
+- skill: 配置和使用Outlook集成
+- skill: 配置和使用额外的Office集成
+- skill: 导入和导出数据
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  通过将日常任务自动化和将最佳实践标准化，Microsoft Power Platform帮助组织优化其运营。这种培训提供了对Microsoft Dynamics 365和Power Platform的能力的高级概述，并为其他Microsoft Dynamics 365和Power Platform培训提供了基础。
+  在本课程中，我们全球公认的专家将指导学生了解各种可用的集成选项，以及如何在实际场景中使用这些选项。
+  #### 受众概况
+  Dynamics 365 Customer Engagement Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
+prerequisitesSection: |-
+  熟悉业务应用程序并希望为您的业务定制和实现它们。
+outlineSection: |-
+  ### 模块 1&#58; 集成简介
+  在本模块中，学生将学习Power Platform集成功能的基本知识，以及如何配置和使用电子邮件集成。
+  #### 课程
+  - 常见场景概述
+  - 电子邮件集成
+  - Outlook集成
+  - 模块总结
+  学完本模块后，学生将能够&#58;
+  - 确定常见的集成
+  - 配置和使用电子邮件集成
+
+  ### 模块 2&#58; 与Office集成
+  在本模块中，学生将学习如何与常见的Office产品集成，以包括OneNote、Word和Excel。
+  #### 课程
+  - 模版
+  - SharePoint
+  - Microsoft Teams
+  - 额外集成
+  - 模块总结
+  学完本模块后，学生将能够&#58;
+  - 配置和使用与Office产品的集成
+
+  ### 模块 3&#58; 管理数据
+  在本模块中，学生将学习如何为Power Platform导入和导出数据，以及如何创建和使用数据映射。
+  #### 课程
+  - 管理数据概览
+  - 重复检测
+  - 导入数据
+  - 导出数据
+  - 批量删除
+  - 模块总结
+  学完本模块后，学生将能够&#58;
+  - 导入和导出数据
+  - 创建和使用数据映射
+  - 执行批量删除
+

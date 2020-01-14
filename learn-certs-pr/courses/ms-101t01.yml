@@ -1,0 +1,66 @@
+### YamlMime:Course
+title: Microsoft 365 安全管理
+metadata:
+  title: '课程 MS-101T01-A: Microsoft 365 安全管理'
+  description: '课程 MS-101T01-A: Microsoft 365 安全管理'
+uid: course.ms-101t01
+courseNumber: 'MS-101T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 管理安全度量指标
+- skill: 在Microsoft 365中实现安全解决方案
+- skill: 规划和配置Azure AD身份保护
+- skill: 实施Microsoft Secure Score
+- skill: 实施Exchange Online保护
+- skill: 实施高级威胁防护
+- skill: 管理安全附件和安全链接
+- skill: 实施Microsoft 365 Threat Intelligence
+- skill: 使用Microsoft 365安全控制面板
+- skill: 配置Advanced Threat Analytics
+- skill: 实施云安全应用
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  了解Microsoft 365安全管理，包括如何管理安全度量、如何启用Azure AD身份保护、如何配置Microsoft 365安全服务和用户Microsoft 365威胁智能。
+  #### 受众概况
+  本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
+prerequisitesSection: |-
+  - 完成了基于角色的管理员课程，如消息传递、团队协作、安全和合规性或协作。
+  - 熟练理解DNS并对Microsoft 365服务有了基本功能体验。
+  - 熟练理解一般IT实践。
+outlineSection: |-
+  ### 模块 1&#58; 设计您的Microsoft 365租户
+  #### 课程
+  规划 Microsoft 365 本地基础架构
+  - 规划您的身份和身份验证解决方案
+
+  ### 模块 2&#58; 配置您的Microsoft 365租户
+  #### 课程
+  - 规划您的Microsoft 365体验
+  - 配置您的Microsoft 365体验
+  - 利用FastTrack和合作伙伴服务
+  - 实现您的域名服务
+
+  ### 模块 3&#58; 管理您的Microsoft 365租户
+  #### 课程
+  - 配置租户角色
+  - 管理租户健康和服务
+  ### 模块 4&#58; 实习实验室
+  
+  #### 实验室 &#58; 管理您的Microsoft 365安全
+  - 练习 1&#58; 设置您的实验室环境
+  - 练习 2&#58; 编辑ATP安全链接策略并创建安全附件策略
+  - 练习 3&#58; 启用和安装ATA中心
+

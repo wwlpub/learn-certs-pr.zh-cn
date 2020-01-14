@@ -1,0 +1,121 @@
+### YamlMime:Course
+title: 实施Microsoft 365威胁防护
+metadata:
+  title: '课程 MS-500T02-A: 实施Microsoft 365威胁防护'
+  description: '课程 MS-500T02-A: 实施Microsoft 365威胁防护'
+uid: course.ms-500t02
+courseNumber: 'MS-500T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述网络攻击威胁向量
+- skill: 描述Microsoft 365中的安全解决方案
+- skill: 使用Microsoft Secure Score来评估您的安全状态
+- skill: 使用Microsoft安全与合规中心的安全控制面板
+- skill: 为Microsoft 365配置各种高级威胁保护服务
+- skill: 配置Advanced Threat Analytics
+- skill: 规划和部署移动设备管理
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  通过集成和自动化的安全性，威胁防护有助于阻止破坏性攻击。在本课程中，您将了解有助于保护Microsoft 365环境的威胁防护技术。具体来说，您将了解威胁向量和Microsoft针对它们的安全解决方案。您将了解Secure Score、Exchange Online防护、Azure高级威胁防护、Windows Defender高级威胁防护以及如何使用Microsoft 365 Threat Intelligence。它还讨论了保护移动设备和应用程序的安全。本课程的目标是帮助您配置Microsoft 365部署以实现所需的安全状况。
+  
+  #### 受众概况
+  该考试适用于Microsoft 365 安全管理员角色。此角色与 Microsoft 365 企业管理员，业务利益相关者和其他工作负载管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
+
+  此角色主动保护Microsoft 365企业环境。职责包括响应威胁、实施、管理和监控针对Microsoft 365环境的安全和合规性解决方案。它们对事件、调查和数据治理的执行作出反应。
+
+  Microsoft 365安全管理员熟悉 Microsoft 365 工作负荷，在身份保护、信息保护、威胁防护、安全管理和数据治理方面拥有丰富的技能和经验。该角色专注于Microsoft 365环境，并包括混合环境。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 对微软Azure基本概念的基本了解。
+  - 使用Windows 10设备的经验。
+  - 使用Office 365设备的经验。
+  - 对授权和身份验证的基本了解。
+  - 对计算机网络的基本了解。
+  - 管理移动设备的工作知识。
+outlineSection: |-
+  ### 模块 1&#58; Microsoft 365中的安全性
+  本模块首先解释存在的各种网络攻击威胁。然后，它将向您介绍Microsoft解决方案，以抵御这些威胁。本模块最后解释了Microsoft Secure Score，以及如何使用它来评估和报告组织的安全状况。
+  #### 课程
+  - 威胁向量和数据泄露
+  - Microsoft 365中的安全解决方案
+  - Microsoft Secure Score
+  学完本模块后，学生将能够&#58;
+  - 描述黑客通过电子邮件危害用户帐户的几种技术。
+  - 描述黑客用来控制资源的技术。
+  - 列出使用Exchange Online保护和Office 365 ATP可以避免的威胁类型。
+  - 描述Microsoft 365 Threat Intelligence如何对您组织的安全官员和管理员有利。
+  - 描述Secure Score的好处以及可以分析的服务类型。
+  - 描述如何使用该工具来确定当前状态与您希望在安全性方面所处的位置之间的差距。
+
+  ### 模块 2&#58; 高级威胁防护
+  本模块介绍Microsoft 365中提供的各种威胁防护技术和服务。具体来说，该模块涵盖了通过Exchange Online保护、Azure高级威胁防护和Windows Defender高级威胁防护实现的邮件保护。
+  #### 课程
+  - Exchange Online保护
+  - Office 365高级威胁防护
+  - 管理安全附件
+  - 管理安全链接
+  - Azure高级威胁防护
+  - Windows Defender高级威胁防护
+  ### 实验室 &#58; 高级威胁防护
+  - 设置您的实验室环境
+  - 编辑ATP安全链接策略并创建安全附件策略
+  学完本模块后，学生将能够&#58;
+  - 当电子邮件由Exchange Online保护分析时，描述反恶意软件管道。
+  - 描述如何使用安全附件阻止电子邮件附件和文档中的零日恶意软件。
+  - 描述安全链接如何保护用户免受嵌入在指向恶意网站的电子邮件和文档中的恶意URL的攻击。
+  - 配置Azure高级威胁防护。
+  - 配置Windows Defender高级威胁防护。
+  - 将Windows Defender高级威胁防护与Azure 高级威胁防护集成
+  
+  ### 模块 3&#58; Threat Intelligence
+  本模块介绍Microsoft Threat Intelligence，它为您提供评估和解决网络威胁的工具。您将学习如何使用Microsoft 365安全和合规中心中的安全控制面板。它还解释和配置了Microsoft高级威胁分析。
+  #### 课程
+  - Microsoft 365 Threat Intelligence
+  - 使用安全控制面板
+  - 配置高级威胁分析
+
+
+  ### 实验室 &#58; 高级威胁分析
+  - 启用和安装ATA中心
+
+  学完本模块后，学生将能够&#58;
+  - 描述Microsoft 365中的威胁情报是如何由Microsoft Intelligent Security Graph驱动的。
+  - 描述如何使用Threat Explorer来调查威胁并帮助保护租户。
+  - 描述安全控制面板如何让C级主管了解最高风险、全球趋势、保护质量以及组织面临的威胁。
+  - 描述如何将安全控制面板用作启动点，以使安全分析人员能够使用Threat Explorer深入了解更多详细信息。
+  - 描述什么是高级威胁分析（ATA）及其部署要求。
+  - 配置高级威胁分析。
+
+
+  ### 模块 4&#58; 移动性
+  本模块主要是保护移动设备和应用程序的安全。学生将学习移动设备管理以及它如何与Intune协同工作。他们还将了解Intune和Azure AD如何用于保护移动应用程序。
+  #### 课程
+  - 规划移动应用程序管理
+  - 规划移动设备管理
+  - 部署移动设备管理
+  - 将设备注册到移动设备管理
+
+  学完本模块后，学生将能够&#58;
+  - 描述移动应用注意事项。
+  - 使用Intune管理移动应用。
+  - 使用Intune管理MDM。
+  - 比较MDM for Office 365和Intune。
+  - 为MDM配置域。
+  - 管理设备安全策略。
+  - 定义公司设备注册策略。
+  - 将设备注册到MDM。
+  - 配置设备注册管理器角色。
+

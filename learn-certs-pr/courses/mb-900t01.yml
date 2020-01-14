@@ -1,0 +1,62 @@
+### YamlMime:Course
+title: Dynamics 365 Fundamentals
+metadata:
+  title: '课程 MB-900T01-A: Dynamics 365 Fundamentals'
+  description: '课程 MB-900T01-A: Dynamics 365 Fundamentals'
+uid: course.mb-900t01
+courseNumber: 'MB-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 确定Dynamics 365的关键功能和模块
+- skill: 描述云的概念
+- skill: 描述Dynamics 365安全工具
+- skill: 说明许可和部署注意事项
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+exams:
+- uid: exam.mb-900
+summary: |-
+  Dynamics 365是一个多方面的工具，用于客户参与、统一运营、营销、零售和人才管理。本课程将使学员熟悉Dynamics 365的功能和业务价值。本课程将涵盖动态365应用程序、Power Platform、云概念、安全模型和许可注意事项。
+prerequisitesSection: |-
+  对IT原则的基本理解和对Dynamics 365的兴趣。
+outlineSection: |-
+  ### 模块 1&#58; 业务应用程序简介
+  在本模块中，将介绍所有业务应用模块和功能，重点介绍客户参与、统一操作、Power Platform及其相应的业务应用。
+  #### 课程
+  - 应用程序概述
+  - 客户参与应用程序
+  - 用于统一操作的应用程序
+  - Power Platform
+  - 应用程序基础知识
+
+  ### 模块 2&#58; 云的概念
+  在本模块中，我们将讨论高级云概念，并介绍微软的云产品Azure，分析它与Dynamics 365的关系。
+  #### 课程
+  - 云架构概述
+  - 不同类型的可用云服务
+  - 将云产品与相应的本地产品进行比较
+
+  ### 模块 3&#58; 管理部署和发布
+  在本模块中，我们将介绍重要的实现注意事项，包括部署类型、发布节奏和安全模型设计。
+  #### 课程
+  - 部署类型
+  - 发布类型
+  - 安全概念和角色
+  - 角色和团队
+  - 通用数据保护监管(GDPR)
+  
+  ### 模块 4&#58; 许可，入门和支持
+  本模块通过探索许可选项和获得实施支持，使学习者能够开始使用Dynamics 365。
+  #### 课程
+  - 寻找伙伴并与其一起工作
+  - 许可选项
+  - 完成设置
+

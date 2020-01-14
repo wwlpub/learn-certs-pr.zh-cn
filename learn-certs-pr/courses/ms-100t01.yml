@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Office 365管理
+metadata:
+  title: '课程 MS-100T01-A: Office 365管理'
+  description: '课程 MS-100T01-A: Office 365管理'
+uid: course.ms-100t01
+courseNumber: 'MS-100T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Office 365概述
+- skill: 让组织转向Office 365
+- skill: 配置Office 365
+- skill: 管理Office 365 ProPlus部署
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  了解Office 365管理，包括Office 365的关键组件、如何将组织转向Office 365、如何配置Office 365以及如何管理Office 365 ProPlus部署。
+  #### 受众概况
+  本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
+prerequisitesSection: |-
+  - 完成了基于角色的管理员课程，如消息传递、团队协作、安全和合规性或协作。
+  - 熟练理解DNS并对Microsoft 365服务有了基本功能体验。
+  - 熟练理解一般IT实践。
+outlineSection: |-
+  ### 模块 1&#58; 将您的组织转向Office 365
+  #### 课程
+  - Exchange Online
+  - SharePoint Online
+  - Teams
+  - 其他资源
+
+  ### 模块 2&#58; 配置您的Microsoft 365租户
+  #### 课程
+  - 使用Office 365规划您的网络
+  - 规划您的服务设置
+  - 规划您的混合环境
+  - 规划到Office 365的迁移
+
+  ### 模块 3&#58; 配置Office 365
+  #### 课程
+  - Office 365客户端概述
+  - 配置Office Client到Office 365的连接
+
+  ### 模块 4&#58; 管理Office 365 ProPlus部署
+  #### 课程
+  - 管理用户驱动的客户端安装
+  - 管理中心化的Office 365 ProPlus部署
+  - 配置Office Telemetry
+  - 配置Microsoft Analytics
+  
+  ### 模块 5&#58; 实习实验室
+
+  ### 实验室 &#58; 管理Office 365
+  - 练习 1&#58; 设置Microsoft 365试用租户
+  - 练习 2&#58; 准备Office 365 ProPlus托管安装
+  - 练习 3&#58; 管理用户驱动的Office 365 ProPlus安装
+  - 练习 4&#58; 管理中心化的Office 365 ProPlus安装
+  - 练习 5&#58; 部署和配置Office Telemetry组件
+

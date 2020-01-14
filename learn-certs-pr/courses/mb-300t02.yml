@@ -1,0 +1,98 @@
+### YamlMime:Course
+title: Dynamics 365 for Finance and Operations的核心配置
+metadata:
+  title: '课程 MB-300T02-A: Dynamics 365 for Finance and Operations的核心配置'
+  description: '课程 MB-300T02-A: Dynamics 365 for Finance and Operations的核心配置'
+uid: course.mb-300t02
+courseNumber: 'MB-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  组织使用Dynamics 365 for Finance and Operations以降低运营成本并快速响应不断变化的业务需求。这一解决方案使组织能够实现这些目标。
+  本课程讨论如何为Microsoft Dynamics 365 for Finance and Operations配置核心组件。
+  #### 受众概况
+  Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
+prerequisitesSection: |-
+  对ERP和CRM概念的基本理解。
+outlineSection: |-
+  ### 模块 1&#58; 设置和配置法律实体
+  本模块介绍了Dynamics 365 for Finance and Operations中的法律实体和数字序列的设置和配置。
+  #### 课程
+  - 创建法律实体并生成数字序列
+  - 创建数字序列
+  - 创建组织层次结构
+  - 适用目的和策略
+  - 配置日历和日期间隔
+  - 实习实验室
+  - 模块总结
+
+  学生已学习如何手动或使用向导创建法律实体和生成数字序列。学生也配置了日历和日期间隔。此外，他们还学习了如何创建组织层次结构、应用目的和设置策略，以简化业务策略和报告结构。
+  
+  ### 模块 2&#58; 管理用户和安全性
+  Microsoft Dynamics 365 for Finance and Operations提供了一系列安全和配置选项，有助于保护敏感数据的安全。这一切都意味着，用户可以继续关注自己的角色，同时系统保持尽可能精简。
+  了解如何实现不同的安全选项将有助于公司满足其安全需求。当理解了Finance and Operations的安全体系结构时，可以更容易地定制安全性以满足业务需求。
+  #### 课程
+  - 理解安全架构
+  - 管理用户和安全性
+  - 设置和应用责任划分
+  - 进行安全报告
+  - 设置批处理作业和警报
+  - 实习实验室
+  - 模块总结
+
+  在此模块中，学生已经&#58;
+  - 了解Finance and Operations的安全架构
+  - 管理用户
+  - 管理安全性
+  - 应用责任划分
+  - 进行安全报告
+
+  ### 模块 3&#58; 执行个性化设置
+  在使用系统时，个性化节省了时间和精力。
+  #### 课程
+  - 描述并应用用户选项
+  - 创建、导出和导入个性化设置
+  - 创建和维护记录模板
+  - 实习实验室
+  - 模块总结
+
+  利用Finance and Operations的个性化功能，学生们现在已经学会了如何使用和应用用户选项，创建个性化设置，以及导出个性化以供其他用户使用。他们还了解了定制和个性化之间的区别。特别是，个性化设置如何通过个性化常用字段值帮助节省时间，并允许创建和维护记录模板。
+  
+  ### 模块 4&#58; 实现通用集成特性
+  Microsoft Dynamics 365与许多其他常用程序集成，例如电子邮件、Microsoft Office和Power BI。
+  #### 课程
+  - Microsoft Office集成
+  - 配置电子邮件
+  - 创建和维护电子邮件模版
+  - 使用Power BI
+  - 设置网络打印
+  - 将数据集成到应用程序的通用数据服务中
+  - 实习实验室
+  - 模块总结
+
+
+  在本模块中，学生将学习如何使用Dynamics 365 for Finance and Operations中的Microsoft Office集成，配置电子邮件（SMTP/Exchange）以及创建和维护电子邮件模板，以便在向客户发送电子邮件时使消息标准化。通过设置网络打印功能，可以远程使用公司网络打印机。最后，本模块概述了如何将来自多个源的数据集成到应用程序的通用数据服务中，并使用数据管理工作区将数据集成到Dynamics 365 for Finance and Operations中。
+
+  ### 模块 5&#58; 课程总结
+  最终评估和课程总结，以及课程的课后调查。
+  #### 课程
+  - 最终评估
+  - 课程总结
+  - 课后调查
+
+
+  学生已经完成课程。
+

@@ -1,0 +1,73 @@
+### YamlMime:Course
+title: 实现Azure安全性
+metadata:
+  title: '课程 AZ-203T04-A: 实施 Azure 安全性'
+  description: '课程 AZ-203T04-A: 实施 Azure 安全性'
+uid: course.az-203t04
+courseNumber: 'AZ-203T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  在本课程中，学生将获得在其开发解决方案中包含Azure身份验证和授权服务所需的知识和技能。学生将学习如何使用Microsoft身份平台在Azure解决方案中管理和利用身份。学生还将学习访问控制（基于声明的授权和基于角色的访问控制）以及如何实现安全的数据解决方案。在整个课程中，学生将学习如何使用Azure CLI，REST和应用程序代码创建和集成这些资源。
+  #### 受众概况
+  - 本课程的学生对Azure开发或通过Microsoft Azure开发人员助理认证考试感兴趣。
+  - 学生应具有1-2年的开发经验。本课程假定学生知道如何编码并具有Azure的基本知识。
+prerequisitesSection: |-
+  - 学生应具有1-2年的开发经验。本课程假定学生知道如何编码并具有Azure的基本知识。
+  - 建议学生具有在PowerShell或Azure CLI，在Azure门户中工作以及至少使用一种Azure支持的编程语言的经验。本课程中的大多数示例都以C＃.NET提供。
+outlineSection: |-
+  ### 模块 1&#58; 实施身份验证
+  Microsoft身份平台是Azure Active Directory（Azure AD）身份服务和开发人员平台的演变。它允许开发人员构建签入所有Microsoft身份的应用程序，获取令牌以调用Microsoft Graph，其他Microsoft API或开发人员已构建的API。
+  #### 课程
+  - Microsoft 身份平台
+  - 实施OAuth2身份验证
+  - 实施Azure资源的托管身份
+  - 通过使用证书，基于表单的身份验证或令牌来实施身份验证
+  - 实施多因素身份验证
+  学完本模块后，学生将能够&#58;
+  - 了解Microsoft身份平台的架构
+  - 在其解决方案中实施OAuth2身份验证
+  - 使用Azure Key Vault存储和检索身份验证信息
+
+  ### 模块 2&#58; 实施访问控制
+  本模块涵盖基于声明和基于角色的访问控制。
+  #### 课程
+  - 基于声明的授权
+  - 基于角色的访问控制（RBAC）授权
+  学完本模块后，学生将能够&#58;
+  - 在其开发解决方案中使用基于声明的授权
+  - 通过REST API使用RBAC管理对资源的访问
+  
+  ### 模块 3&#58; 实施安全的数据解决方案
+  该模块涵盖了静态数据和传输数据的安全性。
+  #### 课程
+  - 加密选项
+  - 端到端加密
+  - 实施Azure机密计算
+  - 在Azure Key Vault中管理加密密钥
+
+  学完本模块后，学生将能够&#58;
+  - 了解加密选项
+  - 使用透明数据加密来加密数据
+  - 通过使用Azure密钥保管库来管理和利用加密密钥
+

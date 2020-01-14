@@ -1,0 +1,123 @@
+### YamlMime:Course
+title: 与Dynamics 365 for Finance and Operations数据集成并准备将其上线
+metadata:
+  title: '课程 MB-300T03-A: 与Dynamics 365 for Finance and Operations数据集成并准备将其上线'
+  description: '课程 MB-300T03-A: 与Dynamics 365 for Finance and Operations数据集成并准备将其上线'
+uid: course.mb-300t03
+courseNumber: 'MB-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  组织使用Dynamics 365 for Finance and Operations以降低运营成本并快速响应不断变化的业务需求。这一解决方案使组织能够实现这些目标。
+  本课程讨论如何为Microsoft Dynamics 365 for Finance and Operations配置数据迁移并将其上线。
+  #### 受众概况
+  Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
+prerequisitesSection: |-
+  对ERP和CRM概念的基本理解。
+outlineSection: |-
+  ### 模块 1&#58; 准备要迁移的数据并迁移数据
+  本单元探讨Finance and Operations的集成模式、场景和解决方案。尽管本单元不包括有关如何使用或设置每个集成模式或如何使用示例代码的技术细节，但始终应了解可用的集成工具。
+  #### 课程
+  - 简介
+  - 了解BYOD特性
+  - 执行测试迁移并验证输出。
+  - 模块总结
+
+  当数据迁移的时候，人们知道的越多，越容易控制操作复杂性和降低成本。必须优先考虑客户的业务连续性。在本模块中，学生将学习如何通过识别重要因素（如遗留系统、静态和通用数据）为成功迁移准备数据。
+
+
+  在本模块中，学生学习了&#58;
+  - 选择数据集成（导入/导出）策略
+  - 确定Finance and Operations中的常用迁移方案和工具
+  - 了解数据库分解（BYOD）特性
+  - 确定相关（遗留）系统
+  - 确定和导入行业间通用的静态数据
+  - 创建和检查数据迁移测试方案
+  - 识别和提取源数据
+  - 确定相关的数据实体和要素
+  - 生成源和目标数据结构之间的字段映射
+  - 执行测试迁移并验证输出。
+  - 支持现有系统和迁移系统之间的过渡
+
+  ### 模块 2&#58; 使用数据管理
+  在本模块中，学生将了解数据管理平台的基本概念。学生还将学习如何使用数据管理工作区在Dynamics 365 for Finance and Operations中导入和导出数据。
+  最后，他们将学习如何使用数据管理平台的异步重复集成特性。数据管理框架可用于管理Finance and Operations中的数据实体和数据实体包。
+  #### 课程
+  - 简介
+  - 了解数据管理和集成
+  - 数据管理工作区
+  - 数据管理中的模版
+  - 向合法实体内导入、从其中导出和拷贝数据
+  - 实习实验室
+  - 模块总结
+
+  在本模块中，学生学习了&#58;
+  - 确定给定场景的正确模式，以便使用数据实体将数据管理平台用于集成
+  - 使用数据管理工作区
+  - 从合法实体导出数据
+  - 向合法实体导入数据
+  - 处理数据导入导出任务
+  - 清理分期表
+  
+  ### 模块 3&#58; 执行用户验收测试
+  为了在上线前测试和评估客户解决方案，我们需要一个Dynamics 365 for Finance and Operations环境，该环境具有所有配置并可通过扩展进行可能的定制。
+
+  拥有一种方法来确保为一个简短、高效和以角色为中心的测试用例场景正确地组织和规划创建和测试总是有益的。
+  #### 课程
+  - 简介
+  - 为用户验收创建并执行测试用例
+  - 实习实验室
+  - 模块总结
+
+
+  在本模块中，学生学习了&#58;
+  - 如何理解测试用例和业务需求之间的关联
+  - 记录测试用例的最佳实践
+  - 任务记录器
+  - 如何创建场景验收测试BPM库
+  - 如何在Azure DevOps中同步和配置测试方案
+  - 如何执行测试
+
+
+  ### 模块 4&#58; 准备上线
+  通过将Dynamics 365 for Finance and Operations中的已实现解决方案转移到生产环境中，所有这些努力工作都将获得成功。这是完成实现这一激动人心的体验的关键和最后阶段。
+
+  我们的目标是在这个重要的阶段，即所谓的启用阶段，让客户高高兴兴、提供一个高质量解决方案并保持一种平和的心态。如果不知道如何为Finance and Operations的开展以及实施的最后阶段做好准备，就无法保证成功。
+
+  #### 课程
+  - 简介
+  - 准备上线
+  - 模块总结
+
+
+  在本模块中，学生已经学习了如何&#58;
+  - 准备上线
+  - 完成生命周期服务（LCS）方法
+  - 为您的解决方案执行用户验收测试(UAT)
+  - 了解FastTrack上线评估
+  - 请求生产环境
+
+
+  ### 模块 5&#58; 课程总结
+  最终评估和课程总结，以及课程的课后调查。
+  #### 课程
+  - 最终评估
+  - 课程总结
+  - 课后调查
+
+
+  学生已经完成课程。
+

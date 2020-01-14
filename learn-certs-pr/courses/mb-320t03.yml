@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: 在Dynamics 365 for Finance and Operations中配置和使用过程制造
+metadata:
+  title: '课程 MB-320T03-A: 在Dynamics 365 for Finance and Operations中配置和使用过程制造'
+  description: '课程 MB-320T03-A: 在Dynamics 365 for Finance and Operations中配置和使用过程制造'
+uid: course.mb-320t03
+courseNumber: 'MB-320T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  通过选择最适合的制造流程、改进运营流程、简化资源管理、加快产品交付、提高质量和客户满意度，企业使用Dynamics 365 for Finance and Operations来使互联运营更加智能化。
+  本课程讨论如何在Microsoft Dynamics 365 for Finance and Operations中配置和使用过程制造。
+prerequisitesSection: |-
+  对ERP和CRM概念的基本理解。
+outlineSection: |-
+  ### 模块 1&#58; 过程制造入门
+  本模块说明如何开始使用Finance and Operations中的过程制造。
+  #### 课程
+  - 简介
+  - 了解过程制造
+  - 了解配方管理
+  - 了解联产品和副产品
+  - 配置已批准的供应商
+  - 实习实验室
+  - 模块总结
+  在此模块中，学生学习了&#58;
+  - 了解过程制造
+  - 了解配方管理
+  - 了解联产品和副产品
+  - 了解已批准的供应商
+  
+  ### 模块 2&#58; 确定和配置流程制造的批次属性
+  本课介绍如何在Finance and Operations中配置批次属性。
+  #### 课程
+  - 简介
+  - 确定和配置批次属性
+  - 创建和配置批次属性
+  - 设置效力管理
+  - 实习实验室
+  - 模块总结
+  在本模块中，学生学习了如何&#58;
+  - 理解批次属性
+  - 确定和配置批次属性
+  - 理解批次和批次控制流程
+  - 配置批次返工
+
+  ### 模块 3&#58; 配置商品定价和产品合规性
+  本主题说明如何开始使用Finance and Operations中的商品定价和合规性。
+  #### 课程
+  - 简介
+  - 配置商品定价
+  - 配置产品合规性
+  - 实习实验室
+  - 模块总结
+
+
+  在本模块中，学生学习了如何&#58;
+  - 配置商品定价
+  - 配置产品合规性
+
+
+  ### 模块 4&#58; 课程总结
+  最终评估和课程总结，以及课程的课后调查。
+  #### 课程
+  - 最终评估
+  - 课程总结
+  - 课后调查
+
+
+  学生已经完成课程。
+

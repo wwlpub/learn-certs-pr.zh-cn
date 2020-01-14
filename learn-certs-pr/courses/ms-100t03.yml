@@ -1,0 +1,77 @@
+### YamlMime:Course
+title: Microsoft 365 身份管理
+metadata:
+  title: '课程 MS-100T03-A: Microsoft 365 身份管理'
+  description: '课程 MS-100T03-A: Microsoft 365 身份管理'
+uid: course.ms-100t03
+courseNumber: 'MS-100T03-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 管理Microsoft 365中的用户帐户和许可
+- skill: 管理Microsoft 365中的管理员角色和安全组
+- skill: 规划和实施密码管理
+- skill: 管理Microsoft 365身份验证和设置选项
+- skill: 规划目录同步
+- skill: 规划和配置 Azure AD Connect
+- skill: 管理已同步的身份
+- skill: 规划和实施ADFS部署
+- skill: 在Azure AD中实现应用程序
+- skill: 配置 Azure AD 应用程序代理
+- skill: 设计外部访问解决方案
+- skill: 管理他们的Microsoft 365租户健康和服务
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  了解Microsoft 365身份管理，包括如何管理云身份的用户安全组和许可证，以及如何规划和实现身份同步、联合身份、应用程序和外部访问。
+  #### 受众概况
+  本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
+prerequisitesSection: |-
+  - 完成了基于角色的管理员课程，如消息传递、团队协作、安全和合规性或协作。
+  - 熟练理解DNS并对Microsoft 365服务有了基本功能体验。
+  - 熟练理解一般IT实践。
+outlineSection: |-
+  ### 模块 1&#58; 管理云身份的用户安全组和许可证
+  #### 课程
+  - Microsoft 365中的用户帐户和许可
+  - Microsoft 365中的管理员角色和安全组
+  - Microsoft 365中的密码管理
+  #### 实验室 &#58; 管理您的Microsoft 365租户身份环境
+  - 练习 1&#58; 设置您的实验室环境
+  - 练习 2&#58; 使用Microsoft 365管理员中心管理您的Microsoft 365身份环境
+  - 练习 3&#58; 使用Windows PowerShell管理您的Microsoft 365身份环境
+
+  ### 模块 2&#58; 规划和实现身份同步
+  #### 课程
+  - 身份同步简介
+  - 规划Azure AD Connect
+  - 实现Azure AD Connect
+  - 管理已同步的身份
+  #### 实验室 &#58; 实现身份同步
+  - 练习 1&#58; 为您的组织设置身份同步
+  - 练习 2&#58; 实现身份同步
+  
+  ### 模块 3&#58; 规划和实现联合身份
+  #### 课程
+  - 联合身份简介
+  - 规划AD FS部署
+  - 实现AD FS
+
+
+  ### 模块 4&#58; 实现应用程序和外部访问
+  #### 课程
+  - 在Azure AD中实现应用程序
+  - 配置 Azure AD 应用程序代理
+  - 设计外部访问解决方案
+

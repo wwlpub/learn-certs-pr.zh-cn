@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: Microsoft 365 合规管理
+metadata:
+  title: '课程 MS-101T02-A: Microsoft 365 合规管理'
+  description: '课程 MS-101T02-A: Microsoft 365 合规管理'
+uid: course.ms-101t02
+courseNumber: 'MS-101T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: '理解 Microsoft 365 中的数据治理，包括: 存档、保留、信息权限管理、安全多用途Internet邮件扩展（S/MIME）、Office 365邮件加密和数据丢失防护'
+- skill: 在SharePoint中实现就地记录管理
+- skill: 在Exchange中实施存档和保留
+- skill: 在安全和合规中心创建保留政策
+- skill: 规划他们的安全和合规需求
+- skill: 在Exchange Online中构筑道德之墙
+- skill: 从内置模版创建DLP策略
+- skill: 创建自定义DLP策略
+- skill: 创建DLP策略以保护文档
+- skill: 实施策略提示
+- skill: 管理电子邮件的保留
+- skill: 数据治理故障排除
+- skill: 实施信息保护
+- skill: 实现高级实施防护
+- skill: 理解Windows信息保护
+- skill: 在安全和合规中心搜索内容
+- skill: 审计日志调查
+- skill: 管理高级eDiscovery
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-101
+summary: |-
+  了解Microsoft 365合规性管理，包括Microsoft 365中的数据保留和数据丢失防护解决方案，Microsoft 365中的存档和保留，实施和管理数据治理，以及管理搜索和调查。
+  #### 受众概况
+  本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
+prerequisitesSection: |-
+  - 完成了基于角色的管理员课程，如消息传递、团队协作、安全和合规性或协作。
+  - 熟练理解DNS并对Microsoft 365服务有了基本功能体验。
+  - 熟练理解一般IT实践。
+outlineSection: |-
+  ### 模块 1&#58; Microsoft 365中的数据治理简介
+  #### 课程
+  - Microsoft 365中的存档简介
+  - Microsoft 365中的保留简介
+  - 信息权限管理简介
+  - 安全多用途互联网邮件扩展简介
+  - Office 365消息加密简介
+  - 数据丢失防护简介
+
+  ### 模块 2&#58; Microsoft 365中的存档和保留
+  #### 课程
+  - 在SharePoint中的就地记录管理
+  - 在Exchange中的存档和保留
+  - SCC中的保留策略
+  - 实现您的域名服务
+
+  ### 模块 3&#58; Microsoft 365 Intelligence中实施数据治理
+  #### 课程
+  - 规划安全和合规需求
+  - 在Exchange Online中构筑道德之墙
+  - 从内置模版创建简单DLP策略
+  - 创建自定义DLP策略
+  - 创建DLP策略以保护文档
+  - 使用策略提示
+
+  ### 模块 4&#58; 在Microsoft 365中管理数据治理
+  #### 课程
+  - 管理电子邮件的保留
+  - 数据治理故障排除
+  - 实施信息保护
+  - 实施高级信息保护
+  - Windows 信息保护简介
+
+  ### 模块 5&#58; 管理搜索和调查
+  #### 课程
+  - 在安全和合规中心搜索内容
+  - 审计日志调查
+  - 管理高级eDiscovery
+
+
+  ### 模块 6&#58; 实习实验室
+  - 实验室 &#58; 设置您的实验室环境
+  - 练习 1&#58; 在组织中启动合规性
+
+
+  ### 实验室 &#58; Microsoft 365中的存档和保留
+  - 练习 1&#58; 配置保留标签和策略
+  - 练习 2&#58; 配置AIP和WIP
+
+
+  #### 实验室 &#58; 实施数据治理
+  - 练习 1&#58; 检测DLP策略
+  - 练习 2&#58; 使用Azure信息保护
+  - 练习 3&#58; 使用Windows信息保护
+
+
+  #### 实验室 &#58; 确认您的数据治理策略
+  - 练习 1&#58; 调查您的Microsoft 365数据
+

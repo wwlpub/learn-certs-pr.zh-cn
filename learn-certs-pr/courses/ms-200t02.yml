@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: 管理客户端访问和邮件流
+metadata:
+  title: '课程 MS-200T02-A: 管理客户端访问和邮件流'
+  description: '课程 MS-200T02-A: 管理客户端访问和邮件流'
+uid: course.ms-200t02
+courseNumber: 'MS-200T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 实现客户端访问服务
+- skill: 管理客户端设备
+- skill: 在Web上配置Outlook
+- skill: 对客户端访问进行排除故障
+- skill: 配置移动设备邮箱策略
+- skill: 管理移动设备邮箱策略
+- skill: 配置邮件传输
+- skill: 管理传输规则
+- skill: 管理邮件流
+- skill: 对邮件流进行故障排除
+- skill: 对传输问题进行故障排除
+- skill: 使用日志进行故障排除
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  在本课程中，您将了解Microsoft Exchange Server如何为许多不同的客户端提供对用户邮箱的访问。由于所有邮件客户端都通过客户端访问服务访问Exchange服务器邮箱，因此我们将研究如何在Exchange服务器中规划、配置和管理客户端访问服务。由于使用智能手机和平板电脑收发信息已变得非常流行，而且由于许多智能手机用户将其设备集中用于电子邮件、日历、任务和其他协作目的，因此您还将学习如何管理移动设备。本课程还介绍如何在Exchange服务器组织中规划和配置邮件传输。您将学习如何规划、配置和管理传输服务，以便在Exchange服务器、Exchange Online和互联网上的其他邮件服务器之间提供高效的通信。最后，您将学习如何在不同场景中出现问题时排除传输服务的故障，以便为您的组织提供健康可靠的消息传递基础架构。
+
+  #### 受众概况
+  消息管理员部署、配置、管理
+  并对内部部署和云企业环境中的收件人、权限、邮件保护、邮件流和公用文件夹进行故障诊断。职责包括管理消息卫生、消息传递基础架构以及混合配置和迁移。消息传递管理员还实现和管理灾难恢复、高可用性和客户端访问。要实现满足现代组织业务需求的安全混合拓扑，消息管理员必须与安全管理员和Microsoft 365企业管理员协作。消息传送管理员应在认证类型、许可和与 Microsoft 365 应用程序集成方面具备实际应用知识。
+prerequisitesSection: |-
+  - 熟练理解DNS。
+  - 基本了解在Exchange Server或Exchange Online内部的消息传递。
+  - 基本了解活动目录和域控制器基础结构以及身份管理。
+  - 具有Microsoft 365服务和目录同步的基本功能体验。
+  - 至少5年的一般IT经验。
+outlineSection: |-
+  ### 模块 1&#58; 管理客户端访问
+  #### 课程
+  - 实现客户端访问服务
+  - 管理客户端设备
+  - 在网络上配置Outlook
+  - 对客户端访问进行排除故障
+
+  ### 模块 2&#58; 管理移动设备
+  #### 课程
+  - 移动设备邮箱策略
+  - 管理移动设备访问
+
+  ### 模块 3&#58; 管理传输通道
+  #### 课程
+  - 传输服务概述
+  - 配置消息传输
+  - 管理传输规则
+
+  ### 模块 4&#58; 管理和排除邮件流故障
+  #### 课程
+  - 管理邮件流
+  - 对邮件流进行故障排除
+  - 对传输问题进行故障排除
+  - 使用日志进行故障排除
+  
+  ### 模块 5&#58; 课程总结
+
+  #### 实验室 &#58; 管理客户端访问和邮件流
+  - 创建自定义接收连接器
+  - 创建自定义传送连机器
+  - 为单个邮箱启用和禁用ActiveSync
+  - 为多个邮箱启用和禁用ActiveSync
+  - 启用和禁用对单个邮箱的MAPI访问
+  - 启用和禁用对多个邮箱的MAPI访问
+

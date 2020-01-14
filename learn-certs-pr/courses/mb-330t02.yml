@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: 使用Dynamics 365 for Finance and Operations中的质量管理、公司间交易和总体规划
+metadata:
+  title: '课程 MB-330T02-A: 使用Dynamics 365 for Finance and Operations中的质量管理、公司间交易和总体规划'
+  description: '课程 MB-330T02-A: 使用Dynamics 365 for Finance and Operations中的质量管理、公司间交易和总体规划'
+uid: course.mb-330t02
+courseNumber: 'MB-330T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  通过使业务物流现代化、及时提供客户响应、提前预测洞察力、优化采购以及统一从销售到履行的流程，企业使用Dynamics 365 for Finance and Operations实现供应链的自动化和优化。本课程讨论如何在Dynamics 365 for Finance and Operations中使用质量管理、公司间交易和总体规划。
+  #### 受众概况
+  Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
+prerequisitesSection: |-
+  对ERP和CRM概念的基本理解。
+outlineSection: |-
+  ### 模块 1&#58; 配置和使用质量控制和管理流程
+  在本模块中，我们将描述如何在Finance and Operations中配置和使用质量控制，如何使用质量控制功能，如何定义和维护不合格项，以及如何处理纠正。但我们首先要熟悉质量管理的整个过程。
+  #### 课程
+  - 简介
+  - 执行质量控制和管理流程
+  - 应用库存冻结
+  - 实施检疫管理
+  - 实习实验室
+  - 模块总结
+  在本模块中，学生学习了如何&#58;
+  - 执行质量控制和质量管理流程
+  - 应用库存冻结
+  - 实施检疫管理
+  
+  ### 模块 2&#58; 配置和使用公司间贸易关系
+  Dynamics 365 for Finance and Operations中的公司间功能提供了一种机制，用于将来自多个公司的静态和动态数据合并为单个数据库中的单独法律实体。公司间贸易使全球分散的制造地点、分销中心和销售子公司成为一个统一的组织。本主题说明如何在Finance and Operations中配置和使用公司间贸易关系以及处理公司间订单。
+  #### 课程
+  - 简介
+  - 了解公司间贸易
+  - 设置公司间贸易关系
+  - 处理公司间链式订单
+  - 设置公司间协议和直接交货
+  - 实习实验室
+  - 模块总结
+  在本模块中，学生学习了如何&#58;
+  - 为公司间贸易关系配置产品
+  - 配置公司间贸易关系
+  - 配置公司间协议
+  - 处理公司间订单
+  - 处理公司间直接交货
+  - 处理公司间费用
+  - 了解公司间退货订单链
+  ### 模块 3&#58; 配置和使用总体规划
+  本模块说明如何在Finance and Operations中配置和使用总体规划。
+  #### 课程
+  - 简介
+  - 总体规划的注意事项和设置
+  - 创建总体方案
+  - 了解需求和供给预测
+  - 配置项目覆盖范围
+  - 公司间规划简介
+  - 运行计划和确定的计划订单
+  - 实习实验室
+  - 模块总结
+
+
+  在本模块中，学生学习了如何&#58;
+  - 定义总体规划策略
+  - 了解需求和供给预测
+  - 配置有意的延迟
+  - 配置项目覆盖范围
+  - 了解公司间总体规划简介
+  - 运行计划和确定的计划订单
+
+
+  ### 模块 4&#58; 课程总结
+  最终评估和课程总结，以及课程的课后调查。
+  #### 课程
+  - 最终评估
+  - 课程总结
+  - 课后调查
+
+
+  学生已经完成课程。
+

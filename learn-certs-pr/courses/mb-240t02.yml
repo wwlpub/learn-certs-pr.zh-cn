@@ -1,0 +1,59 @@
+### YamlMime:Course
+title: Dynamics 365 for Field Service工单和交付执行
+metadata:
+  title: '课程 MB-240T02-A: Dynamics 365 for Field Service工单和交付执行'
+  description: '课程 MB-240T02-A: Dynamics 365 for Field Service工单和交付执行'
+uid: course.mb-240t02
+courseNumber: 'MB-240T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 确定工单生命周期中涉及的关键领域
+- skill: 生成可用于自动创建工单的协议
+- skill: 利用Dynamics 365 Field Service的库存管理功能
+- skill: 在采购订单的整个生命周期中创建和处理采购订单
+- skill: 部署和配置现场服务移动应用程序
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  许多组织依靠流动劳动力向客户提供产品和服务。Dynamics 365 for Field Service通过提供有助于有效确认和调度资源的各种工具协助移动工作者管理工作负载，并帮助企业更好地在市场中定位。
+  本课程将使学生具备所需的技能，以执行、识别和配置用于提供现场服务和移动解决方案的关键组件。关键主题包括确定典型的工单生命周期的外观，以及驱动配置决策的组织注意事项。此外，本课程将着重于与工作订单相关的常用组件，包括协议、库存组件、采购和移动策略。
+  本课程有助于学生更好地理解围绕工单交付和执行的大局和最终目标，这些实施有助于设计与客户和组织目标相一致的更有效的解决方案。
+prerequisitesSection: |-
+  对Dynamics 365的特性、功能和导航的基本了解。
+outlineSection: |-
+  ### 模块 1&#58; 现场服务工单
+  #### 课程
+  - 配置现场服务工单
+  - 创建工单
+  - 管理工单
+
+  ### 模块 2&#58; 现场服务协议
+  #### 课程
+  - 使用现场服务协议
+  - 设置预订
+  - 设置发票
+
+  ### 模块 3&#58; 库存和采购
+  #### 课程
+  - 管理客户资产
+  - 管理库存
+  - 采购和退货
+  
+  ### 模块 4&#58; 现场服务移动应用程序
+  #### 课程
+  - 现场服务移动应用程序概述
+  - 安装和部署现场服务移动应用程序
+  - 管理移动应用程序
+  - 部署移动客户端
+

@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: 实现依赖管理
+metadata:
+  title: '课程 AZ-400T04-A: 实现依赖管理'
+  description: '课程 AZ-400T04-A: 实现依赖管理'
+uid: course.az-400t04
+courseNumber: 'AZ-400T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 推荐工件管理工具和实践方法
+- skill: 提取通用包，以实现共享和重用
+- skill: 检查代码库以识别可以转换为包的代码依赖性
+- skill: 确定并推荐整个解决方案中的标准化软件包类型和版本
+- skill: 重构现有构建管道以实现发布包的版本策略
+- skill: 管理安全性和合规性
+- skill: 检查开源软件包的安全性和许可证合规性，以符合公司标准
+- skill: 配置构建管道以访问软件包安全性和许可证等级
+- skill: 配置对包源的安全访问
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本课程提供实施依赖管理的知识和技能。学生将学习如何设计依赖性管理策略以及如何管理安全性和合规性。
+  #### 受众概况
+  本课程的学生对实施依赖关系管理或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
+prerequisitesSection: |-
+  关于Azure，版本控制，敏捷软件开发和核心软件开发原理的基础知识。拥有在软件供应组织的工作经验会很有帮助。
+outlineSection: |-
+  ### 模块 1&#58; 设计依赖性管理策略
+  #### 课程
+  - 简介
+  - 包装依赖
+  - 包装管理
+  - 实施版本控制策略
+  #### 实验 &#58; 更新软件包
+  学完本模块后，学生将能够&#58;
+  - 推荐工件管理工具和实践方法
+  - 提取通用包，以实现共享和重用
+  - 检查代码库以识别可以转换为包的代码依赖性
+  - 确定并推荐整个解决方案中的标准化软件包类型和版本
+  - 重构现有构建管道以实现发布包的版本策略
+  - 管理安全性和合规性
+  
+  ### 模块 2&#58; 管理安全性和合规性
+  #### 课程
+  - 简介
+  - 包装安全
+  - 开源软件
+  - 集成许可证和漏洞扫描
+  学完本模块后，学生将能够&#58;
+  - 检查开源软件包的安全性和许可证合规性，以符合公司标准
+  - 配置构建管道以访问软件包安全性和许可证等级
+  - 配置对包源的安全访问
+

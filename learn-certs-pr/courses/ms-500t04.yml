@@ -1,0 +1,112 @@
+### YamlMime:Course
+title: 管理Microsoft 365内置合规性
+metadata:
+  title: '课程 MS-500T04-A: 管理Microsoft 365内置合规性'
+  description: '课程 MS-500T04-A: 管理Microsoft 365内置合规性'
+uid: course.ms-500t04
+courseNumber: 'MS-500T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划和部署数据归档和保留系统。
+- skill: 在Compliance Manager中进行评估。
+- skill: 通过Exchange管理电子邮件保留。
+- skill: 进行审计日志调查。
+- skill: 创建和管理eDiscovery调查。
+- skill: 管理GDPR数据主题请求。
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  您的组织可能需要进行数据保留和调查的内部策略和外部要求。在本课程中，您将学习Microsoft 365中的存档和保留，以及数据管理和如何进行内容搜索和调查。具体来说，本课程涵盖数据保留策略和标记、针对SharePoint的就地记录管理、电子邮件保留，以及如何执行支持eDiscovery调查的内容搜索。本课程还帮助您的组织为全球数据保护法规（GDPR）做好准备。
+  
+  #### 受众概况
+  该考试适用于Microsoft 365 安全管理员角色。此角色与 Microsoft 365 企业管理员，业务利益相关者和其他工作负载管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
+
+  此角色主动保护Microsoft 365企业环境。职责包括响应威胁、实施、管理和监控针对Microsoft 365环境的安全和合规性解决方案。它们对事件、调查和数据治理的执行作出反应。
+
+  Microsoft 365安全管理员熟悉 Microsoft 365 工作负荷，在身份保护、信息保护、威胁防护、安全管理和数据治理方面拥有丰富的技能和经验。该角色专注于Microsoft 365环境，并包括混合环境。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 对微软Azure基本概念的基本了解
+  - 使用Windows 10设备的经验
+  - 使用Office 365设备的经验
+  - 对授权和身份验证的基本了解
+  - 对计算机网络的基本了解
+  - 管理移动设备的工作知识
+outlineSection: |-
+  ### 模块 1&#58; 存档和保留
+  本模块介绍与Microsoft 365（包括Exchange和SharePoint）数据的保留和存档相关的概念。
+  #### 课程
+  - Microsoft 365中的存档
+  - Microsoft 365中的保留
+  - 安全和合规中心的保留政策
+  - 在Exchange中的存档和保留
+  - 在SharePoint中的就地记录管理
+  #### 实验室 &#58; 存档和保留
+  - 在组织中创建和授权用户
+  - 配置保留标签和策略
+  - MRM保留策略
+  学完本模块后，您应该能够&#58;
+  - 描述 Microsoft 365 中的数据治理。
+  - 描述就地存档和记录管理之间的区别。
+  - 解释如何在Exchange中存档数据。
+  - 了解在SharePoint中进行就地记录管理的益处。
+  - 解释Exchange中的邮件记录管理（MRM）与安全和合规中心的保留之间的区别。
+  - 解释保留策略的工作原理。
+  - 创建保留策略。
+  - 启用和禁用就地存档。
+  - 创建有用的保留标签。
+  
+  ### 模块 2&#58; Microsoft 365中的数据治理
+  本模块重点介绍Microsoft 365中的数据治理。本模块将向您介绍合规管理器并讨论GDPR。
+  #### 课程
+  - 规划安全和合规需求
+  - 在Exchange Online中构筑道德之墙
+  - 管理电子邮件的保留
+  - 数据治理故障排除
+  - 分析和遥测
+  学完本模块后，您应该能够&#58;
+  - 规划安全和合规角色
+  - 描述您需要为GDPR考虑的事项。
+  - 描述什么是Exchange中的的道德墙，以及它的工作原理。
+  在邮箱中使用保留标记
+  - 描述电子邮件消息和电子邮件文件夹的保留策略
+  - 解释如何计算各个要素的保留期。
+  - 修复未按预期运行的保留策略。
+
+  ### 模块 3&#58; 管理搜索和调查
+  本模块的重点是内容搜索和调查。具体来说，它涉及如何使用eDiscovery对Microsoft 365数据进行高级调查。它还包括审计日志和讨论GDPR数据主题请求。
+  #### 课程
+  - 在安全和合规中心搜索内容
+  - 审计日志调查
+  - 高级eDiscovery
+
+
+  #### 实验室 &#58; eDiscovery
+  - 在组织中创建和授权用户
+  - 调查您的Microsoft 365数据
+
+  学完本模块后，您应该能够&#58;
+  - 描述如何使用搜索架构。
+  - 设计您的内容搜索。
+  - 配置搜索权限过滤。
+  - 描述什么是审核日志以及搜索Office 365审核日志所需的权限。
+  - 配置审核策略。
+  - 输入搜索审核日志的条件。
+  - 将搜索结果导出到CSV文件。
+  - 描述什么是高级eDiscovery及其要求。
+  - 在高级eDiscovery中分析数据。
+  - 查看高级eDiscovery事件日志。
+  - 使用快速分析。
+

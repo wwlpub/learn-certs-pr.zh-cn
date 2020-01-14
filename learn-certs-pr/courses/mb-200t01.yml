@@ -1,0 +1,111 @@
+### YamlMime:Course
+title: 'Dynamics 365: Power Platform 应用'
+metadata:
+  title: '课程 MB-200T01-A: Dynamics 365: Power Platform 应用'
+  description: '课程 MB-200T01-A: Dynamics 365: Power Platform 应用'
+uid: course.mb-200t01
+courseNumber: 'MB-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 确认平台组件
+- skill: 了解管理员选项
+- skill: 有效地为数据建模
+- skill: 在Power Platform上构建一个基本的模型驱动应用程序
+- skill: 在Power Platform上构建一个基本的画布应用程序
+- skill: 使用安全性管理用户对数据和功能的访问
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  通过将日常任务自动化和将最佳实践标准化，Microsoft Power Platform帮助组织优化其运营。这种培训提供了对Microsoft Dynamics 365和Power Platform的能力的高级概述，并为其他Microsoft Dynamics 365和Power Platform培训提供了基础。
+
+  在这门课程中，我们全球公认的专家与学生分享基础知识，为他们在Power Platform上构建应用程序做好准备。
+
+  #### 受众概况
+  Dynamics 365 Customer Engagement Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
+prerequisitesSection: |-
+  本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365工作负载管理员证书路径之一的人员设计。
+outlineSection: |-
+  ### 模块  1&#58; 平台概述
+  在本模块中，学生将学习Power Platform的基本知识。他们将浏览各种管理员门户和选项，以及安装应用程序。
+  #### 课程
+  - 概述
+  - 配置Power Platform环境
+  - 创建应用
+  - 发现和规划
+  - 模块总结
+
+  学完本模块后，学生将能够&#58;
+  - 识别常见平台组件及其用途
+
+
+  ### 模块  2&#58; 数据建模
+  在本模块中，学生将学习如何使用平台的实体、属性和关系有效地为数据建模。
+  #### 课程
+  - 数据模型基础知识
+  - 关系
+  - 其他实体选项
+  - 其他字段选项
+  - 国际化
+  - 模块总结
+
+  学完本模块后，学生将能够&#58;
+  - 创建并使用关系和实体
+
+
+  ### 模块  3&#58; 模型驱动应用
+  在本模块中，学生将学习模型驱动的应用程序以及如何配置和使用它们。
+  #### 课程
+  - 配置模型驱动应用
+  - 配置模型驱动表单
+  - 配置视图
+  - 配置模型驱动图表
+  - 配置模型驱动控制面板
+  - 配置报告
+  - 模块总结
+
+  学完本模块后，学生将能够&#58;
+  - 创建和修改表单、视图、控制面板和其他用户体验组件
+
+
+  ### 模块  4&#58; 画布应用
+  在本模块中，学生将学习如何创建和使用画布应用，并了解画布应用和模型驱动应用之间的差异。
+  #### 课程
+  - 应用基础知识
+  - 处理数据和服务
+  - 定制用户体验
+  - 与模块驱动应用集成
+  - 模块总结
+
+  学完本模块后，学生将能够&#58;
+  - 创建画布应用程序
+  - 处理 CDS 数据
+
+
+  ### 模块  5&#58; 安全性
+  在本模块中，学生将学习平台的安全模型如何管理用户的体验以及对数据和功能的访问。
+  #### 课程
+  - 安全性概述
+  - 业务单元
+  - 管理安全角色
+  - 管理团队
+  - 配置层次安全
+  - 模块总结
+
+  学完本模块后，学生将能够&#58;
+  - 创建并使用业务单元
+  - 创建、修改和使用安全角色
+

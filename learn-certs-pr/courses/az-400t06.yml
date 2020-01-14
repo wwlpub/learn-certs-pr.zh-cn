@@ -1,0 +1,90 @@
+### YamlMime:Course
+title: 实施持续反馈
+metadata:
+  title: '课程 AZ-400T06-A: 实施持续反馈'
+  description: '课程 AZ-400T06-A: 实施持续反馈'
+uid: course.az-400t06
+courseNumber: 'AZ-400T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 衡量最终用户满意度的设计实践
+- skill: 设计处理过程以捕获和分析来自外部源的用户反馈
+- skill: 为客户端应用程序崩溃报告数据设计路由
+- skill: 推荐监控工具和技术
+- skill: 推荐系统和功能使用情况跟踪工具
+- skill: 配置用于客户端应用程序的崩溃报告集成
+- skill: 开发监控和状态控制面板
+- skill: 为客户端应用程序崩溃报告数据实现路由
+- skill: 使用各种工具跟踪系统使用情况，功能使用情况和流量
+- skill: 将票证系统与开发团队的工作管理系统集成和配置
+- skill: 分析警报以建立基线
+- skill: 分析遥测以建立基线
+- skill: 执行实时站点审核并捕获系统中断的反馈
+- skill: 执行持续调整以减少无意义或不可操作的警报
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本课程提供实施连续反馈的知识和技能。学生将学习如何推荐和设计系统反馈机制，实现将系统反馈传递给开发团队的过程，以及优化反馈机制。
+  #### 受众概况
+  本课程的学生对实现DevOps流程或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
+prerequisitesSection: |-
+  本课程的学生对实现DevOps流程或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
+outlineSection: |-
+  ### 模块 1&#58;推荐和设计系统反馈机制
+  #### 课程
+  - 内循环
+  - 持续的尝试心态
+  - 衡量最终用户满意度的设计实践
+  - 设计过程以捕获和分析用户反馈
+  - 自动执行应用程序分析的设计过程
+  #### 实验 &#58; Azure DevOps与团队之间的集成
+  #### 实验 室&#58; 功能标志
+  学完本模块后，学生将能够&#58;
+  - 衡量最终用户满意度的设计实践
+  - 设计流程以捕获和分析来自外部资源的用户反馈
+  - 客户端应用程序崩溃报告数据的设计路由
+  - 推荐监控工具和技术
+  - 推荐系统和功能使用情况跟踪工具
+  
+  ### 模块 2&#58; 实施将系统反馈路由到开发团队的过程
+  #### 课程
+  - 使用各种工具跟踪系统使用情况，功能使用情况和流量
+  - 实现用于移动应用程序崩溃报告数据的路由
+  - 开发监控和状态控制面板
+  - 集成和配置票务系统
+  学完本模块后，学生将能够&#58;
+  - 配置用于客户端应用程序的崩溃报告集成
+  - 开发监控和状态控制面板
+  - 实现用于为客户端应用程序崩溃报告数据的路由
+  - 使用各种工具跟踪系统使用情况，功能使用情况和流量
+  - 与开发团队的工作管理集成和配置票证系统
+
+
+  ### 模块 3&#58; 优化反馈机制
+  #### 课程
+  - 站点可靠性工程
+  - 分析遥测以建立基线
+  - 执行持续调整以减少无意义或不可操作的警报
+  - 分析警报以建立基线
+  - 无懈可击的后期模式和公正的文化
+
+  学完本模块后，学生将能够&#58;
+  - 分析警报以建立基线
+  - 分析遥测以建立基线
+  - 执行实时站点审核并捕获系统中断的反馈
+  - 执行持续调整以减少无意义或不可操作的警报
+

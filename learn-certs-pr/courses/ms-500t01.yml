@@ -1,0 +1,125 @@
+### YamlMime:Course
+title: Managing Microsoft 365 Identity and Access (英文)
+metadata:
+  title: '课程 MS-500T01-A: 管理Microsoft 365身份和访问'
+  description: '课程 MS-500T01-A: 管理Microsoft 365身份和访问'
+uid: course.ms-500t01
+courseNumber: 'MS-500T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 管理Microsoft 365中的用户和组安全性
+- skill: 管理Microsoft 365中的密码
+- skill: 描述 Azure 身份保护功能
+- skill: 规划和实施Azure AD Connect
+- skill: 管理已同步的身份
+- skill: 规划和实施联合身份
+- skill: 描述和使用条件访问
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  通过身份和访问管理帮助防止凭据泄露。在本课程中，您将学习如何保护用户对组织资源的访问。具体来说，本课程涵盖用户密码保护、多因素身份验证、如何启用Azure身份保护、如何配置Active Directory联合身份验证服务、如何设置和使用Azure AD Connect，并向您介绍条件访问。您还将了解管理对Microsoft 365系统的外部访问的解决方案。
+  
+  #### 受众概况
+  该考试适用于Microsoft 365 安全管理员角色。此角色与 Microsoft 365 企业管理员，业务利益相关者和其他工作负载管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
+
+  此角色主动保护Microsoft 365企业环境。职责包括响应威胁、实施、管理和监控针对Microsoft 365环境的安全和合规性解决方案。它们对事件、调查和数据治理的执行作出反应。
+
+  Microsoft 365安全管理员熟悉 Microsoft 365 工作负荷，在身份保护、信息保护、威胁防护、安全管理和数据治理方面拥有丰富的技能和经验。该角色专注于Microsoft 365环境，并包括混合环境。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58;
+  - 对微软Azure基本概念的基本了解。
+  - 使用Windows 10设备的经验。
+  - 使用Office 365设备的经验。
+  - 对授权和身份验证的基本了解。
+  - 对计算机网络的基本了解。
+  - 管理移动设备的工作知识。
+outlineSection: |-
+  ### 模块 1&#58; 用户和组安全性
+  本模块介绍如何在Microsoft 365中管理用户帐户和组。它向您介绍了Azure AD中的特权身份管理以及身份保护。该模块为课程的其余部分奠定了基础。
+  #### 课程
+  - Microsoft 365中的用户帐户
+  - Microsoft 365中的管理员角色和安全组
+  - Microsoft 365中的密码管理
+  - Azure AD 身份保护
+  #### 实验室 &#58; 管理您的Microsoft 365租户身份环境
+  - 设置您的实验室环境
+  - 使用Microsoft 365管理员中心管理您的Microsoft 365身份环境
+  - 指派服务管理员
+  学完本模块后，学生应能够&#58;
+  - 描述 Microsoft 365 中的用户身份
+  - 从Microsoft 365管理中心和Windows PowerShell中创建用户帐户
+  - 描述并使用Microsoft 365管理员角色
+  - 描述Microsoft 365中可用的各种类型的组
+  - 规划密码策略和身份验证
+  - 在Office 365中实现多因素身份验证
+  - 描述Azure身份保护以及可以保护的身份类型
+  - 描述如何启用Azure身份保护
+  - 识别漏洞和风险事件
+  
+  ### 模块 2&#58; 身份同步
+  本模块解释与同步身份相关的概念。具体来说，它侧重于Azure AD Connect和管理目录同步，以确保正确的人连接到您的Microsoft 365系统。
+  #### 课程
+  - 身份同步简介
+  - 规划Azure AD Connect
+  - 实现Azure AD Connect
+  - 管理已同步的身份
+  #### 实验室 &#58; 实现身份同步
+  - 为您的组织设置身份同步
+  学完本模块后，学生应能够&#58;
+  - 描述Microsoft 365身份认证选项
+  - 解释目录同步
+  - 规划目录同步
+  - 描述和规划Azure AD Connect
+  - 配置 Azure AD Connect先决条件
+  - 设置Azure AD Connect
+  - 使用目录同步管理用户
+  - 使用目录同步管理组
+  - 使用Azure AD Connect 同步安全组
+
+
+  ### 模块 3&#58; 联合身份
+  本模块主要介绍活动目录联合身份验证服务（ADF）。具体来说，您将学习如何计划和管理AD FS，以实现您希望从其他目录向用户提供的访问级别。
+  #### 课程
+  - 联合身份简介
+  - 规划AD FS部署
+  - 实现AD FS
+
+  学完本模块后，学生应能够&#58;
+  - 描述基于声明的身份验证和联合信任
+  - 描述AD FS的工作原理
+  - 规划AD FS环境，包括最佳实践、高可用性和容量规划
+  - 在Microsoft Azure中规划活动目录联合身份验证服务
+  - 为AD FS安装和配置Web应用程序代理
+  - 使用Azure AD Connect配置AD FS
+
+
+  ### 模块 4&#58; 访问管理
+  此模块描述Microsoft 365的条件访问以及如何使用它来控制对组织中资源的访问。该模块还说明了基于角色的访问控制（RBAC）和外部访问的解决方案。
+  #### 课程
+  - 条件访问
+  - 管理设备访问
+  - 基于角色的访问控制（RBAC）
+  - 外部访问解决方案
+
+  学完本模块后，学生应能够&#58;
+  - 描述条件访问的概念
+  - 描述条件访问策略
+  - 规划设备合规性
+  - 配置条件用户和组
+  - 配置RBAC
+  - 区分Azure RBAC和Azure AD管理角色
+  - 管理外部访问
+  - 解释Azure AD B2B协作的许可指南
+

@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: 了解云架构技术解决方案
+metadata:
+  title: '课程 AZ-300T03-A: 了解云架构技术解决方案'
+  description: '课程 AZ-300T03-A: 了解云架构技术解决方案'
+uid: course.az-300t03
+courseNumber: 'AZ-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 设计和连接模式
+- skill: 混合网络
+- skill: 解决数据和缓存的持久性问题
+- skill: 测量吞吐量和数据访问结构
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  本课程向IT专业人员传授如何进行并行和异步操作。以及在发生故障时，整个企业系统必须如何保持弹性，同样重要的是，如何使部署变得自动化和可预测。以《Azure应用程序架构指南》和Azure参考架构为基础，您将了解监视和遥测对于掌握该系统是至关重要的。
+  学生将学习重要的云设计模式（例如分区工作负载），其中将模块化应用程序划分为可以集成至更大应用程序中的功能单元。在这种情况下，每个模块都处理应用程序整体功能的一部分，并带来一系列相关问题。
+
+  负载平衡是使用算法在各个端点之间分配应用程序流量或负载。负载平衡器允许创建您的网站的多个实例，以便它们可以以可预测的方式运行。在Azure中，如果公司需要非常具体的负载平衡器配置，则可以使用虚拟负载平衡器，该虚拟负载平衡器托管在虚拟机中。
+  此外，瞬态故障处理有助于确定本地开发应用程序与处理瞬态错误之间的主要区别。瞬态错误是由于服务中的临时中断或过长的延迟而发生的错误。
+  最后，本课程包括混合网络的讨论，概述了站点到站点连接，点到站点连接以及两者的结合。
+  #### 受众概况
+  成功的Azure Solutions Architect开始担任这一角色，以操作系统、虚拟化、云基础架构、存储结构、计费和网络方面的经验作为开始。
+outlineSection: |-
+  ### 模块 1&#58; 选择计算和存储解决方案
+  本模块包括以下主题&#58; Azure架构中心；云设计模式；竞争消费者模式；缓存模式以及用于将数据存储区划分为水平分区或分片的分片模式。每个分片都具有相同的架构，但是拥有自己的独特数据子集。
+  完成本单元后，学生将了解&#58;
+  - 设计和连接模式
+  
+  ### 模块 2&#58; 混合网络
+  本模块包括以下主题&#58; 站点到站点的连接；点到站点连接；组合站点到站点和点到站点的连接；虚拟网络到虚拟网络的连接；以及跨云提供商进行连接以进行故障转移，备份，甚至在AWS等提供商之间迁移。
+
+  完成本单元后，学生将了解&#58;
+  - 混合网络
+
+
+  ### 模块 3&#58; 测量数据访问的吞吐量和结构
+  该模块包括以下主题&#58; DTUAzure SQL数据库； RU–Azure Cosmos数据库；结构化和非结构化数据；以及使用结构化数据存储
+
+  学完本模块后，学生将能够&#58;
+  - 解决数据和缓存的持久性
+  - 测量吞吐量和数据访问结构
+

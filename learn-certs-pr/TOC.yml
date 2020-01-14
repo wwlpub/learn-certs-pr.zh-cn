@@ -1,2 +1,21 @@
-- name: Microsoft Certifications
+- name: Microsoft 认证
   href: index.yml
+- name: 优惠
+  href: deals.md
+- name: 批量许可
+  href: volume-licensing-program.md
+- name: 已经停用的认证、考试和课程
+  expanded: false
+  items:
+  - name: 已停用认证
+    href: retired-certifications.md
+  - name: 已停用考试
+    href: retired-certification-exams.md 
+  - name: 已停用课程
+    href: retired-courses.md
+- name: MCT认证
+  href: mct-certification.md
+- name: 考试政策和常见问题
+  href: certification-exam-policies.md
+- name: 认证帮助
+  href: help.md

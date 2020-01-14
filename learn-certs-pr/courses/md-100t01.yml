@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: 安装 Windows 10
+metadata:
+  title: '课程 MD-100T01-A: 安装 Windows 10'
+  description: '课程 MD-100T01-A: 安装 Windows 10'
+uid: course.md-100t01
+courseNumber: 'MD-100T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 准备安装Windows 10
+- skill: 安装 Windows 10
+- skill: 配置对 Windows 的更新
+- skill: 执行安装后配置任务
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  在
+  本课程中，学生将学习如何支持
+  与Windows 10相关的安装任务。学生将发展技能，包括学习
+  如何安装和自定义Windows 10操作系统。学生还将
+  了解新的Windows维护模型和使Windows保持
+  最新的方法。本课程将以常见的安装后任务结束。
+  #### 受众概况
+  参加本考试的考生
+  是执行Windows 10核心服务的安装、配置、一般本地管理和维护
+  的IT专业人员。
+  考生可能还需要熟悉企业场景和云集成
+  服务。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 对计算机网络和硬件概念的基本了解。
+  - 对操作系统和应用概念的基本了解。
+  - 使用Windows操作系统的经验。
+outlineSection: |-
+  ### 模块 1&#58; 安装Windows
+  本模块介绍如何安装Windows 10操作系统。学生将学习Windows 10的不同版本、要求和引入的新功能。本模块介绍如何安装操作系统，以及迁移和升级的方法。学生还将了解部署过程中使用的常用工具。
+  #### 课程
+  - 引入Windows 10
+  - 安装选项
+  - 对Windows功能的要求
+  - 安装过程和介质
+  - 升级到Windows 10
+  #### 实验室 &#58; 安装Windows 10
+  - 将Windows 7升级到Windows 10
+  - 迁移用户设置
+  学完本模块后，学生将能够&#58;
+  - 了解Windows 10的不同版本和功能
+  - 了解Windows 10客户端安装选项
+  - 练习使用联机虚拟机安装Windows 10
+  
+  ### 模块 2&#58; 更新Windows
+  在本模块中，学生将学习如何使Windows 10保持最新。将向学生介绍新的Windows维护模型及其如何应用于各种场景。学生将学习更新Windows和应用程序的各种不同方法，以及使用诸如组策略和Windows Update for Business等工具管理更新。
+  #### 课程
+  - Windows维护模型
+  - 更新Windows
+  - 应用应用程序和Windows更新
+  #### 实验室 &#58; 更新Windows 10
+  - 为单一设备配置更新
+  - 使用组策略对象(GPO)配置更新
+
+
+  学完本模块后，学生将能够&#58;
+  - 描述Windows维护模型
+  - 配置Windows更新设置
+  - 使用WSUS描述对Windows的更新
+  - 使用Windows Update for Business描述对Windows的更新
+  - 使用组策略配置Windows更新
+
+
+  ### 模块 3&#58; 安装后配置和个性化
+  本模块介绍Windows 10中常见的安装后任务。学生将学习如何自定义用户界面，以及使用“控制面板”和“设置”应用程序配置常见的操作系统设置。本课程还将向学生介绍Windows PowerShell。
+  #### 课程
+  - 自定义Windows 10用户界面
+  - 配置特定于设备的设置，如电源计划和移动设备选项
+  - 使用Windows控制面板和设置应用程序配置设置
+  - 使用Windows PowerShell进行描述
+
+
+  #### 实验室 &#58; 配置Windows 10
+  - 使用设置应用程序
+  - 使用控制面板
+  - 使用Windows PowerShell
+
+
+  学完本模块后，学生将能够&#58;
+  - 自定义Windows 10用户界面
+  - 配置特定于设备的设置，如电源计划和移动设备选项
+  - 使用Windows控制面板和设置应用程序配置设置
+  - 使用Windows PowerShell进行描述
+
+
+  ### 模块 4&#58; 课程总结
+  #### 课程
+  - 期末考试
+
+
+  #### 实验室 &#58; 分级实验室
+

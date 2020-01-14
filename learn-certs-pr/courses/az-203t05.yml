@@ -1,0 +1,78 @@
+### YamlMime:Course
+title: 监控、故障排除并优化 Azure 解决方案
+metadata:
+  title: '课程 AZ-203T05-A: 监控、故障排除并优化 Azure 解决方案'
+  description: '课程 AZ-203T05-A: 监控、故障排除并优化 Azure 解决方案'
+uid: course.az-203t05
+courseNumber: 'AZ-203T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  在本课程中，学生将获得确保Azure托管的应用程序按预期高效运行所需的知识和技能。学生将学习Azure Monitor的操作方式以及如何使用Log Analytics和Application Insights之类的工具来更好地了解他们的应用程序中发生了什么。学生还将学习如何实现自动缩放，对解决方案进行检测以支持监视和日志记录，以及如何使用Azure缓存和CDN选项来增强最终用户体验。
+  #### 受众概况
+  - 本课程的学生对Azure开发或通过Microsoft Azure开发人员助理认证考试感兴趣。
+  - 学生应具有1-2年的开发经验。本课程假定学生知道如何编码并具有Azure的基本知识。
+prerequisitesSection: |-
+  - 学生应具有1-2年的开发经验。本课程假定学生知道如何编码并具有Azure的基本知识。
+  - 建议学生具有在PowerShell或Azure CLI，在Azure门户中工作以及至少使用一种Azure支持的编程语言的经验。本课程中的大多数示例都以C＃.NET提供。
+outlineSection: |-
+  ### 模块 1&#58; Azure Monitor简介
+  Azure Monitor是一项中央服务，其中包含监视和优化解决方案所需的所有工具。
+  #### 课程
+  - Azure Monitor概述
+  学完本模块后，学生将能够&#58;
+  - 了解Azure Monitor的工作方式
+  - 了解Azure Monitor在何处以及如何收集数据
+
+  ### 模块 2&#58; 开发代码以支持应用程序和服务的可伸缩性
+  本模块介绍应用程序如何扩展以及如何处理一些故障排除。
+  #### 课程
+  - 实现自动缩放
+  - 实现用于处理单例​​应用程序实例的代码
+  - 实施处理瞬态故障的代码
+  学完本模块后，学生将能够&#58;
+  - 了解自动扩展模式和扩展解决方案的最佳做法
+  - 使用Azure CLI与资源的特定副本进行通信
+  - 处理解决方案中的瞬态故障
+  
+  ### 模块 3&#58; 支持监控和记录的仪器解决方案
+  此模块涵盖向您的应用程序添加代码以将数据发送到Azure Monitor。
+  #### 课程
+  - 使用Application Insights在应用或服务器中配置检测
+  - 使用Azure Monitor分析解决方案并进行故障排除
+
+  学完本模块后，学生将能够&#58;
+  - 向网页，控制台应用程序和Windows桌面应用程序添加默认代码以支持遥测
+  - 使用仪表板和其他工具监控其应用程序并进行故障排除
+
+
+  ### 模块 4&#58; 将缓存和内容交付集成到解决方案中
+  此模块向学生展示如何利用Azure Redis缓存和Azure CDN更快地将资产交付给用户。
+  #### 课程
+  - 用于Redis的Azure缓存
+  - 开发用于存储在CDN上
+
+  学完本模块后，学生将能够&#58;
+  - 了解Azure Redis缓存的运行方式以及如何对其进行配置和交互
+  - 管理Azure CDN
+

@@ -1,0 +1,106 @@
+### YamlMime:Course
+title: 保护现代桌面和设备
+metadata:
+  title: '课程 MD-101T03-A: 保护现代桌面和设备'
+  description: '课程 MD-101T03-A: 保护现代桌面和设备'
+uid: course.md-101t03
+courseNumber: 'MD-101T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Azure AD的益处和功能
+- skill: 使用带有活动目录DS的Azure AD管理用户
+- skill: 实现Windows Hello for Business
+- skill: 基于合规性策略配置条件访问规则
+- skill: 描述用于保护设备和数据的各种工具
+- skill: 实施 Windows Defender 高级威胁防护
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  每天都有更多的组织要求IT部门支持员工的流动性。现代环境要求桌面管理员能够管理和支持电话、平板电脑和计算机，无论它们是由组织拥有还是由员工个人拥有。同时，它必须仍然能够保护这些设备访问的数据。本课程将向学生介绍现代管理中安全的关键概念。本课程涵盖认证、身份和访问，以及如何保护这些类别。学生将了解Azure Active Directory，并学习如何使用Microsoft Intune以合规性策略保护设备和数据。最后，本课程将介绍Azure信息保护和Windows Defender高级威胁保护的关键功能以及如何实现这些功能。
+  #### 受众概况
+  现代桌面管理员（MDA）在企业环境中部署、配置、保护、管理和监控设备和客户端应用程序。职责包括管理身份、访问、策略、更新和应用程序。现代桌面管理员与 M365企业管理员合作设计并实施满足现代组织业务需求的设备策略。现代桌面管理员必须熟悉M365工作负荷，并且必须精通部署、配置和维护 Windows 10 及非 Windows 设备方面具有过硬的技能和丰富的经验。现代桌面管理员的角色专注于云服务，而不是本地管理技术。
+prerequisitesSection: |-
+  现代桌面管理员
+  Modern Desktop Administrator(MDA)必须熟悉M365工作负荷，而且必须
+  在部署、配置和维护Windows 10和非Windows设备方面
+  具有过硬的技能和经验。现代桌面管理员的角色专注于云服务，而不是
+  本地管理技术。
+outlineSection: |-
+  ### 模块 1&#58; 在Azure AD中管理身份验证
+  在本模块中，将向学生介绍使用Azure Active Directory（Azure AD）的云中目录的概念。学生将学习Azure AD和Active Directory DS之间的异同，以及如何在两者之间进行同步。学生将探索Azure AD中的身份管理，并学习使用Windows Hello for Business进行身份保护，以及Azure AD身份保护和多因素身份验证。该模块将以安全访问公司资源作为结束，并引入一些概念，如在Windows 10中始终启用VPN和远程连接。
+  #### 课程
+  - Azure AD概述
+  - 在Azure AD中管理身份
+  - 在Azure AD中保护身份
+  - 管理设备验证
+  - 支持企业访问
+  #### 实验室 &#58; 实习实验室 - 在Azure AD中管理对象和验证
+  - 使用企业移动+安全（EMS）租户启用和配置Azure AD Premium
+  - 使用UI和Windows PowerShell创建用户和组对象
+  - 为Azure AD中的用户帐户配置自助服务密码重置（SSPR）
+  - 将设备加入Azure AD
+  学完本模块后，学生将能够&#58;
+  - 描述Azure AD的功能
+  - 使用带有活动目录DS的Azure AD管理用户
+  - 实现Windows Hello for Business
+  - 将设备加入Azure AD
+  - 描述允许从外部网络启用访问的方法
+  
+  ### 模块 2&#58; 管理设备和设备策略
+  在本模块中，学生将了解如何使用Intune管理设备安全。学生将了解Intune如何使用设备配置文件来管理设备配置以保护设备上的数据。学生将学习如何创建和部署合规性策略，以及如何使用合规性策略进行条件访问。该模块的最后介绍如何对Intune中注册设备进行监视。
+  #### 课程
+  - Microsoft Intune 概述
+  - 使用 Intune 管理设备
+  - 实施设备合规政策
+  #### 实验室 &#58; 实习实验室 - 管理设备
+  - 配置Microsoft Intune以管理设备
+  - 配置合规策略和设备配置文件
+  - 注册Windows 10设备并管理合规性
+
+
+  学完本模块后，学生将能够&#58;
+  - 描述使用Intune进行移动设备管理。
+  - 创建并分配设备配置文件以保护设备上的数据。
+  - 部署合规和条件访问策略。
+  - 使用 Intune 检测设备合规性。
+
+
+  ### 模块 3&#58; 管理安全性
+  在本模块中，学生将了解数据保护。主题将包括Windows和Azure信息保护，以及Windows 10中支持的各种加密技术。本模块还介绍了Windows Defender高级威胁保护（Windows Defender ATP）的关键功能，以及如何在组织中的设备上实现这些功能。该模块最后介绍如何使用Windows Defender和防病毒、防火墙和凭据保护等功能。
+  #### 课程
+  - 实施设备数据防护
+  - 管理 Windows Defender ATP
+  - 在Windows 10中管理Windows Defender ATP
+
+
+  #### 实验室 &#58; 实习实验室 管理Windows 10中安全性
+  - 配置加密文件系统（EFS）
+  - 配置BitLocker
+  - 在Intune中配置WIP策略
+  - 配置Windows Defender
+
+
+  学完本模块后，学生将能够&#58;
+  - 描述保护设备数据的方法
+  - 描述Windows Defender ATP的功能和益处
+  - 部署Windows Defender客户端并管理其设置
+
+
+  ### 模块 4&#58; 课程总结
+  #### 课程
+  - 期末考试
+
+
+  #### 实验室 &#58; 分级实验室
+

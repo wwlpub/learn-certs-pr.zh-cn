@@ -1,0 +1,323 @@
+### YamlMime:Course
+title: SharePoint 2016 高级技术
+metadata:
+  title: '课程 20339-2-A: SharePoint 2016 高级技术'
+  description: '课程 20339-2-A: SharePoint 2016 高级技术'
+uid: course.20339-2
+courseNumber: '20339-2-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述核心SharePoint 2016架构及其新增功能和改进功能
+- skill: 描述SharePoint 2016中的关键混合功能
+- skill: 规划和设计SharePoint 2016环境，以满足高可用性和灾难恢复的要求
+- skill: 计划和实施业务连接服务和安全商店服务
+- skill: 为SharePoint 2016部署配置和管理生产力服务
+- skill: 在SharePoint 2016部署中管理解决方案
+- skill: 规划和配置社交计算功能
+- skill: 规划和配置面向Internet环境的Web内容管理
+- skill: 在SharePoint 2016部署中规划和配置企业内容管理
+- skill: 计划和配置商业智能解决方案
+- skill: 计划和配置工作管理，生产力以及协作平台和功能
+- skill: 执行升级或迁移到SharePoint 2016
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-339
+summary: |-
+  本课程为期五天，将教您在SharePoint 2016环境中如何规划、配置和管理高级功能。本课程的重点关注领域包括实现高可用性、灾难恢复、服务应用程序架构和Microsoft Business Connectivity Services。本课程还将重点介绍社交计算功能、生产力以及协作平台和功能。学生还将学习商业智能解决方案、企业内容管理、Web内容管理基础架构、解决方案和应用程序。本课程还涵盖如何制定和实施治理计划，以及如何执行升级或迁移至SharePoint 2016。
+  这是针对IT专业人员的两门课程的第二部分，并且与SharePoint 2016 IT Pro认证保持一致。
+  #### 受众概况
+  本课程针对有经验的IT专业人员，他们有兴趣学习如何在数据中心或云中安装、配置、部署和管理SharePoint 2016。
+
+  学生通常应具有四年以上的动手经验*，涉及规划和维护SharePoint以及SharePoint所依赖的其他核心技术，包括Windows Server 2012 R2或更高版本、Internet信息服务（IIS）、Microsoft SQL Server 2014 R2或更高版本、Active Directory域服务（AD DS）和网络基础结构服务。
+
+  学生应该已经完成​​课程20339-1A&#58; 规划和管理Microsoft SharePoint 2016，或者在学习本课程之前已经获得了同等的知识和经验。合格考生通常至少符合下列条件&#58;
+
+  - 具有Microsoft SharePoint Online的工作知识，最好具有实践经验。
+  - 熟悉SharePoint Server工作负载。
+  - 具有业务连续性管理方面的经验，包括数据备份、还原和高可用性。
+  - 具有认证和安全技术方面的经验。
+  - 具有Windows PowerShell的经验。
+
+  实践经验或工作经验应来自基于解决方案的角色，考生应参与SharePoint Server空间中的多个解决方案，包括文档管理、内容管理和搜索。
+prerequisitesSection: |-
+  该课程的理想考生必须具有至少一年在大型企业中部署和管理多个SharePoint Server 2013服务器场的经验。考生应已完成课程20339-1A&#58; 规划和管理Microsoft SharePoint 2016，或应证明具有同等技能。
+
+  在参加本课程之前，学生必须证明以下技能&#58;
+  - 在将业务需求映射到逻辑和物理技术设计方面，拥有至少一年经验。
+  - 拥有网络设计（包括网络安全）的工作知识。
+  - 在Windows Server 2012 R2企业服务器或Windows Server 2016环境中的软件管理经验。
+  - 本地、虚拟和在云中部署和管理应用程序。
+  - 管理IIS。
+  - 配置AD DS用于身份验证和授权以及作为用户存储。
+  - 使用Windows PowerShell 2.0或更高版本远程管理应用程序。
+  - 将应用程序连接到SQL Server。
+  - 实施基于声明的安全性。
+outlineSection: |-
+  ### 模块 1&#58; SharePoint 2016简介
+  此模块描述了SharePoint Server环境的核心架构组件，并且还有助于识别SharePoint 2016中新取消和删除的功能。
+  #### 课程
+  - SharePoint 2016架构的核心组件
+  - SharePoint 2016中的新增功能，不建议使用的功能和已删除的功能
+  - SharePoint 2016和SharePoint Online版本
+
+  #### 实验 &#58; 回顾Microsoft SharePoint 2016核心概念
+  - 配置SharePoint 2016服务器场
+  - 创建和配置网站集和网站
+  - 使用SharePoint 2016命令行管理程序设置服务应用程序
+  学完本模块后，学生将能够&#58;
+  - 描述Microsoft-SharePoint 2016的架构特点。
+  - 确定SharePoint 2016中的新功能，不推荐使用的和已删除的功能。
+  - 说明本地SharePoint 2016
+  和Microsoft SharePoint Online的版本。
+
+  ### 模块 2&#58; SharePoint 2016混合方案简介
+  本模块描述了SharePoint 2016中的关键混合功能，并帮助您为混合SharePoint 2016部署做准备。
+  #### 课程
+  - 探索SharePoint 2016中的混合功能
+  - 准备混合SharePoint 2016部署
+
+
+  #### 实验 &#58; 配置Office 365租户
+  - 创建Office 365租户
+
+
+  #### 实验 &#58; 创建混合团队网站
+  - 准备SharePoint环境
+  - 运行SharePoint混合选择器
+
+  学完本模块后，学生将能够&#58;
+  - 描述SharePoint Server 2016中的关键混合功能。
+  - 准备混合SharePoint 2016部署。
+
+
+  ### 模块 3&#58; 设计业务连续性管理策略
+  本模块说明了如何选择适当的数据库服务器配置以满足可用性要求。本模块还描述了如何设计物理架构和基础结构以满足高可用性要求。最后，该模块说明了如何开发和实施备份和还原策略。
+  #### 课程
+  - 设计数据库拓扑以实现高可用性和灾难恢复
+  - 设计SharePoint基础结构以实现高可用性
+  - 规划灾难恢复
+
+
+  #### 实验 &#58; 计划和执行备份与还原
+  - 创建备份和还原计划
+  - 测试备份和还原过程
+
+  学完本模块后，学生将能够&#58;
+  - 选择适当的数据库服务器配置以满足可用性要求。
+  - 设计物理架构和基础架构以满足高可用性要求。
+  - 制定并实施备份和还原策略。
+
+
+  ### 模块 4&#58; 规划和实施业务连接服务和安全商店服务
+  本模块说明如何配置业务连接服务（BCS），并介绍如何配置和管理安全存储服务应用程序。本模块还说明了如何配置和管理BCS模型。
+  #### 课程
+  - 规划和配置BCS
+  - 配置安全存储服务
+  - 管理BCS模型
+
+
+  #### 实验 &#58; 配置BCS和安全存储服务
+  - 配置BDC服务应用程序
+  - 配置安全存储服务
+
+
+  #### 实验 &#58; 管理BDC模型
+  - 配置安全存储服务目标应用程序
+  - 导入和配置BDC模型
+
+  学完本模块后，学生将能够&#58;
+  - 规划和配置业务连接服务应用程序。
+  - 规划和配置Secure Store Service应用程序。
+  - 管理业务数据连接模型。
+
+
+  ### 模块 5&#58; 为SharePoint 2016部署配置生产力服务
+  此模块描述SharePoint加载项架构。本模块还说明了如何配置和管理SharePoint应用程序和应用程序目录。此外，此模块介绍如何设置Microsoft Access服务，Visio服务，Word自动化服务，PowerPoint自动化服务和SharePoint翻译服务。
+  #### 课程
+  - 了解SharePoint加载项架构
+  - 设置和管理应用程序和应用程序目录
+  - 提供生产力服务
+
+
+  #### 实验 &#58; 配置和管理SharePoint加载项
+  - 配置SharePoint服务器场以支持应用程序
+  - 创建和配置公司应用目录
+  - 部署和监控应用
+
+  学完本模块后，学生将能够&#58;
+  - 描述Microsoft SharePoint加载项和支持的SharePoint基础结构。
+  - 设置和配置SharePoint加载项和应用程序目录。
+  - 管理在SharePoint 2016部署中如何使用应用程序。
+
+
+  ### 模块 6&#58; 在Microsoft SharePoint 2016中管理解决方案
+  本模块描述了SharePoint 2016功能和解决方案的目的和结构。此外，本模块还说明了如何在Microsoft SharePoint 2016中管理沙盒解决方案。
+  #### 课程
+  - 了解SharePoint 2016解决方案架构
+  - 管理沙盒解决方案
+
+
+  #### 实验 &#58; 管理解决方案
+  - 配置SharePoint服务器场以支持沙盒解决方案
+  - 配置SharePoint网站以支持沙盒解决方案
+  - 部署服务器场解决方案
+
+  学完本模块后，学生将能够&#58;
+  - 在Microsoft SharePoint中管理功能和解决方案 2016。
+  - 在SharePoint 2016部署中管理沙盒解决 方案。
+
+
+  ### 模块 7&#58; 建立人与人之间的联系
+  本模块说明如何管理用户个人资料以及如何计划和配置“我的网站”和社交功能。本模块还介绍了如何配置社区站点。
+  #### 课程
+  - 管理用户档案
+  - 促进社交互动
+  - 建立社区
+
+
+  #### 实验 &#58; 配置用户档案同步和“我的网站”
+  - 配置用户档案同步
+  - 配置我的网站
+
+
+  #### 实验 &#58; 配置社区站点
+  - 建立社区站点基础架构
+  - 配置社区站点参与
+
+  学完本模块后，学生将能够&#58;
+  - 管理Microsoft SharePoint 2016管理用户档案并 使用Microsoft Identity Manager（MIM）2016 配置用户档案同步。
+  - 在SharePoint 2016中启用社交互动。
+  - 在SharePoint 2016中构建社区和社区网站。
+
+
+  ### 模块 8&#58; 规划和配置Web内容管理
+  本模块说明了如何计划和配置Web内容管理基础架构以满足业务需求。本模块还描述了如何配置托管导航和产品目录站点，以及如何配置对多语言站点的支持。此外，本模块还说明了如何规划和管理发布网站的设计和定制，以及如何规划和配置对移动用户的支持。
+  #### 课程
+  - 规划和实施网络内容管理基础架构
+  - 配置托管的导航和目录站点
+  - 支持多种语言和语言环境
+  - 启用设计和定制
+  - 支持移动用户
+
+
+  #### 实验 &#58; 配置托管的导航和目录网站
+  - 配置产品目录站点
+  - 配置跨站点发布
+  - 配置发布站点
+
+
+  #### 实验 &#58; 配置设备通道
+  - 配置设备通道
+
+  学完本模块后，学生将能够&#58;
+  - 规划和配置Web内容管理基础结构。
+  - 配置托管导航和产品目录站点。
+  - 规划和配置对多语言的支持 网站和语言环境。
+  - 管理设计和定制用于 站点发布。
+  - 规划和配置对移动用户的支持。
+
+
+  ### 模块 9&#58; 规划和配置企业内容管理
+  本模块说明如何规划内容和文档的管理，以及如何规划和配置eDiscovery。此外，它描述了如何规划记录管理和合规性。
+  #### 课程
+  - 规划企业内容管理
+  - 规划和配置eDiscovery
+  - 规划记录管理
+
+
+  #### 实验 &#58; 在SharePoint 2016中配置eDiscovery
+  - 创建和配置eDiscovery中心
+  - 发现和保存内容
+  - 查询和导出内容
+
+
+  #### 实验 &#58; 在SharePoint Server 2016中配置记录管理
+  - 配置就地记录管理
+
+  学完本模块后，学生将能够&#58;
+  - 规划如何管理内容和文档。
+  - 规划和配置eDiscovery。
+  - 规划记录管理和合规性。
+
+
+  ### 模块 10&#58; 规划和配置商业智能解决方案
+  本模块说明如何规划SharePoint 2016的商业智能（BI）架构，以及如何部署和管理BI服务。此外，该模块说明了如何计划和配置高级分析工具。
+  #### 课程
+  - 规划BI架构
+  - 规划，部署和管理BI服务
+  - 规划和配置高级分析工具
+
+
+  #### 实验 &#58; 安装Office Online服务器
+  - 部署Office Online服务器
+
+
+  #### 实验 &#58; 配置PowerPivot和Power View for SharePoint 2016
+  - 配置 PowerPivot for SharePoint 2016
+  - 配置Power View for SharePoint
+
+  学完本模块后，学生将能够&#58;
+  - 说明Microsoft SharePoint商业智能（BI）架构，其组件并规划商业智能。
+  - 规划，部署和管理核心Microsoft SharePoint 2016 BI服务。
+  - 配置SharePoint 2016和Microsoft SQL Server 2014
+  中可用的高级BI选项。
+
+
+  ### 模块 11&#58; 规划和配置生产力与协作
+  本模块说明了如何计划和配置生产力和协作功能。本模块还说明了如何在SharePoint 2016中规划和配置复合解决方案。
+  #### 课程
+  - 规划和配置协作功能
+  - 规划和配置组合
+
+
+  #### 实验 &#58; 配置和使用项目站点
+  - 创建Office Online Server服务器场并在SharePoint 2016中配置集成
+  - 创建项目站点
+  - 配置项目站点
+  - 参与项目团队
+  - 配置Project Server集成
+
+
+  #### 实验 &#58; 配置工作流程
+  - 配置Microsoft Azure工作流和Microsoft SharePoint工作流服务
+  - 创建和测试工作流程
+
+  学完本模块后，学生将能够&#58;
+  - 描述如何计划和配置SharePoint 协作和共同创作选项。
+  - 配置项目站点并吸引团队。
+  - 规划和配置组合。
+  - 在SharePoint 2016中配置工作流。
+
+
+  ### 模块 12&#58; 升级和迁移到SharePoint 2016
+  本模块说明了如何为升级或迁移到SharePoint 2016做准备。此外，本模块还说明了如何管理网站集以及如何将其升级到SharePoint 2016。最后，本模块描述了如何将高级内容从SharePoint Server 2013升级到SharePoint 2016。
+  #### 课程
+  - 准备升级或迁移
+  - 升级到SharePoint 2016
+  - 规划和管理网站集升级
+
+
+  #### 实验 &#58; 执行内容数据库迁移和从Microsoft SharePoint Server 2013升级
+  - 迁移SharePoint Server 2013托管元数据服务
+  - 升级SharePoint Server 2013内容数据库
+
+
+  #### 实验 &#58; 管理网站集升级
+  - 准备要升级的网站集
+  - 升级网站集
+
+  学完本模块后，学生将能够&#58;
+  - 规划并准备升级。
+  - 执行数据和服务应用程序的升级。
+  - 升级网站集。
+  - 将高级内容从SharePoint Server 2013升级到SharePoint 2016。
+

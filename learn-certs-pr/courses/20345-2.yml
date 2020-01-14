@@ -1,0 +1,280 @@
+### YamlMime:Course
+title: 设计和部署 Microsoft Exchange Server 2016/2019
+metadata:
+  title: '课程 20345-2-B: 设计和部署 Microsoft Exchange Server 2016/2019'
+  description: '课程 20345-2-B: 设计和部署 Microsoft Exchange Server 2016/2019'
+uid: course.20345-2
+courseNumber: '20345-2-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划Exchange Server部署
+- skill: 规划和部署Exchange Server硬件、虚拟化、邮箱数据库和公用文件夹
+- skill: 规划Exchange Server中的邮件传输
+- skill: 规划和部署Exchange Server中的客户端访问服务
+- skill: 设计和实施高可用性的Exchange Server环境
+- skill: 通过使用托管可用性和期望状态配置（DSC）维护Exchange Server
+- skill: 规划邮件安全性，并设计并在Exchange Server中实现Active Directory权限管理服务（AD RMS）和Microsoft Azure RMS
+- skill: 设计并实施消息保留和归档
+- skill: 设计和实施数据丢失防护策略，就地保留和eDiscovery
+- skill: 设计并实现Exchange Server组织之间的邮件共存
+- skill: 规划并实施从早期版本的Exchange Server到Exchange Server 2019的升级
+- skill: 规划混合Exchange部署
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-345
+summary: |-
+  本课程为经验丰富的Exchange Server管理员提供了设计和实施Exchange Server邮件环境的知识。本课程涵盖如何设计和配置Exchange Server部署中的高级组件，例如站点弹性、高级安全性、合规性、存档和发现解决方案，与其他Exchange组织或Exchange Online的共存以及从早期版本的Exchange Server迁移。本课程还提供指南、最佳做法和注意事项，有助于优化Exchange Server部署。
+  #### 受众概况
+  本课程的受众包括经验丰富的消息传递管理员，消息传递架构师或顾问的IT专业人员。本课程是为企业环境中负责设计和部署Exchange Server解决方案的人员而设计的，其中包括包含早期版本的Exchange Server或Exchange Online的环境。参加本课程的学生应具有Exchange Server 2019或早期版本的Exchange Server的经验。
+prerequisitesSection: |-
+  除了专业经验之外，参加此培训的学生还应该具有以下技术知识&#58;
+   - 参加课程20345-1B&#58; 管理Microsoft Exchange Server 2016/2019或具有同等知识
+   - 至少有两年使用任意版本的Exchange Server的经验
+   - 至少有六个月的Exchange Server 2013或Exchange Server 2016工作经验
+   - 至少两年的Windows Server操作系统管理经验，包括Windows Server 2016或Windows Server 2019
+   - 至少有两年使用Active Directory域服务（AD DS）的经验
+   - 至少两年的域名解析工作经验，包括域名系统（DNS）
+   - 具有证书使用经验，包括公钥基础结构（PKI）证书
+   - 使用Windows PowerShell的经验
+outlineSection: |-
+  ### 模块 1&#58; 规划Exchange Server部署
+  本模块说明了Exchange Server的关键功能，并说明了如何收集业务需求。本模块还说明了如何规划Exchange Server部署以及如何将Unified Messaging迁移到Cloud Voicemail。
+
+  #### 课程
+  - Exchange Server 2019中的新功能
+  - 收集Exchange Server部署的业务需求
+  - 规划Exchange Server部署
+  - 计划将Unified Messaging（UM）迁移到Cloud Voicemail
+
+  #### 实验 &#58; 规划Exchange Server 2019部署
+  - 评估现有的消息传递基础结构
+  - 确认要求
+  - 讨论&#58; Exchange Server 2019的部署设计
+  学完本模块后，学生将能够&#58;
+  - 描述Exchange Server 2019中的新功能
+  - 描述如何收集Exchange Server部署的业务需求
+  - 规划Exchange Server部署
+  - 规划如何将Exchange Server 2016 UM迁移到Cloud Voicemail
+
+  ### 模块 2&#58; 规划和部署Exchange Server邮箱服务
+  本模块说明如何计划和实施Exchange Server硬件，Exchange Server虚拟化，Azure集成和公用文件夹。
+  #### 课程
+  - 规划Exchange Server硬件要求
+  - 规划用于虚拟化和Microsoft Azure集成的Exchange Server
+  - 规划和实施公用文件夹
+
+  #### 实验 &#58; 规划和实施Exchange Server邮箱服务器，数据库和公用文件夹
+  - 规划邮箱服务器的配置和位置
+  - 规划邮箱数据库
+  - 实施邮箱数据库
+  - 规划和实施公用文件夹
+
+  学完本模块后，学生将能够&#58;
+  - 规划和实施Exchange Server硬件
+  - 规划Exchange Server虚拟化和Microsoft Azure集成
+  - 规划和实施公用文件夹
+
+
+  ### 模块 3&#58; 规划消息传输
+  本模块说明了如何在内部以及在互联网之间规划和实施邮件路由。本模块还描述了组织中与传输有关的任务。
+  #### 课程
+  - 设计消息路由
+  - 设计传输服务
+  - 设计邮件路由边界
+  - 设计和实施传输合规
+
+
+  #### 实验 &#58; 规划消息传输
+  - 规划冗余和安全的消息传输
+  - 规划传输合规
+  - 实施传输合规
+
+  学完本模块后，学生将能够&#58;
+  - 设计消息路由
+  - 设计传输服务
+  - 设计外部消息路由
+  - 设计并实施传输合规
+
+
+  ### 模块 4&#58; 规划和部署客户端访问
+  本模块说明如何规划和实施Exchange Server客户端，客户端访问，Microsoft Office Online Server以及Microsoft SharePoint与Exchange Server的共存。本模块还说明了外部客户端访问的设计和实现。
+  #### 课程
+  - 规划Exchange Server客户端
+  - 规划客户访问
+  - 规划和实施Office Online服务器
+  - 规划和实现SharePoint 2019与Exchange Server 2019的共存
+  - 设计外部客户端访问
+
+
+  #### 实验 &#58; 规划和部署客户端访问解决方案
+  - 规划和配置名称空间
+  - 规划和配置客户端访问服务选项
+  - 规划和部署Office Online服务器
+  - 规划和实施反向代理
+
+  学完本模块后，学生将能够&#58;
+  - 规划Exchange Server客户端
+  - 规划客户访问
+  - 规划和实施Office Online服务器
+  - 规划和实施SharePoint并与Exchange Server共存
+  - 设计外部客户端访问
+
+
+  ### 模块 5&#58; 设计和实现高可用性
+  本模块说明了如何规划和实施Exchange Server的高可用性。本模块还说明了如何规划负载平衡。最后，本模块说明了如何规划和实施站点弹性。
+  #### 课程
+  - 规划Exchange Server的高可用性
+  - 规划负载平衡
+  - 规划站点弹性
+
+
+  #### 实验 &#58; 设计和实现高可用性
+  - 规划高可用性和站点弹性
+  - 创建站点弹性DAG
+  - 验证站点的弹性
+  - 创建滞后的数据库副本
+  - 从滞后的数据库副本中恢复数据
+
+  学完本模块后，学生将能够&#58;
+  - 规划Exchange服务器的高可用性
+  - 规划Exchange Server部署中的负载平衡
+  - 规划Exchange Server部署中的站点弹性
+
+
+  ### 模块 6&#58; 维护Exchange Server
+  本模块说明如何使用托管可用性和DSC维护Exchange Server。
+  #### 课程
+  - 使用托管可用性来提高高可用性
+  - 实施DSC
+
+
+  #### 实验 &#58; 维护Exchange Server
+  - 使用Windows PowerShell调查和配置托管可用性
+  - 实施DSC
+
+  学完本模块后，学生将能够&#58;
+  - 使用托管可用性来提高高可用性
+  - 实施DSC
+
+
+  ### 模块 7&#58; 设计消息传递安全性
+  本模块说明如何计划邮件安全性，以及如何在Exchange Server组织中设计和实现AD RMS和Azure RMS。
+  #### 课程
+  - 规划消息传递安全性
+  - 设计和实施AD RMS和Azure RMS
+
+
+  #### 实验 &#58; 设计消息传递安全性
+  - 规划消息传递安全性
+  - 实施AD RMS
+  - 将AD RMS与Exchange Server集成
+  - 创建邮件传输规则以保护电子邮件
+
+  学完本模块后，学生将能够&#58;
+  - 规划邮件安全性
+  - 设计和实施AD RMS和Azure RMS
+
+
+  ### 模块 8&#58; 设计和实现消息保留和归档
+  本模块说明了归档和消息记录管理的目的。本模块还说明了如何设计和实现就地存档和消息保留。
+  #### 课程
+  - 归档和消息记录管理概述
+  - 设计就地存档
+  - 设计和实现消息保留
+
+
+  #### 实验 &#58; 设计和实现消息保留和归档
+  - 设计邮件保留和归档
+  - 实施消息保留和归档
+
+  学完本模块后，学生将能够&#58;
+  - 说明归档和消息记录管理的目的
+  - 设计和实施就地存档
+  - 设计和实施消息保留
+
+
+  ### 模块 9&#58; 设计和实现消息传递合规性
+  本模块说明如何设计和实施数据丢失防护策略，就地保留和就地eDiscovery。
+  #### 课程
+  - 设计和实施防止数据丢失的政策
+  - 设计和实施就地保留
+  - 设计和实施就地eDiscovery
+
+
+  #### 实验 &#58; 设计和实现消息传递合规性
+  - 设计消息传递合规性
+  - 实施数据丢失预防
+  - 实施就地eDiscovery
+  - 比较消息传递策略和合规性选项
+
+  学完本模块后，学生将能够&#58;
+  - 设计和实施防止数据丢失
+  - 设计和实施就地保留
+  - 设计和实施就地eDiscovery
+
+
+  ### 模块 10&#58; 设计和实现消息共存
+  本模块说明了如何设计和实施联合。本模块还说明了如何设计Exchange Server组织之间的共存。最后，它解释了如何设计和实现跨林邮箱移动。
+  #### 课程
+  - 设计和实施联盟
+  - 设计Exchange组织之间的共存
+  - 设计和实施跨林邮箱移动
+
+
+  #### 实验 &#58; 实现消息共存
+  - 实现消息路由共存
+  - 迁移用户邮箱
+
+  学完本模块后，学生将能够&#58;
+  - 设计和实施联盟
+  - 设计Exchange Server组织之间的共存
+  - 设计和实施跨林邮箱移动
+
+
+  ### 模块 11&#58; 升级到Exchange Server 2019
+  本模块概述了您选择实施Exchange Server 2019时所具有的选项，并提供了有关如何将现有Exchange Server 2013或Exchange Server 2016组织升级到Exchange Server 2019的详细信息。
+  #### 课程
+  - 规划从以前的Exchange Server版本进行升级
+  - 从以前的Exchange Server版本实施升级
+
+
+  #### 实验 &#58; 从Exchange Server 2013升级到Exchange Server 2019
+  - 记录Exchange Server 2013组织
+  - 部署Exchange Server 2019
+  - 从Exchange Server 2013升级到Exchange Server 2019
+  - 删除Exchange Server 2013
+
+  学完本模块后，学生将能够&#58;
+  - 规划升级到Exchange Server 2019
+  - 实施到Exchange Server 2019的升级
+
+
+  ### 模块 12&#58; 规划混合Exchange Server部署
+  本模块说明混合部署的基础知识，以及如何规划混合部署中的身份验证。本模块还说明了如何实现Microsoft Azure Active Directory（Azure AD）Connect，混合开发以及用于混合部署的高级功能。
+  #### 课程
+  - 混合部署的基础
+  - 规划和实施混合部署
+  - 实现Azure AD Connect
+  - 实施混合部署
+  - 为混合部署实施高级功能
+
+
+  #### 实验 &#58; 规划混合Exchange部署
+  - 为混合Exchange部署制定计划
+
+  学完本模块后，学生将能够&#58;
+  - 解释混合部署的基础
+  - 在混合环境中规划身份验证
+  - 实施Azure AD Connect
+  - 实施混合部署
+  - 为混合部署实施高级功能
+

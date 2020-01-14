@@ -1,0 +1,63 @@
+### YamlMime:Course
+title: Microsoft 365 租户和服务管理
+metadata:
+  title: '课程 MS-100T02-A: Microsoft 365 租户和服务管理'
+  description: '课程 MS-100T02-A: Microsoft 365 租户和服务管理'
+uid: course.ms-100t02
+courseNumber: 'MS-100T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划他们的 Microsoft 365 本地基础架构
+- skill: 规划他们的身份和身份验证解决方案
+- skill: 规划和配置他们的 Microsoft 365 体验
+- skill: 利用Microsoft's FastTrack和伙伴服务
+- skill: 实现他们的域名服务
+- skill: 配置他们的Microsoft 365租户角色
+- skill: 管理他们的Microsoft 365租户健康和服务
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-100
+summary: |-
+  了解Microsoft 365租户和服务管理，包括如何规划、管理和自定义组织的Microsoft 365租户和服务。
+  #### 受众概况
+  本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
+prerequisitesSection: |-
+  - 完成了基于角色的管理员课程，如消息传递、团队协作、安全和合规性或协作。
+  - 熟练理解DNS并对Microsoft 365服务有了基本功能体验。
+  - 熟练理解一般IT实践。
+outlineSection: |-
+  ### 模块 1&#58; 设计您的Microsoft 365租户
+  #### 课程
+  规划 Microsoft 365 本地基础架构
+  - 规划您的身份和身份验证解决方案
+
+  ### 模块 2&#58; 配置您的Microsoft 365租户
+  #### 课程
+  - 规划您的Microsoft 365体验
+  - 配置您的Microsoft 365体验
+  - 利用FastTrack和合作伙伴服务
+  - 实现您的域名服务
+
+  ### 模块 3&#58; 管理您的Microsoft 365租户
+  #### 课程
+  - 配置租户角色
+  - 管理租户健康和服务
+  
+  ### 模块 4&#58; 实习实验室
+  #### 实验室 &#58; Microsoft 365 租户及服务管理
+  - 练习 1&#58; 设置Microsoft 365试用租户
+  - 练习 2&#58; 管理Microsoft 365用户、组以及行政管理
+  - 练习 3&#58; 配置权限管理和合规性
+  - 练习 4&#58; 监视和排除Microsoft 365故障
+

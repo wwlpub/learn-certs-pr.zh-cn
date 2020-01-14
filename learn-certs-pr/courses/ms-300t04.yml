@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: 启用Office 365工作负载以进行协作
+metadata:
+  title: '课程 MS-300T04-A: 启用Office 365工作负载以进行协作'
+  description: '课程 MS-300T04-A: 启用Office 365工作负载以进行协作'
+uid: course.ms-300t04
+courseNumber: 'MS-300T04-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 评估可用的技术工具
+- skill: 分析业务要求
+- skill: 发展面向数字化转型的治理
+- skill: 实施应用程序管理治理
+- skill: 管理用户采用和变更
+- skill: 监控协作解决方案
+- skill: 评估Office 365协作工作负载
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  在现代工作环境中，组织内外的团队合作和协作变得更加重要。在本课程中，您将学习如何利用Office 365协作工作负载来提高组织的生产力，例如Yammer、Stream、PowerApps和Flow。我们将评估可用的协作工具集并分析业务需求。您还将学习如何规划和开发数字转型的治理，包括用户采用和更改管理。
+  本课程是为在组织中部署和管理团队协作基础设施的IT专业人员设计的。
+  这是面向Teamwork Administrator角色的四门系列课程中的最后一课。这些课程有助于准备考试MS-300&#58;部署Microsoft 365 Teamwork。
+  #### 受众概况
+  该考试适用于Microsoft 365 Teamwork Administrator角色。此角色负责配置、部署和管理专注于高效协作和采用的Office 365和Azure工作负载。他们管理应用程序、服务和支持基础架构，以满足业务需求。管理员知道并可以区分产品和服务，但不能直接管理每个产品或服务。
+  Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
+
+  Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 使用Windows PowerShell的体验
+  - 对活动目录和Azure AD的基本了解
+  - 基本了解移动设备管理和其他操作系统（Android和MacOS）
+outlineSection: |-
+  ### 模块 1&#58; 评估Office 365协作工作负载
+  Office 365包含许多可用于构建协作解决方案的功能。构建协作解决方案的核心组件是SharePoint Online，但也可以使用Yammer和Stream等其他功能。在设计解决方案时，您需要了解SharePoint Online和其他Office 365功能与第三方解决方案的比较有何不同。您还需要能够分析业务要求，以确保您的解决方案满足业务需求。
+  #### 课程
+  - 评估可用的技术工具
+  - 分析业务要求
+  学完本模块后，学生将能够&#58;
+  - 评估可用的技术工具
+  - 分析业务要求
+  
+  ### 模块 2&#58; 规划和发展治理
+  信息技术（IT）的成功部署和管理需要一种一致和定义明确的方法。治理是定义部署和管理IT的策略和流程（包括协作解决方案）所遵循的过程。您需要考虑应用程序管理、用户采用、变更管理和监视的治理。
+  #### 课程
+  - 发展面向数字化转型的治理
+  - 实施应用程序管理治理
+  - 用户采用和变更管理
+  - 监控协作解决方案
+  学完本模块后，学生将能够&#58;
+  - 发展面向数字化转型的治理
+  - 实施应用程序管理治理
+  - 管理用户采用和变更
+  - 监控协作解决方案
+
+  ### 模块 3&#58; 评估Office 365协作工作负载
+  在Office 365中，有许多应用程序和功能可用于协作。您需要了解如何配置这些应用程序和功能以满足组织的需求。在本模块中，您将了解Office 365群组、Power BI、Microsoft Strem、Yammers、Flow和PowerApps的管理。
+  #### 课程
+  - 管理Office 365协作工作负载
+  - 管理 Stream 功能
+  - 管理 Yammer 功能
+  - 管理Flow和PowerApps功能
+
+
+  学完本模块后，学生将能够&#58;
+  - 管理Office 365协作工作负载
+  - 管理 Stream 功能
+  - 管理 Yammer 功能
+  - 管理Flow和PowerApps功能
+

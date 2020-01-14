@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 实现SharePoint混合方案
+metadata:
+  title: '课程 MS-301T03-A: 实现SharePoint混合方案'
+  description: '课程 MS-301T03-A: 实现SharePoint混合方案'
+uid: course.ms-301t03
+courseNumber: 'MS-301T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述可用的SharePoint混合方案。
+- skill: 描述SharePoint混合配置的要求。
+- skill: 描述SharePoint服务器混合。
+- skill: 配置SharePoint混合方案'
+- skill: 配置本地端数据网关。
+- skill: 描述云混合搜索和混合联合搜索之间的区别。
+- skill: 评估不同类型的混合搜索。
+- skill: 配置云混合搜索。
+- skill: 配置混合搜索结果。
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  业务环境已经发生了变化。人们希望在没有合作障碍的情况下进行交流。企业需要既有成本效益又灵活的解决方案。混合环境允许企业用户从几乎任何地方连接到它们需要的资源和内容。在本课程中，您将学习如何规划和实现提供无缝用户体验的SharePoint混合方案。我们还将进一步讨论SharePoint混合搜索，使用户可以轻松访问所需的文件。
+
+  本课程是为在组织中部署和管理团队协作基础设施的IT专业人员设计的。
+
+  这是面向Teamwork Administrator角色的四门系列课程中的第三课。这些课程有助于准备考试MS-301&#58;部署SharePoint Server Hybrid。
+  
+  #### 受众概况
+  该考试适用于Microsoft 365 Teamwork Administrator角色。此角色负责配置、部署和管理专注于高效协作和采用的Office 365和Azure工作负载。他们管理应用程序、服务和支持基础架构，以满足业务需求。管理员知道并可以区分产品和服务，但不能直接管理每个产品或服务。
+
+  Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
+
+  Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 使用Windows PowerShell的体验。
+  - 对SQL Server管理的基本了解。
+  - 对网络（包括DNS）的基本了解。
+  - 关于Windows服务器管理的工作知识。
+  - 对活动目录和Azure AD的基本了解。
+  - 基本了解移动设备管理和其他操作系统（Android和MacOS）。
+outlineSection: |-
+  ### 模块 1&#58; SharePoint混合方案概述
+  此模块主要介绍如何规划SharePoint Server混合。它概述了SharePoint混合方案以及配置要求。
+  #### 课程
+  - SharePoint混合方案概述
+  - 规划SharePoint服务器混合
+  学完本模块后，学生将能够&#58;
+  - 描述可用的SharePoint混合方案。
+  - 描述SharePoint混合配置的要求。
+  - 描述SharePoint服务器混合。
+
+  ### 模块 2&#58; 实现SharePoint混合方案
+  本模块的重点是实现SharePoint混合方案。它具体讨论混合配置路线图，包括混合基础架构配置和混合选择器配置。它还引入了本地数据网关，以便在SharePoint Server 2019中启用Office 365功能。
+  #### 课程
+  - 实现SharePoint混合方案
+  - 配置本地端数据网关
+  学完本模块后，学生将能够&#58;
+  - 配置SharePoint混合方案'
+  - 配置本地端数据网关。
+  
+  ### 模块 3&#58; 实现SharePoint混合搜索
+  本模块的重点是实现SharePoint混合搜索。它引入了不同类型的混合搜索，包括云混合搜索和混合联合搜索。它解释了如何设置混合搜索和配置搜索结果。
+  #### 课程
+  - SharePoint混合搜索概述
+  - 配置SharePoint混合搜索'
+
+  学完本模块后，学生将能够&#58;
+  - 描述云混合搜索和混合联合搜索之间的区别。
+  - 评估不同类型的混合搜索。
+  - 配置云混合搜索。
+  - 配置混合搜索结果。
+
+
+  ### 模块 4&#58; 课程总结
+
+  ### 实验室 &#58; 配置SharePoint混合
+

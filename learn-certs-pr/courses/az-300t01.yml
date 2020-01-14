@@ -1,0 +1,108 @@
+### YamlMime:Course
+title: 部署和配置基础架构
+metadata:
+  title: '课程 AZ-300T01-A: 部署和配置基础架构'
+  description: '课程 AZ-300T01-A: 部署和配置基础架构'
+uid: course.az-300t01
+courseNumber: 'AZ-300T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 管理 Azure 订阅和资源
+- skill: 实施和管理存储
+- skill: 部署和管理VM
+- skill: 部署和管理虚拟网络
+- skill: 使用Azure Active Directory管理身份
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  本课程教IT专业人员如何管理其Azure资源，包括虚拟机，虚拟网络，存储帐户和Azure AD的部署和配置，其中包括实施和管理混合身份。学生还将学习如何通过用户帐户和组帐户在Azure中管理云资源，以及如何使用基于角色的访问控制（RBAC）向Azure AD用户，组和服务授予访问权限。
+  学生将学习不同的存储帐户和服务以及基本的数据复制概念和可用的复制方案。还向学生介绍了Storage Explorer，这是使用Azure存储数据的便捷方式。学生还将学习存储的类型以及如何使用托管磁盘和自定义磁盘。
+
+  Azure blob存储是Azure将非结构化数据存储在云中的方式，学生将使用blob和blob容器。除了blob存储之外，本课程还将表和队列存储作为结构化数据的存储选项。
+
+  学生将学习如何使用Azure门户，PowerShell和ARM模板在Azure中创建和部署虚拟机。该课程包括有关部署自定义映像和Linux虚拟机的说明。学生将了解如何配置虚拟机的网络和存储组件。部署高可用性虚拟机对于计划内和计划外事件至关重要，学生将学习如何使用可用性集来确保在停机期间虚拟机资源可用。
+
+  学生将学习Azure提供的监视工具和功能，包括Azure警报和活动日志。除了警报和日志外，还将向学生介绍Log Analytics作为有效的数据分析解决方案，以了解系统状态和运行状况。也许学生会学到的最令人兴奋的事情是如何使用Azure资源管理器（ARM）部署模型来处理资源，资源组和ARM模板。
+
+  由于本课程是Azure解决方案架构师考试系列中的第一门课程，因此提供了大量介绍性内容，可帮助学生为课程中的其余课程做好准备。向学生提供了一个课程，其中介绍了在Azure门户中工作的提示和技巧，并介绍了Azure环境中使用的关键工具，例如Cloud Shell和Resource Explorer。重点是将PowerShell和命令行界面（CLI）视为重要技能，不仅可以为考试做准备，而且还可以为职位角色本身学习。
+  #### 受众概况
+  成功的云解决方案架构师从在操作系统，虚拟化，云基础架构，存储结构，计费和网络方面的实践经验开始担任这一角色。
+outlineSection: |-
+  ### 模块 1&#58; 管理Azure订阅和资源
+  在本模块中，您将使用Azure警报，Azure活动日志和Log Analytics探索Azure监视功能。您将学习查询，分析和解释在Log Analytics中查看的数据。
+  学完本模块后，学生将能够&#58;
+  - 管理Azure订阅和资源
+
+  ### 模块 2&#58; 实施和管理存储
+  在本模块中，您将了解Azure存储帐户，数据复制，如何使用Azure Storage Explorer和监视存储。
+
+  学完本模块后，学生将能够&#58;
+  - 实施和管理存储
+  
+  ### 模块 3&#58; 部署和管理虚拟机（VM）
+  在本模块中，您将学习如何执行以下操作&#58;
+  - 在Azure门户中创建虚拟机（VM）
+  - 使用Azure PowerShell创建虚拟机（VM）
+  - 使用ARM模板创建虚拟机（VM）
+  - 部署Linux虚拟机（VM）
+  - 监控虚拟机（VM）
+
+  此外，您将学习如何定期使用备份来保护数据，无论是通过快照，Azure备份还是Azure Site Recovery。
+
+  学完本模块后，学生将能够&#58;
+  - 部署和管理虚拟机
+
+
+  ### 模块 4&#58; 配置和管理虚拟网络
+  在本模块中，您将使用Azure门户以及Azure PowerShell和CLI创建和实施虚拟网络。您将获得有关如何将IP地址分配给Azure资源以与其他Azure资源，本地网络和Internet通信的概述。
+  #### 课程
+  - 使用路由表和算法进行网络路由
+  - 使用VNet到VNet的连接和VPN进行站点间连接
+  - 针对区域和全球考虑的虚拟网络对等
+  - 网关转换
+
+  学完本模块后，学生将能够&#58;
+  配置和管理虚拟网络
+
+
+  ### 模块 5&#58; 管理身份
+  本模块介绍了面向IT管理员和开发人员的Azure Active Directory（Azure AD），重点介绍了基于云的Azure AD多租户目录和身份管理服务。
+  #### 课程
+  - 基于角色的访问控制（RBAC）
+  - 内置角色
+  - 自助密码重置（SSPR）
+  - 密码重置的认证方法
+
+  学完本模块后，学生将能够&#58;
+  - 使用Azure AD管理身份
+

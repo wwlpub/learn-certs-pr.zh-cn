@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: 定义混合消息策略
+metadata:
+  title: '课程 MS-201T01-A: 定义混合消息策略'
+  description: '课程 MS-201T01-A: 定义混合消息策略'
+uid: course.ms-201t01
+courseNumber: 'MS-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划邮箱迁移
+- skill: 规划IMAP迁移
+- skill: 规划切换和分阶段迁移
+- skill: 进行高级迁移
+- skill: 了解Exchange混合部署要求
+- skill: 运行混合配置向导
+- skill: 部署和管理Edge传输服务器
+- skill: 使用HCW配置混合部署
+- skill: 实现高级混合功能
+- skill: 对混合部署进行故障排除
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  本课程向学生介绍混合消息传递的所有事项。学生将学习如何为Exchange组织部署混合环境，以及如何将邮箱迁移到Exchange Online。他们将首先检查可用的邮箱迁移选项，然后重点介绍如何规划混合部署。最后，学生将学习如何实施Windows10并排除混合部署中的故障。
+  #### 受众概况
+  消息管理员部署、配置、管理
+  并对内部部署和云企业环境中的收件人、权限、邮件保护、邮件流和公用文件夹进行故障诊断。职责包括管理消息卫生、消息传递基础架构以及混合配置和迁移。消息传递管理员还实现和管理灾难恢复、高可用性和客户端访问。要实现满足现代组织业务需求的安全混合拓扑，消息管理员必须与安全管理员和Microsoft 365企业管理员协作。消息传送管理员应在认证类型、许可和与 Microsoft 365 应用程序集成方面具备实际应用知识。
+prerequisitesSection: |-
+  - 熟练理解DNS。
+  - 基本了解在Exchange Server或Exchange Online内部的消息传递。
+  - 基本了解活动目录和域控制器基础结构以及身份管理。
+  - 具有Microsoft 365服务和目录同步的基本功能体验。
+  - 至少5年的一般IT经验。
+outlineSection: |-
+  ### 模块 1&#58; 执行邮箱迁移
+  #### 课程
+  - 规划邮箱迁移
+  - 执行IMAP迁移
+  - 规划切换和分阶段迁移
+  - 执行高级迁移
+
+  ### 模块 2&#58; 规划混合环境
+  #### 课程
+  - Exchange混合部署要求
+  - 规划运行混合配置向导
+
+  ### 模块 3&#58; 部署邮件流并排除其故障
+  #### 课程
+  - 部署和管理Edge传输服务器
+  - 使用HCW配置混合部署
+  - 实现高级混合功能
+  - 对混合部署进行故障排除
+  
+  ### 模块 4&#58; 实验室 - 混合部署和管理
+  ### 实验室 &#58; 混合部署和管理
+  - 练习 1&#58; 执行到Microsoft 365的邮箱迁移
+  - 练习 2&#58; 管理混合方案
+

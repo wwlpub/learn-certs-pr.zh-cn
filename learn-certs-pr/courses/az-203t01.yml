@@ -1,0 +1,75 @@
+### YamlMime:Course
+title: 开发Azure基础架构即服务计算解决方案
+metadata:
+  title: '课程 AZ-203T01-A: 开发Azure基础架构即服务计算解决方案'
+  description: '课程A Z-203T01-A: 开发Azure基础架构即服务计算解决方案'
+uid: course.az-203t01
+courseNumber: 'AZ-203T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  在本课程中，学生将获得在其开发解决方案中实施Azure IaaS服务和功能所需的知识和技能。本课程涵盖调配虚拟机，使用批处理服务部署/维护资源以及如何使用Azure Kubernetes Service创建容器化解决方案。
+  #### 受众概况
+  - 本课程的学生对Azure开发或通过Microsoft Azure开发人员助理认证考试感兴趣。
+prerequisitesSection: |-
+  - 学生应具有1-2年的开发经验。本课程假定学生知道如何编码并具有Azure的基本知识。
+  - 建议学生具有在PowerShell或Azure CLI，在Azure门户中工作以及至少使用一种Azure支持的编程语言的经验。本课程中的大多数示例都以C＃.NET提供。
+outlineSection: |-
+  ### 模块 1&#58; 实施使用虚拟机的解决方案
+  学生将学习如何正确规划VM部署。它涵盖了使用Azure门户，PowerShell和通过代码创建VM的过程。它还介绍了如何创建和使用Azure资源管理器（ARM）模板进行可重复的部署，以及如何使用Azure磁盘加密来保护VM上的信息。
+  #### 课程
+  - 提供虚拟机
+  - 创建ARM模板
+  - 为VM配置Azure磁盘加密
+  学完本模块后，学生将能够&#58;
+  - 了解如何使用Azure门户，PowerShell和代码来创建和部署虚拟机。
+  - 了解如何使用Azure门户和Visual Studio创建和部署ARM。
+  - 了解不同的加密选项，并了解如何加密现有和新部署。
+
+  ### 模块 2&#58; 使用Azure批处理服务实现批处理作业
+  Azure Batch创建并管理一个计算节点（虚拟机）池，安装要运行的应用程序，并计划要在这些节点上运行的作业。
+  #### 课程
+  - Azure批处理概述
+  - 使用Azure CLI和Azure门户运行批处理作业
+  - 使用代码运行批处理作业
+  - 使用批处理服务API管理批处理作业
+  学完本模块后，学生将能够&#58;
+  - 了解Azure Batch服务的工作方式
+  - 了解如何使用Azure CLI创建和运行批处理作业
+  - 了解如何使用代码创建和运行批处理作业
+  - 了解如何使用Azure Batch Service API管理作业
+  
+  ### 模块 3&#58; 创建容器化解决方案
+  您可以构建和运行基于Kubernetes编排和管理这些应用程序组件可用性的现代，可移植，基于微服务的应用程序。随着团队采用基于微服务的应用程序不断进步，Kubernetes支持无状态和有状态应用程序。
+  #### 课程
+  - 创建一个Azure托管Kubernetes服务（AKS）群集
+  - 创建解决方案的容器映像
+  - 向 Azure Container Registry 发布图像
+  - 使用Azure容器实例或AKS运行容器
+
+  学完本模块后，学生将能够&#58;
+  - 学习AKS的核心概念
+  - 了解如何部署AKS集群
+  - 向 Azure Container Registry 发布图像
+  - 了解有关Azure容器实例以及如何对其进行部署的信息
+

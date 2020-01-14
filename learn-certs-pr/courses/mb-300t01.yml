@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Dynamics 365 for Finance and Operations的核心常用特性
+metadata:
+  title: '课程 MB-300T01-A: Dynamics 365 for Finance and Operations的核心常用特性'
+  description: '课程 MB-300T01-A: Dynamics 365 for Finance and Operations的核心常用特性'
+uid: course.mb-300t01
+courseNumber: 'MB-300T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  组织使用Dynamics 365 for Finance and Operations以降低运营成本并快速响应不断变化的业务需求。这一解决方案使组织能够实现这些目标。
+  本课程讨论Microsoft Dynamics 365 for Finance and Operations的核心组件。
+  #### 受众概况
+  Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
+prerequisitesSection: |-
+  对ERP和CRM概念的基本理解。
+outlineSection: |-
+  ### 模块 1&#58; Dynamics 365 for Finance and Operations入门
+  本模块提供了对Dynamics 365 for Finance and Operations以及它所支持的行业的理解。它描述了Finance and Operations中的模块，这些模块中功能的用途，以及它们如何支持特定于行业的领域。
+  #### 课程
+  - 简介
+  - 行业聚焦
+  - 财务管理简介
+  - 员工管理简介
+  - 供应链管理简介
+  - 模块总结
+  学生将理解Finance and Operations是什么以及它所支持的行业。他们将熟悉Finance and Operations中的模块，这些模块中功能的用途，以及它们如何支持特定于行业的领域。
+
+  ### 模块 2&#58; 生命周期服务入门
+  Microsoft Dynamics Lifecycle Services（LCS）是一个协作工作区，客户及其合作伙伴可以使用它来管理Dynamics 365 for Finance and Operations项目，从售前到实施，最后到生产环境，无论是在云上还是在本地。它提供有助于管理项目的清单和工具，包括有助于管理实施过程的方法。
+  #### 课程
+  - 了解生命周期服务的功能和工具
+  - 重复使用现有资产，复制和共享数据
+  - 了解任务记录器功能
+  - 创建业务流程模型
+  - 运行LCS问题搜索工具并分析结果
+  - 了解如何使用回归套件自动化工具
+  - 实习实验室
+  - 模块总结
+  学生将能够&#58;
+  - 了解LCS在财务和运营方面的功能和工具
+  - 重复使用现有资产，复制和共享数据
+  - 了解任务记录器功能
+  - 创建业务流程模型
+  - 使用业务流程建模器（BPM）识别和分析差距
+  - 运行LCS问题搜索工具并分析结果
+  
+  ### 模块 3&#58; 使用生命周期服务进行设计和规划
+  通过适当的规划，Dynamics 365 for Finance and Operations实施将取得成功。在客户签署购买Finance and Operations许可证的协议后，作为职能顾问的工作首先是管理应用程序生命周期，可重复、高质量的实施方向发展。
+  #### 课程
+  - 简介
+  - 云实施的各个阶段
+  - 本地实施的各个阶段
+  - 创建功能设计文档（FDD）
+  - 模块总结
+  学生将能够&#58;
+  - 使用LCS中的方法为收集的需求准备文档
+  - 定义用例场景
+  - 参与功能需求文件（FRD）的创建
+  - 了解创建和维护文档流程的重要性
+  - 参与基于阶段的规划过程和解决方案设计
+  - 描述基于建议的解决方案的未来状态业务流程
+  - 决定何时构建或是购买
+  - 创建功能设计文档（FDD）
+
+  ### 模块 4&#58; 报告和分析概述
+  Dynamics 365 for Finance and Operations中的报告可以简单地定义为数据的结构化表示。
+  在理想情况下，报表将数据具体化，使用户能够做出明智的决策。
+  Finance and Operations支持广泛的信息访问场景。
+  #### 课程
+  - 理解报告和查询
+  - 了解财务报告
+  - 为实例配置PowerBI
+  - 实习实验室
+  - 模块总结
+
+  学生应已经了解&#58;
+  - Finance and Operations中不同类型的报告和查询
+  - 财务报告
+  - 为Microsoft Power Platform配置Finance and Operations
+
+
+  ### 模块 5&#58; 构建和测试移动应用程序
+  本模块介绍针对Dynamics 365 Finance and Operations的移动应用程序的指导原则和设计模式。此外，它还解释了如何基于用例场景构建和测试移动应用程序。
+  移动平台可以方便地更改表单和移动应用程序定义，以包括针对Finance and Operations的定制。
+  移动应用程序支持丰富的离线和移动交互，并提供易于使用的设计师体验。开发人员可以在Microsoft Visual Studio中创建简化的表单，然后设计公开此功能的移动应用程序。
+  #### 课程
+  - 统一操作移动应用概述
+  - 构建和使用移动应用
+  - 实习实验室
+  - 模块总结
+
+  学生应已了解如何创建移动应用程序并在Finance and Operations将其发布。了解移动应用程序的设计注意事项有助于创建与现代应用程序的用户体验相匹配的移动应用程序。学生还将了解到，要使用和操作Finance and Operations，他们需要下载Microsoft Dynamics 365 Unified Operations应用程序。此外，他们还将发现如何运行Dynamics 365 Unified Operations应用程序来连接Finance and Operations，以及如何使用已发布的移动应用程序和通过下拉刷新数据。
+
+  ### 模块 6&#58; 创建、维护和使用工作流
+  工作流代表业务流程。它通过显示谁必须完成任务、做出决策或批准文档来定义文档如何在系统中流动或移动。
+  有些组织要求特定流程由用户而不是记录输入者批准。这些工作流过程可能需要手动批准、工作流批准或无须批准。
+  #### 课程
+  - 业务流程工作流
+  - 创建和设置工作流
+  - 将用户分配到工作流接触点
+  - 使用工作项
+  - 实习实验室
+  - 模块总结
+
+  在本模块中，学生学习了如何使用工作流应用自动化，并发现对特定类型进行定义会让企业控制关键流程中的每个步骤。学生们还了解到，工作流可以用作对几种日志类型使用批准的过程步骤。此外，他们还了解到，可以为每个工作流定义多个版本，并修改现有工作流而不删除原始工作流。这些工作流过程可能需要手动批准、工作流批准或无须批准。在了解了工作流体系结构、元素和操作之后，他们随后学习了如何设置工作流、配置工作流属性以及如何在工作流中添加手动或自动任务。最后，他们学习了如何在工作流中配置审批流程、将用户分配给工作流接触点、在工作流中配置审批步骤以及使用工作项功能处理工作流。
+
+  ### 模块 7&#58; 课程总结
+  最终评估和课程总结，以及课程的课后调查。
+  #### 课程
+  - 最终评估
+  - 课程总结
+  - 课后调查
+
+  - 学生已经完成课程。
+

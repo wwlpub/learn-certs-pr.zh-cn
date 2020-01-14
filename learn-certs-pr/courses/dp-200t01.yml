@@ -1,0 +1,229 @@
+### YamlMime:Course
+title: 实施 Azure 数据解决方案
+metadata:
+  title: '课程 DP-200T01-A: 实施 Azure 数据解决方案'
+  description: '课程 DP-200T01-A: 实施 Azure 数据解决方案'
+uid: course.dp-200t01
+courseNumber: 'DP-200T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-200
+summary: |-
+  在本课程中，学生将把各种数据平台技术实施到符合业务和技术要求的解决方案中，包括结合了关系和NoSQL数据的本地、云和混合数据方案。他们还将学习如何使用多种技术和语言处理流数据和批处理数据。
+  学生还将探索如何实现数据安全性，包括身份验证、授权、数据策略和标准。他们还将为数据存储和数据处理活动定义并实施数据解决方案监视。最后，他们将管理和解决Azure数据解决方案，其中包括大数据的优化和灾难恢复，批处理和流数据解决方案。
+  #### 受众概况
+  本课程的主要听众是想要了解Microsoft Azure上存在的数据平台技术的数据专业人员，数据架构师和商业智能专业人员。本课程的次要听众是利用Azure上数据平台技术，开发内容交付应用程序的个人。
+prerequisitesSection: |-
+  除了专业经验外，参加此培训的学生还应具有与以下课程相当的技术知识&#58;
+  - [Azure Fundamentals](https://docs.microsoft.com/zh-cn/learn/modules/welcome-to-azure/)
+outlineSection: |-
+  ### 模块 1&#58; 适用于数据工程师的Azure
+  本模块探讨了数据世界如何演变以及云数据平台技术如何为企业提供了以不同方式浏览数据的新机会。学生将大概了解可用的各种数据平台技术，以及数据工程师的角色和职责如何演变，以在这个新领域中工作以使组织受益。
+  #### 课程
+  - 解释不断发展的数据世界
+  - 调查Azure数据平台中的服务
+  - 确定由数据工程师执行的任务
+  - 在案例研究中描述云的使用案例
+  #### 实验 &#58; 供数据工程师使用的Azure
+  - 识别不断发展的数据领域
+  - 确定Azure数据平台服务
+  - 找出数据工程师要执行的任务
+  - 最终确定数据工程交付成果
+  学完本模块后，学生将能够&#58;
+  - 解释不断发展的数据世界
+  - 调查Azure数据平台中的服务
+  - 确定由数据工程师执行的任务
+  - 在案例研究中描述云的使用案例
+  
+  ### 模块 2&#58; 使用数据存储
+  本模块介绍了在Azure中存储数据的各种方法。这些学生将学习Azure中存储管理的基础知识，如何创建存储帐户以及如何为要存储在云中的数据选择正确的模型。他们还将了解如何创建Data Lake存储，以最小的付出来支持各种大数据分析解决方案。
+  #### 课程
+  - 在Azure中选择一种数据存储方法
+  - 创建一个Azure存储帐户
+  - 说明Azure Data Lake存储
+  - 将数据上传到Azure Data Lake
+
+
+  #### 实验 &#58; 使用数据存储
+  - 在Azure中选择一种数据存储方法
+  - 创建一个存储帐户
+  - 说明Data Lake存储
+  - 将数据上传到Data Lake Store
+
+  学完本模块后，学生将能够&#58;
+  - 在Azure中选择一种数据存储方法
+  - 创建一个Azure存储帐户
+  - 说明Azure Data Lake存储
+  - 将数据上传到Azure Data Lake
+
+
+  ### 模块 3&#58; 使用Azure Databricks实现基于团队的数据研究
+  本模块向学生介绍Azure Databricks以及数据工程师如何与之合作以使组织能够执行团队数据科学项目。他们将学习Azure Databricks和Apache Spark笔记本的基础知识；如何提供服务和工作空间；以及如何执行可为数据科学项目做出贡献的数据准备任务。
+  #### 课程
+  - 说明Azure Databricks
+  - 使用Azure Databricks
+  - 使用Azure Databricks读取数据
+  - 使用Azure Databricks执行转换
+
+
+  #### 实验 &#58; 使用Azure Databricks启用基于团队的数据科学
+  - 说明Azure Databricks
+  - 使用Azure Databricks
+  - 使用Azure Databricks读取数据
+  - 使用Azure Databricks执行转换
+
+  学完本模块后，学生将能够&#58;
+  - 说明Azure Databricks
+  - 使用Azure Databricks
+  - 使用Azure Databricks读取数据
+  - 使用Azure Databricks执行转换
+
+
+  ### 模块 4&#58; 使用Cosmos DB构建全局分布式数据库
+  在本模块中，学生将学习如何使用Azure Cosmos DB处理NoSQL数据。他们将学习如何设置服务，如何使用Visual Studio Code扩展和Azure Cosmos DB .NET Core SDK在服务中加载和查询数据。他们还将学习如何配置可用性选项，以便用户能够从世界任何地方访问数据。
+  #### 课程
+  - 创建可扩展的Azure Cosmos DB数据库
+  - 在Azure Cosmos DB数据库中插入和查询数据
+  - 在Visual Studio Code中为Cosmos DB构建.NET Core应用
+  - 使用Azure Cosmos DB在全球范围内分发数据
+
+
+  #### 实验 &#58; 使用Cosmos DB构建全球分布式数据库
+  - 创建Azure Cosmos数据库
+  - 在Azure Cosmos DB中插入和查询数据
+  - 使用VS Code为Azure Cosmos DB构建.Net Core应用
+  - 使用Azure Cosmos DB在全球范围内分发数据
+
+  学完本模块后，学生将能够&#58;
+  - 创建可扩展的Azure Cosmos DB数据库
+  - 在Azure Cosmos DB数据库中插入和查询数据
+  - 在Visual Studio Code中为Azure Cosmos DB构建.NET Core应用
+  - 使用Azure Cosmos DB在全球范围内分发数据
+
+
+  ### 模块 5&#58; 使用云中的关系数据存储
+  在本模块中，学生将探索Azure关系数据平台选项，包括SQL数据库和SQL数据仓库。学生将能够解释为什么他们会选择一项服务而不是另一项服务，以及如何设置、连接和管理每种服务。
+  #### 课程
+  - 使用Azure SQL数据库
+  - 描述Azure SQL数据仓库
+  - 创建和查询Azure SQL数据仓库
+  - 使用PolyBase将数据加载到Azure SQL数据仓库中
+
+
+  #### 实验 &#58; 使用云中的关系数据存储
+  - 使用Azure SQL数据库
+  - 描述Azure SQL数据仓库
+  - 创建和查询Azure SQL数据仓库
+  - 使用PolyBase将数据加载到Azure SQL数据仓库中
+
+  学完本模块后，学生将能够&#58;
+  - 使用Azure SQL数据库
+  - 描述Azure数据仓库
+  - 创建和查询Azure SQL数据仓库
+  - 使用PolyBase将数据加载到Azure SQL数据仓库中
+
+
+  ### 模块 6&#58; 使用Stream Analytics执行实时分析
+  在本模块中，学生将学习事件处理和流数据的概念以及它们如何应用于事件中心和Azure流分析。然后，学生将设置一个流分析作业对数据进行流处理，并学习如何查询收到的数据以执行数据分析。最后，他们将学习如何管理和监视正在运行的作业。
+  #### 课程
+  - 说明数据流和事件处理
+  - 通过事件中心收集数据
+  - 使用Stream Analytics作业处理数据
+
+
+  #### 实验 &#58; 通过流分析执行实时分析
+  - 说明数据流和事件处理
+  - 通过事件中心收集数据
+  - 使用Stream Analytics作业处理数据
+
+  完成本单元后，学生将&#58;
+  - 能够解释数据流和事件处理
+  - 通过事件中心了解数据提取
+  - 通过流分析作业了解处理数据
+
+
+  ### 模块 7&#58; 使用Azure Data Factory安排数据移动
+  在本模块中，学生将学习如何使用Azure数据工厂通过多种数据平台技术来协调数据移动和转换。他们将能够解释该技术的功能，并能够建立用于接收和转换数据的端到端数据管道。
+  #### 课程
+  - 说明Azure数据工厂的工作方式
+  - Azure数据工厂组件
+  - Azure数据工厂和Databricks
+
+
+  #### 实验 &#58; 使用Azure数据工厂协调数据移动
+  - 说明数据工厂的工作方式
+  - Azure数据工厂组件
+  - Azure数据工厂和Databricks
+
+  完成本单元后，学生将&#58;
+  - 了解Azure数据工厂和Databricks
+  - 了解Azure数据工厂组件
+  - 能够解释Azure数据工厂的工作方式
+
+
+  ### 模块 8&#58; 保护Azure数据平台的安全
+  在本模块中，学生将学习Azure如何提供多层安全模型来保护数据。学生将探索安全性的范围，从设置安全网络和访问密钥到定义权限，再到监视一系列数据存储。
+  #### 课程
+  - 安全性简介
+  - 关键安全组件
+  - 保护存储帐户和Data Lake存储的安全
+  - 保护数据存储
+  - 保护流数据
+
+
+  #### 实验 &#58; 保护Azure数据平台的安全
+  - 安全性简介
+  - 关键安全组件
+  - 保护存储帐户和Data Lake存储的安全
+  - 保护数据存储
+  - 保护流数据
+
+  完成本单元后，学生将&#58;
+  - 介绍安全性
+  - 了解关键的安全组件
+  - 了解保护存储帐户和Data Lake Storage的安全
+  - 了解保护数据存储的安全
+  - 了解保护流数据
+
+
+  ### 模块 9&#58; 数据存储和处理的监视和故障排除
+  在本模块中，学生将获得有关监视功能范围的概述，这些监视功能可在数据平台架构出现问题时提供操作支持。他们将探讨常见的数据存储和数据处理问题。最后，本模块说明了灾难恢复选项以确保业务连续性。
+  #### 课程
+  - 说明可用的监视功能
+  - 解决常见的数据存储问题
+  - 解决常见的数据处理问题
+  - 管理灾难恢复
+
+
+  #### 实验 &#58; 监视和排除数据存储和处理故障
+  - 说明可用的监视功能
+  - 解决常见的数据存储问题
+  - 解决常见的数据处理问题
+  - 管理灾难恢复
+
+  学完本模块后，学生将能够&#58;
+  - 说明可用的监视功能
+  - 解决常见的数据存储问题
+  - 解决常见的数据处理问题
+  - 管理灾难恢复
+

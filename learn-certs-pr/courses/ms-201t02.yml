@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: 管理消息传递安全性、卫生和合规性
+metadata:
+  title: '课程 MS-201T02-A: 管理消息传递安全性、卫生和合规性'
+  description: '课程 MS-201T02-A: 管理消息传递安全性、卫生和合规性'
+uid: course.ms-201t02
+courseNumber: 'MS-201T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划消息卫生
+- skill: 管理防恶意软件和防垃圾邮件策略
+- skill: 管理高级威胁防护
+- skill: 规划SCC中的消息传递合规性
+- skill: 规划Exchange中的消息传递合规性
+- skill: 管理Exchange联机存档和审核
+- skill: 管理内容搜索
+- skill: 管理基于管理员角色的权限
+- skill: 管理基于用户角色的权限
+- skill: 规划Exchange设置 - RBAC和AD拆分权限
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  在本课程中，您将了解与Exchange Server和Exchange Online有关的不同邮件安全性和合规性服务配置及设置。首先，您将学习Exchange联机保护和Exchange高级威胁防护以及Exchange连接和垃圾邮件过滤的邮件卫生基础知识。然后，您将从消息合规性的角度研究消息合规性解决方案，如保留和数据丢失防护策略，以及审核日志调查和eDiscovery搜索机制。您将学习如何规划适当的部署，以及如何为每个解决方案执行基本的实现过程。本课程的最后，您将通过检查如何管理分配给用户和管理员角色的权限。
+  #### 受众概况
+  本考试的考生是对本地和云端企业环境内的收件人、权限、邮箱保护、邮件流和公共文件夹进行部署、配置、管理以及故障排除的消息传递管理员。职责包括管理消息卫生、消息传递基础架构以及混合配置和迁移。消息传递管理员还实现和管理灾难恢复、高可用性和客户端访问。要实现满足现代组织业务需求的安全混合拓扑，消息管理员必须与安全管理员和Microsoft 365企业管理员协作。消息传送管理员应在认证类型、许可和与 Microsoft 365 应用程序集成方面具备实际应用知识。
+prerequisitesSection: |-
+  - 熟练理解DNS。
+  - 基本了解在Exchange Server或Exchange Online内部的消息传递。
+  - 基本了解活动目录和域控制器基础结构以及身份管理。
+  - 具有Microsoft 365服务和目录同步的基本功能体验。
+  - 至少5年的一般IT经验。
+outlineSection: |-
+  ### 模块 1&#58; 管理消息卫生
+  #### 课程
+  - 规划消息卫生
+  - 管理防恶意软件和防垃圾邮件策略
+  - 管理高级威胁防护
+
+  ### 模块 2&#58; 管理合规性
+  #### 课程
+  - SCC中的消息传递合规性
+  - Exchange中的消息传递合规性
+  - 管理Exchange联机存档和审核
+  - 管理内容搜索
+
+  ### 模块 3&#58; 管理基于角色的权限
+  #### 课程
+  - 管理管理员角色
+  - 管理用户角色
+  - Exchange设置 - RBAC和AD拆分权限
+  
+  ### 模块 4&#58; 实验室 - 管理消息卫生
+  #### 实验室 &#58; 管理消息卫生
+  - 练习 1&#58; 管理本地端解决方案中的消息卫生
+  - 练习 2&#58; 管理云端解决方案中的消息卫生
+  - 练习 3&#58; 管理混合解决方案中的消息卫生
+

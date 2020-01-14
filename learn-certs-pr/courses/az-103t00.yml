@@ -1,0 +1,167 @@
+### YamlMime:Course
+title: Microsoft Azure 管理员
+metadata:
+  title: '课程 AZ-103T00-A: Microsoft Azure Administrator'
+  description: '课程 AZ-103T00-A: Microsoft Azure Administrator'
+uid: course.az-103t00
+courseNumber: 'AZ-103T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+exams:
+- uid: exam.az-103
+summary: |-
+  本课程传授IT专业人员如何管理其Azure订阅，创建和扩展虚拟机，实现存储解决方案，配置虚拟网络，备份和共享数据，连接Azure和本地站点，管理网络流量，实现Azure Active Directory，安全身份，并监视您的解决方案。
+  #### 受众概况
+  本课程适用于Azure管理员。Azure管理员管理跨越存储、网络和计算云功能的云服务，并对整个IT生命周期中的每项服务都有深刻的了解。他们接受最终用户对新云应用程序的请求，并就可以使用的服务提出建议，以实现最佳性能和规模，并根据需要进行配置，调整大小，监控和调整。该角色需要与供应商进行沟通和协调。Azure管理员使用Azure门户，并且随着他们变得更加熟练，他们使用PowerShell和命令行界面。
+prerequisitesSection: |-
+  - 了解本地虚拟化技术，包括&#58; VM、虚拟网络和虚拟硬盘。
+  - 了解网络配置，包括TCP/IP，域名系统（DNS），虚拟专用网络（VPN），防火墙和加密技术。
+  - 了解Active Directory概念，包括域，林，域控制器，复制，Kerberos协议和轻型目录访问协议（LDAP）。
+  - 了解弹性和灾难恢复，包括备份和还原操作。
+outlineSection: |-
+  ### 模块 1&#58; Azure管理
+  在本模块中，您将了解Azure管理员用来管理其基础结构的工具。这包括Azure门户，Cloud Shell，Azure PowerShell，CLI，资源管理器和资源管理器模板。本模块中的演示将确保您在课程实验中取得成功。
+  #### 课程
+  - Azure门户和Cloud Shell
+  - Azure PowerShell和CLI
+  - 资源管理器
+  - ARM模板
+  ### 模块 2&#58; Azure虚拟机
+  在本模块中，您将了解Azure虚拟机，包括计划，创建，可用性和扩展。
+  #### 课程
+  - 虚拟机规划
+  - 创建虚拟机
+  - 虚拟机可用性
+  - 虚拟机扩展
+  #### 实验 &#58; 部署和管理虚拟机
+  #### 实验 &#58; 虚拟机和规模集
+
+  ### 模块 3&#58; Azure存储
+  在本模块中，您将学习基本的存储功能，包括存储帐户，blob存储，Azure文件和存储安全性。
+  #### 课程
+  - 存储帐户
+  - Azure Blob
+  - Azure文件
+  - 存储安全
+
+
+  #### 实验 &#58; 实施和管理存储
+
+  ### 模块 4&#58; 虚拟网络
+  在本模块中，您将学习基本的虚拟网络概念，例如虚拟网络、IP寻址、Azure DNS和网络安全组。
+  #### 课程
+  - 虚拟网络
+  - IP地址和端点
+  - Azure DNS
+  - 网络安全组
+
+
+  #### 实验 &#58; 配置Azure DNS
+
+  ### 模块 5&#58; 站点间连接
+  在本模块中，您将学习站点间连接功能，包括VNet对等，VNet到VNet连接，站点到站点连接和ExpressRoute。
+  #### 课程
+  - VNet对等
+  - VNet到VNet连接
+  - ExpressRoute连接
+
+
+  #### 实验 &#58; VNet对等和服务链接
+
+  ### 模块 6&#58; 监控
+  在本模块中，您将了解有关监视Azure基础结构的信息，包括Azure Monitor，警报，日志分析和Network Watcher。
+
+  #### 课程
+  - Azure 监视器
+  - Azure警报
+  - 日志分析
+  - 网络观察者
+
+
+  #### 实验 &#58; 网络观察者
+
+  ### 模块 7&#58; 数据保护
+  在本模块中，您将了解数据复制策略，备份文件和文件夹以及虚拟机备份。
+
+  #### 课程
+  - 数据复制
+  - 文件和文件夹备份
+  - 虚拟机备份
+
+
+  #### 实验 &#58; 区域之间的Azure网站恢复
+
+  ### 模块 8&#58; 网络流量管理
+  在本模块中，您将了解网络流量策略，包括服务终结点，网络路由，Azure负载均衡器和Azure Traffic Manager。
+
+  #### 课程
+  - 网络路由
+  - Azure负载平衡器
+  - Azure交通管理器
+
+
+  #### 实验 &#58; 负载均衡器和流量管理器
+
+  ### 模块 9&#58; Azure Active Directory
+  在本模块中，您将了解Azure Active Directory（AD），包括Azure AD Connect和Azure AD Join。
+
+  #### 课程
+  - Azure Active Directory
+  - Azure AD连接
+  - Azure AD 连接
+
+
+  #### 实验 &#58; 实现目录同步
+
+  ### 模块 10&#58; 保护身份
+  在本模块中，您将学习如何保护身份，包括多重身份验证，Azure AD身份保护和自助密码重置。
+  #### 课程
+  - 多重身份验证
+  - Azure AD 身份保护
+  - 自助密码重置
+
+
+  #### 实验 &#58; Azure AD身份保护
+
+  #### 实验 &#58; 重置自助密码
+
+  ### 模块 11&#58; 治理与合规
+  在本模块中，您将学习有关管理订阅和帐户的信息，包括基于角色的访问控制，用户和组以及Azure策略。
+
+  #### 课程
+  - 订阅和帐户
+  - 基于角色的访问控制（RBAC）
+  - 用户和组
+  - Azure策略
+
+
+  #### 实验 &#58; 基于角色的访问控制
+
+  #### 实验 室&#58; 治理与合规
+
+  ### 模块 12&#58; 数据服务
+  在本模块中，您将学习如何使用导入和导出服务，数据框，内容传送网络和文件同步有效地共享数据。
+
+  #### 课程
+  - 内容传送网络
+  - 文件同步
+  - 进出口服务
+  - 数据盒
+
+
+  #### 实验 &#58; 文件同步
+

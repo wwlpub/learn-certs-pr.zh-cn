@@ -1,0 +1,105 @@
+### YamlMime:Course
+title: 实施DevOps开发过程
+metadata:
+  title: '课程 AZ-400T01-A: 实施devOps开发过程'
+  description: '课程 AZ-400T01-A: 实施devOps开发过程'
+uid: course.az-400t01
+courseNumber: 'AZ-400T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述使用源代码管理的好处
+- skill: 从TFVC迁移到Git
+- skill: 企业DevOps的Scale Git
+- skill: 实施和管理构建基础架构
+- skill: 管理应用程序配置和机密
+- skill: 实施移动 DevOps 策略
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  本课程提供实施DevOps流程的知识和技能。学生将学习如何使用源代码控制，为企业扩展Git以及实现和管理构建基础结构。
+  #### 受众概况
+  本课程的学生对实现DevOps流程或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
+prerequisitesSection: |-
+  关于Azure，版本控制，敏捷软件开发和核心软件开发原理的基础知识。拥有在软件供应组织的工作经验会很有帮助。
+outlineSection: |-
+  ### 模块 1&#58; 源代码控制入门
+  #### 课程
+  - 什么是源代码管理？
+  - 源代码管理的好处
+  - 源代码管理系统的类型
+  - Azure存储库简介
+  - 从Team Foundation版本控制（TFVC）迁移到Git
+  - 验证您的Git回购
+  学完本模块后，学生将能够&#58;
+  - 描述使用源代码管理的好处
+  - 从TFVC迁移到Git
+
+  ### 模块 2&#58; 为企业DevOps扩展git
+  #### 课程
+  - 如何构建您的Git回购
+  - Git分支工作流程
+  - 与拉取请求协作
+  - 为什么要关心GitHooks？
+  - 促进内部开源
+  - Git版本
+  - 公共项目
+  - Git中的文件
+  学完本模块后，学生将能够&#58;
+  - 适用于企业DevOps的Scale Git
+  
+  ### 模块 3&#58; 实施和管理构建基础架构
+  #### 课程
+  - DevOps中的管道概念
+  - Azure管道
+  - 评估托管代理与私有代理的使用
+  - 代理池
+  - 管道和并发
+  - Azure DevOps和开源项目
+  - Azure Pipelines YAML与Visual Designer
+  - 设置私人代理
+  - 将Jenkins与Azure Pipelines集成
+  - 将外部源代码控制与Azure Pipelines集成
+  - 分析和集成 Docker 多阶段构建
+
+  学完本模块后，学生将能够&#58;
+  - 实施和管理构建基础架构
+
+
+  ### 模块 4&#58; 管理应用程序配置和机密
+  #### 课程
+  - 安全简介
+  - 实施安全且合规的开发流程
+  - 重新考虑应用程序配置数据
+  - 管理Secret、令牌和证书
+  - 实施用于在管道中管理安全性和合规性的工具
+
+  学完本模块后，学生将能够&#58;
+  - 管理应用程序配置和机密
+
+
+  ### 模块 5&#58; 实施移动DevOps策略
+  #### 课程
+  - 移动DevOps简介
+  - Visual Studio App Center简介
+  - 管理移动目标设备集和通讯组
+  - 管理目标UI测试设备集
+  - 提供测试设备以进行部署
+  - 创建公有和私有通讯组
+
+  学完本模块后，学生将能够&#58;
+  - 实施移动 DevOps 策略
+

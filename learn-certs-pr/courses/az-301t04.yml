@@ -1,0 +1,88 @@
+### YamlMime:Course
+title: 设计基础架构策略
+metadata:
+  title: '课程 AZ-301T04-A: 设计基础架构策略'
+  description: '课程 AZ-301T04-A: 设计基础架构策略'
+uid: course.az-301t04
+courseNumber: 'AZ-301T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述从“云设计模式”中提取的各种模式。
+- skill: 使用负载平衡器在多个负载之间分配网络流量。
+- skill: 设计云和内部部署之间的混合连接方案。
+- skill: 设计一个或多个虚拟机的可用性集。
+- skill: 描述故障域和更新域之间的差异。
+- skill: 编写一个VM Scale Set ARM模板。
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  了解如何描述Azure中VNET的DNS和IP策略，比较即席连接和混合连接的连接选项，使用负载平衡器在多个负载之间分配网络流量，以及如何设计云和内部部署之间的混合连接方案。
+  #### 受众概况
+  成功的云解决方案架构师从在操作系统，虚拟化，云基础架构，存储结构，计费和网络方面的实践经验开始担任这一角色。
+outlineSection: |-
+  ### 模块 1&#58; Azure中的应用程序架构模式
+  此模块介绍并查看Microsoft模式和实践团队规定的常见Azure模式和架构。每个模式都分为性能、弹性和可伸缩性类别，并在该类别内的类似模式环境中进行描述。
+  学完本模块后，学生将能够&#58;
+  - 找到并引用Cloud Design Patterns文档。
+  - 找到并引用Azure架构中心。
+  - 描述从Cloud Design Patterns中提取的各种模式。
+
+  ### 模块 2&#58; 构建基于Azure IaaS的服务器应用程序（ADSK）
+  此模块确定理想情况下使用Azure中的基础架构即服务服务部署的工作负载。该模块重点介绍Azure中的虚拟机（VM）规模集和VM服务，以及如何使用最佳实践和功能（例如可用性集）将工作负载最佳地部署到这些服务。
+  #### 实验 &#58; 构建基于Azure IaaS的服务器应用程序。
+  学完本模块后，学生将能够&#58;
+  - 设计一个或多个虚拟机的可用性集。
+  - 描述故障域和更新域之间的差异。
+  - 编写VM规模集Azure资源管理器（ARM）模板。
+  - 将虚拟机加入Azure或混合网络中的域。
+  
+  ### 模块 3&#58; 联网Azure应用程序组件
+  本模块描述了可用于Azure上部署的解决方案的各种联网和连接选项。本模块探讨了从临时连接到长期混合连接方案的连接选项。本模块还讨论了与在多个计算实例之间平衡工作负载，将本地基础结构连接到云以及为本地数据创建网关有关的一些性能和安全性问题。
+
+  #### 实验 &#58; 部署网络基础结构以在Azure解决方案中使用
+  学完本模块后，学生将能够&#58;
+  - 描述Azure中VNET的DNS和IP策略。
+  - 比较临时和混合连接的连接选项。
+  - 使用负载平衡器在多个负载之间分配网络流量。
+  - 设计云和内部部署之间的混合连接方案。
+
+
+  ### 模块 4&#58; 使用Messaging Services集成Azure解决方案组件
+  本模块描述并比较了可用于Azure平台上托管的解决方案的集成和消息服务。所描述的消息传递服务包括Azure存储队列，服务总线队列，服务总线中继，IoT中心，事件中心和通知中心。集成服务包括Azure Functions和Logic Apps。
+
+  #### 实验 &#58; 使用Messaging Services集成Azure解决方案组件
+  学完本模块后，学生将能够&#58;
+  - 将存储队列与服务总线队列进行比较。
+  - 确定何时在解决方案中使用Azure Functions或Logic Apps集成组件。
+  - 描述IoT中心，事件中心和时序见解之间的差异。
+

@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: 迁移至 SharePoint Online
+metadata:
+  title: '课程 MS-301T04-A: 迁移至 SharePoint Online'
+  description: '课程 MS-301T04-A: 迁移至 SharePoint Online'
+uid: course.ms-301t04
+courseNumber: 'MS-301T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划内容迁移过程。
+- skill: 描述迁移过程中可利用的资源和工具。
+- skill: 使用SharePoint迁移评估工具（SMAT）访问要迁移的数据。
+- skill: 使用SharePoint迁移评估工具（SMAT）将内容迁移到云端。
+- skill: 管理和监控迁移 。
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  业务环境已经发生了变化。人们希望在没有合作障碍的情况下进行交流。企业开始考虑将内容迁移到云，作为一种经济高效的解决方案，使用户能够从几乎任何地方连接到他们需要的资源和内容。在本课程中，您将学习如何规划内容迁移过程，以及在将内容迁移到SharePoint Online和OneDrive for Business时可用的资源和工具。具体来说，本课程将介绍如何在不同的迁移场景中使用SharePoint迁移评估工具（SMAT）和SharePoint迁移工具（SPMT）。
+
+  本课程是为在组织中部署和管理团队协作基础设施的IT专业人员设计的。
+
+  这是面向Teamwork Administrator角色的四门系列课程中的最后一课。这些课程有助于准备考试MS-301&#58;部署SharePoint Server Hybrid。
+  
+  #### 受众概况
+  该考试适用于Microsoft 365 Teamwork Administrator角色。此角色负责配置、部署和管理专注于高效协作和采用的Office 365和Azure工作负载。他们管理应用程序、服务和支持基础架构，以满足业务需求。管理员知道并可以区分产品和服务，但不能直接管理每个产品或服务。
+
+  Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
+
+  Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58；
+  - 使用Windows PowerShell的体验。
+  - 对SQL Server管理的基本了解。
+  - 对网络（包括DNS）的基本了解。
+  - 关于Windows服务器管理的工作知识。
+  - 对活动目录和Azure AD的基本了解。
+  - 基本了解移动设备管理和其他操作系统（Android和MacOS）。
+outlineSection: |-
+  ### 模块 1&#58; 迁移简介
+  本模块主要是规划到云的迁移过程。它概述了迁移过程中可利用的资源和工具。
+  #### 课程
+  - 迁移概述
+  - 利用FastTrack和合作伙伴服务
+  学完本模块后，学生将能够&#58;
+  - 规划内容迁移过程。
+  - 描述迁移过程中可利用的资源和工具。
+
+  ### 模块 2&#58; 迁移到SharePoint Online
+  本模块的重点是使用SharePoint迁移工具（SPMT）将内容迁移到云。模块具体讨论了SPMT的要求和局限性。针对不同的数据源，如文件共享和SharePoint内容，本模块介绍了不同的迁移方法。
+  #### 课程
+  - 准备迁移
+  - 将内容迁移到云
+  - 管理和监控迁移过程
+  学完本模块后，学生将能够&#58;
+  - 使用SharePoint迁移评估工具（SMAT）访问要迁移的数据。
+  - 使用SharePoint迁移评估工具（SMAT）将内容迁移到云端。
+  - 管理和监控迁移过程。
+  
+  ### 模块 3&#58; 课程总结
+
+  ### 实验室 &#58; 将文件迁移到SharePoint Online
+

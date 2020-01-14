@@ -1,0 +1,63 @@
+### YamlMime:Course
+title: Dynamics 365 for Field Service通用资源调度
+metadata:
+  title: '课程 MB-240T03-A: Dynamics 365 for Field Service通用资源调度'
+  description: '课程 MB-240T03-A: Dynamics 365 for Field Service通用资源调度'
+uid: course.mb-240t03
+courseNumber: 'MB-240T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 确定用于调度项目的核心组件
+- skill: 配置应用程序，以最佳地利用调度功能
+- skill: 利用调度功能定位和调度工作资源
+- skill: 调整应用程序，以最好地代表组织需求
+- skill: 开发可用于调度单个或多个资源的解决方案
+- skill: 确定通用资源调度中可用的扩展选项
+learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  任何需要资源来执行服务的组织都需要能够有效地根据组织需求定义的要求来识别和调度。Dynamics 365的通用资源调度解决方案通过提供可配置的工具集，使组织能够更有效地管理和调度这些资源。
+  本课程将使学生具备必要的技能，以配置和使用可用于更有效地管理组织资源的工具。关键主题包括确定从哪里开始，以及驱动资源调度决策的组织注意事项。一个主要的焦点将是如何最好地利用现有的工具来定位和调度资源，例如使用调度板和调度助手。此外，我们将研究定制场景，例如启用项目进行调度、定义调度板选项、使用多个调度板以及扩展核心调度功能。
+  本课程有助于学生更好地了解在安排资源时对组织具有重要性的内容，并将重点放在实施注意事项上。这些注意事项有助于设计与客户和组织目标相一致的更高效的解决方案。
+prerequisitesSection: |-
+  对Dynamics 365的特性、功能和导航的基本了解。
+outlineSection: |-
+  ### 模块 1&#58; 通用资源调度
+  #### 课程
+  - 通用资源调度 (URS) 概述和配置
+  - 为URS启用实体
+  - 实体定制和自动化注意事项
+
+  ### 模块 2&#58; 管理调度选项
+  #### 课程
+  - 使用调度板
+  - 调度项目
+  - 重新调度和替代资源
+  - 技术人员团队和资源池调度
+
+  ### 模块 3&#58; 定制调度板
+  #### 课程
+  - 配置调度板
+  - 创建额外的调度板
+  - 利用带有调度板的Dynamics 365视图
+  - 配置调度板查询和过滤条件
+  - 设置要求分组
+  
+  ### 模块 4&#58; 资源调度优化
+  #### 课程
+  - 资源调度优化概述
+  - 定义优化目标
+  - 定义优化范围
+  - 定义优化配置文件
+
