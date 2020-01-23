@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年12月3日更新。请下载下面的技能评估文档，看看有何变化。<br/><br/></div>
-
   本考试的考生是将人员、过程和技术相结合以便持续提供满足最终用户需求和商业目标的 DevOps 专业人士。通过优化实务、改进沟通和协作并建立自动化，DevOps 专业人士可以简化交付过程。他们为允许持续集成、测试、持续交付以及监控和反馈的应用代码和基础架构设计并实施策略。
 
   考生必须精通敏捷 (Agile) 实务。他们必须熟悉 Azure 管理和 Azure 开发，并且至少是这些领域其中之一的专家。DevOps 专业人士必须能够通过使用 Azure 技术设计和实施 DevOps 实务，以便实现版本控制、合规性、架构即代码、配置管理、版本构建、发布和测试。
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- 此考试内容于2019年12月3日更新。请下载下面的技能评估文档，看看有何变化。
 - 设计 DevOps 策略（20-25%）
 - 实施 DevOps 开发流程（20-25%）
 - 实施持续集成（10-15%）
@@ -45,6 +42,7 @@ paths:
 - uid: learn.azdo.build-applications-with-azure-devops
 - uid: learn.azdo.deploy-applications-with-azure-devops
 - uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02

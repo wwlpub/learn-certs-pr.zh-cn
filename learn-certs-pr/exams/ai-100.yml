@@ -6,8 +6,6 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年11月26日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
-  
   本考试的考生能够分析 AI 解决方案的要求，推荐适当的工具和技术，并实施满足可扩展性和性能要求的解决方案。
   <br/>
 
@@ -28,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试内容于2019年11月26日更新。请下载下面的技能评估文档，看看有何变化。
 - 分析解决方案要求 (25-30%)
 - 设计 AI 解决方案 (40-45%)
 - 实施和监控 AI 解决方案 (25-30%)

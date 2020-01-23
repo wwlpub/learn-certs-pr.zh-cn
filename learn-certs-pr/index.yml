@@ -76,7 +76,7 @@ trainingSection:
     summary: 借助Microsoft Learn，任何人都可以按照自己的进度和时间表掌握核心概念。无论是学习核心任务的单个模块，还是通过相关模块的集合全面探讨主题的模块。
     browseLinks:
     - text: 浏览所有学习路径
-      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/zh-cn/learn/browse/?resource_type=learning%20path
   - image:
       alt: 向桌子周围坐着的四个人作展示的男性
       src: /learn/certifications/images/image-working-group.jpg

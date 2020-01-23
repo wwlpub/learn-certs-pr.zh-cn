@@ -6,9 +6,6 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年11月22日更新。请下载下面的技能评估文档，看看有何变化。<br/></div>
-  <br/>
-  
   如果您在2019年3月31日停用前通过了 [考试 70-698](https://www.microsoft.com/zh-cn/learning/exam-70-698.aspx)，您将仅需要参加MD-101考试即可获得现代桌面认证。本次考试的候选人员是在企业环境中部署、配置、保护、管理和监视设备和客户端应用程序的管理员。考试负责管理身份、访问、策略、更新和应用程序。
   <br/>
 
@@ -16,7 +13,7 @@ summary: |-
   <br/>
 
   考生必须熟悉 Microsoft 365 工作负荷，并且必须精通部署、配置和维护 Windows 10 及非 Windows 设备和技术并具有丰富的经验。
-subTitle: '此考试评估您完成以下技术任务的能力：部署和更新操作系统；管理策略和配置文件；管理和保护设备；管理应用程序和数据。如果您在2019年3月31日停用前通过了 [考试 70-698]，您将仅需要参加MD-101考试即可获得现代桌面认证。'
+subTitle: '此考试评估您完成以下技术任务的能力：部署和更新操作系统；管理策略和配置文件；管理和保护设备；管理应用程序和数据。如果您在2019年3月31日停用前通过了 考试 70-698 您将仅需要参加MD-101考试即可获得现代桌面认证。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,7 +23,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试内容于2019年11月22日更新。请下载下面的技能评估文档，看看有何变化。
 - 部署和升级操作系统 (15-20%)
 - 管理策略和配置文件(35-40%)
 - 管理和保护设备(15-20%)

@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的内容于2019年11月6日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
-  
   这次考试的考生是 Azure 开发者，他们设计和构建 Cloud 解决方案，如应用程序和服务。他们参与开发的各个阶段，从解决方案设计，开发部署，到测试和维护。他们与 Cloud 解决方案架构师、 Cloud 数据库、 Cloud 管理员和客户合作，以实现解决方案。
   <br/>
 
@@ -27,7 +25,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试内容于2019年11月6日更新。请下载下面的技能评估文档，看看有何变化。
 - 开发 Azure 基础架构即服务计算解决方案(10-15%)
 - 开发 Azure 平台即服务计算解决方案(20-25%)
 - 开发 Azure 存储 (15-20%)
