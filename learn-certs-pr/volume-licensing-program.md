@@ -2,7 +2,6 @@
 title: 批量许可客户的软件培训 | Microsoft 文档
 description: 批量许可客户的软件培训
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

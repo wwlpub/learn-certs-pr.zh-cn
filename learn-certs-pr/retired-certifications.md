@@ -2,7 +2,6 @@
 title: Microsoft 停用认证/Microsoft 文档
 description: Microsoft 停用认证
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

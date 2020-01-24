@@ -2,7 +2,6 @@
 title: Microsoft培训和认证帮助 | Microsoft Docs
 description: Microsoft 培训和认证帮助
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

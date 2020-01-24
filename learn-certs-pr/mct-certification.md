@@ -2,7 +2,6 @@
 title: 成为Microsoft认证培训师 | Microsoft Docs
 description: 成为 Microsoft 认证讲师
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

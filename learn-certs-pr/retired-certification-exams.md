@@ -2,7 +2,6 @@
 title: Microsoft 停用考试/Microsoft 文件
 description: Microsoft 停用考试
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

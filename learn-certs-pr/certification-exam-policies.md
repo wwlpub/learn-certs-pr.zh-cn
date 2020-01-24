@@ -2,7 +2,6 @@
 title: 认证考试政策/Microsoft 文档
 description: 认证考试政策
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
