@@ -76,7 +76,7 @@ trainingSection:
     summary: 借助Microsoft Learn，任何人都可以按照自己的进度和时间表掌握核心概念。无论是学习核心任务的单个模块，还是通过相关模块的集合全面探讨主题的模块。
     browseLinks:
     - text: 浏览所有学习路径
-      url: https://docs.microsoft.com/zh-cn/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
   - image:
       alt: 向桌子周围坐着的四个人作展示的男性
       src: /learn/certifications/images/image-working-group.jpg
@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: 寻找 Microsoft Learning Partner
       summary: 我们的全球合作伙伴网络可以为 Microsoft 技术提供灵活的、基于解决方案的定制培训。
-      url: https://www.microsoft.com/zh-cn/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: 为认证和考试提供的支持
       summary: 通过支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Microsoft 认证
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Microsoft 认证的好处
     summary: 获得认证后，23% 的Microsoft 认证技术人员报告了薪水增长20%。而且，获得认证的员工通常会授予监督其同事的重任，这可让他们快速得到晋升。—2017 Pearson VUE认证价值白皮书。
   items:

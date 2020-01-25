@@ -8,7 +8,7 @@ displayName: MS-302
 summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>该考试已于2019年9月30日停用。注意：考试将于美国中部标准时间晚上11:59停用</div>
   <br/>   
-  此考试仅适用于参加了[考试70-339：](https://www.microsoft.com/zh-cn/learning/exam-70-339.aspx)管理Microsoft SharePoint Server 2016的考生。如果您没有考过考试339，那么您将无法通过此考试获得认证。
+  此考试仅适用于参加了[考试70-339：](https://www.microsoft.com/learning/exam-70-339.aspx)管理Microsoft SharePoint Server 2016的考生。如果您没有考过考试339，那么您将无法通过此考试获得认证。
 
   此考试的考生是 Teamwork 管理员，他们负责配置、部署和管理专注于高效有效协作和使用的 Office 365 和 Azure 工作负荷。Teamwork 管理员可管理应用程序、服务和支持基础架构，以满足业务需求。Teamwork Administrator 必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
 
@@ -50,7 +50,7 @@ resources:
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

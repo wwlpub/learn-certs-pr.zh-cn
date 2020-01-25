@@ -9,7 +9,7 @@ summary: |-
   <div style='color&#58; red; font-weight&#58; bold;'>该考试已于2019年6月30日停用。注意&#58; 考试将于美国中部标准时间晚上11:59停用</div>
   <br/> 
   
-  此项考试仅适用于已考过 [考试 70-535](https://www.microsoft.com/zh-cn/learning/exam-70-535.aspx) 的考生&#58;设计 Microsoft Azure 解决方案架构.如果您没有考过考试535，那么您将无法通过此考试获得认证。
+  此项考试仅适用于已考过 [考试 70-535](https://www.microsoft.com/learning/exam-70-535.aspx) 的考生&#58;设计 Microsoft Azure 解决方案架构.如果您没有考过考试535，那么您将无法通过此考试获得认证。
 
   过渡考试适用于通过新的基于角色的认证考试将要替代的现有考试，已经证明其技能的考生。它们涵盖了当前认证与新认证所需能力之间的差异。我们不想用同样的内容来重新测试考生，他们通过现有的考试已经证明了自己在这些领域的能力。
 
@@ -20,7 +20,7 @@ summary: |-
   考生应该具有跨 IT 操作的各个方面的资深经验和知识，包括网络、虚拟化、标识、安全性、业务连续性、灾难恢复、数据管理、预算和治理。这个角色需要管理每个区域中的决策如何影响整体解决方案。
 
   考生必须精通 Azure 管理、Azure 开发和 DevOps，并具有至少一个领域的专家级技能。
-subTitle: '此项考试仅适用于已考过 [考试 70-535](https://www.microsoft.com/zh-cn/learning/exam-70-535.aspx) 的考生：设计 Microsoft Azure 解决方案架构.如果您没有考过考试535，那么您将无法通过此考试获得认证。'
+subTitle: '此项考试仅适用于已考过 [考试 70-535](https://www.microsoft.com/learning/exam-70-535.aspx) 的考生：设计 Microsoft Azure 解决方案架构.如果您没有考过考试535，那么您将无法通过此考试获得认证。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwC
 scheduleExamUrl: https://examregistration.microsoft.com/
@@ -58,7 +58,7 @@ resources:
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

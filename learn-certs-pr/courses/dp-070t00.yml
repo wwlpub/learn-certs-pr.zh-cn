@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 将本地MySQL迁移到Azure SQL DB for MySQL
 - skill: 将本地PostgreSQL迁移到Azure SQL DB for PostgreSQL
-learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

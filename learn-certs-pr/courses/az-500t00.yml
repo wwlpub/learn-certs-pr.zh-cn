@@ -13,7 +13,7 @@ skillsGained:
 - skill: 实施Azure数据加密方法
 - skill: 安全Internet协议以及如何在Azure上实现它们
 - skill: 描述Azure安全服务和功能
-learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -38,7 +38,7 @@ summary: |-
   #### 受众概况
   在确保Azure工作负载安全，以及Azure工作负载的安全控制方面，学生应具有至少一年的实践经验。
 prerequisitesSection: |-
-  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/zh-cn/learn/certifications/azure-administrator)
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### 模块 1&#58; 身份和访问
   #### 课程

@@ -7,7 +7,7 @@ uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -34,7 +34,7 @@ summary: |-
   本课程的听众是希望了解Microsoft Azure上存在的数据平台技术的数据专业人员，数据架构师和商业智能专业人员。本课程的主要听众是开发应用程序的人员，这些应用程序可以利用Microsoft Azure上存在的数据平台技术提供内容。
 prerequisitesSection: |-
   除了专业经验外，参加此培训的学生还应具有与以下课程相当的技术知识&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/zh-cn/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
   - DP-200&#58; 实施Azure数据解决方案
 outlineSection: |-
   ### 模块 1&#58; 数据平台架构注意事项
