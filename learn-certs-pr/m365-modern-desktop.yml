@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 认证的：Modern Desktop 管理员助理'
+title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
-  title: 'Microsoft 365 认证的：Modern Desktop 管理员助理'
-  description: '现代桌面管理员在企业环境中部署、配置、保护、管理和监控设备和客户端应用程序。'
+  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: 现代桌面管理员在企业环境中部署、配置、保护、管理和监控设备和客户端应用程序。
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  现代桌面管理员在企业环境中部署、配置、保护、管理和监控设备和客户端应用程序。
+summary: 现代桌面管理员在企业环境中部署、配置、保护、管理和监控设备和客户端应用程序。
 subTitle: 现代桌面管理员在企业环境中部署、配置、保护、管理和监控设备和客户端应用程序。
 levels:
 - intermediate
@@ -41,7 +40,7 @@ exams:
 - uid: exam.md-101
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Modern Desktop Administrator Associate。'
+  description: 发现培训资源以获得 Microsoft 认证：Modern Desktop Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

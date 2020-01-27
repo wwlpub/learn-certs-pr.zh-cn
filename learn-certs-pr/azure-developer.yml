@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证： Azure Developer Associate'
+title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
-  title: 'Microsoft 认证： Azure Developer Associate'
-  description: 'Microsoft Azure 开发人员设计、构建、测试和维护 Cloud 解决方案（如应用程序和服务），与 Cloud 解决方案架构师， Cloud  DBA， Cloud 管理员和客户合作以实施这些解决方案。'
+  title: 'Microsoft Certified: Azure Developer Associate'
+  description: Microsoft Azure 开发人员设计、构建、测试和维护 Cloud 解决方案（如应用程序和服务），与 Cloud 解决方案架构师， Cloud  DBA， Cloud 管理员和客户合作以实施这些解决方案。
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Azure 开发人员设计、构建、测试和维护 Cloud 解决方案（如应用程序和服务），与 Cloud 解决方案架构师， Cloud  DBA， Cloud 管理员和客户合作以实施这些解决方案。
+summary: Microsoft Azure 开发人员设计、构建、测试和维护 Cloud 解决方案（如应用程序和服务），与 Cloud 解决方案架构师， Cloud  DBA， Cloud 管理员和客户合作以实施这些解决方案。
 subTitle: Microsoft Azure 开发人员设计、构建、测试和维护 Cloud 解决方案（如应用程序和服务），与 Cloud 解决方案架构师， Cloud  DBA， Cloud 管理员和客户合作以实施这些解决方案。
 levels:
 - intermediate
@@ -31,7 +30,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-
 courses:
 - uid: course.az-203t01
 - uid: course.az-203t02
@@ -57,7 +55,7 @@ exams:
 - uid: exam.az-203
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Azure Developer Associate。'
+  description: 发现培训资源以获得Microsoft认证：Azure Developer Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

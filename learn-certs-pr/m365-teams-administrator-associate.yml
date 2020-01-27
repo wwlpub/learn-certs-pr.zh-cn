@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 认证: Teams Administrator Associate'
+title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
-  title: 'Microsoft 365 认证: Teams Administrator Associate'
+  title: 'Microsoft 365 Certified: Teams Administrator Associate'
   description: Microsoft Teams Administrator为专注于企业环境中的高效协作和通信的Microsoft Teams配置、部署和管理Office 365工作负载。
 uid: certification.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   Microsoft Teams Administrator为专注于企业环境中的高效协作和通信的Microsoft Teams配置、部署和管理Office 365工作负载。
-  
+
+
   Microsoft Teams Administrator必须能够规划、部署和管理Teams聊天、应用程序、频道、会议、音频会议、现场活动和通话。
 subTitle: Microsoft Teams Administrator为专注于企业环境中的高效协作和通信的Microsoft Teams配置、部署和管理Office 365工作负载。
 levels:
@@ -31,7 +32,7 @@ exams:
 - uid: exam.ms-700
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Teams Administrator Associate。'
+  description: 发现培训资源以获得Microsoft认证：Teams Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -1,24 +1,25 @@
 ### YamlMime:Examination
-title: Microsoft Azure 基础知识
+title: Microsoft Azure Fundamentals
 metadata:
-  title: '考试 AZ-900：Microsoft Azure Fundamentals'
-  description: '考试 AZ-900：Microsoft Azure Fundamentals'
+  title: 考试 AZ-900：Microsoft Azure Fundamentals
+  description: 考试 AZ-900：Microsoft Azure Fundamentals
 uid: exam.az-900
 displayName: AZ-900
-summary: |-
+summary: >-
   此考试面向希望证明自己掌握 Cloud 服务基础知识以及如何通过 Microsoft Azure 提供这些服务的考生。该考试适用于具有非技术背景的考生，例如参与销售或购买基于 Cloud 的解决方案和服务的人员，或者参与基于 Cloud 的解决方案和服务的人员，以及具有技术背景并需要证明自己具有 Cloud 服务基础知识的人员。不要求具有 IT 技术经验，然而，一些一般性的 IT 知识或经验将是有益的。
 
+
   本考试可以被看作是了解 Cloud 服务以及 Microsoft Azure 如何举例证明那些概念的可选的第一步。它可被看作是 Microsoft Azure 或 Microsoft  Cloud 服务考试的一个先导。尽管这是有益的第一步，但在参加任何其他基于 Azure 的认证之前，验证基础水平知识、参加此考试并不是先决条件。
-subTitle: '此考试衡量您理解以下概念的能力：云概念；核心Azure服务；安全，隐私，合规和信任；以及Azure定价和支持。'
+subTitle: 此考试衡量您理解以下概念的能力：云概念；核心Azure服务；安全，隐私，合规和信任；以及Azure定价和支持。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=考试%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=考试%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:
@@ -39,7 +40,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Azure Fundamentals。'
+  description: 发现培训资源以获得Microsoft认证：Azure Fundamentals。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证的：Azure Solutions Architect Expert'
+title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
-  title: 'Microsoft 认证的：Azure Solutions Architect Expert'
-  description: 'Microsoft Azure Solutions Architects 必须具备计算、网络、存储和安全方面的专业知识，以便他们可以设计在 Azure 上运行的解决方案。'
+  title: 'Microsoft Certified: Azure Solutions Architect Expert'
+  description: Microsoft Azure Solutions Architects 必须具备计算、网络、存储和安全方面的专业知识，以便他们可以设计在 Azure 上运行的解决方案。
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Microsoft Azure Solutions Architects 必须具备计算、网络、存储和安全方面的专业知识，以便他们可以设计在 Azure 上运行的解决方案。
+summary: Microsoft Azure Solutions Architects 必须具备计算、网络、存储和安全方面的专业知识，以便他们可以设计在 Azure 上运行的解决方案。
 subTitle: Microsoft Azure Solutions Architects 必须具备计算、网络、存储和安全方面的专业知识，以便他们可以设计在 Azure 上运行的解决方案。
 levels:
 - advanced
@@ -74,7 +73,7 @@ exams:
 - uid: exam.az-301
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Azure Solutions Architect Expert。'
+  description: 发现培训资源以获得 Microsoft 认证：Azure Solutions Architect Expert。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

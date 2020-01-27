@@ -1,21 +1,20 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 认证的：Messaging 助理管理员'
+title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
-  title: 'Microsoft 365 认证的：Messaging 助理管理员'
-  description: 'Microsoft 365 Messaging Administrators 在本地、混合和 Cloud 企业环境中部署、配置、管理和监视消息传递基础结构、权限、客户端访问、邮件保护和邮件流。'
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  description: Microsoft 365 Messaging Administrators 在本地、混合和 Cloud 企业环境中部署、配置、管理和监视消息传递基础结构、权限、客户端访问、邮件保护和邮件流。
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft 365 Messaging Administrators 在本地、混合和 Cloud 企业环境中部署、配置、管理和监视消息传递基础结构、权限、客户端访问、邮件保护和邮件流。
+summary: Microsoft 365 Messaging Administrators 在本地、混合和 Cloud 企业环境中部署、配置、管理和监视消息传递基础结构、权限、客户端访问、邮件保护和邮件流。
 subTitle: Microsoft 365 Messaging Administrators 在本地、混合和 Cloud 企业环境中部署、配置、管理和监视消息传递基础结构、权限、客户端访问、邮件保护和邮件流。
 levels:
 - intermediate
 skills:
-- 管理现代消息传递基础架构 
-- 管理邮件流拓扑 
-- 管理收件人和设备 
-- 规划和实施混合配置和迁移 
-- 保护消息传递环境 
+- 管理现代消息传递基础架构
+- 管理邮件流拓扑
+- 管理收件人和设备
+- 规划和实施混合配置和迁移
+- 保护消息传递环境
 - 管理组织设置
 roles:
 - administrator

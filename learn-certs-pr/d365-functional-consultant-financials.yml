@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证：Dynamics 365 Finance Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 认证：Dynamics 365 Finance Functional Consultant Associate'
-  description: 'Dynamics 365财务职能顾问统一了全球财务和运营；自动化任务和工作流程；并简化客户的订购，销售，发票和报告。'
+  title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+  description: Dynamics 365财务职能顾问统一了全球财务和运营；自动化任务和工作流程；并简化客户的订购，销售，发票和报告。
 uid: certification.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-   Dynamics 365财务职能顾问统一了全球财务和运营；自动化任务和工作流程；并简化客户的订购，销售，发票和报告。
-subTitle: 'Dynamics 365财务职能顾问统一了全球财务和运营；自动化任务和工作流程；并简化客户的订购，销售，发票和报告。'
+summary: Dynamics 365财务职能顾问统一了全球财务和运营；自动化任务和工作流程；并简化客户的订购，销售，发票和报告。
+subTitle: Dynamics 365财务职能顾问统一了全球财务和运营；自动化任务和工作流程；并简化客户的订购，销售，发票和报告。
 levels:
 - intermediate
 skills:
@@ -51,7 +50,7 @@ exams:
 - uid: exam.mb-310
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Finance Functional Consultant Associate'
+  description: 发现培训资源以获得Microsoft认证：Dynamics 365 Finance Functional Consultant Associate
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svL
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

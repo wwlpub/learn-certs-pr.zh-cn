@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: Microsoft 365 认证基础
+title: Microsoft 365 Certified Fundamentals
 metadata:
-  title: Microsoft 365 认证基础
-  description: '证明您了解 Microsoft 365 中可用的选项以及采用 Cloud 服务，软件即服务（SaaS） Cloud 模型和实施 Microsoft 365 Cloud 服务的好处。'
+  title: Microsoft 365 Certified Fundamentals
+  description: 证明您了解 Microsoft 365 中可用的选项以及采用 Cloud 服务，软件即服务（SaaS） Cloud 模型和实施 Microsoft 365 Cloud 服务的好处。
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  证明您了解 Microsoft 365 中可用的选项以及采用 Cloud 服务，软件即服务（SaaS） Cloud 模型和实施 Microsoft 365 Cloud 服务的好处。
+summary: 证明您了解 Microsoft 365 中可用的选项以及采用 Cloud 服务，软件即服务（SaaS） Cloud 模型和实施 Microsoft 365 Cloud 服务的好处。
 subTitle: 证明您了解 Microsoft 365 中可用的选项以及采用 Cloud 服务，软件即服务（SaaS） Cloud 模型和实施 Microsoft 365 Cloud 服务的好处。
 levels:
 - beginner
@@ -32,7 +31,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Fundamentals。'
+  description: 发现培训资源以获得 Microsoft 认证：Fundamentals。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

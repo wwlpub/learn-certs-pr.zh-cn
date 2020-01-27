@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: Microsoft Azure 集成和安全性
+title: Microsoft Azure Integration and Security
 metadata:
-  title: '考试 AZ-101: Microsoft Azure 集成和安全性'
-  description: '考试 AZ-101: Microsoft Azure 集成和安全性'
+  title: '考试 AZ-101: Microsoft Azure Integration and Security'
+  description: '考试 AZ-101: Microsoft Azure Integration and Security'
 uid: exam.az-101
 displayName: AZ-101
-summary: |-
-  此考试的考生是 Azure 管理员，他们管理跨越存储、安全性、网络和计算 Cloud 功能的 Cloud 服务。考生对整个 IT 生命周期中的每项服务都有深入的了解并接受基础架构服务、应用程序和环境的请求。他们针对最佳性能和规模使用服务提出建议，并适当地提供、设置大小、监控和调整资源。此考试的考生应熟练使用 PowerShell、命令行界面、Azure 门户、ARM 模板、操作系统、虚拟化、Cloud 基础架构、存储结构和网络。
-subTitle: '此考试衡量您完成以下技术任务的能力：安全身份，评估和执行服务器迁移到Azure，实施和管理应用程序服务，以及实施高级虚拟网络。'
+summary: 此考试的考生是 Azure 管理员，他们管理跨越存储、安全性、网络和计算 Cloud 功能的 Cloud 服务。考生对整个 IT 生命周期中的每项服务都有深入的了解并接受基础架构服务、应用程序和环境的请求。他们针对最佳性能和规模使用服务提出建议，并适当地提供、设置大小、监控和调整资源。此考试的考生应熟练使用 PowerShell、命令行界面、Azure 门户、ARM 模板、操作系统、虚拟化、Cloud 基础架构、存储结构和网络。
+subTitle: 此考试衡量您完成以下技术任务的能力：安全身份，评估和执行服务器迁移到Azure，实施和管理应用程序服务，以及实施高级虚拟网络。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-101_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 05/01/2019
 levels:
 - intermediate
 skills:
@@ -21,14 +21,13 @@ skills:
 - 实施和管理应用程序服务 (20-25%)
 - 实施高级虚拟网络 (30-35%)
 - 保护身份 (25-30%)
-retirementDate: 05/01/2019
 roles:
 - administrator
-products:
-- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-102
+products:
+- azure
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
@@ -36,7 +35,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Azure Administrator Associate。'
+  description: 发现培训资源以获得 Microsoft 认证：Azure Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
