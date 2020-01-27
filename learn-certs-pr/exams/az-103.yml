@@ -52,7 +52,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Azure Administrator Associate.
+  description: '发现培训资源以获得 Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
