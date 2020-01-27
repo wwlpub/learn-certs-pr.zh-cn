@@ -1,22 +1,21 @@
 ### YamlMime:Examination
-title: Microsoft Azure 架构师设计
+title: Microsoft Azure Architect Design
 metadata:
-  title: '考试 AZ-301：Microsoft Azure Architect Design'
-  description: '考试 AZ-301：Microsoft Azure Architect Design'
+  title: 考试 AZ-301：Microsoft Azure Architect Design
+  description: 考试 AZ-301：Microsoft Azure Architect Design
 uid: exam.az-301
 displayName: AZ-301
-summary: |-
-  该考试的考生是 Azure Solution 架构师，他们提供咨询，并将业务需求转换成安全、可扩展和可靠的解决方案。考生应该具有跨 IT 操作的各个方面的资深经验和知识，包括网络、虚拟化、标识、安全性、业务连续性、灾难恢复、数据管理、预算和治理。这个角色需要管理每个区域中的决策如何影响整体解决方案。考生必须精通 Azure 管理、Azure 开发和 DevOps，并具有至少一个领域的专家级技能。
-subTitle: '该考试衡量您完成以下技术任务的能力：确定工作量要求；身份和安全设计；设计数据平台解决方案；设计业务连续性战略；部署、迁移和集成设计；以及设计基础设施战略。'
+summary: 该考试的考生是 Azure Solution 架构师，他们提供咨询，并将业务需求转换成安全、可扩展和可靠的解决方案。考生应该具有跨 IT 操作的各个方面的资深经验和知识，包括网络、虚拟化、标识、安全性、业务连续性、灾难恢复、数据管理、预算和治理。这个角色需要管理每个区域中的决策如何影响整体解决方案。考生必须精通 Azure 管理、Azure 开发和 DevOps，并具有至少一个领域的专家级技能。
+subTitle: 该考试衡量您完成以下技术任务的能力：确定工作量要求；身份和安全设计；设计数据平台解决方案；设计业务连续性战略；部署、迁移和集成设计；以及设计基础设施战略。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-301&examname=考试%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-301&examname=考试%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-301
 levels:
 - advanced
 skills:
@@ -28,6 +27,8 @@ skills:
 - 设计基础设施策略（15-20%）
 roles:
 - solution-architect
+exams:
+- uid: exam.az-300
 products:
 - azure
 - azure-active-directory
@@ -50,8 +51,6 @@ products:
 - azure-cosmos-db
 - azure-sql-database
 - azure-event-hubs
-exams:
-- uid: exam.az-300
 courses:
 - uid: course.az-301t01
 - uid: course.az-301t02
@@ -73,7 +72,7 @@ relatedCertifications:
     uid: certification.azure-solutions-architect
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Azure Solution 架构师。'
+  description: 发现培训资源以获得Microsoft认证：Azure Solution 架构师。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

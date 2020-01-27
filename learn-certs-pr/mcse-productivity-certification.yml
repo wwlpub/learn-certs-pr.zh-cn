@@ -1,14 +1,16 @@
 ### YamlMime:Certification
-title: MCSE 生产力解决方案专家
+title: MCSE Productivity Solutions Expert
 metadata:
-  title: MCSE 生产力解决方案专家
+  title: MCSE Productivity Solutions Expert
   description: MCSE 生产力解决方案专家
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: |-
+summary: >-
   此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为[Microsoft 365认证企业管理员专家](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)的要求之.
-  
+
+
   要成为MCSE生产力解决方案专家，请完成以下要求&#58;
+
   - 获得一项必备认证
     - 必备选项1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - 必备选项2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)

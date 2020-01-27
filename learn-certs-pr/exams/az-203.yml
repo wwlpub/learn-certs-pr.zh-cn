@@ -1,27 +1,30 @@
 ### YamlMime:Examination
-title: 为 Microsoft Azure 开发解决方案
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: '考试 AZ-203：为 Microsoft Azure 开发解决方案'
-  description: '考试 AZ-203：为 Microsoft Azure 开发解决方案'
+  title: 考试 AZ-203：Developing Solutions for Microsoft Azure
+  description: 考试 AZ-203：Developing Solutions for Microsoft Azure
 uid: exam.az-203
 displayName: AZ-203
-summary: |-
+summary: >-
   这次考试的考生是 Azure 开发者，他们设计和构建 Cloud 解决方案，如应用程序和服务。他们参与开发的各个阶段，从解决方案设计，开发部署，到测试和维护。他们与 Cloud 解决方案架构师、 Cloud 数据库、 Cloud 管理员和客户合作，以实现解决方案。
+
   <br/>
+
 
   考生应熟练使用 Azure 工具和技术开发应用程序和服务，包括存储、安全、计算和通信。
 
+
   考生必须具有至少一年的开发软件开发所有阶段可扩展解决方案的经验，并熟练使用至少一种 Cloud 支持的编程语言。
-subTitle: '此考试衡量您完成以下技术任务的能力：将Azure基础架构作为服务计算解决方案开发；将Azure平台作为服务计算解决方案开发；为Azure存储开发；实施Azure安全性；监视、疑难解答和优化解决方案；连接并使用Azure服务和第三方服务。'
+subTitle: 此考试衡量您完成以下技术任务的能力：将Azure基础架构作为服务计算解决方案开发；将Azure平台作为服务计算解决方案开发；为Azure存储开发；实施Azure安全性；监视、疑难解答和优化解决方案；连接并使用Azure服务和第三方服务。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-203&examname=考试%20AZ-203:%20为%20Microsoft%20Azure%20开发解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-203
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-203&examname=考试%20AZ-203:%20为%20Microsoft%20Azure%20开发解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
@@ -33,6 +36,8 @@ skills:
 - 连接并使用 Azure 服务和第三方服务 (20-25%)
 roles:
 - developer
+exams:
+- uid: exam.az-202
 products:
 - azure
 - azure-virtual-machines
@@ -44,8 +49,6 @@ products:
 - azure-bot-service
 - azure-functions
 - azure-logic-apps
-exams:
-- uid: exam.az-202
 courses:
 - uid: course.az-203t01
 - uid: course.az-203t02
@@ -71,7 +74,7 @@ relatedCertifications:
     uid: certification.azure-developer
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Azure Developer Associate。'
+  description: 发现培训资源以获得Microsoft认证：Azure Developer Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

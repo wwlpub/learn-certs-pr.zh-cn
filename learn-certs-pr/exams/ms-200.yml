@@ -1,25 +1,28 @@
 ### YamlMime:Examination
-title: 规划和配置消息传送平台
+title: Planning and Configuring a Messaging Platform
 metadata:
-  title: '考试 MS-200：规划和配置消息传送平台'
-  description: '考试 MS-200：规划和配置消息传送平台'
+  title: 考试 MS-200：Planning and Configuring a Messaging Platform
+  description: 考试 MS-200：Planning and Configuring a Messaging Platform
 uid: exam.ms-200
 displayName: MS-200
-summary: |-
+summary: >-
   本考试的考生是对本地和 Cloud 企业环境内的收件人、权限、邮箱保护、邮件流和公共文件夹进行部署、配置、管理、故障排除和监控的消息传送管理员。
+
 
   消息传送管理员负责管理卫生、消息传送基础架构、混合配置、迁移、灾难恢复、高可用性以及客户端访问。
 
+
   消息传送管理员与安全管理员和 Microsoft 365 企业管理员协作实施满足现代组织的业务需求的安全的混合拓扑。
 
+
   消息传送管理员应在认证类型、许可和与 Microsoft  M365 应用程序集成方面具备实际应用知识。
-subTitle: '此考试考查您完成以下技术任务的能力：管理现代消息传递基础架构；管理邮件流拓扑；以及管理收件人和设备。'
+subTitle: 此考试考查您完成以下技术任务的能力：管理现代消息传递基础架构；管理邮件流拓扑；以及管理收件人和设备。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-200&examname=考试%20MS-200:%20规划和配置消息传送平台&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-200&examname=考试%20MS-200:%20规划和配置消息传送平台&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
@@ -28,10 +31,10 @@ skills:
 - 管理收件人和设备 (15-20%)
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-201
+products:
+- m365
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证：Dynamics 365 Field Service Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 认证：Dynamics 365 Field Service Functional Consultant Associate'
-  description: '面向现场服务功能顾问的 Microsoft Dynamics 365 配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务（IoT）解决方案。'
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: 面向现场服务功能顾问的 Microsoft Dynamics 365 配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务（IoT）解决方案。
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  面向现场服务功能顾问的 Microsoft Dynamics 365 配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务（IoT）解决方案。
+summary: 面向现场服务功能顾问的 Microsoft Dynamics 365 配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务（IoT）解决方案。
 subTitle: 面向现场服务功能顾问的 Microsoft Dynamics 365 配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务（IoT）解决方案。
 levels:
 - intermediate
@@ -46,7 +45,7 @@ exams:
 - uid: exam.mb-240
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Field Service Functional Consultant Associate.'
+  description: 发现培训资源以获得Microsoft认证：Dynamics 365 Field Service Functional Consultant Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

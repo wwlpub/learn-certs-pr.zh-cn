@@ -1,14 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证： Power Apps + Dynamics 365 Solution Architect Expert'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
 metadata:
-  title: 'Microsoft 认证：Power Apps + Dynamics 365 Solution Architect Expert'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
   description: Dynamics 365中Microsoft Power Apps模型驱动的应用程序解决方案架构师领导解决方案的成功实施，并专注于解决方案如何满足组织的更广泛的业务和技术需求。
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Dynamics 365中Microsoft Power Apps模型驱动的应用程序解决方案架构师领导解决方案的成功实施，并专注于解决方案如何满足组织的更广泛的业务和技术需求。  
-  
-  <div style="color:red"><br/><strong>NOTE&#58; 此认证将于2020年1月27日推出</strong></div>
+summary: "Dynamics 365中Microsoft Power Apps模型驱动的应用程序解决方案架构师领导解决方案的成功实施，并专注于解决方案如何满足组织的更广泛的业务和技术需求。  \n\n<div style=\"color:red\"><br/><strong>NOTE&#58; 此认证将于2020年1月27日推出</strong></div>"
 subTitle: Dynamics 365中Microsoft Power Apps模型驱动的应用程序解决方案架构师领导解决方案的成功实施，并专注于解决方案如何满足组织的更广泛的业务和技术需求。
 levels:
 - advanced
@@ -22,9 +19,6 @@ type: role-based
 products:
 - dynamics
 - power-apps
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
-exams:
-- uid: exam.mb-600
 prerequisites:
 - uid: certification.power-apps-and-d365-developer-associate
   isOptional: false
@@ -33,9 +27,12 @@ prerequisites:
 - uid: certification.d365-functional-consultant-marketing
   isOptional: false
 - uid: certification.d365-functional-consultant-customer-service
-  isOptional: false  
+  isOptional: false
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

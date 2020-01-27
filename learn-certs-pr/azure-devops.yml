@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证的：Azure DevOps 工程师专家'
+title: 'Microsoft Certified: Azure DevOps Engineer Expert'
 metadata:
-  title: 'Microsoft 认证的：Azure DevOps 工程师专家'
-  description: 'Azure DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。'
+  title: 'Microsoft Certified: Azure DevOps Engineer Expert'
+  description: Azure DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。
 uid: certification.azure-devops
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Azure DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。
+summary: Azure DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。
 subTitle: Azure DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。
 levels:
 - advanced
@@ -27,11 +26,6 @@ products:
 - azure-kubernetes-service
 - azure-container-instances
 - azure-automation
-paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02
@@ -45,12 +39,17 @@ prerequisites:
   isOptional: false
 - uid: certification.azure-developer
   isOptional: false
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
 exams:
 - uid: exam.az-400
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Azure DevOps Engineer Expert。'
+  description: 发现培训资源以获得 Microsoft 认证：Azure DevOps Engineer Expert。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

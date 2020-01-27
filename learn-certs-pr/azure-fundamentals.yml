@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: Microsoft 认证的 Azure Fundamentals
+title: Microsoft Certified Azure Fundamentals
 metadata:
-  title: Microsoft 认证的 Azure Fundamentals
-  description: '证明您了解 Cloud 概念，核心 Azure Services，Azure 定价和支持，以及 Cloud 安全，隐私，合规性和信任的基础知识。'
+  title: Microsoft Certified Azure Fundamentals
+  description: 证明您了解 Cloud 概念，核心 Azure Services，Azure 定价和支持，以及 Cloud 安全，隐私，合规性和信任的基础知识。
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  证明您了解 Cloud 概念，核心 Azure Services，Azure 定价和支持，以及 Cloud 安全，隐私，合规性和信任的基础知识。
+summary: 证明您了解 Cloud 概念，核心 Azure Services，Azure 定价和支持，以及 Cloud 安全，隐私，合规性和信任的基础知识。
 subTitle: 证明您了解 Cloud 概念，核心 Azure Services，Azure 定价和支持，以及 Cloud 安全，隐私，合规性和信任的基础知识。
 levels:
 - beginner
@@ -29,7 +28,7 @@ exams:
 - uid: exam.az-900
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Azure Fundamentals。'
+  description: 发现培训资源以获得 Microsoft 认证：Azure Fundamentals。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

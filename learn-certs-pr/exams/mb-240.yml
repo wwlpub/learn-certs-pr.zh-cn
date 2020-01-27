@@ -5,18 +5,20 @@ metadata:
   description: '考试 MB-240: Microsoft Dynamics 365 Field Service'
 uid: exam.mb-240
 displayName: MB-240
-summary: |-
+summary: >-
   本考试的考生是具有现场服务专业知识的 Microsoft Dynamics 365 客户参与职能顾问。考生负责实施管理资源的解决方案，以完成现场服务生命周期。
+
 
   考生实施与内部和外部团队合作设计的现场服务流程。此协作包括配置现场服务应用程序的默认管理区域，部署连接现场服务（IoT）解决方案和移动应用程序，以及实施任何其他所需的自定义。考生负责与核心客户服务应用程序一起配置和部署现场服务应用程序。
 
+
   考生必须了解如何配置和自定义现场服务应用程序的组件，包括配置服务、资源、特征、事件、库存集成、服务协议、资源调度、工作单、服务任务、现场服务用户角色、现场服务设置、连接现场服务（IoT）解决方案，以及现场服务移动应用程序的配置。
-subTitle: '该考试衡量您完成以下技术任务的能力：配置现场服务应用程序；管理工单；安排和派遣工作单；管理现场服务流动；管理库存和采购；并管理资产和协议。'
+subTitle: 该考试衡量您完成以下技术任务的能力：配置现场服务应用程序；管理工单；安排和派遣工作单；管理现场服务流动；管理库存和采购；并管理资产和协议。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-240&examname=考试%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-240&examname=考试%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 levels:
 - intermediate
 skills:
@@ -28,11 +30,11 @@ skills:
 - 管理资产和协议(10-15%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-field-service
 exams:
 - uid: exam.mb-200
+products:
+- dynamics
+- dynamics-field-service
 courses:
 - uid: course.mb-240t01
 - uid: course.mb-240t02
@@ -45,7 +47,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-field-service
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Field Service Functional Consultant Associate.'
+  description: 发现培训资源以获得Microsoft认证：Dynamics 365 Field Service Functional Consultant Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

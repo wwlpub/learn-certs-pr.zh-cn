@@ -5,18 +5,19 @@ metadata:
   description: '考试 MB-900: Microsoft Dynamics 365 Fundamentals'
 uid: exam.mb-900
 displayName: MB-900
-summary: |-
+summary: >-
   此考试面向希望展示Microsoft Dynamics 365，Power Platform应用程序和云计算模型的基础知识的考生。本考试将涵盖一般采用Dynamics 365，Power Platform和云服务的注意事项和优势。此考试可视为Dynamics 365认证和培训的前身。
+
 
   本考试的考生应具备信息技术（IT）环境方面的一般知识或相关工作经验。考生还应对业务场景和解决IT项目的业务，法律和安全要求的经验有基本的了解。
 subTitle: 此考试衡量您理解 Microsoft Dynamics 365 的能力；动力平台；云概念；许可选择；以及部署和发布选项。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
 practiceTestUrl: https://us.mindhub.com/p/MU-MB-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-900&examname=考试%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-900&examname=考试%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 levels:
 - beginner
 skills:
@@ -25,7 +26,7 @@ skills:
 - 了解部署和发布(20-25%)
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -36,7 +37,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Fundamentals。'
+  description: 发现培训资源以获得Microsoft认证：Dynamics 365 Fundamentals。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -1,28 +1,32 @@
 ### YamlMime:Examination
-title: 设计和实现 Azure AI 解决方案
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: '考试 AI-100：设计和实现 Azure AI 解决方案'
-  description: '考试 AI-100：设计和实现 Azure AI 解决方案'
+  title: 考试 AI-100：Designing and Implementing an Azure AI Solution
+  description: 考试 AI-100：Designing and Implementing an Azure AI Solution
 uid: exam.ai-100
 displayName: AI-100
-summary: |-
+summary: >-
   本考试的考生能够分析 AI 解决方案的要求，推荐适当的工具和技术，并实施满足可扩展性和性能要求的解决方案。
+
   <br/>
+
 
   考生转化解决方案架构师提出的愿景，并与数据科学家、数据工程师、物联网专家和 AI 开发人员合作，构建完整的端到端解决方案。考生设计并实施使用 Microsoft Azure 认知服务和 Azure Bot 服务的 AI 应用和代理。考生可以推荐使用开源技术的解决方案。
 
+
   考生了解构成 Azure AI 产品组合的组件以及可用的数据存储选项。
 
+
   候选人实施 AI 解决方案，在 Azure 中使用 Cognitive Services，Azure 机器人，Azure 搜索和数据存储。考生应了解何时应开发自定义 API 以满足特定要求。
-subTitle: '该考试测量您完成以下技术任务的能力：分析解决方案要求；设计方案；将AI模型集成到解决方案中并部署和管理解决方案。'
+subTitle: 该考试测量您完成以下技术任务的能力：分析解决方案要求；设计方案；将AI模型集成到解决方案中并部署和管理解决方案。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AI-100&examname=考试%20AI-100:%20设计和实现%20Azure%20AI%20解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AI-100&examname=考试%20AI-100:%20设计和实现%20Azure%20AI%20解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:
@@ -51,7 +55,7 @@ relatedCertifications:
     uid: certification.azure-ai-engineer
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Azure AI 助理工程师。'
+  description: 发现培训资源以获得Microsoft认证：Azure AI 助理工程师。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -1,23 +1,24 @@
 ### YamlMime:Examination
-title: 在 Azure 上设计和实现数据科学解决方案
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: '考试 DP-100: 在 Azure 上设计和实现数据科学解决方案'
-  description: '考试 DP-100: 在 Azure 上设计和实现数据科学解决方案'
+  title: '考试 DP-100: Designing and Implementing a Data Science Solution on Azure'
+  description: '考试 DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
-summary: |-
+summary: >-
   本考试的考生应用科学严谨性和数据探索技巧，以便获得可行的见解并将结果告利益相关者。考生利用机器学习技巧来训练、评估和部署模型，以便构建能够满足业务目标的 AI 解决方案。考生使用涉及到自然语言处理、语音、计算机视觉和预测性分析的应用程序。
 
+
   考生作为多学科团队的一部分。在解决方案中，团队综合考虑伦理、隐私和治理等因素。考生通常具备数学、统计学以及计算机科学方面的背景。
-subTitle: '该考试衡量您完成以下技术任务的能力：定义和准备开发环境；准备建模数据；执行特征设计，开发模型。'
+subTitle: 该考试衡量您完成以下技术任务的能力：定义和准备开发环境；准备建模数据；执行特征设计，开发模型。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-100&examname=考试%20DP-100:%20在%20Azure%20上设计和实现数据科学解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-100&examname=考试%20DP-100:%20在%20Azure%20上设计和实现数据科学解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:
@@ -44,7 +45,7 @@ relatedCertifications:
     uid: certification.azure-data-scientist
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Azure Data Scientist Associate。'
+  description: 发现培训资源以获得 Microsoft 认证：Azure Data Scientist Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
