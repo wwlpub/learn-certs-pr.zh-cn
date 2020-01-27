@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)
 metadata:
-  title: 考试 MB-600：Microsoft Power Apps + Dynamics 365 Solution Architect (beta)
-  description: 考试 MB-600：Microsoft Power Apps + Dynamics 365 Solution Architect (beta)
+  title: '考试 MB-600：Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+  description: '考试 MB-600：Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
 uid: exam.mb-600
 displayName: MB-600
 summary: >-
@@ -21,7 +21,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-600&examname=考试%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect%20(测试)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-600&examname=考试%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 levels:
 - advanced
 skills:

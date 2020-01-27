@@ -9,6 +9,9 @@ summary: "成功通过 Word 2016 考试的考生对 Word 环境和独立完成�
 subTitle: 成功通过 Word 2016 考试的考生对 Word 环境和独立完成任务的能力有基本的了解。他们通过为各种目的和情况创建和编辑两到三页的文档来演示 Word 2016 主要功能的正确应用。文档示例包括有专业外观的报告、多分栏的简报、简历和商业信函。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

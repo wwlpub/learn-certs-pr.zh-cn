@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Deploying SharePoint Server Hybrid
 metadata:
-  title: 考试 MS-301：Deploying SharePoint Server Hybrid
-  description: 考试 MS-301：Deploying SharePoint Server Hybrid
+  title: '考试 MS-301：Deploying SharePoint Server Hybrid'
+  description: '考试 MS-301：Deploying SharePoint Server Hybrid'
 uid: exam.ms-301
 displayName: MS-301
 summary: >-
@@ -21,7 +21,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-301&examname=考试%20MS-301:%20部署%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-301
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-301&examname=考试%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:
@@ -48,7 +48,7 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Teamwork Administrator Associate。
+  description: '发现培训资源以获得 Microsoft Certified: Teamwork Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

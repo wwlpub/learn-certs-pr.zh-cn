@@ -34,7 +34,7 @@ exams:
 - uid: exam.dp-100
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft 认证：Azure Data Scientist Associate。
+  description: '发现培训资源以获得 Microsoft Certified: Azure Data Scientist Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

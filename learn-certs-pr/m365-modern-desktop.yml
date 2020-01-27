@@ -40,7 +40,7 @@ exams:
 - uid: exam.md-101
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft 认证：Modern Desktop Administrator Associate。
+  description: '发现培训资源以获得 Microsoft 365 Certified: Modern Desktop Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

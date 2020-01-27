@@ -9,6 +9,9 @@ summary: "成功的考生将能创建和编辑具有专业外观的电子邮件�
 subTitle: 成功的考生将能创建和编辑具有专业外观的电子邮件、跨时区维护日历，并计划适用于多种用途和情形的任务。考生将能使用 Outlook 2016 来增强专业通信、创建日历和安排约会。应用示例包括协调构建资源、传送市场营销消息，规划员工会议，以及分派会议活动项目。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -19,7 +22,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

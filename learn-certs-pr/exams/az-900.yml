@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft Azure Fundamentals
 metadata:
-  title: 考试 AZ-900：Microsoft Azure Fundamentals
-  description: 考试 AZ-900：Microsoft Azure Fundamentals
+  title: '考试 AZ-900：Microsoft Azure Fundamentals'
+  description: '考试 AZ-900：Microsoft Azure Fundamentals'
 uid: exam.az-900
 displayName: AZ-900
 summary: >-
@@ -14,12 +14,16 @@ subTitle: 此考试衡量您理解以下概念的能力：云概念；核心Azur
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=考试%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=考试%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:
@@ -40,7 +44,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Azure Fundamentals。
+  description: '发现培训资源以获得 Microsoft Certified: Azure Fundamentals。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

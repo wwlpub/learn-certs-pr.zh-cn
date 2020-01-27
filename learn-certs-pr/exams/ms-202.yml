@@ -5,8 +5,8 @@ metadata:
   description: '考试 MS-202: Microsoft 365 Messaging Administrator Certification Transition'
 uid: exam.ms-202
 displayName: MS-202
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>该考试已于2019年9月30日停用。注意：考试将于美国中部标准时间晚上11:59停用<br/><br/></div>\n   \n该考试仅适用于参加了 [考试70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) 设计和部署Microsoft Exchange Server 2016的考生。如果您没有考过考试345，那么您将无法通过此考试获得认证。\n\n本考试的考生是对本地和 Cloud 企业环境内的收件人、权限、邮箱保护、邮件流和公共文件夹进行部署、配置、管理、故障排除和监控的消息传送管理员。\n\n消息传送管理员负责管理卫生、消息传送基础架构、混合配置、迁移、灾难恢复、高可用性以及客户端访问。\n\n消息传送管理员与安全管理员和 Microsoft 365 企业管理员协作实施满足现代组织的业务需求的安全的混合拓扑。\n\n消息传送管理员应在认证类型、许可和与 Microsoft M365 应用程序集成方面具备实际应用知识。"
-subTitle: 此项考试仅适用于已考过考试 70-345 的考生：设计和部署 Microsoft Exchange Server 2016。如果您没有考过考试345，那么您将无法通过此考试获得认证。
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>该考试已于2019年9月30日停用。注意：考试将于美国中部标准时间晚上11:59停用<br/><br/></div>\n   \n该考试仅适用于参加了 [考试70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Designing and Deploying Microsoft Exchange Server 2016 的考生。如果您没有考过考试345，那么您将无法通过此考试获得认证。\n\n本考试的考生是对本地和 Cloud 企业环境内的收件人、权限、邮箱保护、邮件流和公共文件夹进行部署、配置、管理、故障排除和监控的消息传送管理员。\n\n消息传送管理员负责管理卫生、消息传送基础架构、混合配置、迁移、灾难恢复、高可用性以及客户端访问。\n\n消息传送管理员与安全管理员和 Microsoft 365 企业管理员协作实施满足现代组织的业务需求的安全的混合拓扑。\n\n消息传送管理员应在认证类型、许可和与 Microsoft M365 应用程序集成方面具备实际应用知识。"
+subTitle: 此项考试仅适用于已考过考试 70-345 的考生：Designing and Deploying Microsoft Exchange Server 2016。如果您没有考过考试345，那么您将无法通过此考试获得认证。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
 locales:

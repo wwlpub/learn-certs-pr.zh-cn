@@ -72,7 +72,7 @@ relatedCertifications:
     uid: certification.azure-solutions-architect
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Azure Solution 架构师。
+  description: '发现培训资源以获得 Microsoft Certified: Azure Solutions Architect Expert。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

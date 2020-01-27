@@ -9,6 +9,9 @@ summary: "成功通过 Microsoft Office 专家 Excel 2016 认证考试的考生�
 subTitle: 成功通过 Microsoft Office 专家 Excel 2016 认证考试的考生应对 Excel 环境具有基本认识，并且具备独立完成任务的能力。他们应该了解并能展示 Excel 2016 主要功能的正确应用。考生应能创建和编辑具有多个工作表的工作簿，并能使用图形元素直观地表示数据。工作薄示例包括具有专业外观的预算表、财务报表、团队业绩图表、销售发票和锻炼记录。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

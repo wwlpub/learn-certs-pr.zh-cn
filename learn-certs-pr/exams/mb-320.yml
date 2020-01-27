@@ -53,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-manufacturing
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -18,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-900&examname=考试%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-900&examname=考试%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -44,7 +44,7 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Fundamentals.
+  description: '发现培训资源以获得 Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

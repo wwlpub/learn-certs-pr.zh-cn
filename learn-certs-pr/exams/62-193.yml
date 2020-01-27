@@ -12,6 +12,11 @@ summary: >-
   MCE&#58; 教育者的技术素质认证考试是一项中级考试，旨在成为21世纪学习设计（21CLD）框架所考察的有效和可靠的能力测定。
 subTitle: 参加本考试的考生包括准备成为课堂教育者、目前为教育工作者、教师培训学院或职前学院的人员、教育管理人员或其他希望提供技能验证资格的专业人士。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2F62-193
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -22,7 +27,6 @@ locales:
 - ru
 - pl
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=62-193&examname=教育者的技术素质&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2F62-193
 levels:
 - beginner
 skills:

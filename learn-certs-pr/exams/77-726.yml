@@ -9,6 +9,9 @@ summary: "Word 2016 考试的专家级考生熟练使用 Word 2016 的高级功�
 subTitle: Word 2016 考试的专家级考生熟练使用 Word 2016 的高级功能来管理文档和内容并进行高级格式设计。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -19,7 +22,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

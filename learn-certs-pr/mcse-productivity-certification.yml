@@ -15,10 +15,10 @@ summary: >-
     - 必备选项1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - 必备选项2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - 通过其中一项选修考试
-    - [70-333&#58; 使用Skype for Business 2015部署企业语音](/learn/certifications/exams/70-333)
-    - [70-334&#58; Microsoft Skype for Business的核心解决方案](/learn/certifications/exams/70-334)
-    - [70-339&#58; 管理Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
-    - [70-345&#58; 设计和部署Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
+    - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
+    - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
+    - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
+    - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
 subTitle: 此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为Microsoft 365认证企业管理员专家的要求之一
 levels:
 - advanced

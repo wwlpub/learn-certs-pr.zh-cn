@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Exam Windows 10
 metadata:
-  title: 考试 MD-100：Windows 10
-  description: 考试 MD-100：Windows 10
+  title: '考试 MD-100：Windows 10'
+  description: '考试 MD-100：Windows 10'
 uid: exam.md-100
 displayName: MD-100
 summary: >-
@@ -44,7 +44,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Modern Desktop Administrator Associate。
+  description: '发现培训资源以获得 Microsoft Certified: Modern Desktop Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
