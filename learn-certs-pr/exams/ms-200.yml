@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 考试 MS-200：Planning and Configuring a Messaging Platform
-  description: 考试 MS-200：Planning and Configuring a Messaging Platform
+  title: '考试 MS-200：Planning and Configuring a Messaging Platform'
+  description: '考试 MS-200：Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
 summary: >-
@@ -22,7 +22,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-200&examname=考试%20MS-200:%20规划和配置消息传送平台&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-200&examname=考试%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:

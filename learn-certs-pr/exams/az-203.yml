@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 考试 AZ-203：Developing Solutions for Microsoft Azure
-  description: 考试 AZ-203：Developing Solutions for Microsoft Azure
+  title: '考试 AZ-203：Developing Solutions for Microsoft Azure'
+  description: '考试 AZ-203：Developing Solutions for Microsoft Azure'
 uid: exam.az-203
 displayName: AZ-203
 summary: >-
@@ -24,7 +24,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-203&examname=考试%20AZ-203:%20为%20Microsoft%20Azure%20开发解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-203&examname=考试%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
@@ -74,7 +74,7 @@ relatedCertifications:
     uid: certification.azure-developer
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Azure Developer Associate。
+  description: '发现培训资源以获得 Microsoft Certified: Azure Developer Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

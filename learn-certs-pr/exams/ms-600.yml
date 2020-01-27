@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Building Applications and Solutions with Microsoft 365 Core Services (beta)
 metadata:
-  title: 考试 MS-600：使用Microsoft 365核心服务构建应用程序和解决方案 (测试版)
-  description: 考试 MS-600：使用Microsoft 365核心服务构建应用程序和解决方案 (测试版)
+  title: '考试 MS-600：Building Applications and Solutions with Microsoft 365 Core Services (beta)'
+  description: '考试 MS-600：Building Applications and Solutions with Microsoft 365 Core Services (beta)'
 uid: exam.ms-600
 displayName: MS-600
 summary: >-
@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-600&examname=考试%20MS-600:%20使用Microsoft%20365核心服务构建应用程序和解决方案%20(测试版)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-600&examname=考试%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-600
 levels:
 - intermediate
 skills:
@@ -38,7 +38,7 @@ relatedCertifications:
     uid: certification.m365-developer-associate
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Developer Associate.
+  description: '发现培训资源以获得 Microsoft Certified: Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -9,6 +9,9 @@ summary: "成功通过 Access 2016 考试的考生应对该应用程序的环境
 subTitle: 成功通过 Access 2016 考试的考生应对该应用程序的环境具有基本认识。他们应了解基本的数据库设计原则，能够独立完成任务。他们了解并展示对 Access 2016 的主要功能的正确应用，而且展示出创建和维护基本的 Access 数据库对象（包括表格、关系、数据输入表单、多级报表和多表格查询）的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -18,10 +21,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

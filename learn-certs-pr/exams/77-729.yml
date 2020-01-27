@@ -9,6 +9,9 @@ summary: "成功的考生应对 PowerPoint 环境具有基本认识，并且能�
 subTitle: 成功的考生应对 PowerPoint 环境具有基本认识，并且能展示 PowerPoint 2016 的正确应用。考生应能创建、编辑和增强演示文稿和幻灯片放映。演示文稿示例包括专家级的销售演示文稿、员工培训、教学材料，售货亭幻灯片放映。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-240&examname=考试%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-240
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-240&examname=考试%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 levels:
 - intermediate
 skills:
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-field-service
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Dynamics 365 Field Service Functional Consultant Associate.
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

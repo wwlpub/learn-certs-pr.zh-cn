@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Implementing a Hybrid and Secure Messaging Platform
 metadata:
-  title: 考试 MS-201：Implementing a Hybrid and Secure Messaging Platform
-  description: 考试 MS-201：Implementing a Hybrid and Secure Messaging Platform
+  title: '考试 MS-201：Implementing a Hybrid and Secure Messaging Platform'
+  description: '考试 MS-201：Implementing a Hybrid and Secure Messaging Platform'
 uid: exam.ms-201
 displayName: MS-201
 summary: >-
@@ -21,7 +21,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-201&examname=考试%20MS-201:%20实现混合和安全消息传送平台&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-201&examname=考试%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fms-201
 levels:
 - intermediate
 skills:
