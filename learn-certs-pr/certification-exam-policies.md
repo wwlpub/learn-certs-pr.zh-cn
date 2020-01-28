@@ -58,7 +58,7 @@ Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional 
         - 名称
         - 电子邮件
         - 考试编号
-    4. 如果考生达到某考试的通过分数，则该考生不能再参加该考试。Microsoft 保留为一些考试提供重考的权利。有关可以每年重新考试的完整考试列表，请单击 [此处](https://www.microsoft.com/zh-cn/learning/exam-certification-retakes.aspx)。
+    4. 如果考生达到某考试的通过分数，则该考生不能再参加该考试。Microsoft 保留为一些考试提供重考的权利。有关可以每年重新考试的完整考试列表，请单击 [此处](https://www.microsoft.com/learning/exam-certification-retakes.aspx)。
 
 2. Microsoft 技术专员 (MTA) 和 Microsoft 认证教师 (MCE) 考试补考政策
     1. 如果考生第一次没有达到考试的通过分数，那么该考生必须等待 24 小时后才能补考。
@@ -79,7 +79,7 @@ Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional 
     2. 此政策取代常规的补考政策。
 5. 特定考试的补考政策例外
     1. 在某些情况下，Microsoft 可能会针对特定考试制定特殊政策。
-    2. Microsoft 保留提供重考的权利。点击[此处](https://www.microsoft.com/zh-cn/learning/exam-certification-retakes.aspx)，查看每年可以重新参加的考试的完整清单。
+    2. Microsoft 保留提供重考的权利。点击[此处](https://www.microsoft.com/learning/exam-certification-retakes.aspx)，查看每年可以重新参加的考试的完整清单。
 
 ### 考试中心由于安全原因而关闭
 
@@ -193,9 +193,9 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
 3. **考试政策**
 
-    考生仅负责理解并遵守位于的 Microsoft 的考试政策和流程以及考试提供商的政策和流程[https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx)。
+    考生仅负责理解并遵守位于的 Microsoft 的考试政策和流程以及考试提供商的政策和流程[https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)。
 
-    您可以在以下位置查看 Microsoft 重考政策及其他 Microsoft 考试和测试过程[https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx)。您可以在考试提供商的网站上了解有关考试提供商的政策和流程的更多信息。
+    您可以在以下位置查看 Microsoft 重考政策及其他 Microsoft 考试和测试过程[https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)。您可以在考试提供商的网站上了解有关考试提供商的政策和流程的更多信息。
 
     您参加考试后有三（30）天的时间质疑该考试的考试成绩。
 
@@ -241,19 +241,19 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
    1. “***附属公司***” 表示一方拥有或通常归属于一方的法律实体。“拥有”表示具备 50% 以上的所有权，或者有权指导该实体的管理工作。
    2. “***Microsoft认证网站***” 是指仅面向Microsoft认证专家的Microsoft网站。
    3. “***Microsoft***” 表示第 12.4 节规定的 Microsoft 实体。
-   4. “***Microsoft 认证***” 表示通过必修考试 并符合或持续符合使用对应证书或徽标所需的全部认证或重新认证要求。Microsoft认证的当前列表位于[Microsoft认证](https://www.microsoft.com/zh-cn/learning/browse-all-certifications.aspx?certificationtype=role-based)。
+   4. “***Microsoft 认证***” 表示通过必修考试 并符合或持续符合使用对应证书或徽标所需的全部认证或重新认证要求。Microsoft认证的当前列表位于[Microsoft认证](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)。
    5. “***Microsoft 认证证书***”（简称 “***证书***”）表示特定 Microsoft 认证的完整标题或缩写标题，用于表示个人符合特定 Microsoft 认证的要求。
    6. “***Microsoft 认证考试***” (简称"***考试***” )旨在证实个人与特定 Microsoft 技术考试主题相关的技能。
 
 2. Microsoft 认证
    1. *获得和保有 Microsoft 认证*：要获得和保有 Microsoft 认证，您必须符合以下条件：
 
-        1. 通过所有必修考试，符合适用[Microsoft 认证](https://www.microsoft.com/zh-cn/learning/browse-all-certifications.aspx?certificationtype=role-based)的所有认证和重新认证要求，
+        1. 通过所有必修考试，符合适用[Microsoft 认证](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)的所有认证和重新认证要求，
         2. 接受本协议的条款和条件，
         3. 遵守本协议当前版本中的条款和条件，所有计划要求，以及
         4. 遵守适用 Microsoft 认证的所有其他要求。
 
-   2. *Microsoft 认证要求变更*：Microsoft 可能会通过在[Microsoft 培训和认证网站](https://www.microsoft.com/zh-cn/learning/browse-all-certifications.aspx?certificationtype=role-based)或者[Microsoft 认证专家网站](https://www.microsoft.com/zh-cn/learning/browse-all-certifications.aspx?certificationtype=role-based)上发布更改，以根据自己的独立判断更改 Microsoft 认证要求（初始和后续）。自 Microsoft 发布更改之日起，您有三 (3) 个完整的日历月的时间来确保符合任何此类额外要求。如果不满足与特定证书相关联的额外认证或重新认证要求，您使用特定证书的权利可能会被终止。
+   2. *Microsoft 认证要求变更*：Microsoft 可能会通过在[Microsoft 培训和认证网站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)或者[Microsoft 认证专家网站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)上发布更改，以根据自己的独立判断更改 Microsoft 认证要求（初始和后续）。自 Microsoft 发布更改之日起，您有三 (3) 个完整的日历月的时间来确保符合任何此类额外要求。如果不满足与特定证书相关联的额外认证或重新认证要求，您使用特定证书的权利可能会被终止。
 
    3. *违反考试协议*
 
@@ -295,7 +295,7 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
 7. 更改
 
-   Microsoft 保留以下权利：(a) 更新和更改协议和准则；(b) 随时更改计划或其任何方面，包括停用证书、更改认证要求、更改计划要求和权益，以及 (c) 终止计划的权利。Microsoft将在[Microsoft认证网站](https://www.microsoft.com/zh-cn/learning/program-membership.aspx)上发布更改。您有责任定期检查 Microsoft 认证专家网站，以了解相关更改。更改自其公布之日起生效。更改不具有追溯力。
+   Microsoft 保留以下权利：(a) 更新和更改协议和准则；(b) 随时更改计划或其任何方面，包括停用证书、更改认证要求、更改计划要求和权益，以及 (c) 终止计划的权利。Microsoft将在[Microsoft认证网站](https://www.microsoft.com/learning/program-membership.aspx)上发布更改。您有责任定期检查 Microsoft 认证专家网站，以了解相关更改。更改自其公布之日起生效。更改不具有追溯力。
 
 8. 不保证
 
@@ -430,23 +430,23 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
 **Microsoft 认证考试**
 
-[AZ-100: Microsoft Azure基础架构和部署](https://www.microsoft.com/zh-cn/learning/exam-AZ-100.aspx)
+[AZ-100: Microsoft Azure基础架构和部署](https://www.microsoft.com/learning/exam-AZ-100.aspx)
 
-[AZ-101: Microsoft Azure集成和安全](https://www.microsoft.com/zh-cn/learning/exam-AZ-101.aspx)
+[AZ-101: Microsoft Azure集成和安全](https://www.microsoft.com/learning/exam-AZ-101.aspx)
 
-[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/zh-cn/learning/exam-az-103.aspx)
+[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/learning/exam-az-103.aspx)
 
 AZ-200：Microsoft Azure 开发人员核心解决方案
 
 AZ-201：Microsoft Azure 开发人员高级解决方案
 
-[AZ-203: 为Microsoft Azure开发解决方案](https://www.microsoft.com/zh-cn/learning/exam-AZ-203.aspx)
+[AZ-203: 为Microsoft Azure开发解决方案](https://www.microsoft.com/learning/exam-AZ-203.aspx)
 
-[AZ-300: Microsoft Azure架构师技术](https://www.microsoft.com/zh-cn/learning/exam-AZ-300.aspx)
+[AZ-300: Microsoft Azure架构师技术](https://www.microsoft.com/learning/exam-AZ-300.aspx)
 
-[AZ-301: Microsoft Azure建筑师设计](https://www.microsoft.com/zh-cn/learning/exam-AZ-301.aspx)
+[AZ-301: Microsoft Azure建筑师设计](https://www.microsoft.com/learning/exam-AZ-301.aspx)
 
-[AZ-400: Microsoft Azure DevOps解决方案](https://www.microsoft.com/zh-cn/learning/exam-AZ-400.aspx)
+[AZ-400: Microsoft Azure DevOps解决方案](https://www.microsoft.com/learning/exam-AZ-400.aspx)
 
 **Microsoft 专业认证**
 
@@ -476,17 +476,17 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 **验证认证选项1 - 共享徽章：**
 
-- 步骤2：在[Microsoft认证信息中心](https://www.microsoft.com/zh-cn/learning/dashboard.aspx)上登录
+- 步骤2：在[Microsoft认证信息中心](https://www.microsoft.com/learning/dashboard.aspx)上登录
 
 - 步骤3：转到控制面板的徽章部分，然后按照步骤索取徽章（如果您尚未这样做）
 
 - 步骤4：请按照以下步骤通过电子邮件与[itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)共享您的徽章。
 
-- 有关更多信息，请参阅：[Microsoft考试和认证徽章](https://www.microsoft.com/zh-cn/learning/badges.aspx)
+- 有关更多信息，请参阅：[Microsoft考试和认证徽章](https://www.microsoft.com/learning/badges.aspx)
 
 **验证认证选项2 - 共享成绩单：**
 
-- 步骤2：在[Microsoft认证信息中心](https://www.microsoft.com/zh-cn/learning/dashboard.aspx)上登录
+- 步骤2：在[Microsoft认证信息中心](https://www.microsoft.com/learning/dashboard.aspx)上登录
 
 - 步骤3：转到成绩单部分，然后选择“共享或下载”
 
@@ -504,7 +504,7 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 **MPP跟踪结业证书的验证：**
 
-- 步骤2：登录您的[academy.microsoft.com 控制面板](https://academy.microsoft.com/zh-cn/dashboard)
+- 步骤2：登录您的[academy.microsoft.com 控制面板](https://academy.microsoft.com/en-us/dashboard)
 
 - 步骤3：复制并粘贴 MPP Track 证书 URL 以共享指向您的官方证书的链接
 
@@ -518,7 +518,7 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 ## <a name="policies-5"></a> 对 Microsoft 认证考题提出质疑
 
-[每个考试问题均经过仔细审查](https://www.microsoft.com/zh-cn/learning/certification-exams.aspx)由技术和职务职能专家小组组成，他们对每个问题的技术准确性和清晰度进行了审查，以及相关性。如果您相信您在 Microsoft 认证考试中看到的特定考题无效，那么您可以按照下面所述的步骤申请评估该考题。您必须在参加考试后30天内提交考试项目质疑表。
+[每个考试问题均经过仔细审查](https://www.microsoft.com/learning/certification-exams.aspx)由技术和职务职能专家小组组成，他们对每个问题的技术准确性和清晰度进行了审查，以及相关性。如果您相信您在 Microsoft 认证考试中看到的特定考题无效，那么您可以按照下面所述的步骤申请评估该考题。您必须在参加考试后30天内提交考试项目质疑表。
 
 **说明：** 请不要使用考试项目质疑流程来提供有关测试版考试问题的反馈。测试版考试问题通常会根据此过程中收到的反馈以某种方式进行修改，并且可能会从问题库中删除。如果您对测试版考题有一些反馈意见，而在评论期间无法提供意见，请将您的反馈意见发送至[mslcd@microsoft.com](mailto:mslcd@microsoft.com)。
 
@@ -579,7 +579,7 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 **我参加的考试中将使用哪些考试格式和考题类型？**
 
-由于 Microsoft 不断引入创新的测试技术和问题类型，因此我们不提供将在特定考试中显示的特定项目类型。为了让您对考试有什么感觉，我们建议您复习一些可能的[考试格式和问题类型](https://www.microsoft.com/zh-cn/learning/certification-exams.aspx)。
+由于 Microsoft 不断引入创新的测试技术和问题类型，因此我们不提供将在特定考试中显示的特定项目类型。为了让您对考试有什么感觉，我们建议您复习一些可能的[考试格式和问题类型](https://www.microsoft.com/learning/certification-exams.aspx)。
 
 **我有多长时间可完成考试？**
 
@@ -609,11 +609,11 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 **我应该如何准备考试？**
 
-准备考试的最佳方法是练习“考试详情”页面上所列出的技能。[浏览所有考试](https://www.microsoft.com/zh-cn/learning/exam-list.aspx)以查找您感兴趣的考试。要通过 Microsoft 认证考试，必须具备实际技术经验。相关的微学习，在线课程和讲师指导课程旨在培养成功完成工作所需的技能，其中一部分将在考试中进行评估。但是，由于考试的重点是这些技能的应用超出了这些课程所教授的内容，因此强烈建议在参加考试之前除了培训之外还要获取经验或实习。为了开始准备，请查看“考试详情”页面上的“考察的技能”部分，并根据考试中评估的内容评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些挑战。
+准备考试的最佳方法是练习“考试详情”页面上所列出的技能。[浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以查找您感兴趣的考试。要通过 Microsoft 认证考试，必须具备实际技术经验。相关的微学习，在线课程和讲师指导课程旨在培养成功完成工作所需的技能，其中一部分将在考试中进行评估。但是，由于考试的重点是这些技能的应用超出了这些课程所教授的内容，因此强烈建议在参加考试之前除了培训之外还要获取经验或实习。为了开始准备，请查看“考试详情”页面上的“考察的技能”部分，并根据考试中评估的内容评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些挑战。
 
 Microsoft 认证培训师”在准备认证时与许多考生一起工作。他们经常会推荐以下步骤来帮助考生关注他们的学习：
 
-- [浏览所有考试](https://www.microsoft.com/zh-cn/learning/exam-list.aspx)以查找您感兴趣的考试。
+- [浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以查找您感兴趣的考试。
 - 打印此页面上的“考察的技能”部分。 
 - 查看整个列表。想想每个主题。如果您对某个特定主题非常了解，请突出显示该主题或将其划掉。 
 - 看看还剩下哪些内容。现在，开始一些有针对性的研究。对于您未突出显示的每个主题，请在网上搜索特定文章。
@@ -627,7 +627,7 @@ Microsoft 认证培训师”在准备认证时与许多考生一起工作。他�
 
 **如何注册 Microsoft 认证考试？**
 
-访问[考试注册页面](https://www.microsoft.com/zh-cn/learning/certification-exams.aspx)以找到完整的说明。
+访问[考试注册页面](https://www.microsoft.com/learning/certification-exams.aspx)以找到完整的说明。
 
 **我是否必须以英语参加考试？**
 
@@ -643,7 +643,7 @@ Expert 和 Associate 考试通常需要165美元，但根据特定国家和地�
 
 - 有关Microsoft Office Specialist（MOS）的确切价格，请联系[Certiport](http://www.certiport.com/)。
 
-- 对于所有其他考试，请[浏览所有考试](https://www.microsoft.com/zh-cn/learning/exam-list.aspx)以找到包含考试价格的考试页面。
+- 对于所有其他考试，请[浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以找到包含考试价格的考试页面。
 
 **如何提供有关考试的学习材料或培训的反馈？**
 
@@ -651,11 +651,11 @@ Expert 和 Associate 考试通常需要165美元，但根据特定国家和地�
 
 **如何提交有关考题或考试体验的反馈？**
 
-如果您对特定项目的技术准确性有疑问，请按照[考试项目挑战](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx#policies-5)过程。
+如果您对特定项目的技术准确性有疑问，请按照[考试项目挑战](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)过程。
 
 要报告有关考试中心或考试期间遇到的技术困难的问题，请通过[Pearson VUE](http://www.pearsonvue.com/microsoft/)或[Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)与客户服务联系。
 
-要提供其他类型的反馈，请联系您的[Microsoft区域服务中心](https://www.microsoft.com/zh-cn/learning/help.aspx)。
+要提供其他类型的反馈，请联系您的[Microsoft区域服务中心](https://www.microsoft.com/learning/help.aspx)。
 
 要报告安全问题，请联系[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
 
@@ -663,7 +663,7 @@ Expert 和 Associate 考试通常需要165美元，但根据特定国家和地�
 
 **Microsoft 认证考试中会出现哪些类型的考题？**
 
-由于 Microsoft 不断引入创新的测试技术和问题类型，因此我们不提供将在特定考试中显示的特定项目类型。为了让您对考试有什么感觉，我们建议您复习一些可能的[考试格式和问题类型](https://www.microsoft.com/zh-cn/learning/certification-exams.aspx) 。
+由于 Microsoft 不断引入创新的测试技术和问题类型，因此我们不提供将在特定考试中显示的特定项目类型。为了让您对考试有什么感觉，我们建议您复习一些可能的[考试格式和问题类型](https://www.microsoft.com/learning/certification-exams.aspx) 。
 
 **为什么使用案例研究考试形式？**
 
@@ -748,7 +748,7 @@ Microsoft 尽力确保为考试中测试的所有技能提供某种形式的培�
 
 **如果您对测试版考试结果有任何疑问，那么应该与谁联系？**
 
-如果您在自最终考试发布之日起的两周内未在线看到分数报告或收到分数报告，请与考试交付提供商联系，了解有关何时将处理您的结果的更多信息。如果您对成绩单有疑问，请联系[Microsoft区域服务中心](https://www.microsoft.com/zh-cn/learning/help.aspx)。
+如果您在自最终考试发布之日起的两周内未在线看到分数报告或收到分数报告，请与考试交付提供商联系，了解有关何时将处理您的结果的更多信息。如果您对成绩单有疑问，请联系[Microsoft区域服务中心](https://www.microsoft.com/learning/help.aspx)。
 
 **如果我没有收到参加测试版考试的25％优惠券，我应该联系谁？**
 
@@ -834,7 +834,7 @@ Microsoft 考试经过精心设计，以便可以使用总的测验分数决定�
 
 **我通过了第一门 Microsoft 认证考试（在 Pearson VUE）。接下来应该怎么做？**
 
-祝贺您！要探索后续步骤和可获得的好处，请参阅[福利和考试控制面板](https://www.microsoft.com/zh-cn/learning/dashboard.aspx)。使用与注册考试时相同的 Microsoft 帐户登录。
+祝贺您！要探索后续步骤和可获得的好处，请参阅[福利和考试控制面板](https://www.microsoft.com/learning/dashboard.aspx)。使用与注册考试时相同的 Microsoft 帐户登录。
 
 **如果我未通过考试，可以怎么做？**
 
@@ -850,7 +850,7 @@ Microsoft 考试经过精心设计，以便可以使用总的测验分数决定�
 
 **补考政策是什么？**
 
-请参阅[安全和重考政策](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx#security-policies)以查看考试重考政策。
+请参阅[安全和重考政策](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies)以查看考试重考政策。
 
 **我是否可以申请重新评估我的分数？**
 
@@ -858,7 +858,7 @@ Microsoft 考试经过精心设计，以便可以使用总的测验分数决定�
 
 **我可以如何就某道考题提出质疑？**
 
-如果您认为Microsoft认证考试中的问题不准确，则可以使用[考试项目挑战过程](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx#policies-5) 在参加考试的30个日历天内。评估过程可帮助我们确定和纠正有问题的考题，并相应地更新考试。
+如果您认为Microsoft认证考试中的问题不准确，则可以使用[考试项目挑战过程](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) 在参加考试的30个日历天内。评估过程可帮助我们确定和纠正有问题的考题，并相应地更新考试。
 
 **Microsoft 员工是否将审阅并评估我质疑的考题？**
 
@@ -1020,7 +1020,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **对于有试验的考试，是否有任何特定的考试中心要求？当我尝试安排有试验的考试时，许多考试中心都没有列出，但是没有试验的考试中列出了相同的考试中心。**
 
-包括试验的考试要求考试中心满足某些互联网连接要求，因此可用的考试中心较少。随着试验被添加到更多基于角色的考试中，他们也将受到同一组考试中心的影响。但是，您可以通过在线监考参加这些考试；有关详细信息，请访问 https://www.microsoft.com/zh-cn/learning/online-proctored-exams.aspx 。如果您有心仪的考试中心，请联系该考试中心，了解他们是否可以提供试验；或者，您在选择考试时它们将不会被列为可用的考试中心。如果发生这种情况，我们建议您找另外的考试中心或通过在线监考参加考试。
+包括试验的考试要求考试中心满足某些互联网连接要求，因此可用的考试中心较少。随着试验被添加到更多基于角色的考试中，他们也将受到同一组考试中心的影响。但是，您可以通过在线监考参加这些考试；有关详细信息，请访问 https://www.microsoft.com/learning/online-proctored-exams.aspx 。如果您有心仪的考试中心，请联系该考试中心，了解他们是否可以提供试验；或者，您在选择考试时它们将不会被列为可用的考试中心。如果发生这种情况，我们建议您找另外的考试中心或通过在线监考参加考试。
 
 ### 基于角色的认证
 
@@ -1060,7 +1060,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **如果我对 Microsoft 认证考试的学术验证流程有疑问，我该联系谁？**
 
-如果您有与考试注册有关的一般问题，请与您的[Microsoft区域服务中心](https://www.microsoft.com/zh-cn/learning/help.aspx)联系。对于特定于新的或待处理的验证请求的问题，您可以[联系支持](https://academic.getmicrosoftkey.com/default/support)。
+如果您有与考试注册有关的一般问题，请与您的[Microsoft区域服务中心](https://www.microsoft.com/learning/help.aspx)联系。对于特定于新的或待处理的验证请求的问题，您可以[联系支持](https://academic.getmicrosoftkey.com/default/support)。
 
 ### 住宿要求
 
