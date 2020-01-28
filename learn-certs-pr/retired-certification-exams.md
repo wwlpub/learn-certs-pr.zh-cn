@@ -14,25 +14,25 @@ ms.author: micsullivan
 
 | 2020年6月30日停用 | |
 | --- | --- |
-| [MB2-716](https://www.microsoft.com/zh-cn/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 的定制和配置 | |
-| [MB6-894](https://www.microsoft.com/zh-cn/learning/exam-mb6-894.aspx): Microsoft Dynamics 365 for Finance and Operation 的开发、扩展和部署 | |
+| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 的定制和配置 | |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Microsoft Dynamics 365 for Finance and Operation 的开发、扩展和部署 | |
 
 | 2019年12月31日停用 | |
 | --- | --- |
-| [70-348](https://www.microsoft.com/zh-cn/learning/exam-70-348.aspx): 使用 Microsoft PPM 管理项目和项目组合 | |
-| [70-703](https://www.microsoft.com/zh-cn/learning/exam-70-703.aspx): 管理 Microsoft System Center 配置管理器和云服务集成 | |
-| [70-713](https://www.microsoft.com/zh-cn/learning/exam-70-713.aspx): 软件资产管理（SAM） - 核心 | |
-| [70-735](https://www.microsoft.com/zh-cn/learning/exam-70-735.aspx): Windows 10的OEM制造和部署 | |
-| [MB2-706](https://www.microsoft.com/zh-cn/learning/exam-MB2-706.aspx): Microsoft Dynamics CRM Online Deployment | |
-| [MB2-707](https://www.microsoft.com/zh-cn/learning/exam-MB2-707.aspx): Microsoft Dynamics CRM Customization and Configuration | |
-| [MB2-708](https://www.microsoft.com/zh-cn/learning/exam-MB2-708.aspx): Microsoft Dynamics CRM Installation | |
-| [MB2-710](https://www.microsoft.com/zh-cn/learning/exam-MB2-710.aspx): Microsoft Dynamics CRM 2016 Online Deployment | |
-| [MB2-711](https://www.microsoft.com/zh-cn/learning/exam-MB2-711.aspx): Microsoft Dynamics CRM 2016 Installation | |
-| [MB2-712](https://www.microsoft.com/zh-cn/learning/exam-MB2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration | |
-| [MB2-713](https://www.microsoft.com/zh-cn/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales | |
-| [MB2-714](https://www.microsoft.com/zh-cn/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service | |
-| [MB6-897](https://www.microsoft.com/zh-cn/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail | |
-| [MB6-898](https://www.microsoft.com/zh-cn/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent | |
+| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx): 使用 Microsoft PPM 管理项目和项目组合 | |
+| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx): 管理 Microsoft System Center 配置管理器和云服务集成 | |
+| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx): 软件资产管理（SAM） - 核心 | |
+| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx): Windows 10的OEM制造和部署 | |
+| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx): Microsoft Dynamics CRM Online Deployment | |
+| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx): Microsoft Dynamics CRM Customization and Configuration | |
+| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx): Microsoft Dynamics CRM Installation | |
+| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx): Microsoft Dynamics CRM 2016 Online Deployment | |
+| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx): Microsoft Dynamics CRM 2016 Installation | |
+| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx): Microsoft Dynamics CRM 2016 Customization and Configuration | |
+| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales | |
+| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service | |
+| [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail | |
+| [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent | |
 
 ## 最近停用的考试
 
@@ -40,68 +40,68 @@ ms.author: micsullivan
 
 | ITPro/Developer| | |
 | --- | --- | --- |
-| [AZ-100](https://www.microsoft.com/zh-cn/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
-| [AZ-101](https://www.microsoft.com/zh-cn/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
-| [AZ-102](https://www.microsoft.com/zh-cn/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019年6月30日
-| [AZ-200](https://www.microsoft.com/zh-cn/learning/exam-AZ-200.aspx) | Microsoft Azure开发人员核心解决方案（2018年9月24日发布）| 2019年1月3日
-| [AZ-201](https://www.microsoft.com/zh-cn/learning/exam-AZ-201.aspx) | Microsoft Azure开发人员高级解决方案（2018年9月24日发布）| 2019年1月3日
-| [AZ-202](https://www.microsoft.com/zh-cn/learning/exam-AZ-202.aspx) | Microsoft Azure开发人员认证过渡（2018年9月24日发布）| 2019年3月31日
-| [AZ-302](https://www.microsoft.com/zh-cn/learning/exam-AZ-302.aspx) | Microsoft Azure解决方案架构师认证过渡| 2019年6月30日
-| [MS-202](https://www.microsoft.com/zh-cn/learning/exam-MS-202.aspx) | Microsoft 365邮件管理员认证过渡| 2019年9月30日
-| [MS-302](https://www.microsoft.com/zh-cn/learning/exam-MS-302.aspx) | Microsoft 365团队合作管理员认证过渡| 2019年9月30日
+| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
+| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
+| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019年6月30日
+| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Microsoft Azure开发人员核心解决方案（2018年9月24日发布）| 2019年1月3日
+| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Microsoft Azure开发人员高级解决方案（2018年9月24日发布）| 2019年1月3日
+| [AZ-202](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Microsoft Azure开发人员认证过渡（2018年9月24日发布）| 2019年3月31日
+| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure解决方案架构师认证过渡| 2019年6月30日
+| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365邮件管理员认证过渡| 2019年9月30日
+| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365团队合作管理员认证过渡| 2019年9月30日
 | 70-246 | 使用System Center 2012监视和操作私有云| 2017年12月31日
 | 70-247 | 配置和部署私有云 | 2017年12月31日
-| [70-331](https://www.microsoft.com/zh-cn/learning/exam-70-331.aspx) | Microsoft SharePoint Server 2013的核心解决方案| 2019年3月31日
-| [70-332](https://www.microsoft.com/zh-cn/learning/exam-70-332.aspx) | Microsoft SharePoint Server 2013的高级解决方案| 2019年3月31日
-| [70-341](https://www.microsoft.com/zh-cn/learning/exam-70-341.aspx) | Microsoft Exchange Server 2013的核心解决方案| 2019年3月31日
-| [70-342](https://www.microsoft.com/zh-cn/learning/exam-70-342.aspx) | Microsoft Exchange Server 2013的高级解决方案| 2019年3月31日
-| [70-346](https://www.microsoft.com/zh-cn/learning/exam-70-346.aspx) | 管理Office 365身份和要求| 2019年4月30日
-| [70-347](https://www.microsoft.com/zh-cn/learning/exam-70-347.aspx) | 启用Office 365服务| 2019年4月30日
+| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Microsoft SharePoint Server 2013的核心解决方案| 2019年3月31日
+| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Microsoft SharePoint Server 2013的高级解决方案| 2019年3月31日
+| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Microsoft Exchange Server 2013的核心解决方案| 2019年3月31日
+| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Microsoft Exchange Server 2013的高级解决方案| 2019年3月31日
+| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | 管理Office 365身份和要求| 2019年4月30日
+| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | 启用Office 365服务| 2019年4月30日
 | 70-398 | 规划和管理企业中的设备| 2018年7月31日
-| [70-473](https://www.microsoft.com/zh-cn/learning/exam-70-473.aspx) | 设计和实施云数据平台解决方案 | 2019年6月30日
-| [70-475](https://www.microsoft.com/zh-cn/learning/exam-70-475.aspx) | 设计和实施大数据分析解决方案| 2019年6月30日
+| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | 设计和实施云数据平台解决方案 | 2019年6月30日
+| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | 设计和实施大数据分析解决方案| 2019年6月30日
 | 70-488 | 开发SharePoint Server 2013核心解决方案| 2018年7月31日
 | 70-489 | 开发SharePoint Server 2013高级解决方案| 2018年7月31日
-| [70-496](https://www.microsoft.com/zh-cn/learning/exam-70-496.aspx) | 管理Visual Studio Team Foundation Server | 2018年12月31日
-| [70-497](https://www.microsoft.com/zh-cn/learning/exam-70-497.aspx) | 使用Visual Studio进行软件测试 | 2018年12月31日
-| [70-498](https://www.microsoft.com/zh-cn/learning/exam-70-498.aspx) | 使用Visual Studio交付持续价值| 2018年12月31日
-| [70-532](https://www.microsoft.com/zh-cn/learning/exam-70-532.aspx) | 开发Microsoft Azure解决方案 | 2018年12月31日
-| [70-533](https://www.microsoft.com/zh-cn/learning/exam-70-533.aspx) | 实施Microsoft Azure基础结构解决方案| 2018年12月31日
-| [70-534](https://www.microsoft.com/zh-cn/learning/exam-70-534.aspx) | 架构Microsoft Azure解决方案|  2017年12月31日
-| [70-535](https://www.microsoft.com/zh-cn/learning/exam-70-535.aspx) | 架构Microsoft Azure解决方案 | 2018年12月31日
+| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | 管理Visual Studio Team Foundation Server | 2018年12月31日
+| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | 使用Visual Studio进行软件测试 | 2018年12月31日
+| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | 使用Visual Studio交付持续价值| 2018年12月31日
+| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | 开发Microsoft Azure解决方案 | 2018年12月31日
+| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) | 实施Microsoft Azure基础结构解决方案| 2018年12月31日
+| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | 架构Microsoft Azure解决方案|  2017年12月31日
+| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | 架构Microsoft Azure解决方案 | 2018年12月31日
 | 70-680 | Windows 7，配置| 2018年7月31日
 | 70-685 | Windows 7，Enterprise Desktop支持技术人员 | 2018年7月31日
 | 70-686 | Windows 7，Enterprise Desktop Administrator | 2018年7月31日
-| [70-695](https://www.microsoft.com/zh-cn/learning/exam-70-695.aspx) | 部署Windows桌面和企业应用程序 | 2019年3月31日
+| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | 部署Windows桌面和企业应用程序 | 2019年3月31日
 | 70-696 | 管理System Center Configuration Manager和Intune | 2018年3月31日
-| [70-697](https://www.microsoft.com/zh-cn/learning/exam-70-697.aspx) | 配置Windows设备 | 2019年4月30日
-| [70-698](https://www.microsoft.com/zh-cn/learning/exam-70-698.aspx) | 安装和配置Windows 10 | 2019年3月31日
-| [70-773](https://www.microsoft.com/zh-cn/learning/exam-70-773.aspx) | 使用Microsoft R分析大数据 | 2019年6月30日
-| [70-774](https://www.microsoft.com/zh-cn/learning/exam-70-774.aspx) | 使用Azure机器学习执行云数据科学 | 2019年6月30日
-| [70-775](https://www.microsoft.com/zh-cn/learning/exam-70-775.aspx) | 在Microsoft Azure HDInsight上执行数据工程 | 2019年6月30日
-| [70-776](https://www.microsoft.com/zh-cn/learning/exam-70-776.aspx) | 在Microsoft Cloud Services上执行大数据工程 | 2019年6月30日
-| [74-343](https://www.microsoft.com/zh-cn/learning/exam-74-343.aspx) | 使用Microsoft Project 2013管理项目 | 2019年7月31日
+| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | 配置Windows设备 | 2019年4月30日
+| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | 安装和配置Windows 10 | 2019年3月31日
+| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | 使用Microsoft R分析大数据 | 2019年6月30日
+| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | 使用Azure机器学习执行云数据科学 | 2019年6月30日
+| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | 在Microsoft Azure HDInsight上执行数据工程 | 2019年6月30日
+| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | 在Microsoft Cloud Services上执行大数据工程 | 2019年6月30日
+| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | 使用Microsoft Project 2013管理项目 | 2019年7月31日
 |74-344 | 使用Project Server 2013管理程序和项目 | 2017年12月31日
 | 74-409 | 使用Windows Server Hyper-V和System Center进行服务器虚拟化 | 2018年7月31日
-| [98-369](https://www.microsoft.com/zh-cn/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019年9月30日
-| [98-380](https://www.microsoft.com/zh-cn/learning/exam-98-380.aspx) | 使用基于块的语言编程简介（Touch Develop）| 2019年8月7日
+| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019年9月30日
+| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | 使用基于块的语言编程简介（Touch Develop）| 2019年8月7日
 
 <br/>
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB2-709](https://www.microsoft.com/zh-cn/learning/exam-MB2-709.aspx) | Microsoft Dynamics营销 | 2017年12月31日
-|[MB2-715](https://www.microsoft.com/zh-cn/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365客户参与在线部署 | 2019年6月30日
-| [MB2-717](https://www.microsoft.com/zh-cn/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365销售 | 2019年6月30日
-| [MB2-718](https://www.microsoft.com/zh-cn/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365客户服务 | 2019年8月31日
-| [MB2-719](https://www.microsoft.com/zh-cn/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365营销 | 2019年8月31日
-| [MB2-877](https://www.microsoft.com/zh-cn/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 2019年6月30日
+| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics营销 | 2017年12月31日
+|[MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365客户参与在线部署 | 2019年6月30日
+| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365销售 | 2019年6月30日
+| [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365客户服务 | 2019年8月31日
+| [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365营销 | 2019年8月31日
+| [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 2019年6月30日
 | MB6-705 | Microsoft Dynamics AX 2012 R3 Cu8安装和配置 | 2017年12月31日
 | MB6-890 | Microsoft Dynamics AX开发简介 | 2​​017年12月31日
 | MB6-892 | Microsoft Dynamics AX发行和交易 | 2017年12月31日
 | MB6-893 | Microsoft Dynamics AX财务| 2017年12月31日
-| [MB6-895](https://www.microsoft.com/zh-cn/learning/exam-MB6-895.aspx) | Microsoft Dynamics 365中的财务和运营财务管理 | 2019年8月31日
-| [MB6-896](https://www.microsoft.com/zh-cn/learning/exam-MB6-896.aspx) | Microsoft Dynamics 365的财务和运营发行与贸易 | 2019年8月31日
+| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Microsoft Dynamics 365中的财务和运营财务管理 | 2019年8月31日
+| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Microsoft Dynamics 365的财务和运营发行与贸易 | 2019年8月31日
 
 ## 其他停用的考试
 

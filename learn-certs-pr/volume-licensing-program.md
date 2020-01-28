@@ -15,7 +15,7 @@ Microsoft培训和认证解决方案可帮助企业和经认可的学术机构�
 可通过以下Microsoft批量许可计划获得Microsoft培训和认证解决方案：
 
 * **Microsoft批量许可**.一个可自定义的Microsoft软件购买程序，可以优惠获取Microsoft培训和认证解决方案。
-* **[Microsoft批量许可的软件保障](https://www.microsoft.com/zh-cn/learning/software-assurance-benefits.aspx)**.具有成本效益的计划，可以通过您现有的软件保障范围访问特定的软件保障电子学习和讲师指导的培训。
+* **[Microsoft批量许可的软件保障](https://www.microsoft.com/learning/software-assurance-benefits.aspx)**.具有成本效益的计划，可以通过您现有的软件保障范围访问特定的软件保障电子学习和讲师指导的培训。
 
 通过批量许可，可以将本页上描述的Microsoft培训和认证解决方案产品的购买，预算和跟踪与其他Microsoft技术的购买合并在一起，您的组织平均可节省成本的20％至80％（取决于产品和批量许可合同的级别）。
 
@@ -94,7 +94,7 @@ Microsoft培训和认证解决方案可帮助企业和经认可的学术机构�
 
 ## 常见问题解答
 
-以下问题专门针对Microsoft培训和认证解决方案的批量许可。访问[认证概述](https://www.microsoft.com/zh-cn/learning/certification-overview.aspx)或[考试政策和常见问题](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx)页面，了解关于Microsoft认证或考试常见问题苊解答。
+以下问题专门针对Microsoft培训和认证解决方案的批量许可。访问[认证概述](https://www.microsoft.com/learning/certification-overview.aspx)或[考试政策和常见问题](https://www.microsoft.com/learning/certification-exam-policies.aspx)页面，了解关于Microsoft认证或考试常见问题苊解答。
 
 ### **Microsoft培训和认证解决方案**
 
@@ -154,7 +154,7 @@ Microsoft培训和认证解决方案提供了一级的单包定价。Microsoft�
 您组织获取的代码越多，获得的批量折扣就越大。我们建议您使用以下资源之一来确定组织的培训需求并制定与您公司的业务目标相一致的学习计划。
 
 - [发送电子邮件给Microsoft培训和认证解决方案批量许可帮助](mailto:mslvlhlp@microsoft.com)
-- [查找您当地的Microsoft认证合作伙伴以获取Microsoft培训和认证解决方案](https://www.microsoft.com/zh-cn/learning/find-partner.aspx)
+- [查找您当地的Microsoft认证合作伙伴以获取Microsoft培训和认证解决方案](https://www.microsoft.com/learning/find-partner.aspx)
 
 **问：我应该订购多少张考试券?**
 
@@ -172,7 +172,7 @@ Microsoft培训和认证解决方案提供了一级的单包定价。Microsoft�
 
 **问：可以使用哪些课程选项来准备Microsoft认证专家（MCP）类包，Microsoft Office专家（MOS）网站包和Microsoft技术助理（MTA）网站包中的考试？**
 
-每个考试都有备考材料。从[新考试清单](https://www.microsoft.com/zh-cn/learning/exam-list.aspx)中选择, and then look for the exam’s available preparation options.
+每个考试都有备考材料。从[新考试清单](https://www.microsoft.com/learning/exam-list.aspx)中选择, and then look for the exam’s available preparation options.
 
 **问：我的机构是否必须是Microsoft Imagine Academy才能通过批量许可订购Microsoft认证考试课程或网站包？**
   
