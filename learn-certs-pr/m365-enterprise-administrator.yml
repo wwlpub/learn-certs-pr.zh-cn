@@ -1,19 +1,18 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 认证的：企业管理员专家'
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
-  title: 'Microsoft 365 认证的：企业管理员专家'
-  description: 'Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。'
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
+summary: Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
 subTitle: Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
 levels:
 - advanced
 skills:
 - 设计和实现 Microsoft 365 服务
-- 管理用户身份和角色 
-- 管理访问和身份验证 
+- 管理用户身份和角色
+- 管理访问和身份验证
 - 规划 Office 365 工作负荷和应用程序
 - 实施现代设备服务
 - 实施 Microsoft 365 安全和威胁管理
@@ -64,4 +63,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

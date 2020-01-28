@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证：Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 认证：Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。'
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+  description: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
 uid: certification.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-   Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
-subTitle: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。'
+summary: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
+subTitle: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
 levels:
 - intermediate
 skills:
@@ -47,7 +46,7 @@ exams:
 - uid: exam.mb-320
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。'
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -63,4 +62,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

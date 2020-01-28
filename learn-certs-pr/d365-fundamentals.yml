@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证的：Dynamics 365 Fundamentals'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
-  title: 'Microsoft 认证的：Dynamics 365 Fundamentals'
-  description: '证明您了解 Microsoft Dynamics 365；动力平台；云概念；许可选择；以及部署和发布选项。'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+  description: 证明您了解 Microsoft Dynamics 365；动力平台；云概念；许可选择；以及部署和发布选项。
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  证明您了解 Microsoft Dynamics 365；动力平台；云概念；许可选择；以及部署和发布选项。
+summary: 证明您了解 Microsoft Dynamics 365；动力平台；云概念；许可选择；以及部署和发布选项。
 subTitle: 证明您了解 Microsoft Dynamics 365；动力平台；云概念；许可选择；以及部署和发布选项。
 levels:
 - beginner
@@ -28,7 +27,7 @@ exams:
 - uid: exam.mb-900
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Dynamics 365 Fundamentals。'
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Fundamentals。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -44,4 +43,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

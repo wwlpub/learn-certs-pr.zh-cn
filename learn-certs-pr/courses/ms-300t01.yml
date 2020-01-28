@@ -13,7 +13,7 @@ skillsGained:
 - skill: 部署OneDrive for Business同步客户端
 - skill: 使用组策略设置来控制 OneDrive 同步客户端设置
 - skill: 管理SharePoint Online和OneDrive for Business中的外部数据共享
-learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

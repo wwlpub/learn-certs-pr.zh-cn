@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 认证: Developer Associate'
+title: 'Microsoft 365 Certified: Developer Associate'
 metadata:
-  title: 'Microsoft 365 认证: Developer Associate'
+  title: 'Microsoft 365 Certified: Developer Associate'
   description: Microsoft 365 Developer 可设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案针对使用Microsoft 365平台的组织的生产力和协作需求进行了优化。
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
+summary: >-
   Microsoft 365 Developer 可设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案针对使用Microsoft 365平台的组织的生产力和协作需求进行了优化。
-  
+
+
   Microsoft 365 Developer 精通Microsoft Identity和Microsoft Graph。他们对UI元素（包括Adaptive Cards和UI Fabric），集成点（包括Microsoft Teams，Office加载项，SharePoint Framework，Actionable Messages）以及确定工作负载平台目标具有一般了解。
 subTitle: Microsoft 365 Developer 可设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案针对使用Microsoft 365平台的组织的生产力和协作需求进行了优化。
 levels:
@@ -30,7 +31,7 @@ exams:
 - uid: exam.ms-600
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Developer Associate.'
+  description: '发现培训资源以获得 Microsoft 365 Certified: Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -46,4 +47,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

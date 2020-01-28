@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft Office 专家：Microsoft Excel 2016'
+title: 'Microsoft Office Specialist: Microsoft Excel 2016'
 metadata:
-  title: 'Microsoft Office 专家：Microsoft Excel 2016'
-  description: 'Microsoft Office 专家：Microsoft Excel 2016'
+  title: 'Microsoft Office Specialist: Microsoft Excel 2016'
+  description: Microsoft Office 专家：Microsoft Excel 2016
 uid: certification.mos-excel-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  证明您获得特定 Office 程序的 Microsoft Office 专员 (MOS) 认证，具备充分利用 Office 所需的技能。
+summary: 证明您获得特定 Office 程序的 Microsoft Office 专员 (MOS) 认证，具备充分利用 Office 所需的技能。
 subTitle: 证明您获得特定 Office 程序的 Microsoft Office 专员 (MOS) 认证，具备充分利用 Office 所需的技能。
 levels:
 - intermediate
@@ -31,4 +30,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

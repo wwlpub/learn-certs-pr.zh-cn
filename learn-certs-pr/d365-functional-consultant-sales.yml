@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证：Dynamics 365 Sales Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 认证：Dynamics 365 Sales Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。'
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
+summary: Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
 levels:
 - intermediate
@@ -52,7 +51,7 @@ exams:
 - uid: exam.mb-210
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Sales Functional Consultant Associate。'
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -68,4 +67,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

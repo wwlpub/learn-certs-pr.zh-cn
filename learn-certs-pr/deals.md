@@ -69,11 +69,11 @@ ms.author: micsullivan
 
 **问我可以使用 Exam Replay 考试凭证参加在线监考考试吗？**
 
-**答** 是，如果提供了在线监考考试，则可以使用 Exam Replay 凭证参加。[了解在线考试](https://www.microsoft.com/zh-cn/learning/online-proctored-exams.aspx)，以获得Microsoft认证。
+**答** 是，如果提供了在线监考考试，则可以使用 Exam Replay 凭证参加。[了解在线考试](https://www.microsoft.com/learning/online-proctored-exams.aspx)，以获得Microsoft认证。
 
 **问我能否同时安排初始考试和重考吗？**
 
-**答** 不能，在参加初始考试并且未通过之后，您才能注册申请重考。有关详细信息，请参阅[微软认证考试重考政策](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx)。
+**答** 不能，在参加初始考试并且未通过之后，您才能注册申请重考。有关详细信息，请参阅[微软认证考试重考政策](https://www.microsoft.com/learning/certification-exam-policies.aspx)。
 
 **问如何激活模拟考试，它的有效期是多长？**
 

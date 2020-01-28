@@ -5,8 +5,7 @@ metadata:
   description: 证明您了解Power Platform的核心功能-从商业价值和核心产品功能到构建基本的Power Apps画布应用程序，连接数据源，使用Microsoft Flow自动化以及创建Power BI控制面板。
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  证明您了解Power Platform的核心功能-从商业价值和核心产品功能到构建基本的Power Apps画布应用程序，连接数据源，使用Microsoft Flow自动化以及创建Power BI控制面板。
+summary: 证明您了解Power Platform的核心功能-从商业价值和核心产品功能到构建基本的Power Apps画布应用程序，连接数据源，使用Microsoft Flow自动化以及创建Power BI控制面板。
 subTitle: 证明您了解Power Platform的核心功能-从商业价值和核心产品功能到构建基本的Power Apps画布应用程序，连接数据源，使用Microsoft Flow自动化以及创建Power BI控制面板。
 levels:
 - beginner
@@ -44,4 +43,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

@@ -17,7 +17,7 @@ skillsGained:
 - skill: 为Azure中托管的解决方案设计警报方案。
 - skill: 为Azure中托管的基础结构和数据选择适当的备份选项。
 - skill: 自动部署将来的资源，以进行备份恢复或扩展。
-learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

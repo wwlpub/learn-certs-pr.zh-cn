@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 认证的：安全助理管理员'
+title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
-  title: 'Microsoft 365 认证的：安全助理管理员'
-  description: 'Microsoft 365 安全管理员主动保护 M365 企业和混合环境，实施和管理安全和合规性解决方案，响应威胁并实施数据治理。'
+  title: 'Microsoft 365 Certified: Security Administrator Associate'
+  description: Microsoft 365 安全管理员主动保护 M365 企业和混合环境，实施和管理安全和合规性解决方案，响应威胁并实施数据治理。
 uid: certification.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Microsoft 365 安全管理员主动保护 M365 企业和混合环境，实施和管理安全和合规性解决方案，响应威胁并实施数据治理。
+summary: Microsoft 365 安全管理员主动保护 M365 企业和混合环境，实施和管理安全和合规性解决方案，响应威胁并实施数据治理。
 subTitle: Microsoft 365 安全管理员主动保护 M365 企业和混合环境，实施和管理安全和合规性解决方案，响应威胁并实施数据治理。
 levels:
 - intermediate
@@ -34,7 +33,7 @@ exams:
 - uid: exam.ms-500
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft 认证：Security Administrator Associate。'
+  description: '发现培训资源以获得 Microsoft 365 Certified: Security Administrator Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -50,4 +49,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

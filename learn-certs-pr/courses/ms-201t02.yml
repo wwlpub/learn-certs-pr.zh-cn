@@ -18,7 +18,7 @@ skillsGained:
 - skill: 管理基于管理员角色的权限
 - skill: 管理基于用户角色的权限
 - skill: 规划Exchange设置 - RBAC和AD拆分权限
-learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

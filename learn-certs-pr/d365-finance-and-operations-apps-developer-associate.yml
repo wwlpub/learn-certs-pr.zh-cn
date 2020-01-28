@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证：Dynamics 365： Finance and Operations Apps Developer Associate'
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
 metadata:
-  title: 'Microsoft 认证：Dynamics 365：Finance and Operations Apps Developer Associate'
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate'
   description: 使用Microsoft Dynamics 365中的Finance and Operations应用程序的开发人员可以实施并扩展应用程序以满足业务需求。考生可以使用标准化的应用程序编码模式，可扩展的功能以及外部集成来提供可以完全实现的解决方案。
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  使用Microsoft Dynamics 365中的Finance and Operations应用程序的开发人员可以实施并扩展应用程序以满足业务需求。考生可以使用标准化的应用程序编码模式，可扩展的功能以及外部集成来提供可以完全实现的解决方案。
+summary: 使用Microsoft Dynamics 365中的Finance and Operations应用程序的开发人员可以实施并扩展应用程序以满足业务需求。考生可以使用标准化的应用程序编码模式，可扩展的功能以及外部集成来提供可以完全实现的解决方案。
 subTitle: 使用Microsoft Dynamics 365中的Finance and Operations应用程序的开发人员可以实施并扩展应用程序以满足业务需求。
 levels:
 - intermediate
@@ -61,4 +60,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

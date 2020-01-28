@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证：Dynamics 365 Customer Service Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 认证：Dynamics 365 Customer Service Functional Consultant Associate'
-  description: '面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。'
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: 面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
+summary: 面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
 subTitle: 面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
 levels:
 - intermediate
@@ -51,7 +50,7 @@ exams:
 - uid: exam.mb-230
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Customer Service Functional Consultant Associate.'
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -67,4 +66,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证：Dynamics 365 Supply Chain Management Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 认证：Dynamics 365 Supply Chain Management Functional Consultant Associate'
-  description: 'Dynamics 365财务和运营，供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。'
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: Dynamics 365财务和运营，供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。
 uid: certification.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Dynamics 365财务和运营，供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。
-subTitle: 'Dynamics 365财务和运营，供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。'
+summary: Dynamics 365财务和运营，供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。
+subTitle: Dynamics 365财务和运营，供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。
 levels:
 - intermediate
 skills:
@@ -49,7 +48,7 @@ exams:
 - uid: exam.mb-330
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Supply Chain Management Functional Consultant Associate。'
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -65,4 +64,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

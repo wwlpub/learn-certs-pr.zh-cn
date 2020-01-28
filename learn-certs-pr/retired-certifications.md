@@ -16,9 +16,9 @@ ms.author: micsullivan
 
 查看将于未来 12 个月内停用的认证。（下面的信息随时可能更改。） 
 
-[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/zh-cn/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于2020年6月30日停用  
+[MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于2020年6月30日停用  
 
-[MCSE: 商业应用程序](https://www.microsoft.com/zh-cn/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于2019年12月31日停用  
+[MCSE: 商业应用程序](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于2019年12月31日停用  
 
 MCSA：CRM Dynamics技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于2019年12月31日停用  
 
@@ -36,17 +36,17 @@ MCSA：CRM Dynamics技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 | Microsoft Certified Solutions Associate                      |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: 云平台](https://www.microsoft.com/zh-cn/learning/mcsa-cloud-platform-certification.aspx) | 2018年12月31日 |
-| [MCSA: Linux on Azure](https://www.microsoft.com/zh-cn/learning/mcsa-linux-azure-certification.aspx) | 2018年12月31日 |
-| [MCSA: Office 365](https://www.microsoft.com/zh-cn/learning/mcsa-office365-certification.aspx) | 2019年4月30日 |
-| [MCSA: Windows 10](https://www.microsoft.com/zh-cn/learning/mcsa-windows-10-certifications.aspx) | 2019年4月30日 |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/zh-cn/learning/mcsa-microsoft-dynamics-365.aspx) | 2019年6月30日 |
-| [MCSA: 机器学习](https://www.microsoft.com/zh-cn/learning/mcsa-machine-learning.aspx) | 2019年6月30日 |
-| [MCSA: 使用Azure进行数据工程](https://www.microsoft.com/zh-cn/learning/mcsa-data-engineering-with-azure.aspx) | 2019年6月30日 |
+| [MCSA: 云平台](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx) | 2018年12月31日 |
+| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx) | 2018年12月31日 |
+| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx) | 2019年4月30日 |
+| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx) | 2019年4月30日 |
+| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx) | 2019年6月30日 |
+| [MCSA: 机器学习](https://www.microsoft.com/learning/mcsa-machine-learning.aspx) | 2019年6月30日 |
+| [MCSA: 使用Azure进行数据工程](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx) | 2019年6月30日 |
 
 | Microsoft Certified Solutions Expert                        |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: 云平台和基础架构](https://www.microsoft.com/zh-cn/learning/mcse-cloud-platform-infrastructure.aspx) | 2018年12月31日 |
+| [MCSE: 云平台和基础架构](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 2018年12月31日 |
 
 | Microsoft Technology Associate                           |          |
 | ---------------------------------------------------------------------------------- | ------------------ |

@@ -64,7 +64,7 @@ ms.author: micsullivan
 - 此考试优惠不可转让，如果您以任何方式更改、修改或转让，则该优惠无效。
 - 此考试优惠仅提供给已注册并参加官方Microsoft Ignite 2019或Microsoft Ignite The Tour 2019-2020活动的个人。
 
-有关更多的信息，请参阅完整的[Microsoft使用条款](https://www.microsoft.com/zh-cn/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
+有关更多的信息，请参阅完整的[Microsoft使用条款](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1)
 
 ## 外部常见问题解答-MS Ignite和The Tour的免费考试优惠
 
@@ -76,7 +76,7 @@ ms.author: micsullivan
 
 **问题：哪些认证考试可以使用此优惠？**
 
-**答：** 此优惠包括所有Microsoft基础，基于角色的考试和专业考试。有关资格认证考试的列表，请参见我们的优惠详细信息页面上的“此优惠适用的资格考试”部分： [https://docs.microsoft.com/zh-cn/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/zh-cn/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
+**答：** 此优惠包括所有Microsoft基础，基于角色的考试和专业考试。有关资格认证考试的列表，请参见我们的优惠详细信息页面上的“此优惠适用的资格考试”部分： [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
 
 **问题：如果我报名参加了一项资格活动但没有亲自参加，我仍然可以要求此优惠吗？**
 
@@ -98,7 +98,7 @@ ms.author: micsullivan
 
 **问题：如何通过此优惠安排免费考试？**
 
-**答：** 如需了解安排免费考试的指南，请访问[https://docs.microsoft.com/zh-cn/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/zh-cn/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
+**答：** 如需了解安排免费考试的指南，请访问[https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
 
 **问题：在验证我的考试优惠资格时，我遇到一个错误，指出我不符合条件，因为我是政府官员，但我不是。我该怎么办？**
 
@@ -111,7 +111,7 @@ ms.author: micsullivan
 **问题：我可以选择现场或在线参加安排的考试吗？**
 
 **答：** 是的，您可以选择在当地考试中心现场通过Pearson Vue参加考试或通过在线督导（OP）参加安排好的考试。如需了解有关在线考试的更多信息，请访问
-[https://www.microsoft.com/zh-cn/learning/online-exams.aspx](https://www.microsoft.com/zh-cn/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### 取消和改期政策
 
@@ -121,14 +121,14 @@ ms.author: micsullivan
 
 **问题：重新安排或取消考试预约时需要付费吗？**
 
-**答：** 如果您在约定考试时间的至少六个工作日之前重新安排或取消考试预约，则没有任何收费。如果您在考试时间前五个工作日内需要重新安排时间，则需要支付重新安排费用。在预定考试时间的两天内，可能无法重新安排或取消考试。如果您没有参加考试，那么您将失去此优惠的免费考试。有关更多信息，请参阅[取消和重新安排政策](https://docs.microsoft.com/zh-cn/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**答：** 如果您在约定考试时间的至少六个工作日之前重新安排或取消考试预约，则没有任何收费。如果您在考试时间前五个工作日内需要重新安排时间，则需要支付重新安排费用。在预定考试时间的两天内，可能无法重新安排或取消考试。如果您没有参加考试，那么您将失去此优惠的免费考试。有关更多信息，请参阅[取消和重新安排政策](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **问题：如果我错过了预约的考试，并且没有重新安排或取消考试，该怎么办？**
 
-**答：** 如果您错过了预约的考试，并且没有在预约考试时间的至少24小时之前重新安排或取消预约，则您将失去此优惠的免费考试。有关更多信息，请参阅[取消和重新安排政策](https://docs.microsoft.com/zh-cn/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**答：** 如果您错过了预约的考试，并且没有在预约考试时间的至少24小时之前重新安排或取消预约，则您将失去此优惠的免费考试。有关更多信息，请参阅[取消和重新安排政策](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 ### 重考政策
 
 **问题：如果未通过初次的免费认证考试，可以免费重考吗？**
 
-**答：** 不可以，此优惠仅适用于一次考试，必须另外安排重考时间。有关重新参加认证考试的详细信息，请参阅我们的[重考政策](https://www.microsoft.com/zh-cn/learning/certification-exam-policies.aspx#policies-1).
+**答：** 不可以，此优惠仅适用于一次考试，必须另外安排重考时间。有关重新参加认证考试的详细信息，请参阅我们的[重考政策](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).

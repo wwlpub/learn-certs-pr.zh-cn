@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证：Azure for SAP Workloads专业版'
+title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft 认证：Azure for SAP Workloads专业版'
+  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
   description: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: |-
-  Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
+summary: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
 subTitle: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
 levels:
 - advanced
@@ -42,4 +41,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

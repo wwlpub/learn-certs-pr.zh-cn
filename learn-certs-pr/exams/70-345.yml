@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: 设计和部署 Microsoft Exchange Server 2016
+title: Designing and Deploying Microsoft Exchange Server 2016
 metadata:
-  title: '考试 70-345: 设计和部署 Microsoft Exchange Server 2016'
-  description: '考试 70-345: 设计和部署 Microsoft Exchange Server 2016'
+  title: '考试 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  description: '考试 70-345: Designing and Deploying Microsoft Exchange Server 2016'
 uid: exam.70-345
 displayName: 70-345
-summary: |-
+summary: >-
   本考试的考生是IT顾问或高级管理人员，他们作为管理团队的技术主管。考生应熟悉将 Microsoft Exchange Server 与 Skype for Business 和 Office 365 进行集成的要求。
+
 
   考生应至少有三年的设计和管理Exchange服务器的经验，以及在企业环境中负责Exchange 2016消息传递环境。
 subTitle: 本考试的考生是IT顾问或高级管理人员，他们作为管理团队的技术主管。考生应熟悉将 Microsoft Exchange Server 与 Skype for Business 和 Office 365 进行集成的要求。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
 practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=345&examname=设计和部署%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2F70-345
 locales:
 - en
 - es
@@ -23,7 +23,8 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2F70-345
+levels:
 - advanced
 skills:
 - 规划、部署、管理和故障排除邮箱数据库(15-20%)
@@ -48,7 +49,7 @@ resources:
   href: ../deals.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

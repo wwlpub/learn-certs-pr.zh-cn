@@ -5,22 +5,27 @@ metadata:
   description: '考试 MB-310: Microsoft Dynamics 365 Finance'
 uid: exam.mb-310
 displayName: MB-310
-summary: |-
+summary: >-
   本考试的考生是职能顾问，他们分析业务需求并将这些需求转化为完全实现的业务流程和实施行业最佳实践的解决方案。考生是实施和配置应用程序以满足业务需求的关键资源。
+
   <br/>
 
+
   本考试的考生对企业的会计原则和财务运作，客户服务，现场服务，制造，零售和供应链管理概念有基本的了解。
+
   <br/>
+
 
   此考试的考生通常专注于 Microsoft Dynamics 365 Finance的一个或多个功能集，包括财务、制造和供应链管理。
 
+
   考生必须具备基本会计原则和实践知识。
-subTitle: '该考试衡量您完成以下技术任务的能力：设置和配置财务管理；管理和应用共同流程；实施和管理应付账款和应收账款；并管理预算和固定资产。'
+subTitle: 该考试衡量您完成以下技术任务的能力：设置和配置财务管理；管理和应用共同流程；实施和管理应付账款和应收账款；并管理预算和固定资产。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-310&examname=考试%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-310&examname=考试%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 levels:
 - intermediate
 skills:
@@ -30,11 +35,11 @@ skills:
 - 管理预算和固定资产(15-20%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance
 courses:
 - uid: course.mb-310t01
 - uid: course.mb-310t02
@@ -52,7 +57,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-financials
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Dynamics 365 Finance Functional Consultant Associate​。'
+  description: '发现培训资源以获得 Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate​。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svL
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -65,7 +70,7 @@ resources:
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

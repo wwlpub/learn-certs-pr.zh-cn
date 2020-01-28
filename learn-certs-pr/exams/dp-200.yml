@@ -1,26 +1,28 @@
 ### YamlMime:Examination
-title: 实施 Azure 数据解决方案
+title: Implementing an Azure Data Solution
 metadata:
-  title: '考试 DP-200：实施 Azure 数据解决方案'
-  description: '考试 DP-200：实施 Azure 数据解决方案'
+  title: '考试 DP-200：Implementing an Azure Data Solution'
+  description: '考试 DP-200：Implementing an Azure Data Solution'
 uid: exam.dp-200
 displayName: DP-200
-summary: |-
+summary: >-
   此考试的考生是 Microsoft Azure 数据工程师，他们与业务利益相关者合作，以识别和满足数据要求，实现使用 Azure 数据服务的数据解决方案。
+
 
   Azure 数据工程师负责与数据相关的实施任务，包括配置数据存储服务、提取流和批量数据、转换数据，实施安全要求，实施数据保留策略，识别性能瓶颈以及访问外部数据源。
 
+
   参加该考试的考生必须能够实施使用以下Azure服务的数据解决方案：Azure Cosmos DB，Azure SQL数据库，Azure Synapse Analytics（以前称为Azure SQL DW），Azure Data Lake Storage，Azure数据工厂，Azure流分析，Azure数据块和Azure Blob存储。
-subTitle: '该考试衡量您完成以下技术任务的能力：实施数据存储解决方案；管理和开发数据处理；并监控和优化数据解决方案。'
+subTitle: 该考试衡量您完成以下技术任务的能力：实施数据存储解决方案；管理和开发数据处理；并监控和优化数据解决方案。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-200&examname=考试%20DP-200:%20实施%20Azure%20数据解决方案&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-200&examname=考试%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 levels:
 - intermediate
 skills:
@@ -29,6 +31,8 @@ skills:
 - 监控和优化数据解决方案(30-35%)
 roles:
 - data-engineer
+exams:
+- uid: exam.dp-201
 products:
 - azure
 - azure-cosmos-db
@@ -41,8 +45,6 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
-exams:
-- uid: exam.dp-201
 courses:
 - uid: course.dp-200t01
 paths:
@@ -60,7 +62,7 @@ relatedCertifications:
     uid: certification.azure-data-engineer
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Azure Data Engineer Associate。'
+  description: '发现培训资源以获得 Microsoft Certified: Azure Data Engineer Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -73,7 +75,7 @@ resources:
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

@@ -7,7 +7,7 @@ uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/zh-cn/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -25,7 +25,7 @@ summary: |-
   本课程面向数据科学家以及在训练和部署机器学习模型方面负有重要责任的人员。
 prerequisitesSection: |-
   参加本课程之前，学生必须具备&#58;
-  - 获得[Azure Fundamentals认证](https://docs.microsoft.com/zh-cn/learn/certifications/azure-fundamentals)。
+  - 获得[Azure Fundamentals认证](https://docs.microsoft.com/learn/certifications/azure-fundamentals)。
   - 了解数据科学，包括如何准备数据、训练模型以及评估竞争模型以选择最佳模型。
   - 如何使用Python编程语言进行编程并使用Python库&#58;pandas，scikit-learn，matplotlib和seaborn。
 outlineSection: |-

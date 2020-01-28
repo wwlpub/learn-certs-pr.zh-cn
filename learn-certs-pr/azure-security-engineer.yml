@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 认证的：Azure Security Engineer Associate'
+title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
-  title: 'Microsoft 认证的：Azure Security Engineer Associates'
-  description: 'Azure安全工程师实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。'
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: Azure安全工程师实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure安全工程师实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
+summary: Azure安全工程师实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
 subTitle: Azure安全工程师实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
 levels:
 - intermediate
@@ -45,4 +44,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx

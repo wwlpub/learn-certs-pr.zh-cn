@@ -5,8 +5,7 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Office 2016 Expert'
 uid: certification.microsoft-office-specialist-expert-certification-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  获得 Microsoft Office 专家认证，本认证证明您具备重要 Office 程序的高级技能。
+summary: 获得 Microsoft Office 专家认证，本认证证明您具备重要 Office 程序的高级技能。
 subTitle: 获得 Microsoft Office 专家认证，本认证证明您具备重要 Office 程序的高级技能。
 levels:
 - advanced
@@ -32,5 +31,4 @@ resources:
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
-  href: https://www.microsoft.com/zh-cn/learning/dashboard.aspx
-
+  href: https://www.microsoft.com/learning/dashboard.aspx
