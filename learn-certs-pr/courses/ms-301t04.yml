@@ -42,7 +42,7 @@ summary: |-
 
   Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
 prerequisitesSection: |-
-  学员应在具备以下技能的情况下开始本课程&#58；
+  学员应在具备以下技能的情况下开始本课程&#58;
   - 使用Windows PowerShell的体验。
   - 对SQL Server管理的基本了解。
   - 对网络（包括DNS）的基本了解。
