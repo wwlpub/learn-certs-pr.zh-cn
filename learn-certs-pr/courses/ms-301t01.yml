@@ -14,7 +14,7 @@ skillsGained:
 - skill: 描述 SharePoint 2019 中的身份验证基础架构
 - skill: 解释联合身份背后的概念
 - skill: 描述如何创建网站集
-- skill: 描述如何规划SharePoint  2019中的身份验证
+- skill: 描述如何规划SharePoint 2019中的身份验证
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -44,7 +44,7 @@ summary: |-
 
   Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
 prerequisitesSection: |-
-  学员应在具备以下技能的情况下开始本课程&#58；
+  学员应在具备以下技能的情况下开始本课程&#58;
   - 使用Windows PowerShell的体验
   - 对SQL Server管理的基本了解
   - 对网络（包括DNS）的基本了解
