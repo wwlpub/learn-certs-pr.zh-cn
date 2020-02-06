@@ -540,10 +540,10 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 如果由于无法使用您的母语进行考试而需要额外的时间，则可以通过提交[英语作为第二语言表格](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)来提出要求。 请按照表格上的说明进行操作。 
 
-如果您在考试时需要特殊设备或其他住宿，则可以通过[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)要求使用“合理”的住宿。调整请求系统” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。合理调整请求系统是一个安全的在线系统，用于请求便利和提交证明文件。
+如果您在考试时需要特殊设备或其他住宿，则可以通过[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)要求使用“合理”的住宿。调整请求系统” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。合理调整请求系统是一个安全的在线系统，用于请求便利和提交证明文件。
 
 - 如果您是首次使用该请求系统，则需要创建用户名和密码。要创建用户名，请单击登录屏幕上的“注册”链接。请注意，系统要求您拥有一个有效的电子邮件帐户。
-- Pearson VUE使用此安全系统，因为需要您上载支持文档。如果您还没有这样做，请给您的评估者（医生，心理学家）一份有关您的残疾的[评估者指南](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators)副本。您的评估人员应确保他/她提供的文档符合我们的准则。在大多数情况下，您的评估者将是心理学家或医生，他们会进行一系列的心理、教育或医学检查，并为您提供诊断报告或详细信的副本。
+- Pearson VUE使用此安全系统，因为需要您上载支持文档。如果您还没有这样做，请给您的评估者（医生，心理学家）一份有关您的残疾的[评估者指南](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators)副本。您的评估人员应确保他/她提供的文档符合我们的准则。在大多数情况下，您的评估者将是心理学家或医生，他们会进行一系列的心理、教育或医学检查，并为您提供诊断报告或详细信的副本。
 - **请耐心等待Pearson VUE在10个工作日内审核您的资料。请相应地规划您的请求。**
 - 审核您的请求后，您将收到一封电子邮件，其中包括审核结果。决定信将出现在“合理调整请求系统”的“我的文档”部分中。如果批准，决定信将提供安排您的适应考试的说明。
 - 如果您对考试适应性决定不满意，可以通过单击与“合理调整请求系统”中出现的决定信相同部分的“请求上诉”按钮对决定提出上诉。请填写并上传点击按钮后显示的申诉表格。残疾问题专家将审查所有上诉请求。
@@ -621,7 +621,7 @@ Microsoft 认证培训师”在准备认证时与许多考生一起工作。他�
 
 您可能还想问其他人他们如何执行这些任务，阅读白皮书、MSDN 或 TechNet 以获取考试中包含的任务的更多信息，和/或查看“考试详情”页面上“备考材料”一节中提供的资源。“考试详情”页面将链接到任何可用的在线课程、微学习、选项和门户网站，您可以在其中找到您所在地区的讲师指导培训选项。
 
-此外，[Microsoft官方模拟测试](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
+此外，[Microsoft官方模拟测试](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
 
 如果您已参加了考试并且未通过考试，请将考试重点放在考试成绩最差的内容区域和问题比例最高的内容区域，优先考虑您应该练习的技能。
 
@@ -631,17 +631,17 @@ Microsoft 认证培训师”在准备认证时与许多考生一起工作。他�
 
 **我是否必须以英语参加考试？**
 
-Microsoft 认证考试有多种语言版本。但是，必须以英语而不是其母语参加考试的考生可以申请额外的考试时间。额外时间的批准与否视具体情况决定。从[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)或[Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm)申请考试住宿。
+Microsoft 认证考试有多种语言版本。但是，必须以英语而不是其母语参加考试的考生可以申请额外的考试时间。额外时间的批准与否视具体情况决定。从[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)或[Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm)申请考试住宿。
 
 **有哪些残障人士便利设施可用？**
 
-Microsoft 致力于确保每个人（包括残障人士）都可访问我们的考试。有关可用住宿的列表，请访问[住宿页面](http://www.pearsonvue.com/accommodations/)。
+Microsoft 致力于确保每个人（包括残障人士）都可访问我们的考试。有关可用住宿的列表，请访问[住宿页面](https://www.pearsonvue.com/accommodations/)。
 
 **考试的费用是多少？**
 
 Expert 和 Associate 考试通常需要165美元，但根据特定国家和地区的币种定价。考试价格随时可能更改。在某些国家和地区，可能需要支付额外的税款。
 
-- 有关Microsoft Office Specialist（MOS）的确切价格，请联系[Certiport](http://www.certiport.com/)。
+- 有关Microsoft Office Specialist（MOS）的确切价格，请联系[Certiport](https://www.certiport.com/)。
 
 - 对于所有其他考试，请[浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以找到包含考试价格的考试页面。
 
@@ -653,7 +653,7 @@ Expert 和 Associate 考试通常需要165美元，但根据特定国家和地�
 
 如果您对特定项目的技术准确性有疑问，请按照[考试项目挑战](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)过程。
 
-要报告有关考试中心或考试期间遇到的技术困难的问题，请通过[Pearson VUE](http://www.pearsonvue.com/microsoft/)或[Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)与客户服务联系。
+要报告有关考试中心或考试期间遇到的技术困难的问题，请通过[Pearson VUE](https://www.pearsonvue.com/microsoft/)或[Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)与客户服务联系。
 
 要提供其他类型的反馈，请联系您的[Microsoft区域服务中心](https://www.microsoft.com/learning/help.aspx)。
 
@@ -846,7 +846,7 @@ Microsoft 考试经过精心设计，以便可以使用总的测验分数决定�
 
 尽管 Microsoft 认证考试提供有关考生需要进一步提升其技能的领域的反馈，但是考试并不设计为提供详细信息或诊断反馈。鼓励您查看考试详细信息页面上的“考察的技能”部分并针对考试所评估的内容诚实地评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些挑战。您可能也需要询问其他人他们如何执行这些任务。他们是否以不同方式执行该任务？了解他们为什么这样做。阅读白皮书，访问文档等以获取有关考试所包括的任务的其他信息。探索考试详细信息页上的“备考选项”中的资源，在每个考试详细信息页底部也可以找到学习小组 。
 
-最后，[Microsoft官方模拟考试](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
+最后，[Microsoft官方模拟考试](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
 
 **补考政策是什么？**
 
@@ -1066,7 +1066,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **我如何请求获得便利？**
 
-如果您在考试时需要特殊设备或其他便利，则可以使用他们的合理调整要求系统通过[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 申请便利。[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。上面的 参加考试时的特殊住宿部分提供了更多详细信息。
+如果您在考试时需要特殊设备或其他便利，则可以使用他们的合理调整要求系统通过[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 申请便利。[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。上面的 参加考试时的特殊住宿部分提供了更多详细信息。
 
 **为什么需要提交文件？**
 
