@@ -64,7 +64,7 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 - 目前持有符合 MCT 计划要求的 Microsoft 认证或资格。
 （见以下资格认证列表）
 
-- 满足[重要指标(MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) 验证的至少一门课的最低教学要求，或任何其他考量工具也可。
+- 满足[重要指标(MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) 验证的至少一门课的最低教学要求，或任何其他考量工具也可。
 
 **注意** 续订要求可能会更改。
 

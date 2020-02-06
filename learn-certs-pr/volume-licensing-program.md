@@ -23,7 +23,7 @@ Microsoft培训和认证解决方案可帮助企业和经认可的学术机构�
 
   Microsoft电子参考库提供有关Microsoft产品和相关技术的全面内容。通过各种方式的互联网连接，易于使用的Microsoft Press电子书库提供了一种替代纸质图书馆的高效且经济的方法，并且为课堂培训和电子学习课程提供了出色的课后补充。
 
-  * [参见电子参考库内容示例](http://mseref.safaribooksonline.com/)
+  * [参见电子参考库内容示例](https://mseref.safaribooksonline.com/)
 
 * Microsoft认证考试优惠券
 
@@ -60,14 +60,14 @@ Microsoft培训和认证解决方案可帮助企业和经认可的学术机构�
   * 入学（根据校园和学校协议）
   * 选择Plus for Academic
 
-  有关更多信息，请与您的学术许可经销商联系或访问[针对行业的Microsoft许可计划](http://www.microsoft.com/licensing/licensing-options/for-industries.aspx) page.
+  有关更多信息，请与您的学术许可经销商联系或访问[针对行业的Microsoft许可计划](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx) page.
 
   **其他批量许可学术认证资源**
 
-  * [Microsoft Imagine Academy计划权益指南](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [Microsoft学术机构认证数据表](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy认证路线图](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [适用于学术批量许可的Microsoft认证考试包数据表](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Microsoft Imagine Academy计划权益指南](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft学术机构认证数据表](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy认证路线图](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [适用于学术批量许可的Microsoft认证考试包数据表](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 其他批量许可学术电子学习资源
 
@@ -77,14 +77,14 @@ Microsoft培训和认证解决方案可帮助企业和经认可的学术机构�
 
   Microsoft不再销售批量许可中的电子学习。以下资源适用于仍在根据现有合同使用我们的电子学习内容的客户。它们旨在帮助您部署、配置和管理批量许可电子学习产品。
 
-  * [批量许可Online Services管理人员在线使用指南](http://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [批量许可最终用户/学生在线使用指南](http://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [电子学习激活演示](http://www.microsoft.com/learning/_silverlight/vl/vl.htm)
-  * [业务管理中心在线使用指南](http://www.microsoft.com/learning/_silverlight/bac/bac.htm)
-  * [Microsoft Imagine Academy 课程](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [Microsoft学术机构认证](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy认证路线图](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [适用于学术批量许可的Microsoft认证考试包](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [批量许可Online Services管理人员在线使用指南](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [批量许可最终用户/学生在线使用指南](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [电子学习激活演示](https://www.microsoft.com/learning/_silverlight/vl/vl.htm)
+  * [业务管理中心在线使用指南](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)
+  * [Microsoft Imagine Academy 课程](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft学术机构认证](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy认证路线图](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [适用于学术批量许可的Microsoft认证考试包](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 联系我们
 
@@ -147,7 +147,7 @@ Microsoft培训和认证解决方案可通过Microsoft批量许可在线服务�
 
 Microsoft培训和认证解决方案提供了一级的单包定价。Microsoft培训和认证解决方案包可以按12个月订购，也可以根据主协议中剩余的月数按比例分配。批量许可在线服务下的其他程序不需要单独的用户订阅许可证（USL）或附加订阅许可证（ASL）。
 
-**注意**如果您订购Microsoft培训和认证解决方案为12个月订阅，则后续订单将与初始12个月订阅订单同时到期。[访问在线服务指南](http://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**注意**如果您订购Microsoft培训和认证解决方案为12个月订阅，则后续订单将与初始12个月订阅订单同时到期。[访问在线服务指南](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
 
 **问：我应该获取多少个代码？**
 
@@ -180,7 +180,7 @@ Microsoft培训和认证解决方案提供了一级的单包定价。Microsoft�
 
 **问：我的机构如何成为MCP测试中心？**
 
-如果要提供Microsoft IT认证和MCP网站包考试，请访问Pearson VUE网站，以了解您的机构如何成为[Pearson VUE测试中心](http://www.pearsonvue.com/microsoft)。MOS和MTA认证考试通过Certiport进行。
+如果要提供Microsoft IT认证和MCP网站包考试，请访问Pearson VUE网站，以了解您的机构如何成为[Pearson VUE测试中心](https://www.pearsonvue.com/microsoft)。MOS和MTA认证考试通过Certiport进行。
 
 **问：MCP Class Pack如何实现？**
 
@@ -188,7 +188,7 @@ Microsoft培训和认证解决方案提供了一级的单包定价。Microsoft�
 
 **问：部署MOS或MTA站点许可证有什么要求？**
 
-您的机构必须是注册的Certiport授权测试中心，并且必须遵守[Certiport网站](http://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm)上发布的技术要求。 利用MOS或MTA网站套件的好处并进行MOS或MTA考试。如果您的机构不是Certiport授权的测试中心，则需要完成整个过程以[成为Certiport测试中心](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)。
+您的机构必须是注册的Certiport授权测试中心，并且必须遵守[Certiport网站](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm)上发布的技术要求。 利用MOS或MTA网站套件的好处并进行MOS或MTA考试。如果您的机构不是Certiport授权的测试中心，则需要完成整个过程以[成为Certiport测试中心](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)。
 
 **问：通过批量许可订购MOS或MTA网站包后，如何通知我可以使用考试券？**
 
