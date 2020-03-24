@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Power Platform Fundamentals
+metadata:
+  title: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+  description: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+uid: course.pl-900t00
+courseNumber: 'PL-900T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-900
+summary: ""
+prerequisitesSection: |-
+  本课程无先决条件
+outlineSection: |-
+  ### 模块 1&#58; Power Platform 简介
+  了解Power平台的组件、连接数据的方法，以及组织如何利用此技术
+  #### 课程
+  - Power平台概述
+  - 模块总结
+  
+  了解Power平台的组件和特性
+  - 确定何时使用每个Power平台组件应用程序创建业务解决方案
+  - 了解使用Power平台创建业务解决方案的价值
+
+  ### 模块 2&#58; Power Apps 入门
+  了解Power Apps的价值和功能，以及其他组织如何利用此技术为其业务构建简单的应用程序。
+  #### 课程
+  - Power Apps概述
+  - 如何构建应用程序解决方案
+
+
+  #### 实验室&#58; 如何构建基本画布应用程序1
+  - 创建员工画布应用程序
+  - 完成应用程序
+  
+  #### 实验室&#58; 如何构建基本画布应用程序2
+  - 创建安全画布应用程序
+
+  了解什么是Power应用程序及其业务价值
+  - 了解其他组织如何使用Power应用程序将其流程数字化
+  - 查看正在运行的Power应用程序，并了解制作第一个应用程序的选项
+
+
+  ### 模块 3&#58; 通用数据服务简介
+  通用数据服务(Common Data Service)允许您深入研究云中功能强大、可扩展的数据解决方案。了解是什么使通用数据服务发挥作用，以及它如何与Power平台一起创建独特而高效的业务解决方案。
+  #### 课程
+  - 通用数据服务概述
+  - 模块总结
+
+
+  #### 实验室&#58; 数据建模
+  - 创建环境和解决方案
+  - 创建实体和关系
+  - 导入数据
+  
+  说明通用数据服务中的环境、实体、字段和关系
+  - 描述通用数据服务与通用数据模型的区别
+  - 说明业务规则和流程的用例和限制
+
+
+  ### 模块 4&#58; Power Automate 入门
+  了解用户如何利用Power Automate提高业务效率和生产力。
+  #### 课程
+  - Power Automate概述
+  - 如何构建自动化解决方案
+
+
+  #### 实验室&#58; 构建简单流程
+  - 创建访问通知流
+  - 创建安全扫描流
+
+  了解Power Automate的业务价值和特性
+  - 从用户的角度看Power Automate的工作原理和外观
+  - 构建简单流程
+
+
+  ### 模块 5&#58; Power BI 入门
+  了解组织如何使用Power BI轻松地清理、显示和理解数据，以确保做出更明智的决策。
+  #### 课程
+  - Power BI概述
+  - 如何构建简单的控制面板
+
+
+  #### 实验室&#58; 建立Power BI报告
+  描述Power BI的业务价值和特性
+  - 从用户的角度看Power BI的工作原理和外观
+  - 了解如何构建简单的Power BI控制面板

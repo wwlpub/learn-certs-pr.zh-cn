@@ -1,19 +1,21 @@
 ### YamlMime:Examination
 title: Designing and Deploying Microsoft Exchange Server 2016
 metadata:
-  title: '考试 70-345: Designing and Deploying Microsoft Exchange Server 2016'
-  description: '考试 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  title: 'Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  description: 'Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016'
 uid: exam.70-345
 displayName: 70-345
-summary: >-
+summary: |-
+  <div style='color&#58; red;'>此考试于2020年6月30日停用。可能会有替代考试。如需了解更多信息，请访问我们的博客&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 并查看我们的考试停用帖子。注意&#58; 考试将于美国中部标准时间晚上11:59停用<br/><br/></div>
+  
   本考试的考生是IT顾问或高级管理人员，他们作为管理团队的技术主管。考生应熟悉将 Microsoft Exchange Server 与 Skype for Business 和 Office 365 进行集成的要求。
-
 
   考生应至少有三年的设计和管理Exchange服务器的经验，以及在企业环境中负责Exchange 2016消息传递环境。
 subTitle: 本考试的考生是IT顾问或高级管理人员，他们作为管理团队的技术主管。考生应熟悉将 Microsoft Exchange Server 与 Skype for Business 和 Office 365 进行集成的要求。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
 practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-345
 locales:
 - en
 - es
@@ -23,10 +25,10 @@ locales:
 - de
 - ja
 - pt-br
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2F70-345
-levels:
+levels: 
 - advanced
 skills:
+- '注意: 出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 规划、部署、管理和故障排除邮箱数据库(15-20%)
 - 计划、部署、管理和故障排除客户端访问服务(15-20%)
 - 计划、部署、管理和故障排除运输服务(15-20%)
@@ -44,7 +46,7 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: 重新考试
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证控制面板
@@ -52,7 +54,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md

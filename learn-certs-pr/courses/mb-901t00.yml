@@ -1,0 +1,366 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Fundamentals
+metadata:
+  title: 'Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals'
+  description: 'Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals'
+uid: course.mb-901t00
+courseNumber: 'MB-901T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 区分 Dynamics 365 的不同应用
+- skill: 阐述 Dynamics 365 应用的业务价值和功能
+- skill: 描述人工智能 (AI) 和混合现实 (MR)
+- skill: 定义数字转型循环
+- skill: 描述基于云的安全性
+- skill: 概述 Dynamics 365 中基于角色的安全性
+- skill: 说明 Dynamics 365 的报告选项
+- skill: 举例说明跨 Dynamics 应用集成
+- skill: 描述 Office 365 和 Dynamics 365 集成
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+exams:
+- uid: exam.mb-901
+summary: |-
+  本课程向学生概述 Dynamics 365 应用我们将向您介绍每个应用程序，阐述它们的业务价值，并讨论和演示核心功能。我们将探讨 Dynamics 365 安全、报告并向您介绍可用的数据和产品集成。
+
+prerequisitesSection: |-
+  无
+outlineSection: |-
+  ### 模块 1&#58; Microsoft Dynamics GP 365 简介
+  我们帮助您探索和评估 Dynamics 365 应用程序。这些应用程序可以为员工赋能、吸引客户并优化运营。我们将向您介绍 Dynamics 365，并全面了解整个应用程序。
+  #### 课程
+  - 简介
+  - Dynamics 365 应用程序
+  - 什么是人工智能 (AI)？
+  - 什么是混合现实 (MR)？
+  - 数字转型
+  - 检验您的知识
+  - 总结
+
+  学完本模块后，学生将能够&#58;
+  - 确定 Dynamics 365 业务应用
+  - 了解 Dynamics 365 中人工智能(AI)和混合现实(MR)的作用
+  - 说明数字转型
+  - 了解 Dynamics 365 应用程序如何支持数字转换
+
+
+  ### 模块 2&#58; 云计算和部署的原理
+  在本模块中，我们将帮助您了解云计算的原理，并探索 Dynamics 365 业务应用程序的部署选项。
+  #### 课程
+  - 简介
+  - 什么是云计算？
+  - 云计算的优势
+  - 合规、条款和要求
+  - 云服务的类型
+  - 部署案。
+  - Azure DevOps
+  - Microsoft Dynamics 生命周期服务 (LCS)
+  - 探索 Power Platform 管理中心
+  - 检验您的知识
+  - 总结
+  
+  学完本模块后，学生将能够&#58;
+  - 描述云计算及其优势
+  - 了解 Dynamics 365 应用的部署选项
+  - 阐述云服务合规性以及合规性要求
+  - 描述云服务的类型
+  - 说明 Azure DevOps 和生命周期服务 (LCS)
+
+
+  ### 模块 3&#58; 了解 Dynamics 365 Security
+  Dynamics 365 和 Power Platform 的开发考虑到了安全性、隐私性、合规性和透明度。Microsoft Cloud 安全，保护您的跨云资源。它有助于保护基础设施即服务 (IaaS)、平台即服务 (PaaS) 和软件即服务 (SaaS)。它可以快速发现应用程序中的漏洞，从而提供更好的防御。在本模块中，我们将帮助您了解和学习数据丢失预防，这是 Dynamics 365 的 Power 平台提供的总体安全层的一部分。
+  #### 课程
+  - 简介
+  - Dynamics 365 云安全
+  - 了解基于角色的安全
+  - 检验您的知识
+  - 总结
+  
+  
+  #### 实验室&#58; 探索 Dynamics 365 模型驱动应用中的安全角色
+  
+  #### 实验室&#58; 探索 Finance and Operations 应用中的安全角色
+  
+  #### 实验室&#58; 通过加密数据提高安全性
+  
+  学完本模块后，学生将能够&#58;
+  - 描述 Dynamics 365 云安全
+  - 描述 Dynamics 365 基于角色的安全
+
+
+  ### 模块 4&#58; 连接并分析您的 Dynamics 365 数据
+  如果没有对经营其业务的基础财务和运营数据的准确洞察，企业领导人如何在其业务中做出重要而正确的决策？没有能见度的话，这将是不可能的！在本模块中，我们将帮助您了解 Dynamics 365 业务应用程序中的报告和分析。
+  #### 课程
+  - 简介
+  - Dynamics 365 中的 Power 平台的使用
+  - 通用数据服务的优势
+  - Dynamics 365 报告
+  - 检验您的知识
+  - 总结
+  
+  
+  #### 实验室&#58; - 探索 Power 平台管理中心
+  
+  学完本模块后，学生将能够&#58;
+  - 描述 Dynamics 365 中的 Power 平台的使用
+  - 阐述通用数据服务的优势
+  - 说明 Dynamics 365 报告
+
+
+  ### 模块 5&#58; Dynamics 365 Sales 简介
+  在本模块中，我们将向您介绍 Dynamics 365 Sales，它使销售人员能够与客户建立牢固的关系，根据见解采取行动，更快地完成销售。
+  #### 课程
+  - 简介
+  - Dynamics 365 Sales 自动化
+  - 管理销售流程和管道
+  - 合同管理
+  - 了解 Microsoft Relationship Sales 解决方案
+  - Dynamics 365 Sales Insights
+  - 销售调查
+  - 检验您的知识
+  - 总结
+
+  
+  #### 实验室&#58; 探索 Dynamics 365 Sales
+  - 创建或编辑报价
+  - 创建或编辑订单
+  - 创建或编辑发票
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Dynamics 365 Sales 自动化
+  - 阐明如何在Dynamics 365 Sales 中管理销售流程
+  - 了解 Microsoft Relationship Sales Solution (MRSS)
+  - 说明 Dynamiocs 365 Sales Insights 的业务价值
+  - 说明 Microsoft Forms Pro 的业务价值
+
+  
+  ### 模块 6&#58; Dynamics 365 Marketing 简介
+  在本模块中，我们将向您介绍 Dynamics 365 Marketing，并展示 Dynamics 365 Marketing 如何帮助您找到并培养正确的销售线索。您可以通过多渠道的营销活动来吸引合适的潜在客户。这意味着采用电子邮件、网络、活动、短信和定制渠道。
+  #### 课程
+  - 简介
+  - Dynamics 365 Marketing 的优势
+  - Dynamics 365 Marketing 的特性和功能
+  - 销售线索的开发和认定
+  - 客户旅程
+  - 市场细分
+  - 事件管理
+  - 检验您的知识
+  - 总结
+
+  
+  #### 实验室&#58; 探索 Dynamics 365 Marketing
+  - 创建具有吸引力的电子邮件
+  - 确定您的受众
+  - 建立营销活动
+
+  学完本模块后，学生将能够&#58;
+  - 阐述使用 Dynamics 365 Marketing 的益处
+  - 描述 Dynamics 365 Marketing 的特性和功能
+  - 描述客户旅程
+
+  
+  ### 模块 7&#58; Dynamics 365 Customer Service 简介
+  卓越的客户服务创造快乐的客户。内置的 Dynamics 365 Customer Service 智能提供更快，更具个性化的支持，为每一次互动交流提升价值。在本模块中，我们将向您介绍 Marketing 如何管理客户预期，并提供必要的工具，以便组织能够让客户满意，特别是事情的进展未能按计划进行的情况下。
+  #### 课程
+  - 简介
+  - Dynamics 365 Customer Service 概述
+  - 客户管理
+  - 案例生命周期管理
+  - 知识文章
+  - Dynamics 365 Customer Service 的全渠道
+  - 门户网站
+  - Dynamics 365 Customer Service Insights
+  - 检验您的知识
+  - 总结
+
+  
+  #### 实验室&#58; 探索 Dynamics 365 Customer Service
+  - 创建和管理案例
+
+  学完本模块后，学生将能够&#58;
+  - 概述 Dynamics 365 Customer Service
+  - 讨论 Dynamics 365 Customer Service 的功能
+  - 说明 Dynamics 365 Customer Service Insights 的价值
+
+  
+  ### 模块 8&#58; Dynamics 365 Field Service 简介
+  在本模块中，我们将向您介绍 Dynamics 365 Field Service。您将了解 Field Service 如何帮助企业提供无缝的端到端服务体验，将世界一流的客户关系管理 (CRM) 功能与强大的机器学习、混合现实和物联网技术相融合，以创建一个单一的、集成的解决方案，从而彻底改变对现场服务的管理。
+  #### 课程
+  - 简介
+  - Dynamics 365 Field Service 的优势
+  - Connected Field Service
+  - 服务资源调度
+  - 资源调度优化 (RSO)
+  - 主动式客户服务
+  - Field Service Mobile
+  - Dynamics 365 Remote Assist
+  - Dynamics 365 Guides
+  - 检验您的知识
+  - 总结
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Dynamics 365 Field Service 的优势
+  - 说明 Connected Field Service
+  - 了解 Dynamics 365 Remote Assist
+  - Discover Dynamics 365 Guides
+
+  
+  ### 模块 9&#58; 探索模型驱动的应用程序集成和 Dynamics 365 Customer Insights
+  模型驱动的应用程序集成了 Microsoft 的多个产品使用连接器，还可以与AppSource中提供的数百种其他软件产品集成。在本模块中，我们将向您介绍可用于模型驱动应用程序的集成。
+  #### 课程
+  - 简介
+  - 多个 Dynamics 365 应用的集成
+  - 与 Microsoft 产品的集成
+  - 与第三方应用的集成
+  - 跨第一方和第三方应用，将客户数据与 Dynamics 365 Customer Insights 集成
+  - 检验您的知识
+  - 总结
+
+  学完本模块后，学生将能够&#58;
+  - 说明 Dynamics 365 模型驱动应用程序如何集成
+  - 描述 Office 365 集成
+  - 识别第三方集成
+  - 描述 Dynamics 365 Customer Insights
+  - 了解 Adobe Experience Cloud
+
+  
+  ### 模块 10&#58; Dynamics 354 Finance 简介
+  要在当今的业务环境中取得成功，需要利用技术来管理全球的财务状况，实时监控绩效，自动化和简化功能，保护未来的业务成果，并最大限度地提高生产率。在本模块中，我们将向您介绍 Dynamics 365 Finance。 它是 Microsoft 的财务管理业务应用程序，它使中型企业组织能够实时监控全球财务运营的绩效，预测未来的结果，并做出数据驱动的决策以推动增长。
+  #### 课程
+  - 简介
+  - Dynamics 365 Finance 概述
+  - 全局属性
+  - 总分类账
+  - 应付账款
+  - 应收账款
+  - 信用和托收
+  - 预算
+  - 项目管理与会计
+  - 实时现金流可视性
+  - 期间和年末结算
+  - 检验您的知识
+  - 总结
+
+  
+  #### 实验室&#58; 探索 Dynamics 365 Finance
+  
+  学完本模块后，学生将能够&#58;
+  - 描述 Dynamics 365 Finance 的优势
+  - 概述 Dynamics 365 Finance
+  - 解释 Dynamics 365 Finance 中的应收账款和应付账款功能
+
+  
+  ### 模块 11&#58; Dynamics 365 Supply Chain Management 简介
+  制造业和分销商正在向智能工厂和仓库转型，人工智能(AI)、先进机器人技术、物联网(IoT)和机器学习(ML)增强了人类的智能，在减少瑕疵的同时加快了生产速度。在本模块中，我们将向您介绍 Dynamics 365 Supply Chain Management，它使企业员工能够通过预测性分析获得库存、仓库、制造、服务和物流的统一视图，从而将数据转化为见解，以支持更好的战略决策。
+  #### 课程
+  - 简介
+  - Dynamics 365 Supply Chain Management 概述
+  - 产品信息
+  - 采购和寻找货源
+  - 仓储管理
+  - 销售订单管理
+  - 制造业
+  - 总体规划
+  - 实现业务现代化
+  - 项目会计
+  - 资产管理
+  - Dynamics 365 布局
+  - 检验您的知识
+  - 总结
+
+  
+  #### 实验室&#58; 探索 Dynamics 365 Supply Chain Management
+  - 创建产品
+  - 创建产品主文件
+  - 创建订单
+  - 创建销售订单
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Dynamics 365 Supply Chain Management
+  - 概述 Dynamics 365 Supply Chain Management
+  - 阐述资产管理的价值
+  - 讨论 Dynamics 365 布局
+
+  
+  ### 模块 12&#58; Dynamics 365 Business Central 简介
+  Dynamics 365 Business Central 是一个综合业务管理解决方案，可帮助连接数据、人员和流程。它是为中小型企业设计的，这些企业已经超越了现有的管理工具，需要精简和改进其运营。在本模块中，我们将向您介绍 Dynamics 365 Business Central 如何自动将系统和流程组合在一起，使用户能够管理集成化的财务、销售、服务和运营。
+  #### 课程
+  - 简介
+  - 财务和预算
+  - 供应链管理
+  - 项目管理
+  - 销售与服务
+  - 何时应使用 Business Central与其他 Dynamics 365 应用程序？
+  - 检验您的知识
+  - 总结
+
+  学完本模块后，学生将能够&#58;
+  - 探索 Dynamics 365 Business Central 的常见用例
+  - 了解何时利用 Business Central 与其他 Dynamics 365 产品
+
+  
+  ### 模块 13&#58; Dynamics 365 Human Resources 简介
+  劳动力市场正在变化，对顶级人才的竞争非常激烈！人力资源部的领导们正在努力寻找和招聘合适的人选，招聘过程比以往任何时候都要复杂。在本模块中，我们将向您介绍 Dynamics 365 Human Resources。
+  #### 课程
+  - 简介
+  - Dynamics 365 Human Resources 概述
+  - 员工自助服务
+  - 人员管理
+  - 福利管理
+  - 员工部署
+  - 检验您的知识
+  - 总结
+
+  #### 实验室&#58; 探索 Dynamics 365 Human Resources
+  - 创建工作
+
+  学完本模块后，学生将能够&#58;
+  - 发现有助于提高运营效率的人力资源工具
+  - 探索人力资源的特色和功能
+
+  
+  ### 模块 14&#58; Dynamics 365 Commerce 简介
+  顾客购物行为不再局限于某一时刻。在客户到达您的商店或网站之前，我们就开始参与，我们与客户的互动性质也发生了变化。客户不再指望销售人员提供产品细节，而是在他们已经明显开始购买旅程时与零售商接洽。伴随着这一转变，客户又有了一个新的期望，即他们的采购体验需要个性化、有趣并且不产生摩擦。只有将数字和实体购物渠道结合起来，提供个性化和差异化的体验，从而获得竞争优势并建立品牌忠诚度，这种体验才有可能实现。在本模块中，我们将向您介绍 Dynamics 365 Commerce。
+  #### 课程
+  - 简介
+  - 核心零售功能
+  - 销售点 (POS)
+  - 辅助销售
+  - 销售和库存
+  - 渠道管理
+  - 电子商务
+  - 零售部署
+  - Dynamics 365 欺诈保护
+  - 检验您的知识
+  - 总结
+  
+  学完本模块后，学生将能够&#58;
+  - 概述 Dynamics 365 Commerce
+  - 了解部署选项
+  - 描述 Dynamics 365 欺诈保护
+  - 探索全渠道
+
+  
+  ### 模块 15&#58; 探索财务和运营方面跨应用程序集成
+  在本模块中，当您在 Microsoft Dynamics 365 财务和供应链管理中实现集成方案时，我们将帮助您做出正确的设计决策。 
+  #### 课程
+  - 简介
+  - 多个 Dynamics 365 应用的集成
+  - 与 Microsoft 产品的集成
+  - 与第三方应用的集成
+  - 探索外部系统集成功能
+  - 检验您的知识
+  - 总结
+
+  学完本模块后，学生将能够&#58;
+  - 描述数据管理框架
+  - 说明 Office 365 集成
+  - 探索外部系统集成功能 

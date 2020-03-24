@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Microsoft Azure Architect Technologies (beta)
+metadata:
+  title: 'Exam AZ-303: Microsoft Azure Architect Technologies (beta)'
+  description: 'Exam AZ-303: Microsoft Azure Architect Technologies (beta)'
+uid: exam.az-303
+displayName: AZ-303
+summary: |-
+  该考试的考生是 Azure Solution 架构师，他们提供咨询，并将业务需求转换成安全、可扩展和可靠的解决方案。考生应该具有跨 IT 操作的资深经验和知识，包括网络、虚拟化、标识、安全性、业务连续性、灾难恢复、数据平台、预算和治理。这个角色需要管理每个区域中的决策如何影响整体解决方案。
+  
+  考生必须具有 Azure 管理方面的专家级技能，并且具有 Azure 开发流程和 DevOps 流程的相关经验。
+  
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>注意&#58; 此项考试将于2020年4月28日左右推出。</div>
+subTitle: '该考试衡量您完成以下技术任务的能力&#58; 实施和监视 Azure 基础结构；实施管理和安全解决方案；为应用程序实施解决方案；以及实施和管理数据平台。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
+locales:
+- en
+levels:
+- advanced
+skills:
+- 实施和监控 Azure 基础结构(50-55%)
+- 实施管理和保护解决方案(25-30%)
+- 为应用程序实施解决方案(10-15%)
+- 实施和管理数据平台(10-15%)
+roles:
+- solution-architect
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: 认证学习路径
+  description: '发现培训资源以获得Microsoft Certified: Azure Solutions Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 支持认证考试
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
