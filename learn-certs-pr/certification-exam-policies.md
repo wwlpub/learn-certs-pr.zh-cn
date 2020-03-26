@@ -508,7 +508,7 @@ AZ-201:Microsoft Azure Developer Advanced Solutions
 
 我们重视并依赖您的反馈来尽可能让 Microsoft 认证考试发挥效用和相关。
 
-## <a name="#special-accommodations-when-taking-exams"></a> 参加考试时的特殊便利设施
+## <a name="special-accommodations-when-taking-exams"></a> 参加考试时的特殊便利设施
 
 ### 对于通过Pearson VUE进行的考试:
 
