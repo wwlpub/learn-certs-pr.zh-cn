@@ -1,0 +1,252 @@
+### YamlMime:Course
+title: Microsoft Azure IoT Developer
+metadata:
+  title: 'Course AZ-220T00-A: Microsoft Azure IoT Developer'
+  description: 'Course AZ-220T00-A: Microsoft Azure IoT Developer'
+uid: course.az-220t00
+courseNumber: 'AZ-220T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 创建、配置和管理 Azure IoT 中心。
+- skill: 通过使用 IoT 中心和 DPS 来供应设备，包括大规模供应。
+- skill: 在设备和 IoT 中心之间建立安全的双向通信。
+- skill: 通过使用 IoT 中心路由和 Azure 流分析来实施消息处理。
+- skill: 配置与 Time Series Insights 的连接并支持业务集成需求。
+- skill: 使用市场模块和各种边缘网关模式实施 IoT Edge 场景。
+- skill: 实施需要开发和部署自定义模块和容器的 IoT Edge 场景。
+- skill: 使用设备孪生和直接方法实施设备管理。
+- skill: 实施解决方案监视，日志记录和诊断测试。
+- skill: 识别并解决安全问题，并为物联网实现 Azure 安全中心。 
+- skill: 通过使用 Azure IoT Central 构建 IoT 解决方案，并为 IoT 找出 SaaS 机会。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-iot
+exams:
+- uid: exam.az-220
+summary: |-
+  本课程为学生提供成功创建和维护 Azure IoT 解决方案的云和边缘部分所需的技能和知识。该课程包括对核心 Azure IoT 服务的完整覆盖，例如IoT中心，设备置备服务，Azure 流分析，Time Series Insight等。除了侧重于 Azure PaaS 服务之外，本课程还包括有关 IoT Edge，设备管理，监视和疑难解答，安全问题以及 Azure IoT 中心的部分。
+
+  #### 受众概况
+  Azure IoT Developer 负责实施然后维护 Azure IoT 解决方案的云和边缘部分。除了使用 Azure IoT 服务和其他 Microsoft 工具配置和维护设备外，IoT Developer 还设置物理设备并负责在整个生命周期内维护设备。IoT Developer 实施物联网解决方案的设计，包括设备拓扑，连接性，调试和安全性。对于边缘设备场景，IoT Developer 还应该部署计算/容器并配置设备网络，其中可能包括各种边缘网关的实施。IoT Developer 为解决方案实施设计，以管理数据管道，包括与物联网相关的监视和数据转换。IoT Developer 与数据工程师和其他利益相关者合作，以确保成功进行业务集成。IoT Developer 应该对 Azure 服务有很好的了解，包括数据存储选项，数据分析，数据处理以及 Azure IoT PaaS 与 SaaS 选项。IoT Developer 应具备至少一种 Azure 支持的语言的基本编程技能，包括 C＃，Node.js，C#，Python 或 Java。
+prerequisitesSection: |-
+  软件开发经验&#58; 软件开发经验是本课程的前提条件，但不需要特定的软件语言，并且也不需要专业水平的经验。
+
+  数据处理经验&#58; 建议对数据存储和数据处理有一般的了解，但不强制要求。
+
+  云解决方案意识&#58; 学生应该实施对 PaaS，SaaS 和 IaaS 有基本的了解。建议具有 Microsoft Azure Fundamentals(AZ -900)或同等技能。   
+outlineSection: |-
+  ### 模块 1&#58; IoT 和 Azure IoT 服务简介
+  在本模块中，学生将首先检查各种 IoT 实施的业务注意事项，并复习 Azure IoT 参考体系结构如何为 IoT 解决方案提供支持。本模块还为学生提供了 IoT 解决方案中常用的 Azure 服务的概述，并介绍了 Azure 门户。
+  #### 课程
+  - IoT 的商机
+  - IoT Solution Architecture 简介
+  - IoT  硬件和云服务
+  - 本课程的实验场景
+
+
+  #### 实验&#58; Azure入门
+
+  #### 实验&#58; 设置从 Azure IoT 服务开始
+
+  学完本模块后，学生将能够&#58;
+  - 说明如何将 IoT 和 Azure IoT 应用于其业务 
+  - 描述 Azure IoT 解决方案架构的核心组件
+  - 描述 Azure IoT 服务及其与 IoT 解决方案的关系
+  - 创建一个 Azure 帐户并使用 Azure 门户创建 IoT 中心和 DPS 服务
+
+  ### 模块 2&#58; 设备和设备通讯
+  在本模块中，学生将详细了解 Azure IoT Hub 服务，并将学习如何在 IoT Hub 和设备之间配置安全的双向通信。还将向学生介绍 IoT Hub 功能，例如设备双胞胎和 IoT Hub 端点，随着课程的继续进行更深入的探索。
+
+  #### 课程
+  - IoT Hub 和设备
+  - IoT Developer 工具
+  - 设备配置和通讯
+
+
+  #### 实验&#58; 设置开发环境
+
+  #### 实验&#58; 将 IoT 设备连接到 Azure
+
+  学完本模块后，学生将能够&#58;
+  - 解释 IoT Hub 服务的核心功能 
+  - 描述 Azure IoT 设备的生命周期
+  - 描述 IoT Hub 如何管理设备身份并实现其他安全功能
+  - 使用 Azure 门户，Azure CLI 和 Visual Studio Code 向 IoT 中心注册设备 
+  - 实施 IoT Hub 设备和服务 SDK
+
+  ### 模块 3&#58; 大规模配置设备
+  在本模块中，学生将重点关注设备配置以及如何配置和管理 Azure 设备配置服务。学生将学习注册过程，自动配置和重新配置，取消注册以及如何实施各种证明机制。
+  #### 课程
+  - 设备预配服务条款和概念
+  - 配置和管理设备置备服务
+  - 设备配置任务
+
+
+  #### 实验&#58; 在 DPS 中单独注册设备
+
+  #### 实验&#58; 在 DPS 中自动注册设备
+
+  学完本模块后，学生将能够&#58;
+  - 说明设备供应的过程以及设备供应服务的功能
+  - 解释与设备供应相关的安全注意事项及其管理方式
+  - 实施设备配置服务 SDK
+  - 管理设备注册过程，包括撤销供应和取消注册
+
+  ### 模块 4&#58; 消息处理和分析
+  在本模块中，学生将研究如何使用 IoT Hub 和其他 Azure 服务来处理消息。学生将开始研究如何配置消息和事件路由以及如何实现到内置端点和自定义端点的路由。学生将学习一些物联网解决方案常用的 Azure 存储选项。为了完善他的模块，学生将实施 Azure 流分析并查询多种 ASA 模式。
+  #### 课程
+  - 消息和消息处理
+  - 数据存储选项
+  - Azure Stream Analytics
+
+
+  #### 实验&#58; 设备消息路由
+  
+  #### 实验&#58; 筛选和汇总消息数据
+
+  学完本模块后，学生将能够&#58;
+  - 配置消息和事件路由
+  - 将数据路由到内置端点和自定义端点
+  - 实施消息充实
+  - 实施 Azure 流分析输入，查询和输出
+  - 将消息数据存储在热存储中以用于历史目的和其他分析
+  - 在消息处理和分析解决方案中使用 Azure 功能 
+
+  ### 模块 5&#58; 观点与业务整合
+  在本模块中，学生将学习 Azure 服务和其他 Microsoft 工具，这些服务可用于生成业务观点并实现业务集成。学生将实现  Azure Logic 应用程序和事件网格，他们将为数据可视化工具(如 Time Series Insights 和Power BI)配置连接和数据转换。
+  #### 课程
+  - IoT 解决方案的业务集成
+  - 使用 Time Series Insights 进行数据可视化
+  - 使用Power BI进行数据可视化
+
+
+  #### 实验&#58; 将 IoT Hub 与事件网格集成
+
+  #### 实验&#58; 通过 Time Series Insights 来探索和分析时间戳数据
+
+  学完本模块后，学生将能够&#58;
+  - 解释 IoT 解决方案中的业务集成选项以及如何实现它们
+  - 使用 Logic Apps 和 Event Grid 开发业务集成支持
+  - 配置 IoT 数据以在 Time Series Insights 中实现可视化
+  - 配置 IoT 数据以在 Power BI 中实现可视化
+
+  ### 模块 6&#58; Azure IoT Edge 部署过程
+  在本模块中，学生将学习如何将模块部署在 Azure IoT Edge 设备上。学生还将学习如何配置和使用 IoT Edge 设备作为网关设备。
+
+  #### 课程
+  - Azure IoT Edge 简介
+  - 边缘部署流程
+  - 边缘网关设备
+
+
+  #### 实验&#58; IoT Edge 简介
+
+  #### 实验&#58; 设置 IoT Edge 网关
+
+  学完本模块后，学生将能够&#58;
+  - 描述 IoT 设备和 IoT Edge 设备之间的区别
+  - 配置 IoT Edge 设备 
+  - 使用部署清单实施 IoT Edge 部署
+  - 将 IoT Edge 设备配置为网关设备
+
+  ### 模块 7&#58; Azure IoT 边缘模块和容器
+  在本模块中，学生将开发和部署自定义边缘模块，并将实现对依赖本地存储的脱机方案的支持。学生将使用受支持的容器引擎使用 Visual Studio Code 将自定义模块构建为容器。
+
+  #### 课程
+  - 开发自定义边缘模块
+  - 离线和本地存储
+
+
+  #### 实验&#58; 在 Azure IoT Edge 上开发、部署和调试自定义模块
+
+  #### 实验&#58; 在受限网络和离线环境中运行 IoT Edge 设备
+
+  学完本模块后，学生将能够&#58;
+  - 解释构建自定义边缘模块的要求
+  - 配置 Visual Studio Code 以开发容器化模块
+  - 将自定义模块部署到 IoT Edge 设备
+  - 在 IoT Edge 设备上实施本地存储以支持离线方案
+
+  ### 模块 8&#58; 设备管理
+  在本模块中，学生将学习如何为其物联网解决方案实施设备管理。学生将开发使用双胞胎的设备管理解决方案和使用直接方法的解决方案。
+
+  #### 课程
+  - 物联网设备管理简介
+  - 管理物联网和物联网边缘设备
+  - 大规模的设备管理
+
+
+  #### 实验&#58; 使用 Azure IoT Hub 远程监视和控制设备
+
+  #### 实验&#58; 自动设备管理
+
+  学完本模块后，学生将能够&#58;
+  - 描述最常见的设备管理模式和配置最佳实践
+  - 描述何时以及如何使用设备孪生和直接方法来实现设备管理
+  - 使用设备孪生和直接方法对各种模式实施设备管理
+  - 使用自动设备管理和作业大规模实施设备管理
+
+  ### 模块 9&#58; 解决方案的测试、诊断和记录
+  在本模块中，学生将配置日志记录和诊断工具，以帮助开发人员测试其 IoT 解决方案。学生将使用 IoT Hub 和 Azure Monitor 配置警报并跟踪条件(例如设备连接状态)，这些条件可用于解决问题。
+
+  #### 课程
+  - 监控和记录
+  - 故障排除
+
+
+  #### 实验&#58; 在 Azure IoT Hub 中配置指标和日志
+
+  #### 实验&#58; 监视和调试连接故障
+
+  学完本模块后，学生将能够&#58;
+  - 描述用于监视和记录 Azure IoT 解决方案的选项 
+  - 配置 Azure Monitor 以支持 IoT 解决方案 
+  - 配置 IoT 中心指标以支持 IoT 解决方案 
+  - 实施诊断记录
+  - 解决 IoT 设备连接和通信问题
+
+  ### 模块 10&#58; Azure 安全中心和 IoT 安全注意事项
+  在本模块中，学生将研究适用于 IoT 解决方案的安全注意事项。学生将首先研究适用于解决方案体系结构和最佳实践的安全性，然后研究用于 IoT 的 Azure 安全中心如何支持设备部署和 IoT Hub 集成。然后，学生使用用于  IoT 代理的 Azure 安全中心来增强其解决方案的安全性。
+  #### 课程
+  - IoT 解决方案的安全基础
+  - IoT 的 Azure 安全中心简介
+  - 使用适用于 IoT 代理的 Azure 安全中心增强保护
+
+
+  #### 实验&#58; 为  IoT 实现 Azure 安全中心
+  
+  学完本模块后，学生将能够&#58;
+  - 描述 IoT 解决方案的安全问题和最佳实践
+  - 描述 Azure IoT 安全体系结构和威胁建模
+  - 描述 Azure 安全中心为 IoT 提供的功能和支持 
+  - 配置安全代理和安全模块双胞胎
+  - 汇总用于 IoT 事件的 Azure 安全中心
+
+  ### 模块 11&#58; 使用 IoT Central 构建 IoT 解决方案
+  在本模块中，学生将学习如何配置和实现 Azure IoT Central 作为 IoT 的 SaaS 解决方案。学生将首先对 IoT Central 及其工作原理进行深入研究。通过对 IoT Central 建立的基本了解，学生将继续创建和管理设备模板，然后在其 IoT Central 应用程序中管理设备。
+
+  #### 课程
+  - IoT Central 简介
+  - 创建和管理设备模板
+  - 在 Azure IoT Central 中管理设备
+
+
+  #### 实验&#58; Azure IoT Central 入门
+
+  #### 实验&#58; 使用 Azure IoT Central 实施 IoT 解决方案
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Azure IoT 中心与 Azure IoT PaaS 服务之间的区别
+  - 描述 Azure IoT 中心提供的功能
+  - 描述设备模板的用途和组件
+  - 创建和发布设备模板
+  - 使用规则和通知管理设备
+  - 使用作业大规模管理设备

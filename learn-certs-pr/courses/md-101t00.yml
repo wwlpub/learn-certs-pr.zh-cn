@@ -1,0 +1,190 @@
+### YamlMime:Course
+title: Managing Modern Desktops
+metadata:
+  title: 'Course MD-101T00-A: Managing Modern Desktops'
+  description: 'Course MD-101T00-A: Managing Modern Desktops'
+uid: course.md-101t00
+courseNumber: 'MD-101T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 计划、开发和实施操作系统部署、升级和更新策略。
+- skill: 了解共同管理策略的优势和方法。
+- skill: 计划并实施设备注册和配置。
+- skill: 管理和部署应用程序，并计划移动应用程序管理策略。
+- skill: 使用 Azure AD 和 Active Directory DS 管理用户和身份验证。
+- skill: 描述并实现用于保护设备和数据的方法。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  在本课程中，学生将学习如何使用现代部署方法规划和实施操作系统部署策略，以及如何实施更新策略。我们将向学生介绍现代管理和共同管理战略的关键组成部分。本课程还将介绍如何将 Microsoft Intune 整合到您的组织中。学生还将学习应用程序和基于浏览器的应用程序的部署和管理方法。将向学生介绍现代管理中安全的关键概念，包括身份验证、身份、访问和合规性策略。将向学生介绍诸如 Azure Active Directory、Azure Information Protection 和 Windows Defender Advanced Threat Protection 等技术，以及如何利用它们来保护设备和数据。
+
+  #### 受众概况
+  现代桌面管理员在企业环境中部署、配置、保护、管理和监视设备和客户端应用程序。职责包括管理身份、访问、策略、更新和应用程序。现代桌面管理员与 M365企业管理员合作设计并实施满足现代组织业务需求的设备策略。 
+  
+  现代桌面管理员必须熟悉 M365 工作负载，并且必须具有部署、配置和维护 Windows10 和非 Windows 设备的扎实技能和经验。现代桌面管理员的角色专注于云服务，而不是本地管理技术。
+prerequisitesSection: |-
+  现代桌面管理员必须熟悉 M365 工作负载，并且必须具有部署、配置和维护 Windows10 和非 Windows 设备的扎实技能和经验。现代桌面管理员的角色专注于云服务，而不是本地管理技术。建议学生在学习本课程之前完成 MD-100，Windows 10 课程。
+outlineSection: |-
+  ### 模块 1&#58; 规划操作系统部署策略
+  本模块说明如何规划和实现部署策略。学生将学习在桌面的整个生命周期中支持桌面的概念。本模块还包括评估现有环境和用于准备部署策略的工具。最后，将向学生介绍用于桌面部署的工具和策略。
+  #### 课程
+  - 企业桌面
+  - 评估部署准备情况
+  - 部署工具和策略
+
+
+  #### 实验室 &#58; 实习实验室&#58; 规划Windows 10部署
+  学完本模块后，学生将能够&#58;
+  - 描述企业桌面生命周期
+  - 描述如何访问现有环境
+  - 描述减轻部署阻塞的方法
+  - 描述不同的部署工具和方法
+
+
+  ### 模块 2&#58; 实施Windows 10
+  本模块介绍在常见场景中使用的现代 Windows 部署方法，例如升级和迁移到 Windows 10，以及部署新设备和更新现有设备。  学生还将了解操作系统部署的替代方法以及选择部署方法时的注意事项。
+  #### 课程
+  - 将设备升级到Windows 10
+  - 部署新设备并刷新
+  - 将设备迁移到 Windows 10
+  - 替代部署方法
+  - 成像注意事项
+
+
+  #### 实验室 &#58; 实习实验室 实施Windows 10
+  - 创建和部署配置包
+  - 迁移用户设置
+  - 使用Windows Autopilot部署 Windows 10
+
+  学完本模块后，学生将能够&#58; 
+  制定操作系统部署和升级策略
+  - 了解不同的部署方法
+  - 了解本地和基于云的解决方案可用于哪些场景
+  - 部署和迁移桌面到Windows 10
+
+
+  ### 模块 3&#58; 管理Windows 10更新
+  本模块介绍如何管理Windows的更新。本模块介绍Windows 10的维护选项。学生将学习部署更新的不同方法以及如何配置Windows更新策略。最后，学生将学习如何使用 Windows 分析来确保和监控更新合规性。
+  #### 课程
+  - 更新Windows 10
+  - Windows Update for Business
+  - Windows Analytics简介
+
+
+  #### 实验室 &#58; 实习实验室 管理 Windows 10更新
+  - 手动配置Windows更新设置
+  - 使用组策略对象(GPO)配置Windows更新
+
+  学完本模块后，学生将能够&#58;
+  - 描述Windows 10 维护通道
+  - 使用组策略设置配置Windows更新
+  - 配置Windows Update for Business以部署操作系统更新
+  - 使用Windows Analytics评估升级准备情况并更新合规性
+
+
+  ### 模块 4&#58; 设备注册
+  在本模块中，学生将研究共同管理的益处和先决条件，并学习如何为其制定计划。此模块还将涵盖 Azure AD Join，并将向学生介绍 Microsoft Intune，以及了解如何配置注册设备的策略。本模块最后将概述Intune中的设备清单，并使用Intune控制台、Power BI和Microsoft Graph进行报告。
+  #### 课程
+  - 设备管理选项
+  - Microsoft Intune 概述
+  - 管理 Intune 设备注册和清单
+  - 使用 Intune 管理设备
+
+
+  #### 实验室 &#58; 实习实验室 - 设备注册和管理
+  学完本模块后，学生将能够&#58;
+  - 描述迁移到共同管理的益处和方法
+  - 使用Microsoft Intune部署MDM
+  - 配置设备注册
+  - 在Windows Intune中注册桌面和移动设备
+  - 配置和下载清单报告
+
+
+  ### 模块 5&#58; 配置配置文件
+  本模块深入探讨Intune设备配置文件，包括设备配置文件的类型以及内置配置文件和自定义配置文件之间的区别。学生将学习如何将配置文件分配到Azure AD组以及在Intune中监视设备和配置文件。本模块最后将概述如何使用Windows Analytics进行运行状况和合规性报告。
+  #### 课程
+  - 配置设备配置文件
+  - 管理用户档案
+  - 监控设备
+
+
+  #### 实验室 &#58; 实习实验室 - 管理配置文件
+  学完本模块后，学生将能够&#58;
+  - 描述设备配置文件的类型
+  - 创建和分配设备配置文件
+  - 配置用户档案和文件夹重定向
+  - 使用Intune和Windows Analytics监视和报告设备情况
+
+
+  ### 模块 6&#58; 应用管理
+  在本模块中，学生将学习本地应用程序管理和基于云的解决方案。本模块将介绍如何管理Intune中的Office 365 ProPlus部署，以及如何管理未注册设备上的应用程序。本模块最后将概述使用Internet Explorer和Microsoft Edge的企业模式，并使用Intune跟踪已安装的应用程序、许可证和分配的应用程序。
+  #### 课程
+  - 实施移动应用程序管理(MAM)
+  - 部署和更新应用程序
+  - 管理应用程序
+
+
+  #### 实验室 &#58; 实习实验室 - 管理应用程序
+  学完本模块后，学生将能够&#58;
+  - 描述应用程序管理的方法
+  - 使用Intune和组策略部署应用程序
+  - 配置 Microsoft Store for Business
+  - 使用 Intune 部署 Office365 ProPlus
+  - 管理和报告应用程序清单和许可证
+
+
+  ### 模块 7&#58; 在Azure AD中管理身份验证
+  在本模块中，我们将向学生介绍使用 Azure AD 在云中创建目录的概念。学生将学习Azure AD和Active Directory DS之间的异同，以及如何在两者之间进行同步。学生将探索Azure AD中的身份管理，并学习使用Windows Hello for Business进行身份保护，以及Azure AD身份保护和多因素身份验证。
+  #### 课程
+  - Azure AD概述
+  - 在Azure AD中管理身份
+  - 在Azure AD中保护身份
+  - 管理设备验证
+
+
+  #### 实验室 &#58; 实习实验室 - 在Azure AD中管理对象和验证
+  学完本模块后，学生将能够&#58;
+  - 描述Azure AD的功能
+  - 使用带有活动目录DS的Azure AD管理用户
+  - 实现Windows Hello for Business
+  - 将设备加入Azure AD
+
+
+  ### 模块 8&#58; 管理设备访问和合规性
+  在本模块中，将向学生介绍设备安全管理。该模块将涵盖安全访问公司资源，并引入一些概念，如在 Windows 10 中始终启用 VPN 和远程连接。学生将学习如何创建和部署合规性策略，以及如何使用合规性策略进行条件访问。该模块的最后介绍如何对Intune中注册设备进行监视。
+  #### 课程
+  - Microsoft Intune 概述
+  - 实施设备合规政策
+
+
+  #### 实验室&#58; 实习实验室  - 管理访问和合规性
+  学完本模块后，学生将能够&#58;
+  - 描述允许从外部网络启用访问的方法
+  - 部署合规和条件访问策略。
+  - 使用 Intune 检测设备合规性。
+
+
+  ### 模块 9&#58; 管理安全性
+  在本模块中，学生将了解数据保护。主题将包括Windows和Azure信息保护，以及Windows 10中支持的各种加密技术。本模块还介绍了 Windows Defender 高级威胁保护的关键功能，以及如何在组织中的设备上实现这些功能。该模块最后介绍如何使用Windows Defender和防病毒、防火墙和凭据保护等功能。
+  #### 课程
+  - 实施设备数据防护
+  - 管理 Windows Defender ATP
+  - 在Windows 10中管理Windows Defender ATP
+
+
+  #### 实验室 &#58; 实习实验室 管理Windows 10中安全性
+  学完本模块后，学生将能够&#58;
+  - 描述保护设备数据的方法
+  - 描述 Windows ATP 的功能和益处
+  - 部署Windows Defender客户端并管理其设置

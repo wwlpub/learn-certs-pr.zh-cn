@@ -1,0 +1,160 @@
+### YamlMime:Course
+title: Developing solutions for Microsoft Azure
+metadata:
+  title: 'Course AZ-204T00-A: Developing solutions for Microsoft Azure'
+  description: 'Course AZ-204T00-A: Developing solutions for Microsoft Azure'
+uid: course.az-204t00
+courseNumber: 'AZ-204T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-active-directory
+- azure-api-management
+- azure-app-service
+- azure-application-gateway
+- azure-automation
+- azure-cdn
+- azure-clis
+- azure-cloud-shell
+- azure-container-instances
+- azure-container-registry
+- azure-cosmos-db
+- azure-event-grid
+- azure-event-hubs
+- azure-functions
+- azure-key-vault
+- azure-logic-apps
+- azure-monitor
+- azure-policy
+- azure-portal
+- azure-redis-cache
+- azure-resource-manager
+- azure-sdks
+- azure-service-bus
+- azure-storage
+- azure-stream-analytics
+- azure-traffic-manager
+- azure-virtual-machines
+exams:
+- uid: exam.az-204
+summary: |-
+  本课程教授开发人员如何在 Microsoft Azure 中创建端到端解决方案。学生将学习如何实施 Azure 计算解决方案，创建 Azure 功能，实施和管理 Web 应用程序，利用 Azure 存储开发解决方案，实施身份验证和授权以及使用 KeyVault 和托管身份保护其解决方案的安全。学生还将学习如何连接和使用 Azure 服务和第三方服务，并在解决方案中包括基于事件和消息的模型。该课程还涵盖监控、故障排除和优化 Azure 解决方案。
+
+  #### 受众概况
+  本课程的学生对 Azure 开发或通过 Microsoft Azure 开发人员助理认证考试感兴趣。
+prerequisitesSection: |-
+  学生应具有 1-2 年的专业开发经验和 Microsoft Azure 的经验。他们必须能够使用 Azure 支持的语言进行编程。
+outlineSection: |-
+  ### 模块 1&#58; 创建Azure 应用服务 Web 应用
+  学生将学习如何在 Azure App Service 平台上构建 Web 应用程序。他们将学习平台的功能以及如何创建、配置、扩展、保护和部署到 App Service 平台。
+  #### 课程
+  - Azure App Service核心概念
+  - 创建一个Azure App Service Web 应用程序
+  - 配置和监视 App Service 应用程序
+  - 扩展 App Service 应用
+  - Azure App Service 暂存环境
+
+
+  ### 模块 2&#58; 实现Azure功能
+  本模块介绍如何创建功能应用程序，以及如何将触发器和输入/输出集成到该应用程序中。
+  #### 课程
+  - Azure功能概述
+  - 开发 Azure 功能
+  - 实现持久功能
+
+
+  ### 模块 3&#58; 开发使用 blob 存储的解决方案
+  学生将学习 Azure Blob 存储的工作方式，如何通过热/冷/归档 Blob 存储生命周期管理数据，以及如何使用 Azure Blob 存储客户端库来管理数据和元数据。
+  #### 课程
+  - Azure Blob 存储核心概念
+  - 管理 Azure Blob 存储生命周期
+  - 使用Azure Blob存储
+
+
+  ### 模块 4&#58; 开发使用 Cosmos DB 存储的解决方案
+  学生将学习 Cosmos DB 的结构以及如何管理数据一致性。学生还将学习如何通过结合使用 Azure 门户和 .NET SDK 来创建 Cosmos DB 帐户以及创建数据库、容器和项目。
+  #### 课程
+  - Azure Cosmos DB概述
+  - Azure Cosmos DB data structure
+  - 使用 Azure Cosmos DB 资源和数据
+  
+  
+  ### 模块 5&#58; 实施 IaaS 解决方案
+  该模块指导学生如何在其解决方案中使用创建 VM 和容器映像。它涉及创建 Vm，使用 ARM 模板自动执行资源部署，创建和管理 Docker 映像，将映像发布到 Azure 容器注册表以及在 Azure 容器实例中运行容器。
+  #### 课程
+  - 在 Azure 中置备 VM
+  - 创建和部署 ARM 模板
+  - 创建解决方案的容器映像
+  - 将容器映像发布到 Azure 容器注册表
+  - 在 Azure 容器实例中创建和运行容器映像
+  
+  
+  ### 模块 6&#58; 实施用户身份验证和授权
+  学生将学习如何利用 Microsoft Identity Platform v2.0 管理身份验证和对资源的访问。学生还将学习如何使用 Microsoft 身份验证库和 Microsoft Graph 来对用户进行身份验证并检索存储在 Azure 中的信息，以及如何以及何时使用共享访问签名。
+  #### 课程
+  - Microsoft 身份平台v2.0
+  - 使用 Microsoft 身份验证库进行身份验证
+  - 使用 Microsoft Graph
+  - 授权 Azure 存储中的数据操作
+  
+  
+  ### 模块 7&#58; 实施安全的云解决方案
+  本模块介绍如何保护应用程序用来访问资源的信息(密钥、机密、证书)。它还涵盖保护应用程序配置信息的安全。
+  #### 课程
+  - 使用 KeyVault API 管理密钥、机密和证书
+  - 实施Azure资源的托管身份
+  - 使用 Azure 应用配置保护应用配置数据的安全
+  
+  
+  ### 模块 8&#58; 实施 API 管理
+  学生将学习如何发布 API，创建策略以管理通过 API 共享的信息以及使用 Azure API 管理服务来管理对其 API 的访问。
+  #### 课程
+  - API 管理概述
+  - 定义 API 策略
+  - 保护您的API
+  
+  
+  ### 模块 9&#58; 开发 App Service Logic 应用
+  本模块教学生如何使用 Azure Logic Apps 在整个企业或组织中计划，自动化和协调任务，业务流程，工作流和服务。
+  #### 课程
+  - Azure Logic应用概述
+  - 为Logic Apps创建自定义连接器
+  
+  
+  ### 模块 10&#58; 开发基于事件的解决方案
+  学生将学习如何使用基于事件的架构来构建应用程序。
+  #### 课程
+  - 实施使用Azure事件网格的解决方案
+  - 实施使用Azure事件中心的解决方案
+  - 实施使用Azure通知中心的解决方案
+  
+  
+  ### 模块 11&#58; 开发基于消息的解决方案
+  学生将学习如何使用基于消息的体系结构构建应用程序。
+  #### 课程
+  - 实施使用Azure Service Bus的解决方案
+  - 实施使用Azure队列存储队列的解决方案
+  
+  
+  ### 模块 12&#58; 监控和优化 Azure 解决方案
+  该模块教学生如何为遥测检测代码，以及如何分析和排除应用故障。
+  #### 课程
+  - Azure 监控概述
+  - 监控应用程序
+  - 分析和排除应用程序故障
+  - 实施处理瞬态故障的代码
+  
+  
+  ### 模块 13&#58; 将缓存和内容交付集成到解决方案中
+  学生将学习如何使用不同的缓存服务来提高其应用程序的性能。
+  #### 课程
+  - 为 Redis 开发 Azure 缓存
+  - 开发用于存储在CDN上

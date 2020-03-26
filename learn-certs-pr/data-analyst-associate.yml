@@ -1,0 +1,44 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Data Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Data Analyst Associate'
+  description: 'Data Analyst 使企业可以使用 Microsoft Power BI 使数据资产的价值最大化。'
+uid: certification.data-analyst-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Data Analyst 使企业可以使用 Microsoft Power BI 使数据资产的价值最大化。作为主题专家，Data Analyst 负责设计和构建可伸缩的数据模型，清理和转换数据，并启用高级分析功能，这些功能通过易于理解的数据可视化提供有意义的业务价值。
+  
+  <div style='color&#58; red;'><br/><strong>说明&#58; 此认证将于2020年4月2日推出</strong> 此信息不是最终信息，发布认证后可能会有细微改动。</div>
+subTitle: Data Analyst 使企业可以使用 Microsoft Power BI 使数据资产的价值最大化。
+levels:
+- intermediate
+skills:
+- 准备数据
+- 数据建模
+- 可视化数据
+- 分析数据
+- 部署和维护可交付成果
+roles:
+- data-analyst
+type: role-based
+products:
+- power-bi
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6
+exams:
+- uid: exam.da-100
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx

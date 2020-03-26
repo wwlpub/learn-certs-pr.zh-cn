@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure IoT Developer Specialty'
+metadata:
+  title: 'Microsoft Certified: Azure IoT Developer Specialty'
+  description: 证明您了解如何实施作为 IoT 解决方案一部分的 Azure 服务，包括数据分析、数据处理、数据存储选项和平台即服务选项。IoT Developer 必须能够在物联网解决方案的代码部分中识别 Azure 物联网服务配置设置。
+uid: certification.azure-iot-developer-specialty
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  证明您了解如何实施作为 IoT 解决方案一部分的 Azure 服务，包括数据分析、数据处理、数据存储选项和平台即服务选项。IoT Developer 必须能够在物联网解决方案的代码部分中识别 Azure 物联网服务配置设置。
+subTitle: 证明您了解如何实施作为 IoT 解决方案一部分的 Azure 服务，包括数据分析、数据处理、数据存储选项和平台即服务选项。IoT Developer 必须能够在物联网解决方案的代码部分中识别 Azure 物联网服务配置设置。
+levels:
+- intermediate
+skills:
+- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- 实施物联网解决方案基础架构
+- 提供和管理设备
+- 实施边缘
+- 处理和管理数据
+- 监控、故障排除并优化 IoT 解决方案 
+- 实施安全性
+roles:
+- developer
+type: specialty
+products:
+- azure
+- azure-iot-central
+- azure-iot-hub
+courses:
+- uid: course.az-220t00
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
+exams:
+- uid: exam.az-220
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
