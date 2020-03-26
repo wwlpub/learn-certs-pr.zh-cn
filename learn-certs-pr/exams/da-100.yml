@@ -27,9 +27,9 @@ skills:
 - 分析数据(10-15%)
 - 部署和维护可交付成果(10-15%)
 roles:
-- data -analyst
+- data-analyst
 products:
-- power -bi
+- power-bi
 relatedCertifications:
 - related:
     uid: certification.data-analyst-associate

@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/11/4
+ms.date: 11/04/2019
 ms.author: micsullivan
 ---
 # Microsoft Ignite and Microsoft Ignite The Tour: 免费认证考试
@@ -19,7 +19,7 @@ ms.author: micsullivan
 
 如果您参加了Microsoft Ignite 2019或Microsoft Ignite The Tour 2019-2020活动，则可能有资格获得一次免费的Microsoft基础、基于角色的考试或专业考试。您可从参加活动开始之日起兑换此次免费考试优惠，有效期为活动最后一天后的180天。如果您未在该时间段内安排考试，则将无法兑换您的优惠。  
 
-## 您如何申领免费考试
+## <a name="how-to-claim-your-free-exam"></a> 您如何申领免费考试
 
 由于这是一种数字式优惠，因此我们要求您在安排在线考试时间时，使用与活动注册相同的社交帐户(请参阅下面的步骤7)来验证您出席活动。如果您是团体注册，请确保您已填写活动注册资料。对于MS Ignite 2019参与者，请访问[https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/);对于The Tour参与者，请访问[https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/)城市名称，例如[https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london) 以填写您的活动资料。
 
@@ -41,7 +41,7 @@ ms.author: micsullivan
 
 对于安排考试的问题，请通过[Microsoft认证支持论坛](https://trainingsupport.microsoft.com/zh-cn/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)获得帮助.论坛版主将在一个工作日内回复。
 
-## 适用于此优惠的考试
+## <a name="eligible-exams-for-this-offer"></a> 适用于此优惠的考试
 
 此优惠包括所有Microsoft基础，基于角色的考试和专业考试。适用的考试如下所示。
 

@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/11/26
+ms.date: 11/26/2019
 ms.author: micsullivan
 ---
 # 成为 Microsoft Certified Trainer
@@ -29,11 +29,11 @@ Microsoft 认证讲师计划属于年度会员计划。您必须满足方案要�
 
 [探索可用于MCT的所有好处。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## 要求
+## <a name="mctinfoheading-3"></a> 要求
 
 MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。如果您持有符合资格的认证而且对于从事 Microsoft 技术培训充满热情，我们鼓励您考虑申请此项计划。
 
-有关 MCT 计划要求的详细信息，请参阅本页面 [申请流程](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) 部分下的 MCT 计划指南和 MCT 计划协议。
+有关 MCT 计划要求的详细信息，请参阅本页面 [申请流程](#mctinfoheading-4) 部分下的 MCT 计划指南和 MCT 计划协议。
 
 
 ### MCT 计划加入要求
@@ -107,7 +107,7 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
  
 **注意** 符合 MCT 计划资格要求的 Microsoft 认证和资格随时可能更改。所有新的基于角色的认证一旦发布，将成为MCT项目的合格认证。已被停用的认证将有资格在停用日期后的6个月内参加MCT计划。[了解有关停用证书的更多信息](https://www.microsoft.com/learning/retired-certifications.aspx)。
 
-## 申请过程
+## <a name="mctinfoheading-4"></a> 申请过程
 
 如果您有意成为 MCT，请查看 MCT 计划指南和 MCT 计划协议，以便理解会员条款。
 
@@ -185,7 +185,7 @@ MCT Alumni 权益包括：
 
 若要重新成为 MCT：
 
-- **确保您满足本页** [要求](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 部分中所述的MCT计划要求。根据当前 Microsoft 认证和资格要求检查您的成绩单，确认是否符合 MCT 计划要求。
+- **确保您满足本页** [要求](#mctinfoheading-3) 部分中所述的MCT计划要求。根据当前 Microsoft 认证和资格要求检查您的成绩单，确认是否符合 MCT 计划要求。
 - **申请加入 MCT 计划。** MCT Alumni 可以提供已获得的教学技能认证的证明，作为先前的 MCT 计划申请的支持材料；也可以提交一份推荐材料，证明其至少拥有一年的教学经验。此推荐材料可以由前客户、经理或大学出具。
 
 MCT 和 MCT Alumni 计划费用

@@ -6,14 +6,14 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/10/14
+ms.date: 10/14/2019
 ms.author: micsullivan
 ---
 # 考试政策和常见问题
 
 全球各地的合作伙伴和客户信赖 Microsoft 能提供最高质量的考试和认证。制定 Microsoft 认证考试政策是为了支持认证计划的目标，包括:
 
-## 安全和补考政策
+## <a name="security-policies"></a> 安全和补考政策
 
 Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional (MCP) 考试相关的安全领域。
 
@@ -490,7 +490,7 @@ AZ-201:Microsoft Azure Developer Advanced Solutions
 
 下载: [文字记录服务应用程序](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## 对 Microsoft 认证考题提出质疑
+## <a name="policies-5"></a> 对 Microsoft 认证考题提出质疑
 
 [每个考试问题均经过仔细审查](https://www.microsoft.com/learning/certification-exams.aspx) 由技术和职务职能专家小组组成，他们对每个问题的技术准确性和清晰度进行了审查，以及相关性。如果您相信您在 Microsoft 认证考试中看到的特定考题无效，那么您可以按照下面所述的步骤申请评估该考题。您必须在参加考试后30天内提交考试项目质疑表。
 
@@ -508,7 +508,7 @@ AZ-201:Microsoft Azure Developer Advanced Solutions
 
 我们重视并依赖您的反馈来尽可能让 Microsoft 认证考试发挥效用和相关。
 
-## 参加考试时的特殊便利设施
+## <a name="#special-accommodations-when-taking-exams"></a> 参加考试时的特殊便利设施
 
 ### 对于通过Pearson VUE进行的考试:
 
@@ -526,7 +526,7 @@ AZ-201:Microsoft Azure Developer Advanced Solutions
 
 如果您因为无法使用您的母语进行考试而需要更多时间，索取特殊设备，或者在参加考试时想申请其他住宿，则可以按照 [此处](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) 的流程提出申请。
 
-### 取消和改期政策:
+### <a name="cancellation-and-reschedule-policy"></a> 取消和改期政策:
 
 - 如果您在约定的考试时间之前至少6个工作日重新安排或取消考试预约，则没有任何收费。
 - 如果您在注册的考试时间的5个工作日内取消或重新安排考试，则需要收取费用。
@@ -625,7 +625,7 @@ Expert 和 Associate 考试通常需要165美元，但根据特定国家和地�
 
 **如何提交有关考题或考试体验的反馈？**
 
-如果您对特定项目的技术准确性有疑问，请按照[考试项目挑战](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)过程。
+如果您对特定项目的技术准确性有疑问，请按照[考试项目挑战](#policies-5)过程。
 
 要报告有关考试中心或考试期间遇到的技术困难的问题，请通过 [Pearson VUE](http://www.pearsonvue.com/microsoft/) 或 [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm) 与客户服务联系。
 
@@ -828,7 +828,7 @@ Microsoft 考试经过精心设计，以便可以使用总的测验分数决定�
 
 **补考政策是什么？**
 
-请参阅[安全和重考政策](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies)以查看考试重考政策。
+请参阅[安全和重考政策](#security-policies)以查看考试重考政策。
 
 **我是否可以申请重新评估我的分数？**
 
@@ -836,7 +836,7 @@ Microsoft 考试经过精心设计，以便可以使用总的测验分数决定�
 
 **我可以如何就某道考题提出质疑？**
 
-如果您认为Microsoft认证考试中的问题不准确，则可以使用[考试项目挑战过程](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) 在参加考试的30个日历天内。评估过程可帮助我们确定和纠正有问题的考题，并相应地更新考试。
+如果您认为Microsoft认证考试中的问题不准确，则可以使用[考试项目挑战过程](#policies-5) 在参加考试的30个日历天内。评估过程可帮助我们确定和纠正有问题的考题，并相应地更新考试。
 
 **Microsoft 员工是否将审阅并评估我质疑的考题？**
 
@@ -992,7 +992,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **我的试验遇到了一些问题。我如何让 Microsoft 知道？**
 
-如果您在试验中遇到问题，请通过我们的[考试项目质疑流程](https://www.microsoft.com/learning/certification-exam-policies.aspx#dt-policies-5)升级。虽然我们无法为您的经历提供具体的解释，但我们对您经历的调查将帮助我们确定根本原因并找出可改善每个人体验的解决方案。
+如果您在试验中遇到问题，请通过我们的[考试项目质疑流程](#policies-5)升级。虽然我们无法为您的经历提供具体的解释，但我们对您经历的调查将帮助我们确定根本原因并找出可改善每个人体验的解决方案。
 
 **我的试验遇到了一些问题。我如何请求重新评分？**
 
