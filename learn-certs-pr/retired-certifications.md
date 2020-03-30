@@ -6,7 +6,7 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/7/30
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # 认证停用信息
@@ -15,7 +15,7 @@ ms.author: micsullivan
 
 ## 计划停用的认证
 
-查看将于未来 12 个月内停用的认证。(下面的信息随时可能更改。) 
+查看将于未来 12 个月内停用的认证。（下面的信息随时可能更改。） 
 
 [MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于2020年6月30日停用  
 
@@ -77,6 +77,6 @@ ms.author: micsullivan
 
 | Microsoft Technology Associate                           |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                              | 2018年9月30日 |
+| MTA: 98-369: Cloud Fundamentals                                                                                              | 2019年9月30日 |
 | MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 2019年8月7日  |
 ___

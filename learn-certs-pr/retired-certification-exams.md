@@ -6,12 +6,12 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019/7/30
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # 计划停用的考试
 
-查看将于未来 12 个月内停用的考试(按技术排列)。(下面的信息随时可能更改。)
+查看将于未来 12 个月内停用的考试（按技术排列）。（下面的信息随时可能更改。）
 
 | 2020年6月30日停用 | |
 | --- | --- |
@@ -55,7 +55,7 @@ ms.author: micsullivan
 | [70-778](https://www.microsoft.com/learning/exam-70-778.aspx): Analyzing and Visualizing Data with Power BI |  |
 | [70-779](https://www.microsoft.com/learning/exam-70-779.aspx): Analyzing and Visualizing Data with Microsoft Excel |  |
 | [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration |  |
-| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions and Deployment for Microsoft Dynamics 365 for Finance and Operations |  |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |  |
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 | [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
@@ -73,18 +73,18 @@ ms.author: micsullivan
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019年6月30日
-| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Microsoft Azure Developer Core Solutions (2018年9月24日发布)| 2019年1月3日
-| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Microsoft Azure Developer Advanced Solutions(2018年9月24日发布)| 2019年1月3日
-| [AZ-202](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Microsoft Azure Developer Certification Transition (2018年9月24日发布)| 2019年3月31日
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018年9月24日发布）| 2019年1月3日
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018年9月24日发布）| 2019年1月3日
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日发布）| 2019年3月31日
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019年6月30日
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019年9月30日
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 2019年9月30日
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 2017年12月31日
 | 70-247 | Configuring and Deploying a Private Cloud | 2017年12月31日
-| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Core Solutions of Microsoft SharePoint Server 2013 | 2019年3月31日
-| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Advanced Solutions of Microsoft SharePoint Server 2013 | 2019年3月31日
-| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Core Solutions of Microsoft Exchange Server 2013 | 2019年3月31日
-| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Advanced Solutions of Microsoft Exchange Server 2013 | 2019年3月31日
+| 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 2019年3月31日
+| 70-332 | Advanced Solutions of Microsoft SharePoint Server 2013 | 2019年3月31日
+| 70-341 | Core Solutions of Microsoft Exchange Server 2013 | 2019年3月31日
+| 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 2019年3月31日
 | [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 2019年4月30日
 | [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | 2019年4月30日
 | [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 2019年12月31日
@@ -93,20 +93,20 @@ ms.author: micsullivan
 | [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 2019年6月30日
 | 70-488 | Developing SharePoint Server 2013 Core Solutions | 2018年7月31日
 | 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 2018年7月31日
-| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | Administering Visual Studio Team Foundation Server | 2018年12月31日
-| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | Software Testing with Visual Studio | 2018年12月31日
-| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | Delivering Continuous Value with Visual Studio | 2018年12月31日
-| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | Developing Microsoft Azure Solutions | 2018年12月31日
-| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) | Implementing Microsoft Azure Infrastructure Solutions | 2018年12月31日
-| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | Architecting Microsoft Azure Solutions | 2017年12月31日
-| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | Architecting Microsoft Azure Solutions | 2018年12月31日
+| 70-496 | Administering Visual Studio Team Foundation Server | 2018年12月31日
+| 70-497 | Software Testing with Visual Studio | 2018年12月31日
+| 70-498 | Delivering Continuous Value with Visual Studio | 2018年12月31日
+| 70-532 | Developing Microsoft Azure Solutions | 2018年12月31日
+| 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 2018年12月31日
+| 70-534 | Architecting Microsoft Azure Solutions | 2017年12月31日
+| 70-535 | Architecting Microsoft Azure Solutions | 2018年12月31日
 | 70-680 | Windows 7, Configuring | 2018年7月31日
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 2018年7月31日
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 2018年7月31日
-| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | Deploying Windows Desktops and Enterprise Applications | 2019年3月31日
+| 70-695 | Deploying Windows Desktops and Enterprise Applications | 2019年3月31日
 | 70-696 | Administering System Center Configuration Manager and Intune | 2018年3月31日
 | [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configuring Windows Devices | 2019年4月30日
-| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | Installing and Configuring Windows 10 | 2019年3月31日
+| 70-698 | Installing and Configuring Windows 10 | 2019年3月31日
 | [70-703](https://www.microsoft.com/learning/exam-70-703.aspx) | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 2019年12月31日
 | [70-713](https://www.microsoft.com/learning/exam-70-713.aspx) | Software Asset Management (SAM) - Core | 2019年12月31日
 | [70-735](https://www.microsoft.com/learning/exam-70-735.aspx) | OEM Manufacturing and Deployment for Windows 10 | 2019年12月31日
@@ -128,7 +128,7 @@ ms.author: micsullivan
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 2019年12月31日
 | [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 2019年12月31日
 | [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 2019年12月31日
-| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 2019年12月31日
+| MB2-709 | Microsoft Dynamics Marketing | 2017年12月31日
 | [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | 2019年12月31日
 | [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | 2019年12月31日
 | [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | 2019年12月31日
@@ -191,7 +191,7 @@ ms.author: micsullivan
 | 70-271 | Supporting Users and Troubleshooting a Microsoft Windows XP Operating System | 2011年6月30日
 | 70-272 | Supporting Users and Troubleshooting Desktop Applications on a Microsoft Windows XP Operating System | 2011年6月30日
 | 70-281 | Planning, Deploying, and Managing an Enterprise Project Management Solution | 2010年10月31日
-| 70-282 | Planning, Deploying, and Managing a Network Solution for the Small and Medium-Sized Business | 2012年9月30日
+| 70-282 | Planning, Deploying, and Managing a Network Solution for the Small and Medium-Sized Business | 2011年9月30日
 | 70-284 | Implementing and Managing Microsoft Exchange Server 2003 | 2011年3月31日
 | 70-285 | Designing a Microsoft Exchange Server 2003 Organization | 2011年3月31日
 | 70-290 | Managing and Maintaining a Microsoft Windows Server 2003 Environment | 2013年7月31日
@@ -223,9 +223,9 @@ ms.author: micsullivan
 | 70-383 | Recertification for MCSE: SharePoint | 2017年3月31日
 | 70-384 | Recertification for MCSE: Communication | 2017年3月31日
 | 70-385 | Recertification for MCSE: Messaging | 2017年3月31日
-| 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 2013年7月31日
+| 70-400 | TS：Microsoft System Center Operations Manager 2007, Configuring | 2013年7月31日
 | 70-401 | TS：Microsoft System Center Configuration Manager 2007, Configuring | 2013年7月31日
-| 70-403 | TS：System Center Virtual Machine Manager 2008, Configuring | 2012年9月30日
+| 70-403 | TS：System Center Virtual Machine Manager 2008, Configuring | 2011年9月30日
 | 70-415 | Implementing a Desktop Infrastructure | 2016年1月31日
 | 70-416 | Implementing Desktop Application Environments | 2016年1月31日
 | 70-431 | TS：Microsoft SQL Server 2005 ‒ Implementation and Maintenance | 2011年6月30日
@@ -238,16 +238,16 @@ ms.author: micsullivan
 | 70-444 | TS：Bing Maps Platform, Application Development | 2011年12月31日
 | 70-445 | TS：Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 2011年6月30日
 | 70-446 | PRO: Designing a Business Intelligence Solution by Using Microsoft SQL Server 2005 | 2011年6月30日
-| 70-447 | 升级: MCDBA Skills to MCITP Database Administrator by Using Microsoft SQL Server 2005 | 2011年6月30日
+| 70-447 | UPGRADE: MCDBA Skills to MCITP Database Administrator by Using Microsoft SQL Server 2005 | 2011年6月30日
 | 70-448 | Microsoft SQL Server 2008, Business Intelligence ‒ Development and Maintenance | 2016年7月31日
 | 70-450 | PRO: Designing, Optimizing, and Maintaining a Database Administrative Solution Using Microsoft SQL Server 2008 | 2015年7月31日
 | 70-451 | PRO: Designing Database Solutions and Data Access Using Microsoft SQL Server 2008 | 2015年7月31日
 | 70-452 | PRO: Microsoft SQL Server 2008, Designing a Business Intelligence Solution | 2013年7月31日
-| 70-453 | 升级: Transition Your MCITP SQL Server 2005 DBA to MCITP SQL Server 2008 | 2012年7月31日
-| 70-454 | 升级: Transition Your MCITP SQL Server 2005 DBD to MCITP SQL Server 2008 DBD | 2012年7月31日
-| 70-455 | 升级: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 2012年7月31日
-| 70-457 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012，第1部分| 2016年7月31日
-| 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012，第2部分| 2016年7月31日
+| 70-453 | Upgrade: Transition Your MCITP SQL Server 2005 DBA to MCITP SQL Server 2008 | 2012年7月31日
+| 70-454 | Upgrade: Transition Your MCITP SQL Server 2005 DBD to MCITP SQL Server 2008 DBD | 2012年7月31日
+| 70-455 | Upgrade: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 2012年7月31日
+| 70-457 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012，第1部分 | 2016年7月31日
+| 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012，第2部分 | 2016年7月31日
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016年1月31日
 | 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 2016年1月31日
 | 70-469 | Recertification for MCSE: Data Platform | 2017年3月31日
@@ -291,8 +291,8 @@ ms.author: micsullivan
 | 70-549 | PRO: Designing and Developing Enterprise Applications by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-551 | UPGRADE: MCAD Skills to MCPD Web Developer by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-552 | UPGRADE: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 2011年6月30日
-| 70-553 | UPGRADE: 使用 Microsoft .NET Framework 将 MCSD Microsoft .NET 技能升级到 MCPD 企业级应用开发人员 : 第1部分| 2011年6月30日
-| 70-554 | UPGRADE: 使用 Microsoft .NET Framework 将 MCSD Microsoft .NET 技能升级到 MCPD 企业级应用开发人员 : 第1部分| 2011年6月30日
+| 70-553 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 第1部分| 2011年6月30日
+| 70-554 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 第1部分| 2011年6月30日
 | 70-555 | TS：Microsoft Office Groove 2007, Configuring | 2011年6月30日
 | 70-556 | TS：Microsoft Office PerformancePoint Server 2007, Applications | 2011年6月30日
 | 70-557 | TS：Microsoft Forefront Client and Server, Configuring | 2011年6月30日
@@ -316,7 +316,7 @@ ms.author: micsullivan
 | 70-582 | TS：Windows Embedded Standard 7 for Developers | 2014年7月31日
 | 70-583 | PRO: Designing and Developing Microsoft Azure Applications | 2014年7月31日
 | 70-595 | TS：Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015年7月31日
-| 70-599 | Pro: 设计和开发 Windows Phone 应用程序 | 2014年9月30日
+| 70-599 | Pro: Designing and Developing Windows Phone Applications | 2014年9月30日
 | 70-620 | TS：Configuring Microsoft Windows Vista Client | 2013年7月31日
 | 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011年3月31日
 | 70-622 | Pro: Microsoft Desktop Support – ENTERPRISE | 2013年7月31日
@@ -337,7 +337,7 @@ ms.author: micsullivan
 | 70-647 | Pro: Windows Server 2008, Enterprise Administrator | 2015年7月31日
 | 70-648 | Upgrading your MCSA on Windows Server 2003 to Windows Server 2008, Technology Specialist | 2013年7月31日
 | 70-649 | TS：Upgrading Your MCSE on Windows Server 2003 to Windows Server 2008, Technology Specialist | 2015年7月31日
-| 70-652 | TS：Windows Server Virtualization, Configuring | 2011年9月31日
+| 70-652 | TS：Windows Server Virtualization, Configuring | 2011年9月30日
 | 70-653 | Windows Small Business Server 2008, Configuring | 2012年7月31日
 | 70-654 | TS：Windows Essential Business Server 2008, Configuring | 2011年6月30日
 | 70-655 | TS：Windows Vista and Server Operating Systems, Pre-Installing for OEMs | 2011年6月30日
@@ -395,20 +395,20 @@ ms.author: micsullivan
 | 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2017年12月31日
 | 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 2013年7月31日
 | 74-697 | OEM Preinstallation | 2016年1月31日
-| 74-924 | Microsoft Office Communications Server 2007 R2-U.C.Voice Specialization | 2010年10月31日
+| 74-924 | Microsoft Office Communications Server 2007 R2 – U.C.Voice Specialization | 2010年10月31日
 | 77-891 | Office 365| 2014年12月31日
-| 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 2011年9月31日
+| 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 2011年9月30日
 | 88-961 | MCM：SharePoint Server 2010: 第1周| 2013年8月25日
 | 88-962 | MCM：SharePoint Server 2010: 第2周| 2013年8月25日
 | 88-963 | MCM：SharePoint Server 2010: 第3周| 2013年8月25日
 | 88-972 | MCM：SharePoint Server 2010: Lab Exam | 2013年8月25日
 | 88-973 | MCM：SharePoint Server 2010, Knowledge Upgrade Exam | 2013年8月25日
 | 88-965 | Windows Server 2008 R2：Directory Knowledge Exam | 2014年1月1日
-| 88-966 | Windows Server 2008 R2：Directory Knowledge Exam | 2014年1月1日
+| 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014年1月1日
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014年1月1日
 | 88-969 | Lync Server 2010 Lab Exam | 2014年1月1日
-| 88-971 | SQL Server 2008 Microsoft认证大师：Lab Exam | 2013年12月31日
-| 88-981 | Windows Server 2008 R2：Directory Lab Exam | 2014年1月1日
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013年12月31日
+| 88-981 | Windows Server 2008 R2: Directory Lab Exam | 2014年1月1日
 | 98-362 | Windows Development Fundamentals | 2014年7月31日
 | 98-363 | Web Development Fundamentals | 2015年7月31日
 | 98-372 | Microsoft .NET Fundamentals | 2015年7月31日
@@ -481,7 +481,7 @@ ms.author: micsullivan
 | MB5-854 | C5 2010 Programming | 2013年10月1日
 | MB5-855 | C5 2010 Advanced Programming | 2013年10月1日
 | MB5-856 | C5 2010 Application Consultant | 2013年10月1日
-| MB5-858 | Managing Microsoft Dynamics Implementations | 2013年9月31日
+| MB5-858 | Managing Microsoft Dynamics Implementations | 2013年9月20日
 | MB6-202 | Axapta 3.0 Programming | 2010年1月12日
 | MB6-203 | Axapta 3.0 Financials | 2010年1月12日
 | MB6-204 | Axapta 3.0 Trade and Logistics | 2010年1月12日
@@ -504,7 +504,7 @@ ms.author: micsullivan
 | MB6-510 | AX 4.0 Human Resource Management | 2011年9月30日
 | MB6-511 | AX 4.0 Production | 2011年9月30日
 | MB6-512 | AX 4.0 Enterprise Portal Development | 2011年9月30日
-| MB6-513 | AX 4.0 MorphX解决方案开发| 2011年9月30日
+| MB6-513 | AX 4.0 MorphX Solution Development | 2011年9月30日
 | MB6-700 | Microsoft Dynamics AX 2012 R2 Project | 2016年12月31日
 | MB6-701 | Microsoft Dynamics AX 2012 R3 Retail | 2017年3月31日
 | MB6-702 | Microsoft Dynamics AX 2012 R3 Financials | 2016年12月31日
@@ -550,10 +550,10 @@ ms.author: micsullivan
 | MB7-839 | NAV 2009 Core Setup and Finance | 2014年6月30日
 | MB7-840 | NAV 2009 C/SIDE Introduction | 2014年6月30日
 | MB7-841 | NAV 2009 C/SIDE Solution Development | 2014年6月30日
-| MB7-842 | NAV 2009 Trade & Inventory | J2014年6月30日
+| MB7-842 | NAV 2009 Trade & Inventory | 2014年6月30日
 | MB7-843 | NAV 2009 Warehouse Management | 2014年6月30日
 | MB7-846 | NAV 2009 Relationship Management | 2014年6月30日
 | MB7-848 | NAV 2009 Service Management | 2014年6月30日
 | MB7-849 | NAV 2009 Manufacturing | 2014年6月30日
-| MB7-849 | NAV 2009-Produktion(丹麦语)| 2014年6月30日
-| MB7-849 | NAV 2009-Produktion(德语)| 2014年6月30日
+| MB7-849 | NAV 2009-Produktion（丹麦语）| 2014年6月30日
+| MB7-849 | NAV 2009-Produktion（德语）| 2014年6月30日

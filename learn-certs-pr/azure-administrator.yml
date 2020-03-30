@@ -13,7 +13,7 @@ levels:
 skills:
 - 管理Azure订阅和资源
 - 实施和管理存储
-- 部署和管理虚拟机(VM)
+- 部署和管理虚拟机（VM）
 - 配置和管理虚拟网络
 - 管理身份
 roles:
@@ -44,9 +44,6 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwU
 exams:
 - uid: exam.az-103
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

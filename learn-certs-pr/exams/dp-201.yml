@@ -13,12 +13,12 @@ summary: |-
 
   Azure 数据工程师负责与数据相关的任务，包括设计使用关系和非关系数据存储的 Azure 数据存储解决方案，批处理和实时数据处理解决方案以及数据安全和合规性解决方案。
 
-  此考试的考生必须设计使用以下 Azure 服务的数据解决方案：Azure Cosmos DB，Azure SQL 数据库，Azure SQL Synapse Analytics，Azure Data Lake 存储，Azure 数据工厂，Azure 流分析，Azure Databricks 和 Azure Blob 存储。
-subTitle: '此考试衡量您完成以下技术任务的能力：设计 Azure 数据存储解决方案；设计数据处理方案；并设计数据安全性和合规性。'
+  此考试的考生必须设计使用以下 Azure 服务的数据解决方案&#58;Azure Cosmos DB，Azure SQL 数据库，Azure SQL Synapse Analytics，Azure Data Lake 存储，Azure 数据工厂，Azure 流分析，Azure Databricks 和 Azure Blob 存储。
+subTitle: '此考试衡量您完成以下技术任务的能力:设计 Azure 数据存储解决方案；设计数据处理方案；并设计数据安全性和合规性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
@@ -28,7 +28,7 @@ levels:
 - intermediate
 skills:
 - 考试内容将于2020年3月26日更新。请下载下面的技能测量文档，看看有何变化。
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- '注意:出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 设计 Azure 数据存储解决方案(40-45%)
 - 设计数据处理解决方案(25-30%)
 - 数据安全性和合规性设计(25-30%)
@@ -58,15 +58,10 @@ paths:
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
 relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Azure Data Engineer Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

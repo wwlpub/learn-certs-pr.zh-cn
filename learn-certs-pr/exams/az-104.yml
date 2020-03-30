@@ -10,21 +10,21 @@ summary: |-
   
   考生应至少有六个月的 Azure 实践管理经验。考生应该对核心 Azure 服务，Azure 工作负荷，安全性和治理有深刻的了解。参加该考试的考生应具有使用 PowerShell，命令行界面，Azure 门户和 ARM 模板的经验。
   
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>注意&#58; 此项考试将于2020年3月31日左右推出。</div>
-subTitle: ‘此考试衡量您完成以下技术任务的能力&#58; 管理 Azure 身份和治理；实施和管理存储；部署和管理 Azure 计算资源；配置和管理虚拟网络；并监视和备份 Azure 资源。”
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>注意&#58;此项考试将于2020年3月31日左右推出。</div>
+subTitle: '此考试衡量您完成以下技术任务的能力:管理 Azure 身份和治理；实施和管理存储；部署和管理 Azure 计算资源；配置和管理虚拟网络；并监视和备份 Azure 资源。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 管理 Azure 身份和治理(15-20%) 
+- 管理 Azure 身份和治理(15 -20%) 
 - 实施和管理存储 (10-15%)
-- 部署和管理 Azure 计算资源(25-30%) 
-- 配置和管理虚拟网络 (30-35%)  
-- 监视和备份 Azure 资源(10-15%)
+- 部署和管理 Azure 计算资源(25 -30%) 
+- 配置和管理虚拟网络 (30-35%) 
+- 监视和备份 Azure 资源(10 -15%)
 roles:
 - administrator
 products:
@@ -45,9 +45,6 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
