@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>此考试的新版本, <a href="/learn/certifications/exams/az-204">AZ-204</a>, 将于2月24日推出。您将可以参加此考试，直到其2020年5月31日停用。注意：考试将于美国中部标准时间晚上11:59停用<br/><br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>此考试的新版本, <a href="/learn/certifications/exams/az-204">AZ-204</a>, 将于2月24日推出。您将可以参加此考试，直到其2020年5月31日停用。注意:考试将于美国中部标准时间晚上11:59停用<br/><br/></div>
   
   这次考试的考生是 Azure 开发者，他们设计和构建 Cloud 解决方案，如应用程序和服务。他们参与开发的各个阶段，从解决方案设计，开发部署，到测试和维护。他们与 Cloud 解决方案架构师、 Cloud 数据库、 Cloud 管理员和客户合作，以实现解决方案。
   <br/>
@@ -15,8 +15,8 @@ summary: |-
 
   考生必须具有至少一年的开发软件开发所有阶段可扩展解决方案的经验，并熟练使用至少一种 Cloud 支持的编程语言。
 
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>NOTE&#58; 注意：通过考试，您将获得以下认证： <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified: Azure Developer Associate</a>.</div>
-subTitle: '此考试衡量您完成以下技术任务的能力：将Azure基础架构作为服务计算解决方案开发；将Azure平台作为服务计算解决方案开发；为Azure存储开发；实施Azure安全性；监视、疑难解答和优化解决方案；连接并使用Azure服务和第三方服务。'
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>NOTE&#58; 注意&#58;通过考试，您将获得以下认证&#58; <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
+subTitle: '此考试衡量您完成以下技术任务的能力&#58;将Azure基础架构作为服务计算解决方案开发；将Azure平台作为服务计算解决方案开发；为Azure存储开发；实施Azure安全性；监视、疑难解答和优化解决方案；连接并使用Azure服务和第三方服务。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
 locales:
@@ -26,11 +26,11 @@ locales:
 - ko
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
-- 此考试的新版本 AZ -204 将于2月24日推出。您将可以参加此考试，直到其2020年5月31日停用。  请下载下面的技能测量文档，查看关于变化的信息。
+- 此考试的新版本 AZ -204 将于2月24日推出。您将可以参加此考试，直到其2020年5月31日停用。请下载下面的技能测量文档，查看关于变化的信息。
 - 开发 Azure 基础架构即服务计算解决方案(10-15%)
 - 开发 Azure 平台即服务计算解决方案(20-25%)
 - 开发 Azure 存储 (15-20%)

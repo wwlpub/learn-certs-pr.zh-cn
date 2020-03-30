@@ -1,7 +1,7 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
   description: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
@@ -26,8 +26,9 @@ products:
 courses:
 - uid: course.az-120t00
 paths:
-- uid: learn-pr.wwl.planning-azure-sap-workloads
 - uid: learn.wwl.sap-certified-offerings-azure
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.run-azure-sap-workloads
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
 exams:
 - uid: exam.az-120

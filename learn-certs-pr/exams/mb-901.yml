@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals(beta)
+title: Microsoft Dynamics 365 Fundamentals
 metadata:
-  title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals(beta)'
-  description: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals(beta)'
+  title: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
+  description: 'Exam MB-901: Microsoft Dynamics 365 Fundamentals'
 uid: exam.mb-901
 displayName: MB-901
 summary: |-
@@ -11,14 +11,16 @@ summary: |-
   考生应该对 Dynamics 365 功能和 Microsoft 云计算有功能上的了解。
 
   本考试的考生应具备信息技术(IT)环境方面的一般知识或相关工作经验。考生还应对业务场景和解决IT项目的业务，法律和安全要求的经验有基本的了解。
-  
-  <div style='color&#58; red;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a>.</div>
 subTitle: 该考试衡量您了解 Microsoft Dynamics 365 的能力；人工智能(AI)；混合现实(MR)；动力平台；云概念；云安全； Dynamics 365中基于角色的安全性；通用数据服务；数据管理框架； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
 locales:
 - en
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:

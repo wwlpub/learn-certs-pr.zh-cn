@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: Migrate NoSQL workloads to Azure Cosmos DB
+metadata:
+  title: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
+  description: 'Course DP-060T00-A: Migrate NoSQL workloads to Azure Cosmos DB'
+uid: course.dp-060t00
+courseNumber: 'DP-060T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用Cosmos DB构建全球分布式应用程序
+- skill: 将MongoDB工作负载迁移到Cosmos DB
+- skill: 将Cassandra DB工作负载迁移到Cosmos DB
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  本课程将告诉学生什么是Cosmos DB，以及如何将MongoDB和Cassandra工作负载迁移到Cosmos DB。
+
+  #### 受众概况
+  本课程的主要对象是计划使用Cosmos DB 将 MongoDB 或Cassandra DB工作负载迁移到Azure的数据库开发人员。
+prerequisitesSection: |-
+  除了专业经验之外，参加此培训的学生还应该具有以下技术知识&#58;
+  - 分区、复制和资源治理的基本概念，以构建和配置与Cosmos DB API无关的可伸缩应用程序。
+outlineSection: |-
+  ### 模块 1&#58; 使用Cosmos DB构建全球分布式应用程序
+  本模块描述了Cosmos DB的优点和架构。
+  #### 课程
+  - Cosmos DB概述
+  - Cosmos DB APIs
+  - 供应通量
+  - 分区/共享最佳做法
+
+  在本模块结束后，学生将能够描述&#58;
+  - Cosmos DB概述
+  - Cosmos DB APIs
+  - 供应通量
+  - 分区/共享最佳做法
+
+
+  ### 模块 2&#58; 将MongoDB工作负载迁移到Cosmos DB
+  将MongoDB工作负载迁移到Cosmos DB
+  #### 课程
+  - 了解迁移的好处
+  - 迁移计划
+  - 数据迁移
+  - 应用迁移
+  - 迁移后注意事项
+
+
+  #### 实验&#58; 将MongoDB工作负载迁移到Cosmos DB
+  - 创建迁移项目
+  - 定义来源和目标
+  - 执行迁移
+  - 验证迁移
+
+  在本模块结束后，学生将能够&#58;
+  - 了解迁移的好处
+  - 执行迁移计划
+  - 进行数据迁移
+  - 执行应用程序迁移
+  - 进行迁移后的考虑
+
+
+  ### 模块 3&#58; 将Cassandra DB工作负载迁移到Cosmos DB
+  本模块描述了将Cassandra DB工作负载迁移到Cosmos DB的优点和过程
+  #### 课程
+  - 了解迁移的好处
+  - 迁移计划
+  - 数据迁移
+  - 应用迁移
+  - 迁移后注意事项
+
+
+  #### 实验&#58; 将Cassandra DB工作负载迁移到Cosmos DB
+  - 导出架构
+  - 使用CQLSH COPY移动数据
+  - 使用Spark移动数据
+  - 验证迁移
+
+  在本模块结束后，学生将能够&#58;
+  - 了解迁移的好处
+  - 执行迁移计划
+  - 进行数据迁移
+  - 执行应用程序迁移
+  - 进行迁移后的考虑
+
+  #### 其他阅读内容
+  参加本课程无额外阅读要求。

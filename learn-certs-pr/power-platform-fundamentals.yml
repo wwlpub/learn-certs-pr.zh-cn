@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Platform Fundamentals'
+title: Microsoft Certified Power Platform Fundamentals
 metadata:
-  title: 'Microsoft Certified: Power Platform Fundamentals'
+  title: Microsoft Certified Power Platform Fundamentals
   description: 证明您了解Power Platform的核心功能-从商业价值和核心产品功能到构建基本的Power Apps画布应用程序，连接数据源，使用Microsoft Flow自动化以及创建Power BI控制面板。
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -13,9 +13,9 @@ levels:
 skills:
 - 了解Power Platform的商业价值
 - 了解Power Platform的核心组件
-- 展示Power BI的商业价值
-- 展示Power Apps的商业价值
-- 展示Power Automate的业务价值
+-  展示Power BI的商业价值
+-  展示Power Apps的商业价值
+-  展示Power Automate的业务价值
 roles:
 - business-user
 - functional-consultant

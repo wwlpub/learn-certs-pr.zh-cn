@@ -6,11 +6,13 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>阶段1&#58;考试内容将于2020年5月22日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  
   Azure Data Scientists 利用他们在数据科学和机器学习方面的知识在 Azure 上实施和运行机器学习工作负载；特别是使用 Azure 机器学习服务。这需要为 Azure 的数据科学工作负荷规划并创建合适的工作环境，运行数据实验和训练预测模型，管理和优化模型，以及将机器学习模型部署到生产中。
-subTitle: '此考试衡量您完成以下技术任务的能力：设置 Azure 机器学习工作区；进行实验和训练模型；优化和管理模型；并部署和使用模型。'
+subTitle: '此考试衡量您完成以下技术任务的能力:设置 Azure 机器学习工作区；进行实验和训练模型；优化和管理模型；并部署和使用模型。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
@@ -19,11 +21,11 @@ locales:
 levels:
 - intermediate
 skills:
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
-- 设置 Azure 机器学习工作区(30 -35%) 
-- 进行实验和训练模型(25 -30%) 
-- 优化和管理模型(20 -25%) 
-- 部署和使用模型(20 -25%)
+- 考试内容将于2020年5月22日更新。请下载下面的技能测量文档，看看有何变化。
+- 设置 Azure 机器学习工作区(30-35%) 
+- 进行实验和训练模型(25-30%) 
+- 优化和管理模型(20-25%) 
+- 部署和使用模型(20-25%)
 roles:
 - data-scientist
 products:
@@ -32,19 +34,11 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Azure Data Scientist Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
