@@ -1,7 +1,8 @@
 ---
-title: 认证考试政策/Microsoft 文档
-description: 认证考试政策
+title: 'certification-exam-policies | Microsoft Docs'
+description: 'certification-exam-policies' 
 documentationcenter: NA 
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
@@ -10,7 +11,7 @@ ms.author: micsullivan
 ---
 # 考试政策和常见问题
 
-全球各地的合作伙伴和客户信赖 Microsoft 能提供最高质量的考试和认证。制定 Microsoft 认证考试政策是为了支持认证计划的目标，包括：
+全球各地的合作伙伴和客户信赖 Microsoft 能提供最高质量的考试和认证。制定 Microsoft Certification exam政策是为了支持认证计划的目标，包括：
 
 ## <a name="security-policies"></a> 安全和补考政策
 
@@ -18,18 +19,18 @@ Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional 
 
 ### 考生禁令
 
-如果考生违反任何考试规则、考试政策或保密协议 (NDA) 中的条款，或参与以任何方式侵害 Microsoft Certification Program的安全性和完整性的不当行为，将永久禁止考生参加将来的任何 Microsoft 认证考试。除此之外，考生的 Microsoft Certification Program证书可能会被收回，同时撤销其考试成绩和认证。
+如果考生违反任何考试规则、考试政策或保密协议 (NDA) 中的条款，或参与以任何方式侵害 Microsoft Certification Program的安全性和完整性的不当行为，将永久禁止考生参加将来的任何 Microsoft Certification exams。除此之外，考生的 Microsoft Certification Program证书可能会被收回，同时撤销其考试成绩和认证。
 
 此类不正当行为、滥用和欺诈的示例包括但不限于：
 
 - 通过修改和/或更改任何考试记录的原始结果/分数报告来伪造分数报告
-- 考试期间作弊（例如窥视其他考生的显示器、使用未经授权的设备或偷看小抄）
+- 考试期间作弊(例如窥视其他考生的显示器、使用未经授权的设备或偷看小抄)
 - 提供或接受不正当的援助
-- 考试期内将未经授权的物品携带到考试中心（例如笔记或未经授权的材料和电子设备，如移动电话）
-- 使用未经授权的材料尝试满足认证要求（这包括使用“考试回忆”材料和/或未经授权、含或不含答案的考试题目出版物）
+- 考试期内将未经授权的物品携带到考试中心(例如笔记或未经授权的材料和电子设备，如移动电话)
+- 使用未经授权的材料尝试满足认证要求(这包括使用"考试回忆"材料和/或未经授权、含或不含答案的考试题目出版物)
 - 伪造身份或冒充他人获取考试访问权限
 - 按统计分析确定的不正当行为
-- 出于任何用途以任何形式或凭借任何手段（口头或书面，电子或机械方式）复制、出版、披露、传输、出售、要约卖出、发布、下载、以任何方式分发或者转让、修改、创建衍生产品、进行反向工程、反编译、分解或翻译任何考试（整体或部分）
+- 出于任何用途以任何形式或凭借任何手段(口头或书面，电子或机械方式)复制、出版、披露、传输、出售、要约卖出、发布、下载、以任何方式分发或者转让、修改、创建衍生产品、进行反向工程、反编译、分解或翻译任何考试(整体或部分)
 - 泄露 Microsoft 知识产权 (IP)
 - 传播实际的考试内容
 - 以违反适用法律的任何方式使用考试内容
@@ -39,11 +40,11 @@ Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional 
 
 ### 考生申诉流程
 
-1. 考生可以通过向[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)提出上诉来上诉其禁令。
-2. 考生可通过将原始报告（非扫描或电子副本）提交至以下地址来就其因伪造分数报告而被禁止的情形提出申诉：
+1. 考生可以通过向 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)提出上诉来上诉其禁令。
+2. 考生可通过将原始报告(非扫描或电子副本)提交至以下地址来就其因伪造分数报告而被禁止的情形提出申诉：
 
-    Microsoft 全球学习安全团队  
-    通往 Microsoft 之途  
+    Microsoft Worldwide Learning Security Team  
+    One Microsoft Way  
     Redmond, WA 98052 
 
 3. Microsoft Worldwide Learning 安全小组将审查提交的所有申诉请求并对每个特定案例展开彻底的调查，然后将直接与考生沟通调查结论和最终申诉决定。
@@ -53,23 +54,23 @@ Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional 
 1. 常规 Microsoft Certified Professional (MCP) 考试补考政策
     1. 如果考生第一次没有达到考试的通过分数，那么该考生必须至少等待 24 小时后才能补考。
     2. 如果考生第二次没有达到通过分数，那么该考生必须至少等待 14 天的时间才能第三次补考。
-    3. 后续第四次和第五次补考也必须等待 14 天。考生每年（12 个月）最多可参加 5 次特定考试。此 12 个月的时间段从第 5 次补考失败之日起计算。从此日期开始计算，届满 12 个月后，考生才能再次补考。若希望每年参加特定考试的次数超过 5 次或免除两次考试之间的时间间隔，考生必须提交申请并获得 Microsoft 的事先许可。请求应发送到[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。这些请求应包括以下信息：
+    3. 后续第四次和第五次补考也必须等待 14 天。考生每年(12 个月)最多可参加 5 次特定考试。此 12 个月的时间段从第 5 次补考失败之日起计算。从此日期开始计算，届满 12 个月后，考生才能再次补考。若希望每年参加特定考试的次数超过 5 次或免除两次考试之间的时间间隔，考生必须提交申请并获得 Microsoft 的事先许可。请求应发送到 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。这些请求应包括以下信息：
         - MCID
         - 名称
         - 电子邮件
         - 考试编号
     4. 如果考生达到某考试的通过分数，则该考生不能再参加该考试。Microsoft 保留为一些考试提供重考的权利。有关可以每年重新考试的完整考试列表，请单击 [此处](https://www.microsoft.com/learning/exam-certification-retakes.aspx)。
 
-2. Microsoft 技术专员 (MTA) 和 Microsoft 认证教师 (MCE) 考试补考政策
+2. Microsoft Technology Associate (MTA) 和 Microsoft Certified Educator (MCE) 考试补考政策
     1. 如果考生第一次没有达到考试的通过分数，那么该考生必须等待 24 小时后才能补考。
     2. 如果考生第二次没有达到通过分数，那么该考生必须至少等待 7 天才能第三次补考。
     3. 后续每次补考都必须等待 7 天。
-    4. 考生每年（12 个月）最多可参加 5 次特定考试。此 12 个月的时间段从第 5 次补考失败之日起计算。从此日期开始计算，届满 12 个月后，考生才能再次补考。
+    4. 考生每年(12 个月)最多可参加 5 次特定考试。此 12 个月的时间段从第 5 次补考失败之日起计算。从此日期开始计算，届满 12 个月后，考生才能再次补考。
     5. 如果考生达到 MTA 考试的通过分数，则该考生不能再参加该考试。
 
 3. Microsoft Office Specialist (MOS) 考试补考政策
     1. 如果考生第一次没有达到考试的通过分数，那么该考生必须等待 24 小时后才能补考。
-    2. 如果考生第二次没有达到通过分数，那么该考生必须至少等待 2天（48小时）才能第三次补考。
+    2. 如果考生第二次没有达到通过分数，那么该考生必须至少等待 2天(48小时)才能第三次补考。
     3. 每个后续补考的等待期为两天。
     4. 参加同一考试的次数没有年度限制。
     5. 如果考生达到某考试的通过分数，该考生可以再次参加 Office 考试。
@@ -88,7 +89,7 @@ Microsoft 制定了具体的政策来规定与 Microsoft Certified Professional 
 
 ### 考试中心申诉过程
 
-考试中心所有者可以通过向[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)提出申诉来对网站关闭提出申诉。
+考试中心所有者可以通过向 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)提出申诉来对网站关闭提出申诉。
 
 ### 数据取证
 
@@ -96,11 +97,19 @@ Microsoft 将以数据取证为基础对考生采取强制措施。统计证据�
 
 ### 国外考试
 
-**为了在印度、中国或巴基斯坦的 Pearson VUE 考试中心参加 Microsoft 认证考试，您必须是该国家的合法居民。如果您是该国家的合法居民，请注意以下事项：**
+**为了在印度、中国或巴基斯坦的 Pearson VUE 考试中心参加 Microsoft Certification exam，您必须是该国家的合法居民。如果您是该国家的合法居民，请注意以下事项：**
 
-这三个国家的考试中心必须确认并记录每位 Microsoft 认证考生出示了文件证明来表明他或她是该特定国家的合法居民。为检验居住国状况，每位考生必须携带两份原始（无照片）、有效（未过期的）ID 表格：一份表格作为主要 ID（由政府颁发且具有姓名、照片和签名），一份表格用作辅助 ID（带有姓名和签名）。
+这三个国家的考试中心必须确认并记录每位 Microsoft 认证考生出示了文件证明来表明他或她是该特定国家的合法居民。为检验居住国状况，每位考生必须携带两份原始(无照片)、有效(未过期的)ID 表格：一份表格作为主要 ID(由政府颁发且具有姓名、照片和签名)，一份表格用作辅助 ID(带有姓名和签名)。
 
-**重要说明：如果您不是印度、中国或巴基斯坦的合法居民，那么您不允许在该国家参加 Microsoft 认证考试。**
+**重要说明：如果您不是印度、中国或巴基斯坦的合法居民，那么您不允许在该国家参加 Microsoft Certification exam。**
+
+### 为斯洛文尼亚公民或具有斯洛文尼亚公民身份的人提供的测试
+
+根据斯洛文尼亚的隐私保护法，Pearson VUE无法为居住在斯洛文尼亚或具有斯洛文尼亚公民身份的考生提供在线监考考试。这些考生可以在Pearson VUE考试中心(PVTC)参加考试。
+
+-在安排考试时，居住在斯洛文尼亚的考生只能看到考试中心选项。
+
+-居住在斯洛文尼亚境外的考生在考试选项中可以看到在线监考，但是当他们将斯洛文尼亚公民身份证(护照或其他身份证明)作为身份证明时，他们将无法成功完成考试。这些考生应该安排在Pearson VUE考试中心(PVTC)参加考试。
 
 ### Microsoft 要求考生重新考试
 
@@ -109,41 +118,41 @@ Microsoft 将以数据取证为基础对考生采取强制措施。统计证据�
 
 ### 撤销认证
 
-如果考生违反任何考试规则、考试政策或保密协议 (NDA) 中的条款，或参与以任何方式侵害 Microsoft Certification Program的安全性和完整性的不当行为，将永久禁止考生参加将来的任何 Microsoft 认证考试。除此之外，考生的 Microsoft Certification Program证书可能会被收回，同时撤销其考试成绩和认证。
+如果考生违反任何考试规则、考试政策或保密协议 (NDA) 中的条款，或参与以任何方式侵害 Microsoft Certification Program的安全性和完整性的不当行为，将永久禁止考生参加将来的任何 Microsoft Certification exams。除此之外，考生的 Microsoft Certification Program证书可能会被收回，同时撤销其考试成绩和认证。
 
 ### 排除权
 
 出于安全和完整性考虑，Microsoft 保留从 Microsoft Certification Program中排除特定地区、国家和考试中心的权利。
 
-### 测试版考试
+## 测试版考试
 
 大约400人可以低价参加测试版考试。要想获得此低价测试，您需要一个测试代码，在注册时您必须输入此测试代码作为您付款的一部分。要获得此代码，您可以：
 
-1. 加入我们的SME档案数据库。其技能与考试内容领域相一致的成员将收到一封包含此代码的电子邮件；此代码在该群体中是唯一的。（截至2018年3月，SME Profile数据库程序现在托管在[Microsoft Collaborate](https://aka.ms/collaborate)上。请参阅博客文章[帮助我们创建考试和学习内容!](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today）立即加入我们的SME数据库!)
-2. 查看我们的社区博客，了解有关即将推出的测试版考试。这些帖子将包含在考试中获得折扣的代码。这些帖子通常在测试版考试开始注册当天发布。此代码与发送给加入我们数据库的SME的代码不同。
+1.加入我们的SME档案数据库。其技能与考试内容领域相一致的成员将收到一封包含此代码的电子邮件；此代码在该群体中是唯一的。如果您是我们 SME 数据库的成员，可以提前访问测试，您必须更新您的个人资料，因为我们将这些代码的分发目标是具有与新考试相关技能的人员。(SME Profile数据库程序现在托管在[Microsoft Collaborate](https://aka.ms/collaborate)上。请参阅博客文章[帮助我们创建考试和学习内容！](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375069) 立即加入我们的SME数据库！)
+2.观看 Microsoft Learn 或我们的[社区博客](https://www.microsoft.com/en-us/learning/community-blog.aspx)上的公告，以获取有关即将推出的测试考试的信息。这些帖子将包含在考试中获得折扣的代码。这些帖子通常在测试版考试开始注册当天发布。此代码与发送给加入我们数据库的SME的代码不同。
 
-请注意，座位数量有限，先到先得。
+请注意，座位数量有限，先到先得，并且出于安全原因，在中国、印度、巴基斯坦或土耳其不提供测试考试。
 
 为了感谢您参与测试过程，您将在考试上线后大约6周内收到 Pearson VUE 的25％折扣优惠券。这些优惠券由 VUE 提供，并发送到您在注册考试时使用的电子邮件地址。如果您在考试开始后的6周内没有收到25％折扣券，请发送电子邮件至 [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com)。
 
 ## 考试的学术优惠价
 
-Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家/地区（印度和中国除外）都适用。
+Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家/地区(印度和中国除外)都适用。
 
 您在安排您的考试之前必须先验证自身的学生身份，之后才有资格享受学术优惠价。
 
 ### 通过您的帐户个人资料申请学生身份
 
 1. 使用您的 Microsoft 帐户凭据登录。
-2. 从页面顶端的 **帐户** 菜单中选择 **个人资料设置**。
-3. 在**工作职能**菜单中，选择或确保您已经选择“学生”。
-4. 查看**工作职能**菜单旁显示的学术优惠价声明。如果您的学生身份尚未通过验证，请单击“执行验证”来验证您的身份。
+2. 从页面顶端的**帐户**菜单中选择**个人资料设置**。
+3. 在**工作职能**菜单中，选择或确保您已经选择"学生"。
+4. 查看**工作职能**菜单旁显示的学术优惠价声明。如果您的学生身份尚未通过验证，请单击"执行验证"来验证您的身份。
 
 ### 在注册考试时使用学生身份
 
 1. 使用您的 Microsoft 帐户凭据登录。
 2. 在要注册的考试处，单击**安排考试**。
-3. 在**确认您的考试注册详细信息**页面上，确保工作职能字段显示“学生 - 已验证”。如果显示内容与此不同，请单击“执行验证”验证您的身份，或单击**编辑**更改身份。
+3. 在**确认您的考试注册详细信息**页面上，确保**工作职能**字段显示"学生 - 已验证"。如果显示内容与此不同，请单击"执行验证"验证您的身份，或单击**编辑**更改身份。
 
 ### 验证您的学术身份
 
@@ -159,30 +168,30 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
 更新时间：2018年5月
 
-### MICROSOFT 认证考试协议
+### MICROSOFT CERTIFICATION EXAM协议
 
-**请仔细阅读本 MICROSOFT 认证考试协议（“协议”）。点击“是”按钮，即表示您承认您有权签署本协议，并且您同意本协议中的所有条款和条件。如果您不同意，请选择“否”。您必须选择“是”才能参加 MICROSOFT 认证考试。**
+**请仔细阅读本 MICROSOFT CERTIFICATION EXAM 协议("协议")。点击"是"按钮，即表示您承认您有权签署本协议，并且您同意本协议中的所有条款和条件。如果您不同意，请选择"否"。您必须选择"是"才能参加 MICROSOFT CERTIFICATION EXAM。**
 
-您（“**您**”或“**您的**”）与Microsoft Corporation（“**Microsoft**”）之间的本协议在您接受之日签订。
+您("**您**"或"**您的**")与Microsoft Corporation("***Microsoft***")之间的本协议在您接受之日签订。
 
 1. **保密性原则**
 
-    保持 Microsoft 认证考试的机密性有助于保持 Microsoft 认证的价值，并有助于确保只有合格的个人才能获得认证。
+    保持 Microsoft Certification exams的机密性有助于保持 Microsoft 认证的价值，并有助于确保只有合格的个人才能获得认证。
 
     此考试是 Microsoft 的机密和专有信息，受知识产权法保护。它仅供您测试您在考试主题方面的知识和能力。
 
-    严格禁止披露考试或与考试相关的信息，包括考试题目、答案、内容、计算、图表、图纸或工作表（“***考试相关信息***”）。您不得以任何形式或通过现在已知或以后设计的任何方式全部或部分披露、分发、复制、展示、出版、汇总、拍摄、记录、下载、传播或张贴考试或任何考试相关信息。
+    严格禁止披露考试或与考试相关的信息，包括考试题目、答案、内容、计算、图表、图纸或工作表("***考试相关信息***")。您不得以任何形式或通过现在已知或以后设计的任何方式全部或部分披露、分发、复制、展示、出版、汇总、拍摄、记录、下载、传播或张贴考试或任何考试相关信息。
 
 2. **考生行为政策**
 
-    您不会参与任何可能危及任何 Microsoft 认证考试的机密性或结果的行为。监考人员经过授权可对违反考试规则的个人立即采取适当措施。如果 Microsoft 认为您违反本协议或从事任何不当行为，您可能被禁止参加任何 Microsoft 认证考试，您的考试成绩可能会失效，并且不会提供考试退款。不当行为的例子包括：
+    您不会参与任何可能危及任何 Microsoft certification exam的机密性或结果的行为。监考人员经过授权可对违反考试规则的个人立即采取适当措施。如果 Microsoft 认为您违反本协议或从事任何不当行为，您可能被禁止参加任何 Microsoft Certification exams，您的考试成绩可能会失效，并且不会提供考试退款。不当行为的例子包括：
 
     - 以任何形式或任何方式提供、披露、分发、复制、拍摄、记录、下载、发布、显示、发布或传输任何考试或考试相关信息。
     - 歪曲您的身份或冒充他人。
     - 修改或更改考试、考试成绩或任何考试记录。
     - 提交任何不完全属于您自己的工作或答案。
     - 在考试期间提供或接受不正当的帮助。
-    - 寻求或获取未经授权的 Microsoft 认证考试或考试相关信息（包括使用脑力转储材料或未经授权发布考试问题，无论是否有答案）。
+    - 寻求或获取未经授权的 Microsoft Certification exams或考试相关信息(包括使用脑力转储材料或未经授权发布考试问题，无论是否有答案)。
     - 在参加考试时拥有未经授权的项目，包括手机、电子设备、笔记本电脑、手表、笔记、文档或内容。
     - 按统计分析确定的不正当行为。
     - 试图对任何考试进行逆向工程、反编译或反汇编。
@@ -193,11 +202,11 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
 3. **考试政策**
 
-    考生仅负责理解并遵守位于的 Microsoft 的考试政策和流程以及考试提供商的政策和流程[https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)。
+    考生仅负责理解并遵守位于的 Microsoft Certification exam政策和流程以及考试提供商的政策和流程 [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)。
 
-    您可以在以下位置查看 Microsoft 重考政策及其他 Microsoft 考试和测试过程[https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)。您可以在考试提供商的网站上了解有关考试提供商的政策和流程的更多信息。
+    您可以在以下位置查看 Microsoft 重考政策及其他 Microsoft exam和测试过程[https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)。您可以在考试提供商的网站上了解有关考试提供商的政策和流程的更多信息。
 
-    您参加考试后有三（30）天的时间质疑该考试的考试成绩。
+    您参加考试后有三(30)天的时间质疑该考试的考试成绩。
 
 4. **学术考试**
 
@@ -211,7 +220,7 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
     1. 分享您的个人信息和考试数据，以便管理考试，改进测试程序和测试经验，促进统计分析，并确定您是否通过了考试;
     2. 有关证明您通过考试的证书或有关 Microsoft 认证计划的信息，请与您联系；
-    3. 与其他 Microsoft 程序（例如 Microsoft 合作伙伴网络计划）共享您的个人信息和考试结果，以验证您或您的雇主是否符合计划要求;
+    3. 与其他 Microsoft 程序(例如 Microsoft 合作伙伴网络计划)共享您的个人信息和考试结果，以验证您或您的雇主是否符合计划要求;
     4. 与向您提供考试凭证的学术机构，公司或政府机构附属的标准和认证委员会分享您的信息；和
     5. 如果通过以下方法之一向您提供考试，则可以与颁发凭证的实体或购买了站点许可证的实体共享您的考试结果和您的个人信息：
         - 公司或政府机构购买优惠券，然后向其员工或承包商发放优惠券，
@@ -224,26 +233,28 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
 6. **数据传输通知**
 
-    您的个人数据，考试信息和考试成绩（包括从欧盟，欧洲经济区和瑞士收集的个人数据）可能会被转移至或存储于位于美国或任何其他国家的 Microsoft 或其附属公司或分包商，并在这些地方进行处理。您指定 Microsoft，其关联公司和考试提供商将您的数据、考试信息和考试结果转移至任何此类国家，以及存储并处理您的数据。Microsoft 遵守欧盟安全港以及美国商务部关于收集，使用和保留来自欧盟，欧洲经济区和瑞士的数据的瑞士安全港框架。
+    您的个人数据，考试信息和考试成绩(包括从欧盟，欧洲经济区和瑞士收集的个人数据)可能会被转移至或存储于位于美国或任何其他国家的 Microsoft 或其附属公司或分包商，并在这些地方进行处理。您指定 Microsoft，其关联公司和考试提供商将您的数据、考试信息和考试结果转移至任何此类国家，以及存储并处理您的数据。Microsoft 遵守欧盟安全港以及美国商务部关于收集，使用和保留来自欧盟，欧洲经济区和瑞士的数据的瑞士安全港框架。
 
-7. **所有权和所有权利保留**
+7.**所有权和所有权利保留**
 
-    7.1. **所有权**。Microsoft 拥有并保留 Microsoft 认证考试中的所有权利，所有权和利益。
+    7.1. **所有权**。Microsoft 拥有并保留 Microsoft Certification exam中的所有权利，所有权和利益。
 
     7.2. **补救**。除了法律或本考试协议提供的任何其他权利和救济措施之外，Microsoft 特此明确保留因违反本考试协议和/或侵犯 Microsoft 的任何知识产权而引起的所有合法和公平的补救措施。
 
+
 ## Microsoft 认证计划协议
 
-此Microsoft认证计划协议(**“协议”**)是您(**“您”** 或 **“您的”**) 与Microsoft ("**Microsoft**")之间关于您参与Microsoft认证计划（**“计划”**）的法律文件。本协议的条款适用于：(a) 您获得的任何 Microsoft 认证；(b) 您参与计划的任何行为，包括您访问和使用任何 Microsoft 认证计划权益、Microsoft 认证证书或 Microsoft 作为计划的一部分向您提供的任何 Microsoft 认证凭据。请仔细阅读本协议。访问或使用MICROSOFT认证计划利益或MICROSOFT认证凭证，表明您接受本协议的条款和条件。如果您不接受本协议，请勿访问或使用任何Microsoft认证计划利益或MICROSOFT认证证书。
+此Microsoft认证计划协议(**"协议"**)是您(**"您"** 或 **"您的"**)与Microsoft(**"Microsoft"**)之间关于您参与Microsoft认证计划(**"计划"**)的法律文件。本协议的条款适用于：(a) 您获得的任何 Microsoft 认证；(b) 您参与计划的任何行为，包括您访问和使用任何 Microsoft 认证计划权益、Microsoft 认证证书或 Microsoft 作为计划的一部分向您提供的任何 Microsoft 认证凭据。请仔细阅读本协议。访问或使用MICROSOFT认证计划利益或MICROSOFT认证凭证，表明您接受本协议的条款和条件。如果您不接受本协议，请勿访问或使用任何MICROSOFT认证计划利益或MICROSOFT认证证书。
 
 1. 定义
 
-   1. “***附属公司***” 表示一方拥有或通常归属于一方的法律实体。“拥有”表示具备 50% 以上的所有权，或者有权指导该实体的管理工作。
-   2. “***Microsoft认证网站***” 是指仅面向Microsoft认证专家的Microsoft网站。
-   3. “***Microsoft***” 表示第 12.4 节规定的 Microsoft 实体。
-   4. “***Microsoft 认证***” 表示通过必修考试 并符合或持续符合使用对应证书或徽标所需的全部认证或重新认证要求。Microsoft认证的当前列表位于[Microsoft认证](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)。
-   5. “***Microsoft 认证证书***”（简称 “***证书***”）表示特定 Microsoft 认证的完整标题或缩写标题，用于表示个人符合特定 Microsoft 认证的要求。
-   6. “***Microsoft 认证考试***” (简称"***考试***” )旨在证实个人与特定 Microsoft 技术考试主题相关的技能。
+   1. "***附属公司***" 表示一方拥有或通常归属于一方的法律实体。"拥有"表示具备 50% 以上的所有权，或者有权指导该实体的管理工作。
+   2. "*** Microsoft认证网站***"是指仅面向Microsoft认证专家的Microsoft网站。
+   3. "***Microsoft***" 表示第 12.4 节规定的 Microsoft 实体。
+   4. "***Microsoft 认证***" 表示通过必修考试 并符合或持续符合使用对应证书或徽标所需的全部认证或重新认证要求。Microsoft认证的当前列表位于[Microsoft认证](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)。
+   5. "***Microsoft 认证证书***"(简称 "***证书***")表示特定 Microsoft 认证的完整标题或缩写标题，用于表示个人符合特定 Microsoft 认证的要求。
+   6. "***Microsoft Certification Exam***" (简称"***考试***" )旨在证实个人与特定 Microsoft Certification Exam 题相关的技能。
+   
 
 2. Microsoft 认证
    1. *获得和保有 Microsoft 认证*：要获得和保有 Microsoft 认证，您必须符合以下条件：
@@ -253,11 +264,11 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
         3. 遵守本协议当前版本中的条款和条件，所有计划要求，以及
         4. 遵守适用 Microsoft 认证的所有其他要求。
 
-   2. *Microsoft 认证要求变更*：Microsoft 可能会通过在[Microsoft 培训和认证网站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)或者[Microsoft 认证专家网站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)上发布更改，以根据自己的独立判断更改 Microsoft 认证要求（初始和后续）。自 Microsoft 发布更改之日起，您有三 (3) 个完整的日历月的时间来确保符合任何此类额外要求。如果不满足与特定证书相关联的额外认证或重新认证要求，您使用特定证书的权利可能会被终止。
+   2. *Microsoft 认证要求变更*：Microsoft 可能会通过在[Microsoft 培训和认证网站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)或者[Microsoft 认证专家网站](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)上发布更改，以根据自己的独立判断更改 Microsoft 认证要求(初始和后续)。自 Microsoft 发布更改之日起，您有三 (3) 个完整的日历月的时间来确保符合任何此类额外要求。如果不满足与特定证书相关联的额外认证或重新认证要求，您使用特定证书的权利可能会被终止。
 
    3. *违反考试协议*
 
-        1. 所有 Microsoft 认证考试（包括考题和答案）被视为 Microsoft 机密信息，受商业秘密法以及 Microsoft 认证考试的保密协议和常规使用条款 （“***考试协议***”） 护，不得向他人披露或与其他人讨论或者在任何论坛中或通过任何媒介张贴或发布。
+        1. 所有 Microsoft Certification exams(包括考题和答案)被视为 Microsoft 机密信息，受商业秘密法以及 Microsoft Certification exams的保密协议和常规使用条款 ("***考试协议***") 护，不得向他人披露或与其他人讨论或者在任何论坛中或通过任何媒介张贴或发布。
 
         2. 如果 Microsoft 确信您违反了本考试协议，或参与可能以任何方式削弱或破坏计划的安全性或完整性的任意欺诈行为或不正当行为，则您可能会被收回证书并终止计划，并且永久不能参加计划。
 
@@ -266,7 +277,7 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
    2. *附加条款*：计划权益可能具有附加条款、条件和许可。为享受权益，您必须接受并遵守与计划权益相关的所有附加条款。如果您未遵守任何适用的附加条款、条件和许可，则不得使用计划权益。
 
 4. 认证证书的使用
-   1. *权利授予*：在 (a) 您遵守本合同条款和条件以及准则的的条件下，(b) 倘若您成功达成 Microsoft 认证的所有最新要求，(c) 并且持续保持遵守所有当前和适用的认证与重新认证要求，(d) 同时接受准则，则 Microsoft 将以准则为依据，按照您在 Microsoft 认证专家网站上的最新成绩单（而非旧版成绩单）所示，授予您使用您已获得 Microsoft 认证的 Microsoft 证书的权利。
+   1. *权利授予*：在 (a) 您遵守本合同条款和条件以及准则的的条件下，(b) 倘若您成功达成 Microsoft 认证的所有最新要求，(c) 并且持续保持遵守所有当前和适用的认证与重新认证要求，(d) 同时接受准则，则 Microsoft 将以准则为依据，按照您在 Microsoft 认证专家网站上的最新成绩单(而非旧版成绩单)所示，授予您使用您已获得 Microsoft 认证的 Microsoft 证书的权利。
 
    2. *限制*：不得以本协议和准则以及 Microsoft 提供的任何适用艺术品中所述的任何其他方式使用或重现证书。您应以不得贬损证书中 Microsoft 权利的方式使用证书，不得采取任何可能会干扰或削弱证书中的 Microsoft 权利的举措，或是损害 Microsoft 与证书相关的名誉或商誉的举措。不得以可能使他人误认为您提供的任何产品或服务属于 Microsoft 产品或服务的方式使用证书。
 
@@ -280,16 +291,16 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
    2. *个人信息的使用*：您同意 Microsoft 可能偶尔与您联系，邀请您参与调查和研究。
 
-   3. *个人信息的披露*：您授予 Microsoft 与以下方分享您的姓名、联系信息（包括电子邮件地址）、雇主公司名称、已获得证书和计划参与状态的权利：(i) 其他 Microsoft 计划，目的是验证您和您的雇主遵守其他 Microsoft 计划要求；(ii) 负责交付与您的计划参与相关的 Microsoft 认证考试的 Microsoft 附属公司以及第三方考试交付提供商和考试中心。
+   3. *个人信息的披露*：您授予 Microsoft 与以下方分享您的姓名、联系信息(包括电子邮件地址)、雇主公司名称、已获得证书和计划参与状态的权利：(i) 其他 Microsoft 计划，目的是验证您和您的雇主遵守其他 Microsoft 计划要求；(ii) 负责交付与您的计划参与相关的 Microsoft Certification exams的 Microsoft 附属公司以及第三方考试交付提供商和考试中心。
 
 6. 您的责任
    1. *商业惯例*：
 
         1. 您同意，(i) 不会采取任何可能损害 Microsoft 声望的举措；(ii) 避免欺骗性、误导性或不道德的做法；(iii) 避免代表 Microsoft 向客户作出任何陈述、保证或担保；(iv) 遵守所有适用的美国出口法规以及其他适用的政府法律和法规；(v) 遵守版权和其他知识产权及财产权保护规定。
-        2. 除了说明您已成功达成所获得的具体证书的所有要求之外，不得以任何方式宣传、推广或暗示您受 Microsoft 雇用、附属于 Microsoft 或者受 Microsoft 赞助。在本协议期限内，您将在作为提供服务（涉及 Microsoft 技术）依据的各个合同中插入如下文字：
+        2.除了说明您已成功达成所获得的具体证书的所有要求之外，不得以任何方式宣传、推广或暗示您受 Microsoft 雇用、附属于 Microsoft 或者受 Microsoft 赞助。在本协议期限内，您将在作为提供服务(涉及 Microsoft 技术)依据的各个合同中插入如下文字：
 
-             “*Microsoft 不是本协议的订立方，并且不会为作为本合同主题的服务承担任何责任或义务。Microsoft 认证证书表示本人已成功达成对应 Microsoft 认证证书的所有要求。本人提供的服务并非由 Microsoft 支持或赞助。*”
-        3. 部分州和国家/地区控制“工程师”一词的使用，如果您获得与“Microsoft 认证系统工程师”相关的任何证书，则您应该相应地遵守任何此类法律。
+             "*Microsoft 不是本协议的订立方，并且不会为作为本合同主题的服务承担任何责任或义务。Microsoft 认证证书表示本人已成功达成对应 Microsoft 认证证书的所有要求。本人提供的服务并非由 Microsoft 支持或赞助。*"
+        3. 部分州和国家/地区控制"工程师"一词的使用，如果您获得与"Microsoft 认证系统工程师"相关的任何证书，则您应该相应地遵守任何此类法律。
 
    2. *成绩单*：您应负责检查 Microsoft 认证成绩单，确保其准确体现您当前持有的证书。如果您确信成绩单存在不准确之处，则从通过考取或维护相关证书的最后一门必修考试之日起，您最多可在一 (1) 年内向 Microsoft 提交申请，评估您确定您目前持有、但未显示在成绩单中的任何证书的完成状态。
 
@@ -299,15 +310,16 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
 8. 不保证
 
-   Microsoft 不保证您对计划或您的结果满意。Microsoft 及其附属公司对计划、证书不作任何保证，并且否认法律可能暗示的所有保证。
+   MICROSOFT 不保证您对计划或您的结果满意。MICROSOFT 及其附属公司对计划、证书不作任何保证，并且否认法律可能暗示的所有保证。
 
 9. 责任限制
 
-   在适用法律允许的最大范围内，Microsoft 及其附属公司在任何情况下都不对以下各项负责：因本计划（无论是计划权益、终止或其他方面）、您的 Microsoft 认证、无法获得 Microsoft 认证、使用或无法使用证书产生或者与之有关的任何直接、间接、特殊、意外、后果性、惩罚性、或惩戒性损害。不论任何此类损失声明有何法律理论基础（即使订立方已被告知发生此类损害的可能性），此免责条款都适用。
+   在适用法律允许的最大范围内，MICROSOFT 及其附属公司在任何情况下都不对以下各项负责：因本计划(无论是计划权益、终止或其他方面)、您的 MICROSOFT 认证、无法获得 Microsoft 认证、使用或无法使用证书产生或者与之有关的任何直接、间接、特殊、意外、后果性、惩罚性、或惩戒性损害。不论任何此类损失声明有何法律理论基础(即使订立方已被告知发生此类损害的可能性)，此免责条款都适用。
+
 
 10. 赔偿
 
-    您同意对因下列情况产生或与之相关的任何及所有第三方索赔、要求、费用、负债、判决、损失、支出和损害 （“索赔”） （包括律师费），为 Microsoft 及其附属公司辩护，向他们作出赔偿并使他们免受损失：(a) 您的计划参与情况；(b) 您以与本协议条款不一致的任何方式使用任何证书；(c) 您的服务的执行、推广、销售或分销情况；或者 (d) Microsoft 按本协议的条款终止本协议。如果 Microsoft 按本条规定向您要求赔偿，Microsoft 会迅速将向 Microsoft 提起的而 Microsoft 为之寻求赔偿的有关索赔书面通知您，Microsoft 可根据自己的判断，准予您通过 Microsoft 可接受的法律顾问答复和辩护此类索赔。未经 Microsoft 事先书面许可，您不得代表 Microsoft 解决任何索赔，Microsoft 亦将不会无理拒绝授予此类许可；在未获得 Microsoft 事先书面许可的情况下，您不得公布索赔的解决情况。Microsoft 有权选择与其选定的法律顾问一起全面掌控对任何此类索赔的辩护。如果就任何此类索赔承担对辩护的全面控制，并且有关索赔的任何和解需要您付款，则该和解须得到您的事先书面同意。您应按要求及时偿付 Microsoft 在就任何此类索赔进行辩护时发生的任何合理费用，包括但不限于其律师费以及对有关索赔作出任何判决或达成和解发生的费用。
+    您同意对因下列情况产生或与之相关的任何及所有第三方索赔、要求、费用、负债、判决、损失、支出和损害 (***"索赔"***) (包括律师费)，为 Microsoft 及其附属公司辩护，向他们作出赔偿并使他们免受损失：(a) 您的计划参与情况；(b) 您以与本协议条款不一致的任何方式使用任何证书；(c) 您的服务的执行、推广、销售或分销情况；或者 (d) Microsoft 按本协议的条款终止本协议。如果 Microsoft 按本条规定向您要求赔偿，Microsoft 会迅速将向 Microsoft 提起的而 Microsoft 为之寻求赔偿的有关索赔书面通知您，Microsoft 可根据自己的判断，准予您通过 Microsoft 可接受的法律顾问答复和辩护此类索赔。未经 Microsoft 事先书面许可，您不得代表 Microsoft 解决任何索赔，Microsoft 亦将不会无理拒绝授予此类许可；在未获得 Microsoft 事先书面许可的情况下，您不得公布索赔的解决情况。Microsoft 有权选择与其选定的法律顾问一起全面掌控对任何此类索赔的辩护。如果就任何此类索赔承担对辩护的全面控制，并且有关索赔的任何和解需要您付款，则该和解须得到您的事先书面同意。您应按要求及时偿付 Microsoft 在就任何此类索赔进行辩护时发生的任何合理费用，包括但不限于其律师费以及对有关索赔作出任何判决或达成和解发生的费用。
 
 11. 终止
 
@@ -320,8 +332,9 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
         3. 您以不当的方式使用证书，
         4. 您盗用或未经授权披露 Microsoft 的任何商业机密或机密信息，
         5. 您从事法律禁止的活动，
-        6. 政府机构或法院发现您提供的有关 Microsoft 技术（与您的 Microsoft 认证相关）的服务在某些方面存在缺陷。
+        6. 政府机构或法院发现您提供的有关 Microsoft 技术(与您的 Microsoft 认证相关)的服务在某些方面存在缺陷。
         7. 您虚假陈述您的认证状态，与Microsoft合作伙伴的关联或与Microsoft的任何其他关系。根据不合规的严重程度，您也可能被永久取消认证，并被Microsoft认证计划终止。如果发生这种情况，您还将永久失去您的Microsoft认证凭据。
+        
 
     3. *自动终止*：如果您在Microsoft认证计划中的身份丢失，或者Microsoft取消了该计划，则本协议将自动终止。
 
@@ -335,7 +348,7 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
     5. *存续*：第 1 节以及本协议中的所有其他定义 2.3、4.3、4.4、8、9、10、11.4、11.5 和 12 将在本协议的到期或终止后仍然有效。您同意 Microsoft 及其附属公司和子公司对因以下情形给您或任何第三方带来的任何种类的费用或损失概不负责：(a) 根据其条款终止本协议，且 (b) 暂停或取消本计划。
 
 12. 杂项
-    1. *通知*：通知可通过电子邮件或邮政邮件的形式递送。所有递送给 Microsoft、与本协议相关的通知均应发送给下面的第 12.4 节标明的 Microsoft 联系实体，收件人请填写“Microsoft 认证计划”。所有递送给您、与本协议相关的通知均将发送到您提供的最新电子邮件地址。您有责任及时更新您提供给 Microsoft 的联系地址（电子邮件地址）信息。
+    1. *通知*：通知可通过电子邮件或邮政邮件的形式递送。所有递送给 Microsoft、与本协议相关的通知均应发送给下面的第 12.4 节标明的 Microsoft 联系实体，收件人请填写"Microsoft 认证计划"。所有递送给您、与本协议相关的通知均将发送到您提供的最新电子邮件地址。您有责任及时更新您提供给 Microsoft 的联系地址(电子邮件地址)信息。
 
     2. *无排他性*：您参与本计划属于自愿行为。本协议不限制您支持、宣传、分发或使用非 Microsoft 技术。
 
@@ -345,8 +358,8 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
        1. 下面给出了适用于以下国家或地区的 Microsoft 实体：安圭拉、安提瓜和巴布达、阿根廷、阿鲁巴、巴哈马、巴巴多斯、伯利兹、百慕大、玻利维亚、巴西、加拿大、开曼群岛、智利、哥伦比亚、哥斯达黎加、库拉索、多米尼克、多米尼加共和国、厄瓜多尔、萨尔瓦多、法属圭亚那、格林纳达、关岛、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克、墨西哥、蒙特塞拉特、前荷属安德列斯群岛、尼加拉瓜、巴拿马、巴拉圭、秘鲁、波多黎各、圣基茨和尼维斯、圣卢西亚、圣皮埃尔和密克隆群岛、圣文森特和格林纳丁斯、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、美国、乌拉圭、委内瑞拉、英属维尔京群岛和美属维尔京群岛：  
 
-           Microsoft 公司  
-           通往 Microsoft 之途  
+           Microsoft Corporation  
+           One Microsoft Way  
            Redmond, WA 98052 USA  
 
        2. 下面给出了适用于以下国家或地区的 Microsoft 实体：阿富汗、阿尔巴尼亚、阿尔及利亚、安道尔、安哥拉、亚美尼亚、奥地利、阿塞拜疆、巴林、白俄罗斯、比利时、贝宁、波斯尼亚和黑塞哥维那、博茨瓦纳、布韦岛、保加利亚、布基纳法索、布隆迪、喀麦隆、中非共和国、乍得、科摩罗、刚果、科特迪瓦、克罗地亚、塞浦路斯、捷克共和国、圣多美和普林西比民主共和国、刚果民主共和国、丹麦、吉布提、埃及、爱沙尼亚、埃塞俄比亚、法罗群岛、芬兰、法国、加蓬、冈比亚、格鲁吉亚、德国、加纳、直布罗陀、希腊、格陵兰、瓜德罗普、几内亚比绍、匈牙利、冰岛、爱尔兰、以色列、意大利、约旦、哈萨克斯坦、肯尼亚、科索沃、科威特、吉尔吉斯斯坦、拉脱维亚、黎巴嫩、莱索托、利比里亚、列支敦士登、立陶宛、卢森堡、利比亚、马其顿、马达加斯加、马拉维、马里、马耳他、毛里塔尼亚、毛里求斯、摩尔多瓦、摩纳哥、蒙古、黑山、摩洛哥、莫桑比克、纳米比亚、荷兰、新喀里多尼亚、尼日尔、尼日利亚、挪威、阿曼、巴基斯坦、波兰、葡萄牙、卡塔尔、佛得角共和国、赤道几内亚共和国、几内亚共和国、塞内加尔共和国、留尼汪、罗马尼亚、俄罗斯联邦、卢旺达共和国、圣赫勒拿、圣马力诺、沙特阿拉伯、塞尔维亚、塞舌尔、塞拉利昂、斯洛伐克、斯洛文尼亚、索马里、南非、西班牙、斯瓦尔巴和扬马延、斯威士兰、瑞典、瑞士、塔吉克斯坦、坦桑尼亚、多哥、突尼斯、土耳其、土库曼斯坦、乌干达、乌克兰、阿拉伯联合酋长国、英国、乌兹别克斯坦、梵蒂冈城国、也门、扎伊尔、赞比亚和津巴布韦：  
@@ -358,201 +371,186 @@ Microsoft Certified Professional (MCP)考试的学术优惠价在大多数国家
 
        3. 下面给出了适用于以下国家或地区的 Microsoft 实体：澳大利亚及其海外领地、孟加拉、不丹、文莱达鲁萨兰国、柬埔寨、库可群岛、斐济、法属波利尼西亚、法属南部领地、香港、印度、印度尼西亚、基里巴斯、老挝人民民主共和国、澳门、马来西亚、马尔代夫、马绍尔群岛、马约特、密克罗尼西亚、瑙鲁、尼泊尔、新西兰、纽埃、北马里亚纳群岛、帕劳、巴布亚新几内亚、菲律宾、皮特凯恩、萨摩亚、新加坡、所罗门群岛、斯里兰卡、泰国、东帝汶、托克劳、汤加、图瓦卢、瓦利斯和富图纳群岛、瓦努阿图和越南： 
 
-           Microsoft 区域销售公司   
+           Microsoft Regional Sales Corporation   
            438B Alexandra Road #04-09/12   
            Block B, Alexandra Technopark   
-           新加坡，邮编：119968   
+           Singapore 119968   
 
        4. 适用于日本的 Microsoft 实体如下：   
 
-           Microsoft 日本有限公司   
+           Microsoft Japan Company, Limited   
            Shinagawa Grand Central Tower   
            2-16-3, 2 Konan, Minato-ku,   
-           东京108-0075   
+           Tokyo 108-0075   
            Japan
 
        5. 适用于台湾的 Microsoft 实体如下：   
 
-           Microsoft 台湾公司   
+           Microsoft Taiwan Corporation   
            8F, No 7, Sungren Rd.   
            Shinyi Chiu, Taipei   
-           台湾110  
+           Taiwan 110  
 
        6. 适用于中华人民共和国的 Microsoft 实体如下：   
 
-           Microsoft（中国）有限公司，西格玛中心6楼   
-           海淀区知春路49号   
-           北京100080   
+           Microsoft (China) Company Limited6F Sigma Center   
+           No. 49 Zhichun Road Haidian District   
+           Beijing 100080, P.R.C   
 
        7. 适用于大韩民国的 Microsoft 实体如下：   
 
-           Microsoft 韩国有限公司   
-           西翼5楼   
-           浦项制铁中心   
-           大江洞江南区892   
-           韩国135-777，首尔 
+           Microsoft Korea, Inc.   
+           5th Floor, West Wing   
+           POSCO Center   
+           892 Daechi-Dong Gangnam-Gu   
+           Seoul, 135-777, Korea 
 
     5. *适用法律*。以下指定了本协议的适用法律、司法管辖权和审判地点。此司法管辖权和审判地点的选择不妨碍任一方针对违反知识产权、违背保密义务或未能认定任何判决或指令执行的情况，寻求禁止令救济。禁止令救济或认定执行可在任意适当的司法管辖区域内执行。
         1. **总则**：除第 12.5(b) 节规定之外，本协议受美国华盛顿州法律制约。如果联邦司法管辖区存在，则双方同意服从华盛顿州金县联邦法院的专属管辖权，并以金县的联邦法院作为审判地点。如果不存在，则双方同意服从华盛顿州金县高级法院的专属管辖权，并以金县的高级法院作为审判地点。
         2. **其他条款**：如果您的主要经营地点在下列国家或地区之一，则对应条款适用；如果与第 12.5(a) 节冲突，则取代第 12.5(a) 节条款：
             1. 如果您的主要经营地点位于澳大利亚及其海外领地、孟加拉、不丹、文莱达鲁萨兰国、柬埔寨、库克群岛、斐济、法属波利尼西亚、法属南部领地、香港特别行政区、印度、印度尼西亚、基里巴斯、老挝人民民主共和国、澳门特别行政区、马来西亚、马尔代夫、马绍尔群岛、马约特、密克罗尼西亚、瑙鲁、尼泊尔、新西兰、纽埃、北马里亚纳群岛、帕劳、巴布亚新几内亚、菲律宾、皮特凯恩、萨摩亚、新加坡、所罗门群岛、斯里兰卡、泰国、东帝汶、托克劳、汤加、图瓦卢、瓦利斯和富图纳群岛、瓦努阿图和越南，则本协议按照新加坡法律解释和控制。
                 1. 如果您的主要经营地点位于澳大利亚及其海外领地、文莱、马来西亚、新西兰或新加坡，则您同意服从新加坡法院的专属管辖权。
-                2. 如果您的主要经营地点位于孟加拉、不丹、柬埔寨、库克群岛、斐济、法属波利尼西亚、法属南部领地、香港特别行政区、印度、印度尼西亚、基里巴斯、老挝人民民主共和国、澳门特别行政区、马尔代夫、马绍尔群岛、马约特、密克罗尼西亚、瑙鲁、尼泊尔、纽埃、北马里亚纳群岛、帕劳、巴布亚新几内亚、菲律宾、皮特凯恩、萨摩亚、所罗门群岛、斯里兰卡、泰国、东帝汶、托克劳、汤加、图瓦卢、瓦利斯和富图纳群岛、瓦努阿图和越南，则与本协议相关的争端（包括与其存在情况、有效性或终止有关的问题）将交予新加坡处理，由新加坡根据新加坡国际仲裁中心（“SIAC”）的仲裁规则进行仲裁并最终解决。此处引用 SIAC 仲裁规则即表示已将其纳入本协议。将有一名由 SIAC 主席指任的仲裁员参与审判庭。仲裁所用语言为英语。仲裁员的决定即为最终决定，具有约束力、不可争辩，可作为孟加拉、印度、印度尼西亚、菲律宾、斯里兰卡、泰国或越南（酌情而定）或其他国家/地区的判决依据。
+                2. 如果您的主要经营地点位于孟加拉、不丹、柬埔寨、库克群岛、斐济、法属波利尼西亚、法属南部领地、香港特别行政区、印度、印度尼西亚、基里巴斯、老挝人民民主共和国、澳门特别行政区、马尔代夫、马绍尔群岛、马约特、密克罗尼西亚、瑙鲁、尼泊尔、纽埃、北马里亚纳群岛、帕劳、巴布亚新几内亚、菲律宾、皮特凯恩、萨摩亚、所罗门群岛、斯里兰卡、泰国、东帝汶、托克劳、汤加、图瓦卢、瓦利斯和富图纳群岛、瓦努阿图和越南，则与本协议相关的争端(包括与其存在情况、有效性或终止有关的问题)将交予新加坡处理，由新加坡根据新加坡国际仲裁中心("SIAC")的仲裁规则进行仲裁并最终解决。此处引用 SIAC 仲裁规则即表示已将其纳入本协议。将有一名由 SIAC 主席指任的仲裁员参与审判庭。仲裁所用语言为英语。仲裁员的决定即为最终决定，具有约束力、不可争辩，可作为孟加拉、印度、印度尼西亚、菲律宾、斯里兰卡、泰国或越南(酌情而定)或其他国家/地区的判决依据。
 
             2. 如果您的主要经营地点为日本，则以下条款适用：本协议按照日本法律解释和控制。您同意服从日本东京地方法院的原始专属管辖权，并以日本东京地方法院作为审判地点。在与本协议相关的任何诉讼中，胜诉方可追回合理的律师费、费用和其他支出。
 
             3. 如果您的主要经营地点位于阿富汗、阿尔巴尼亚、阿尔及利亚、安道尔、安哥拉、亚美尼亚、奥地利、阿塞拜疆、巴林、白俄罗斯、比利时、贝宁、波斯尼亚和黑塞哥维那、博茨瓦纳、布韦岛、保加利亚、布基纳法索、布隆迪、喀麦隆、中非共和国、乍得、科摩罗联盟、刚果、科特迪瓦、克罗地亚、塞浦路斯、捷克共和国、圣多美和普林西比民主共和国、丹麦、吉布提、埃及、爱沙尼亚、埃塞俄比亚、法罗群岛、芬兰、法国、加蓬、冈比亚、格鲁吉亚、德国、加纳、直布罗陀、希腊、格陵兰、瓜德罗普、几内亚比绍、匈牙利、冰岛、爱尔兰、以色列、意大利、约旦、哈萨克斯坦、肯尼亚、科索沃、科威特、吉尔吉斯斯坦、拉脱维亚、黎巴嫩、莱索托、利比里亚、列支敦士登、立陶宛、卢森堡、利比亚、马其顿、马达加斯加、马拉维、马里、马耳他、毛里塔尼亚、毛里求斯、摩尔多瓦、摩纳哥、蒙古、黑山、摩洛哥、莫桑比克、纳米比亚、荷兰、新喀里多尼亚、尼日尔、尼日利亚、挪威、阿曼、巴基斯坦、波兰、葡萄牙、卡塔尔、佛得角共和国、赤道几内亚共和国、几内亚共和国、塞内加尔共和国、留尼汪、罗马尼亚、俄罗斯联邦、卢旺达共和国、圣赫勒拿、圣马力诺、沙特阿拉伯、塞尔维亚、塞舌尔、塞拉利昂、斯洛伐克、斯洛文尼亚、索马里、南非、西班牙、斯瓦尔巴和扬马延、斯威士兰、瑞典、瑞士、塔吉克斯坦、坦桑尼亚、多哥、突尼斯、土耳其、土库曼斯坦、乌干达、乌克兰、阿拉伯联合酋长国、英国、乌兹别克斯坦、梵蒂冈城国、也门、扎伊尔、赞比亚或津巴布韦，则以下条款适用：  
             本协议根据爱尔兰法律管理和解释。在与本协议相关的所有争端中，您同意服从爱尔兰法院的司法管辖权，并以爱尔兰法院作为审判地点。
 
-            4. 如果您的主要经营地点为中华人民共和国，则以下条款适用。就本协议之目的而言，“中华人民共和国”不含香港特别行政区、澳门特别行政区及台湾：  
-            本协议将按照中华人民共和国法律解释和控制。若发生与本协议及其附录有关的任何争端，您同意对争端进行强制性仲裁处理。仲裁将由北京的中国国际经贸仲裁委员会（“CIETAC”）根据最新法规处理。
+            4. 如果您的主要经营地点为中华人民共和国，则以下条款适用。就本协议之目的而言，"中华人民共和国"不含香港特别行政区、澳门特别行政区及台湾：  
+            本协议将按照中华人民共和国法律解释和控制。若发生与本协议及其附录有关的任何争端，您同意对争端进行强制性仲裁处理。仲裁将由北京的中国国际经贸仲裁委员会("CIETAC")根据最新法规处理。
 
             5. 如果您的主要经营地点为哥伦比亚或乌拉圭，则以下条款适用：  
-            双方之间就本协议的有效性、解释或执行产生的所有争端、索赔或诉讼均通过仲裁处置。仲裁将以当前有效的联合国国际贸易法委员会仲裁规则为依据。国际商会（“ICC”）将作为指定权威机构，依据 ICC 就此目的采用的规则行事。仲裁地点为美国华盛顿州西雅图。仅有一名仲裁员。判决符合法律，并非以均衡法为依据，并且未最终判决，对双方具有约束力。双方特此不可撤销地同意，所有因本合同而产生的事宜和争端均将提交至美国华盛顿州西雅图进行仲裁处理。
+            双方之间就本协议的有效性、解释或执行产生的所有争端、索赔或诉讼均通过仲裁处置。仲裁将以当前有效的联合国国际贸易法委员会仲裁规则为依据。国际商会("ICC")将作为指定权威机构，依据 ICC 就此目的采用的规则行事。仲裁地点为美国华盛顿州西雅图。仅有一名仲裁员。判决符合法律，并非以均衡法为依据，并且未最终判决，对双方具有约束力。双方特此不可撤销地同意，所有因本合同而产生的事宜和争端均将提交至美国华盛顿州西雅图进行仲裁处理。
 
             6. 如果您的主要经营地点为大韩民国，则以下条款适用：本协议将按照大韩民国法律解释和控制。您同意服从首尔中央地方法院的原始专属管辖权，并以首尔中央地方法院作为审判地点。在根据本协议实施权利或寻求补救的诉讼中，或是意图解释本协议规定的诉讼中，胜诉方有权追回合理的律师费、费用和其他支出。
 
             7. 如果您的主要经营地点为台湾，则以下条款适用：  
             本协议条款将根据台湾法律管理和解释。双方特此委托台北地方法院作为一审法院，对因本协议而产生或与本协议相关的任何争端拥有司法管辖权。
-    6. *律师费*：如果任何一方聘用了律师实施因本协议而产生或与本协议有关的任何权利，则胜诉方有权追回其合理的律师费、费用和其他支出（包括因上诉、破产或类似诉讼而产生的诉讼费和相关费用）。
+    6. *律师费*：如果任何一方聘用了律师实施因本协议而产生或与本协议有关的任何权利，则胜诉方有权追回其合理的律师费、费用和其他支出(包括因上诉、破产或类似诉讼而产生的诉讼费和相关费用)。
 
     7. *可分割性*：如果有司法管辖权的任何法院认定本协议的任何条款不合法、无效或无法执行，则剩余条款仍然有效并保持完整效力。
 
     8. *无豁免*：即使 Microsoft 延迟或未能行使权利或进行补救，也不会导致对该权利或补救方法或者任何其他权利或补救方法的弃权。
 
-    9. *出让*：您不得以任何方式出让、转让或转授本协议或根据本协议授予的任何权利，任何企图的出让、转让或转授（通过法律实施或其他方式进行）行为均无效。
+    9. *出让*：您不得以任何方式出让、转让或转授本协议或根据本协议授予的任何权利，任何企图的出让、转让或转授(通过法律实施或其他方式进行)行为均无效。
 
 更新时间：2013 年 12 月
 
 ## 如何申请某些认证和专业课程的学分
 
-您可能有资格通过Excelsior College（地区认可的机构）获得大学学分。全国大学学分推荐服务（NCCRS）已为以下 Microsoft 认证考试和专业课程提供了学分建议：
+您可能有资格通过 Excelsior College(地区认可的机构)获得大学学分。全国大学学分推荐服务(NCCRS)已为以下 Microsoft Certification exams提供了学分建议：
 
-**Microsoft 认证考试**
+**Microsoft Certification Exams**
 
-[AZ-100: Microsoft Azure基础架构和部署](https://www.microsoft.com/learning/exam-AZ-100.aspx)
+[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/learning/exam-AZ-100.aspx)
 
-[AZ-101: Microsoft Azure集成和安全](https://www.microsoft.com/learning/exam-AZ-101.aspx)
+[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/learning/exam-AZ-101.aspx)
 
 [AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/learning/exam-az-103.aspx)
 
-AZ-200：Microsoft Azure 开发人员核心解决方案
+AZ-200：Microsoft Azure Developer Core Solutions
 
-AZ-201：Microsoft Azure 开发人员高级解决方案
+AZ-201：Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: 为Microsoft Azure开发解决方案](https://www.microsoft.com/learning/exam-AZ-203.aspx)
+[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/learning/exam-AZ-203.aspx)
 
-[AZ-300: Microsoft Azure架构师技术](https://www.microsoft.com/learning/exam-AZ-300.aspx)
+[AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/learning/exam-AZ-300.aspx)
 
-[AZ-301: Microsoft Azure建筑师设计](https://www.microsoft.com/learning/exam-AZ-301.aspx)
+[AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/learning/exam-AZ-301.aspx)
 
-[AZ-400: Microsoft Azure DevOps解决方案](https://www.microsoft.com/learning/exam-AZ-400.aspx)
-
-**Microsoft 专业认证**
-
-Microsoft 专业认证：[人工智能认证](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-
-Microsoft 专业认证：[大数据认证](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
-
-Microsoft 专业认证：[数据科学认证](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
-
-Microsoft 专业认证：[DevOps 认证](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-
-Microsoft 专业认证：[入门级软件开发认证](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
-
-Microsoft 专业认证：[IT支持认证](https://academy.microsoft.com/en-us/professional-program/tracks/it-support/)
-
-Microsoft 专业认证：[数据分析认证](https://academy.microsoft.com/en-us/professional-program/tracks/data-analysis/)
-
-Microsoft 专业认证：[物联网认证](https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/)
-
-Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-us/professional-program/tracks/cyber-security/)认证
+[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/learning/exam-AZ-400.aspx)
 
 ### 申请学分的流程
 
 要申请学分，请执行以下操作：
 
-步骤 1：完成[申请](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) 并通过电子邮件将其发送给 **[Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)，并验证您的凭据（下面提供了选项）。请勿将应用程序或电子邮件发送给 Microsoft**。
+步骤 1：完成 [申请](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU) **并通过电子邮件将其发送给** [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)，并验证您的凭据(下面提供了选项)。**请勿将应用程序或电子邮件发送给 Microsoft**。
 
 **验证认证选项1 - 共享徽章：**
 
 - 步骤2：在[Microsoft认证信息中心](https://www.microsoft.com/learning/dashboard.aspx)上登录
 
-- 步骤3：转到控制面板的徽章部分，然后按照步骤索取徽章（如果您尚未这样做）
+- 步骤3：转到控制面板的徽章部分，然后按照步骤索取徽章(如果您尚未这样做)
 
-- 步骤4：请按照以下步骤通过电子邮件与[itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)共享您的徽章。
+- 步骤4：请按照以下步骤通过电子邮件与 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)共享您的徽章。
 
-- 有关更多信息，请参阅：[Microsoft考试和认证徽章](https://www.microsoft.com/learning/badges.aspx)
+- 有关更多信息，请参阅：[Microsoft Exam和认证徽章](https://www.microsoft.com/learning/badges.aspx)
 
 **验证认证选项2 - 共享成绩单：**
 
 - 步骤2：在[Microsoft认证信息中心](https://www.microsoft.com/learning/dashboard.aspx)上登录
 
-- 步骤3：转到成绩单部分，然后选择“共享或下载”
+- 步骤3：转到成绩单部分，然后选择"共享或下载"
 
-- 步骤4：选择“共享”选项；输入个人访问代码并启用“包含地址详细信息”；选择“共享”
+- 步骤4：选择"共享"选项；输入个人访问代码并启用"包含地址详细信息"；选择"共享"
 
 - 步骤5：复制并粘贴网站上提供的以下信息：
 
   - 成绩单ID <nnnnnnn>  
-  - 访问代码<nnnnnnnn>
+  - 访问代码 <nnnnnnnn>
   - 成绩单查看页面：<URL>
 
-- 步骤6：将信息粘贴到电子邮件中，然后发送到[itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
+- 步骤6：将信息粘贴到电子邮件中，然后发送到 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
-如果您对 Microsoft 认证的此过程有疑问，请参阅本页的“课程学分”常见问题解答部分。
-
-**MPP跟踪结业证书的验证：**
-
-- 步骤2：登录您的[academy.microsoft.com 控制面板](https://academy.microsoft.com/en-us/dashboard)
-
-- 步骤3：复制并粘贴 MPP Track 证书 URL 以共享指向您的官方证书的链接
-
-- 步骤4：将URL粘贴到电子邮件中，并连同两种形式的身份证明（姓名和地址或姓名和出生日期）一起发送到[itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)。
-
-如果您对MPP流程有更多疑问，请参阅MPP [FAQ](https://academy.microsoft.com/en-us/professional-program/)。
+如果您对 Microsoft 认证的此过程有疑问，请参阅本页的"课程学分"常见问题解答部分。
 
 有关更多信息，请访问：[用于Microsoft认证的NCCRS积分](http://www.nationalccrs.org/organizations/microsoft)。
 
 下载：[文字记录服务应用程序](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## <a name="policies-5"></a> 对 Microsoft 认证考题提出质疑
+## <a name="policies-5"></a> 对 Microsoft Certification exam题提出质疑
 
-[每个考试问题均经过仔细审查](https://www.microsoft.com/learning/certification-exams.aspx)由技术和职务职能专家小组组成，他们对每个问题的技术准确性和清晰度进行了审查，以及相关性。如果您相信您在 Microsoft 认证考试中看到的特定考题无效，那么您可以按照下面所述的步骤申请评估该考题。您必须在参加考试后30天内提交考试项目质疑表。
+Microsoft认证考试旨在确保通过考试并获得我们认证的考生在该技能领域中展示出所需的熟练水平。每个Microsoft Certification exam问题都经过技术和工作职能专家小组仔细审查，以确保技术准确性、明确性和相关性。如果您认为Microsoft Certification exam中的问题不正确，则可以通过考试项目质疑流程请求对该问题进行评估，该过程旨在帮助找出和纠正有问题的试题。但是，即使某个问题存在某种缺陷，如果您没有正确回答，我们也不能认为您已经答对，因此大多数考试都不会获得重新评分。在这种情况下，我们将为考生提供免费重考的机会。
 
-**说明：** 请不要使用考试项目质疑流程来提供有关测试版考试问题的反馈。测试版考试问题通常会根据此过程中收到的反馈以某种方式进行修改，并且可能会从问题库中删除。如果您对测试版考题有一些反馈意见，而在评论期间无法提供意见，请将您的反馈意见发送至[mslcd@microsoft.com](mailto:mslcd@microsoft.com)。
+### 接受考试项目质疑的标准：
 
-### 对考题提出质疑的步骤
+- 必须在过去30个日历日(而非工作日)内已经参加考试。
+- 请求分数审核。
+- 质疑考试中的特定项目。
 
-1. 将您的考试项目质疑发布到[Microsoft认证支持论坛](https://aka.ms/MCPForum)。
-2. 论坛代理将在1-2个工作日内提供 **考试项目质疑表** 供您填写。该表格中包含关于如何提交您的质疑的具体信息。
-   - 只有在考试结束后30天内将完整的考试项目质疑表格提交给论坛代理，考试项目质疑才能得到受理。
-   - 对于将在6个月内停用的考试，不接受考试项目质疑。
-3. 在4-6周内，论坛代理将反馈您的考试题目质疑结果。
+### 以下情况下不接受考试项目质疑：
 
-考试过程可帮助确定和纠正有问题的考题。在大多数情况下，不会对考试进行重新评分，因为 Microsoft 必须确保通过考试并且获得我们的认证的考生证明其在跨技能领域具备所需的熟练程度。即便某道考题存在某种缺陷，我们也无法假设若此考题不存在缺陷，您能给出正确的回答。在这种情况下，我们将为考生提供免费重考的机会。
+- 质疑整个考试。
+- 基于学习材料(模拟测试、学习指南、培训材料等)提出的质疑
+- 对问题适当性的质疑。
+- 参加考试30个日历日(非工作日)后提出的质疑。
+- 基于在测试中心遇到的技术问题提出的质疑。
+- 未通过此表格提交的质疑。
+- 对计分方法的质疑(例如，条形图未表示出我的实际分数。)
+- 对考试形式的质疑(标准、分类、适应性)。
+- 对测试版考试的质疑。如果您对测试版考题有一些反馈意见，而在评论期间无法提供意见，请将您的反馈意见发送至 [mslcd@microsoft.com](mailto:mslcd@microsoft.com)。 
 
-我们重视并依赖您的反馈来尽可能让 Microsoft 认证考试发挥效用和相关。
+### 考试项目质疑流程：
 
-## 参加考试时的特殊便利设施
+1. 查看我们接受和不接受考试项目质疑的标准。
+2. 填写并提交[检查项目质疑表](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u).
+3. Microsoft认证团队将检查您提交的内容是否完整。  
+   a. 如果不完整，将要求您提供更多信息。  
+   b. 如果完整，Microsoft 认证团队将进行审核。审核大约需要两周时间。
+4. 审核完成之后，将通知您结果。
+
+感谢您有兴趣帮助Microsoft认证考试实现尽可能有效、相关和可行。
+
+## <a name="special-accommodations-when-taking-exams"></a> 参加考试时的特殊便利设施
 
 ### 对于通过Pearson VUE进行的考试：
 
-如果由于无法使用您的母语进行考试而需要额外的时间，则可以通过提交[英语作为第二语言表格](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)来提出要求。 请按照表格上的说明进行操作。 
+如果由于无法使用您的母语进行考试而需要额外的时间，则可以通过提交 [英语作为第二语言表格](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)来提出要求。请按照表格上的说明进行操作。 
 
-如果您在考试时需要特殊设备或其他住宿，则可以通过[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)要求使用“合理”的住宿。调整请求系统” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。合理调整请求系统是一个安全的在线系统，用于请求便利和提交证明文件。
+如果您在考试时需要特殊设备或其他住宿，则可以通过 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)要求使用"合理"的住宿。调整请求系统" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。合理调整请求系统是一个安全的在线系统，用于请求便利和提交证明文件。
 
-- 如果您是首次使用该请求系统，则需要创建用户名和密码。要创建用户名，请单击登录屏幕上的“注册”链接。请注意，系统要求您拥有一个有效的电子邮件帐户。
-- Pearson VUE使用此安全系统，因为需要您上载支持文档。如果您还没有这样做，请给您的评估者（医生，心理学家）一份有关您的残疾的[评估者指南](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators)副本。您的评估人员应确保他/她提供的文档符合我们的准则。在大多数情况下，您的评估者将是心理学家或医生，他们会进行一系列的心理、教育或医学检查，并为您提供诊断报告或详细信的副本。
+- 如果您是首次使用该请求系统，则需要创建用户名和密码。要创建用户名，请单击登录屏幕上的"注册"链接。请注意，系统要求您拥有一个有效的电子邮件帐户。
+- Pearson VUE使用此安全系统，因为需要您上载支持文档。如果您还没有这样做，请给您的评估者(医生，心理学家)一份有关您的残疾的 [评估者指南](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 副本。您的评估人员应确保他/她提供的文档符合我们的准则。在大多数情况下，您的评估者将是心理学家或医生，他们会进行一系列的心理、教育或医学检查，并为您提供诊断报告或详细信的副本。
 - **请耐心等待Pearson VUE在10个工作日内审核您的资料。请相应地规划您的请求。**
-- 审核您的请求后，您将收到一封电子邮件，其中包括审核结果。决定信将出现在“合理调整请求系统”的“我的文档”部分中。如果批准，决定信将提供安排您的适应考试的说明。
-- 如果您对考试适应性决定不满意，可以通过单击与“合理调整请求系统”中出现的决定信相同部分的“请求上诉”按钮对决定提出上诉。请填写并上传点击按钮后显示的申诉表格。残疾问题专家将审查所有上诉请求。
+- 审核您的请求后，您将收到一封电子邮件，其中包括审核结果。决定信将出现在"合理调整请求系统"的"我的文档"部分中。如果批准，决定信将提供安排您的适应考试的说明。
+- 如果您对考试适应性决定不满意，可以通过单击与"合理调整请求系统"中出现的决定信相同部分的"请求上诉"按钮对决定提出上诉。请填写并上传点击按钮后显示的申诉表格。残疾问题专家将审查所有上诉请求。
 
 ### 对于通过Certiport进行的考试：
 
-如果您因为无法使用您的母语进行考试而需要更多时间，索取特殊设备，或者在参加考试时想申请其他住宿，则可以按照[此处](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations)的流程提出申请。
+如果您因为无法使用您的母语进行考试而需要更多时间，索取特殊设备，或者在参加考试时想申请其他住宿，则可以按照 [此处](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) 的流程提出申请。
 
-### <a name="cancellation-and-reschedule-policy"></a> 取消和改期政策：
+### <a name="cancellation-and-reschedule-policy"></a> 取消和改期政策:
 
 - 如果您在约定的考试时间之前至少6个工作日重新安排或取消考试预约，则没有任何收费。
 - 如果您在注册的考试时间的5个工作日内取消或重新安排考试，则需要收取费用。
@@ -560,7 +558,7 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 ## 常见问题解答
 
-查找有关 Microsoft 认证考试的常见问题的答案。
+查找有关 Microsoft Certification exams的常见问题的答案。
 
 - 考试基本信息
 - 考试详情
@@ -575,7 +573,7 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 **考试将包含多少道考题？**
 
-考试中的问题数量可能会随着时间的推移而更新，以符合技术和工作角色的最新变化。大多数 Microsoft 认证考试包含40-60个问题；但数量可能因考试而异。
+考试中的问题数量可能会随着时间的推移而更新，以符合技术和工作角色的最新变化。大多数 Microsoft Certification exams包含40-60个问题；但数量可能因考试而异。
 
 **我参加的考试中将使用哪些考试格式和考题类型？**
 
@@ -585,65 +583,65 @@ Microsoft 专业认证：[Cyber​​security](https://academy.microsoft.com/en-
 
 考试时间根据您参加的考试类型的不同而有所不同。
 
-| | 考试时间* | 就坐时间* | 
+|         | 考试时间*           | 就坐时间*  |
 | ------------- |:-------------:| -----:|
-| Associate 和 Expert 工作角色考试| 150分钟| 180分钟| 
-| 工作角色基础考试| 60分钟| 90分钟
-| 包含实验室的Associate 和 Expert工作角色考试| 180分钟| 210分钟
-| Certiport提供的MTA考试| 45分钟| 50分钟
-| Pearson VUE提供的MTA考试| 45分钟| 80分钟
-| 动态考试（带有MB＃-nnn编号）| 120分钟| 150分钟
-| 所有其他70-nnn考试| 150分钟| 180分钟
-| MCSA考试| 120分钟| 150分钟
-| MCSE考试| 150分钟| 180分钟
+| Associate 和 Expert 工作角色考试     | 150分钟 | 180分钟 |
+| 工作角色基础考试 | 60分钟 | 90分钟
+| 包含实验室的Associate 和 Expert工作角色考试 | 180分钟 | 210分钟
+| Certiport提供的MTA考试 | 45分钟 | 50分钟
+| Pearson VUE提供的MTA考试 | 45分钟 | 80分钟
+| 动态考试(带有MB＃-nnn编号)| 120分钟 | 150分钟
+| 所有其他70-nnn考试 | 150分钟 | 180分钟
+| MCSA考试 | 120分钟 | 150分钟
+| MCSE考试 | 150分钟 | 180分钟
 
-***注意*** 考试时间*指您必须完成考试的时间。就座时间是指您应该为考试分配的时间。其中包含查看说明、阅读和接受 NDA、完成考题以及在完成后提供评论意见（如果您选择提供自己的意见）所需的时间。
+***注意** *考试时间*指您必须完成考试的时间。就座时间是指您应该为考试分配的时间。其中包含查看说明、阅读和接受 NDA、完成考题以及在完成后提供评论意见(如果您选择提供自己的意见)所需的时间。
 
 **对于考试包含的特定主题，Microsoft 决定设定多少道考题？**
 
-考试所考察的技能由 Microsoft 的外部主题专家确定（换句话说，他们不是 Microsoft 员工）。此技能列表（称为“目标领域”）是考试开发的基础。考量各技能领域的考题数量是通过蓝图拟定过程确定的；考量重要和/或常用技能的考试部分所包含的考题数量要多于不重要或不常用技能的考题数量。
+考试所考察的技能由 Microsoft 的外部主题专家确定(换句话说，他们不是 Microsoft 员工)。此技能列表(称为"目标领域")是考试开发的基础。考量各技能领域的考题数量是通过蓝图拟定过程确定的；考量重要和/或常用技能的考试部分所包含的考题数量要多于不重要或不常用技能的考题数量。
 
-**考试是否涵盖我用于准备考试的 Microsoft 培训或 Microsoft 出版社书籍中不涵盖的材料？**
+**考试是否涵盖我用于准备考试的 Microsoft 培训或 Microsoft Press书籍中不涵盖的材料？**
 
 与给定工作角色相关的所有学习材料都是根据相同的工作任务分析构建的。因此，学习内容应与考试紧密结合。但请记住，学习材料的开发与考试内容无关，因为考试旨在评估工作角色的能力，而不是培训材料或学习的有效性。因为考试旨在评估您的技能应用能力超出学习中明确涵盖的范围，所以技能的评估水平将高于培训中所教授的水平。对于一些考生来说，这可以给人一种印象，即相关学习中没有教授技能；但是，所有考试评估的技能都包含在我们的学习选项中。
 
 **我应该如何准备考试？**
 
-准备考试的最佳方法是练习“考试详情”页面上所列出的技能。[浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以查找您感兴趣的考试。要通过 Microsoft 认证考试，必须具备实际技术经验。相关的微学习，在线课程和讲师指导课程旨在培养成功完成工作所需的技能，其中一部分将在考试中进行评估。但是，由于考试的重点是这些技能的应用超出了这些课程所教授的内容，因此强烈建议在参加考试之前除了培训之外还要获取经验或实习。为了开始准备，请查看“考试详情”页面上的“考察的技能”部分，并根据考试中评估的内容评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些挑战。
+准备考试的最佳方法是练习"考试详情"页面上所列出的技能。[浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以查找您感兴趣的考试。要通过 Microsoft Certification exams，必须具备实际技术经验。相关的微学习，在线课程和讲师指导课程旨在培养成功完成工作所需的技能，其中一部分将在考试中进行评估。但是，由于考试的重点是这些技能的应用超出了这些课程所教授的内容，因此强烈建议在参加考试之前除了培训之外还要获取经验或实习。为了开始准备，请查看"考试详情"页面上的"考察的技能"部分，并根据考试中评估的内容评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些挑战。
 
-Microsoft 认证培训师”在准备认证时与许多考生一起工作。他们经常会推荐以下步骤来帮助考生关注他们的学习：
+Microsoft 认证培训师"在准备认证时与许多考生一起工作。他们经常会推荐以下步骤来帮助考生关注他们的学习：
 
-- [浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以查找您感兴趣的考试。
-- 打印此页面上的“考察的技能”部分。 
+- [浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx) 以查找您感兴趣的考试。
+- 打印此页面上的"考察的技能"部分。 
 - 查看整个列表。想想每个主题。如果您对某个特定主题非常了解，请突出显示该主题或将其划掉。 
 - 看看还剩下哪些内容。现在，开始一些有针对性的研究。对于您未突出显示的每个主题，请在网上搜索特定文章。
-    - 使用权威来源，如 docs.microsoft.com，msdn.microsoft.com，technet.microsoft.com 和 Office 365 支持中心。
+  - 使用权威来源，如 docs.microsoft.com，msdn.microsoft.com，technet.microsoft.com 和 Office 365 支持中心。
 
-您可能还想问其他人他们如何执行这些任务，阅读白皮书、MSDN 或 TechNet 以获取考试中包含的任务的更多信息，和/或查看“考试详情”页面上“备考材料”一节中提供的资源。“考试详情”页面将链接到任何可用的在线课程、微学习、选项和门户网站，您可以在其中找到您所在地区的讲师指导培训选项。
+您可能还想问其他人他们如何执行这些任务，阅读白皮书、MSDN 或 TechNet 以获取考试中包含的任务的更多信息，和/或查看"考试详情"页面上"备考材料"一节中提供的资源。"考试详情"页面将链接到任何可用的在线课程、微学习、选项和门户网站，您可以在其中找到您所在地区的讲师指导培训选项。
 
-此外，[Microsoft官方模拟测试](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
+此外，[Microsoft官方模拟测试](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
 
 如果您已参加了考试并且未通过考试，请将考试重点放在考试成绩最差的内容区域和问题比例最高的内容区域，优先考虑您应该练习的技能。
 
-**如何注册 Microsoft 认证考试？**
+**如何注册 Microsoft Certification exam？**
 
-访问[考试注册页面](https://www.microsoft.com/learning/certification-exams.aspx)以找到完整的说明。
+访问[考试注册页面](https://www.microsoft.com/learning/certification-exams.aspx) 以找到完整的说明。
 
 **我是否必须以英语参加考试？**
 
-Microsoft 认证考试有多种语言版本。但是，必须以英语而不是其母语参加考试的考生可以申请额外的考试时间。额外时间的批准与否视具体情况决定。从[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)或[Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm)申请考试住宿。
+Microsoft Certification exams有多种语言版本。但是，必须以英语而不是其母语参加考试的考生可以申请额外的考试时间。额外时间的批准与否视具体情况决定。从 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 或 [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm) 申请考试住宿。
 
 **有哪些残障人士便利设施可用？**
 
-Microsoft 致力于确保每个人（包括残障人士）都可访问我们的考试。有关可用住宿的列表，请访问[住宿页面](https://www.pearsonvue.com/accommodations/)。
+Microsoft 致力于确保每个人(包括残障人士)都可访问我们的考试。有关可用住宿的列表，请访问 [住宿页面](http://www.pearsonvue.com/accommodations/)。
 
 **考试的费用是多少？**
 
 Expert 和 Associate 考试通常需要165美元，但根据特定国家和地区的币种定价。考试价格随时可能更改。在某些国家和地区，可能需要支付额外的税款。
 
-- 有关Microsoft Office Specialist（MOS）的确切价格，请联系[Certiport](https://www.certiport.com/)。
+-有关Microsoft Office Specialist(MOS)的确切价格，请联系 [Certiport](http://www.certiport.com/)。
 
-- 对于所有其他考试，请[浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以找到包含考试价格的考试页面。
+-对于所有其他考试，请[浏览所有考试](https://www.microsoft.com/learning/exam-list.aspx)以找到包含考试价格的考试页面。
 
 **如何提供有关考试的学习材料或培训的反馈？**
 
@@ -651,19 +649,19 @@ Expert 和 Associate 考试通常需要165美元，但根据特定国家和地�
 
 **如何提交有关考题或考试体验的反馈？**
 
-如果您对特定项目的技术准确性有疑问，请按照[考试项目挑战](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)过程。
+如果您对特定项目的技术准确性有疑问，请按照[考试项目挑战](#policies-5) 过程。
 
-要报告有关考试中心或考试期间遇到的技术困难的问题，请通过[Pearson VUE](https://www.pearsonvue.com/microsoft/)或[Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)与客户服务联系。
+要报告有关考试中心或考试期间遇到的技术困难的问题，请通过 [Pearson VUE](http://www.pearsonvue.com/microsoft/) 或 [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm) 与客户服务联系。
 
 要提供其他类型的反馈，请联系您的[Microsoft区域服务中心](https://www.microsoft.com/learning/help.aspx)。
 
-要报告安全问题，请联系[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
+要报告安全问题，请联系 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
 
 ### 考试详情
 
-**Microsoft 认证考试中会出现哪些类型的考题？**
+**Microsoft Certification exams中会出现哪些类型的考题？**
 
-由于 Microsoft 不断引入创新的测试技术和问题类型，因此我们不提供将在特定考试中显示的特定项目类型。为了让您对考试有什么感觉，我们建议您复习一些可能的[考试格式和问题类型](https://www.microsoft.com/learning/certification-exams.aspx) 。
+由于 Microsoft 不断引入创新的测试技术和问题类型，因此我们不提供将在特定考试中显示的特定项目类型。为了让您对考试有什么感觉，我们建议您复习一些可能的[考试格式和问题类型](https://www.microsoft.com/learning/certification-exams.aspx)。
 
 **为什么使用案例研究考试形式？**
 
@@ -681,25 +679,29 @@ Expert 和 Associate 考试通常需要165美元，但根据特定国家和地�
 
 Microsoft 保留随时出于任何原因更新内容的权利，以保证认证考试的有效性和相关性。这包括但不限于结合与技术变更相关的功能和特征，改变在工作中取得成功所需的技能等。
 
+注意：除非在所测技能或考试说明中另有说明，否则考试不涵盖预览功能。在大多数情况下，仅当功能为GA(通用)时，才会添加到考试中。
+
 **当添加新特征或功能时，或者当相关技术中的某些内容发生变化时，我怎样才能知道考试是否已更新？**
 
 我们会更新考试详情页面，以通知考生是否/何时发生这种情况。我们也会在我们的新闻稿、博客中和通过其他合适的通信渠道包括有关此类更新的信息，如果您想要了解这些类型的考试内容更改，那么鼓励您注册此类通信。
 
 因为我们与考生有关考试内容的主要沟通是通过考试详情页面，我们会在知道考试内容因任何原因发生变化后立即更新；我们强烈建议您在准备参加考试时定期查看考试详情。
 
-如果您正在准备基于 Cloud 的考试，我们强烈建议您定期查看“考试详细信息”页面，因为我们每两个月会对这些考试进行一次审查，并且可能更频繁地进行更新。
+如果您正在准备基于 Cloud 的考试，我们强烈建议您定期查看"考试详细信息"页面，因为我们每两个月会对这些考试进行一次审查，并且可能更频繁地进行更新。
 
 Microsoft 保留随时出于任何原因更新内容的权利，以保证认证考试的有效性和相关性。这包括但不限于结合与技术变更相关的功能和特征，改变在工作中取得成功所需的技能等。
 
+注意：除非在所测技能或考试说明中另有说明，否则考试不涵盖预览功能。在大多数情况下，仅当功能为GA(通用)时，才会添加到考试中。
+
 **考试发生变化时，是否会更新培训包、书籍、课件和其他考试准备材料？**
 
-Microsoft 会尽一切努力在发生更改时保持培训和考试的一致性；然而，这并非总是可行的。记住，Microsoft 考试并不意欲成为由 Microsoft 或任何第三方提供商创建的任何准备或培训产品的课后测试。我们的认证旨在衡量基于经验的技能，而不会对考生获得这些技能的方式产生偏见。
+Microsoft 会尽一切努力在发生更改时保持培训和考试的一致性；然而，这并非总是可行的。记住，Microsoft exams并不意欲成为由 Microsoft 或任何第三方提供商创建的任何准备或培训产品的课后测试。我们的认证旨在衡量基于经验的技能，而不会对考生获得这些技能的方式产生偏见。
 
-准备考试的最佳方法是练习考试详细信息页面的“考察的技能”部分中所列的技能。要通过 Microsoft 认证考试，必须具备实际技术经验。
+准备考试的最佳方法是练习考试详细信息页面的"考察的技能"部分中所列的技能。要通过 Microsoft Certification exams，必须具备实际技术经验。
 
 Microsoft 并不审阅第三方开发的学习材料，对其内容不负任何责任，也不负责确保对这些内容进行更新以反映产品更新。如果您对第三方开发的备考材料有任何疑问或意见，请直接联系发布者。
 
-**为什么考试包括 Microsoft 培训或 Microsoft 出版社书籍中未涵盖的材料？**
+**为什么考试包括 Microsoft 培训或 Microsoft Press书籍中未涵盖的材料？**
 
 与给定工作角色相关的所有学习材料都是根据相同的工作任务分析构建的。因此，学习内容应与考试紧密结合。但请记住，学习材料的开发与考试内容无关，因为考试旨在评估工作角色的能力，而不是培训材料或学习的有效性。因为考试旨在评估您的技能应用能力超出学习中明确涵盖的范围，所以技能的评估水平将高于培训中所教授的水平。对于一些考生来说，这可以给人一种印象，即相关学习中没有教授技能；但是，所有考试评估的技能都包含在我们的学习选项中。
 
@@ -713,7 +715,7 @@ Microsoft 尽力确保为考试中测试的所有技能提供某种形式的培�
 
 我们采用精确字符串匹配方式。尽管我们竭力囊括可能会被视为正确的各种格式和代码用法，但是可能有所遗漏。这就是我们提供了多种方式来检查语法的原因。
 
-- 您可以使用我们提供的语法检查程序验证您的代码的语法（例如 SQL 命令）和您的解决方案中所使用的值（例如，表名称和变量名称）。任何语法错误都会出现在窗口中的**检查语法**按钮旁边。您可以根据需要更改您的代码并重新验证语法任意多次。请注意，语法检查程序并不验证您是否正确回答了问题；只是检验您的语法的准确性。
+- 您可以使用我们提供的语法检查程序验证您的代码的语法(例如 SQL 命令)和您的解决方案中所使用的值(例如，表名称和变量名称)。任何语法错误都会出现在窗口中的**检查语法**按钮旁边。您可以根据需要更改您的代码并重新验证语法任意多次。请注意，语法检查程序并不验证您是否正确回答了问题；只是检验您的语法的准确性。
 
 - 我们提供了一个常用命令关键字列表，以便您可以轻松地检查您的拼写。此通用列表仅供参考，并不限于问题中所使用的命令。
 - 我们对问题进行了精心设计，以最大限度减少您必须从问题本身已提供的语法复制的语法量。
@@ -728,7 +730,7 @@ Microsoft 尽力确保为考试中测试的所有技能提供某种形式的培�
 
 **我是否可以在离开某个部分或完成考试之前查看我的所有答案？**
 
-在离开某个部分或完成考试之前，您可以查看大多数问题的答案。然而，还有一系列“是/否”考题，描述问题和可能的解决方案，然后询问解决方案是否解决问题。鉴于这些考题的性质，您无法查看您的答案。此外，在您移至这一组中的下一道考题后，您将无法更改答案。这些问题之前有提供此信息的概述屏幕，每个问题都包含一个提示，提示您在离开之后无法返回问题或更改答案。
+在离开某个部分或完成考试之前，您可以查看大多数问题的答案。然而，还有一系列"是/否"考题，描述问题和可能的解决方案，然后询问解决方案是否解决问题。鉴于这些考题的性质，您无法查看您的答案。此外，在您移至这一组中的下一道考题后，您将无法更改答案。这些问题之前有提供此信息的概述屏幕，每个问题都包含一个提示，提示您在离开之后无法返回问题或更改答案。
 
 因为您没有因错误的答案而受到惩罚而且考试中包含一些您无法复习或更改答案的项目，所以最佳做法是在转到下一个问题之前回答每个问题。如果可以，请标记要检查的问题以便返回给他们。
 
@@ -742,7 +744,7 @@ Microsoft 尽力确保为考试中测试的所有技能提供某种形式的培�
 
 您将在完成考试的数分钟内收到通知说明您的通过或失败状态。此外，您将收到一份打印报告，提供您的考试分数和有关您在所考察的技能领域的表现的反馈。考试交付提供商将在五个工作日内将您的分数转发给 Microsoft。
 
-**测试版考试结果：** 测试版考试的结果应在现有考试发布后的两周内显示在您的 Microsoft 成绩单上（如果您收到通过分数）和考试交付提供商的网站上。
+**测试版考试结果：** 测试版考试的结果应在现有考试发布后的两周内显示在您的 Microsoft 成绩单上(如果您收到通过分数)和考试交付提供商的网站上。
 
 如果您通过测试版考试，则您将获得该考试的学分和任何相关认证。如果您通过测试版考试，就不需要重新参加现有版本的考试。
 
@@ -762,11 +764,11 @@ Microsoft 尽力确保为考试中测试的所有技能提供某种形式的培�
 
 条形图显示您在考试所评估的每个部分或技能领域的表现。在图形左侧，列出了考试的各个部分以及其占考试的百分比。条形的长度提供有关您在每个部分的表现的信息，对应于您在该内容领域正确回答的项目百分比。偏左的条形反映表现较弱，而偏右的条形反映表现较强。
 
-由于每个部分可能包含不同数量的考题（用部分名称后面提供的百分比表示），不能使用条形长度计算该部分或考试中正确回答的考题数量，也不能组合条形来确定考试中您正确回答的考题百分比。此信息旨在帮助您了解考试所考察的技能领域的优势和薄弱环节，并区分需要改进的那些技能的优先次序。
+由于每个部分可能包含不同数量的考题(用部分名称后面提供的百分比表示)，不能使用条形长度计算该部分或考试中正确回答的考题数量，也不能组合条形来确定考试中您正确回答的考题百分比。此信息旨在帮助您了解考试所考察的技能领域的优势和薄弱环节，并区分需要改进的那些技能的优先次序。
 
 **我能否知道我是否正确回答了具体问题，或者我是否回答了一个影响我的通过/未通过状态的具体问题？**
 
-不可以。Microsoft 认证考试旨在衡量考生与特定工作角色相关的技能和能力，而不是他们学习或记忆考试中特定问题的能力。不管询问的考题如何，合格的考生都能够通过此考试。因此，为保护认证过程的完整性，Microsoft 不分享有关错过的特定考题的信息。
+不可以。Microsoft Certification exams旨在衡量考生与特定工作角色相关的技能和能力，而不是他们学习或记忆考试中特定问题的能力。不管询问的考题如何，合格的考生都能够通过此考试。因此，为保护认证过程的完整性，Microsoft 不分享有关错过的特定考题的信息。
 
 **分数报告是否显示每个部分的数字分数？**
 
@@ -782,7 +784,7 @@ Microsoft 尽力确保为考试中测试的所有技能提供某种形式的培�
 
 此外，一个很常见的误解是由于通过分数为 700，您必须正确问答 70% 的考题才能通过考试；然而，这是一个等级分数。您必须正确回答的考题实际百分比因考试而异，可能会超过或少于 70%，具体取决于在考试开发和持续期间帮助我们设定分数线的主题专家提供的意见和当您参加考试时交付的考题的疑难程度。
 
-**如何对考题进行评分？每道考题值多少分？我是否会因为不正确回答考题而被扣分？**
+**如何对考题进行评分？每个问题值多少分？我是否会因为不正确回答考题而被扣分？**
 
 下面是有关考试评分的一些常规信息：
 
@@ -798,15 +800,15 @@ Microsoft 尽力确保为考试中测试的所有技能提供某种形式的培�
 
 **我需要多少分才能通过考试？**
 
-**技术考试：** 所有技术考试都按比例缩放，使通过分数为700。任何为 700 或更高的分数均为“通过”。任何 700 以下的分数均为“失败”。您需要正确回答的实际项目数量由一组主题专家在开发和维持考试期间与 Microsoft 心理测量师联合确定。通过分数基于展示技能领域胜任能力所需的知识和技能以及交付给考生的考题的疑难程度。
+**技术考试：** 所有技术考试都按比例缩放，使通过分数为700。任何为 700 或更高的分数均为"通过"。任何 700 以下的分数均为"失败"。您需要正确回答的实际项目数量由一组主题专家在开发和维持考试期间与 Microsoft 心理测量师联合确定。通过分数基于展示技能领域胜任能力所需的知识和技能以及交付给考生的考题的疑难程度。
 
-**Microsoft Office 考试：** 所有 Microsoft Office 考试分数在 1 到 1,000 的范围内报告。通过分数因考试而异，将在分数报告上提供。实际分数线百分比由一组主题专家使用类似于用于设置 Microsoft 技术考试分数的过程确定。
+**Microsoft Office exams:** 所有 Microsoft Office exam分数在 1 到 1,000 的范围内报告。通过分数因考试而异，将在分数报告上提供。实际分数线百分比由一组主题专家使用类似于用于设置 Microsoft 技术考试分数的过程确定。
 
 **为什么 Microsoft 报告等级分数？**
 
-Microsoft 报告等级分数是便于必须重新参加认证考试的考生确定其表现是否正在改进。实际分数线（您需要正确回答的考题数）以一组主题专家的意见为基础，他们将审查与目标受众的预期技能相关的考题的疑难程度。因此，您必须正确回答的考题数因您参加考试时交付的考题的疑难程度而异；这样可确保不管您看到的考题难度如何，技能评估都是公平的：如果您看到较难的一组考题，通过考试所需的正确答案数少于较简单的一组考题。因此，提供简单的正确答案百分比并不能向不得不多次参加考试而看到疑难程度不同的考题组合的人员提供有用的信息。
+Microsoft 报告等级分数是便于必须重新参加认证考试的考生确定其表现是否正在改进。实际分数线(您需要正确回答的考题数)以一组主题专家的意见为基础，他们将审查与目标受众的预期技能相关的考题的疑难程度。因此，您必须正确回答的考题数因您参加考试时交付的考题的疑难程度而异；这样可确保不管您看到的考题难度如何，技能评估都是公平的：如果您看到较难的一组考题，通过考试所需的正确答案数少于较简单的一组考题。因此，提供简单的正确答案百分比并不能向不得不多次参加考试而看到疑难程度不同的考题组合的人员提供有用的信息。
 
-下面是一个示例，说明为什么缩放分数可以更好地指示您的成绩在两次考试之间的提高（或没有提高）。想象一下，第一次参加考试时，你会看到一套简单题目；可惜的是，你失败了，得分为600分，相当于总分的65％。下次参加考试时，您看到一组更难的题目。这次你通过了考试，得分为750，这相当于正确回答了50％的问题。如果我们提供了你正确答案的百分比，你会认为你的表现变得更糟，而不是更好，但实际上它更好，因为与第一次相比，你答对了更高比例的难题。
+下面是一个示例，说明为什么缩放分数可以更好地指示您的成绩在两次考试之间的提高(或没有提高)。想象一下，第一次参加考试时，你会看到一套简单题目；可惜的是，你失败了，得分为600分，相当于总分的65％。下次参加考试时，您看到一组更难的题目。这次你通过了考试，得分为750，这相当于正确回答了50％的问题。如果我们提供了你正确答案的百分比，你会认为你的表现变得更糟，而不是更好，但实际上它更好，因为与第一次相比，你答对了更高比例的难题。
 
 等级分数可让您更轻松地评估您随着时间推移绩效是否有所改进。这是认证和许可证颁发行业的一个标准做法。
 
@@ -814,7 +816,7 @@ Microsoft 报告等级分数是便于必须重新参加认证考试的考生确�
 
 如果您通过考试，则它仅意味着您已证明您在技能领域具备胜任能力。此外，不能比较通过考试的考生的分数来确定一位考生是否比另一位考生更有能力；通过分数较高并不意味着能力水平较高。对于未通过分数同样如此；未通过分数较低并不意味着能力水平较低。如果您通过考试，则您已证明您具备胜任能力，无论您的分数多少都是如此；如果您未通过，则您未证明您具备胜任能力。
 
-Microsoft 考试经过精心设计，以便可以使用总的测验分数决定通过还是失败（换句话说，显示考生是否已证明其在考试所考察的技能领域具备胜任能力）。我们的考试并未设计为意图就您的技能提供诊断反馈，考试开发过程中未执行任何步骤来支持该层次的报告。
+Microsoft exams经过精心设计，以便可以使用总的测验分数决定通过还是失败(换句话说，显示考生是否已证明其在考试所考察的技能领域具备胜任能力)。我们的考试并未设计为意图就您的技能提供诊断反馈，考试开发过程中未执行任何步骤来支持该层次的报告。
 
 **如果我每次重新参加相同考试都得到相同分数，这是否暗示结果计算出错了？**
 
@@ -832,7 +834,7 @@ Microsoft 考试经过精心设计，以便可以使用总的测验分数决定�
 
 否。您在考试开始时参与的调查并不影响考试内容或评分。这只不过是我们的考试心理测量专家用于确保考试在其生命周期期间的质量、有效性和严格的一个评估工具。
 
-**我通过了第一门 Microsoft 认证考试（在 Pearson VUE）。接下来应该怎么做？**
+**我通过了第一门 Microsoft Certification exam(在 Pearson VUE)。接下来应该怎么做？**
 
 祝贺您！要探索后续步骤和可获得的好处，请参阅[福利和考试控制面板](https://www.microsoft.com/learning/dashboard.aspx)。使用与注册考试时相同的 Microsoft 帐户登录。
 
@@ -844,25 +846,25 @@ Microsoft 考试经过精心设计，以便可以使用总的测验分数决定�
 
 **在哪里可以找到有关我的薄弱环节的其他信息？**
 
-尽管 Microsoft 认证考试提供有关考生需要进一步提升其技能的领域的反馈，但是考试并不设计为提供详细信息或诊断反馈。鼓励您查看考试详细信息页面上的“考察的技能”部分并针对考试所评估的内容诚实地评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些挑战。您可能也需要询问其他人他们如何执行这些任务。他们是否以不同方式执行该任务？了解他们为什么这样做。阅读白皮书，访问文档等以获取有关考试所包括的任务的其他信息。探索考试详细信息页上的“备考选项”中的资源，在每个考试详细信息页底部也可以找到学习小组 。
+尽管 Microsoft Certification exams提供有关考生需要进一步提升其技能的领域的反馈，但是考试并不设计为提供详细信息或诊断反馈。鼓励您查看考试详细信息页面上的"考察的技能"部分并针对考试所评估的内容诚实地评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些挑战。您可能也需要询问其他人他们如何执行这些任务。他们是否以不同方式执行该任务？了解他们为什么这样做。阅读白皮书，访问文档等以获取有关考试所包括的任务的其他信息。探索考试详细信息页上的"备考选项"中的资源，在每个考试详细信息页底部也可以找到学习小组 。
 
-最后，[Microsoft官方模拟考试](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
+最后，[Microsoft官方模拟考试](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
 
 **补考政策是什么？**
 
-请参阅[安全和重考政策](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies)以查看考试重考政策。
+请参阅[安全和重考政策](#security-policies)以查看考试重考政策。
 
 **我是否可以申请重新评估我的分数？**
 
-重新评估您的分数不太可能改变您的通过/未通过状态。由于 Microsoft 必须确保通过考试并且获得我们的认证的考生证明其跨技能领域具备必需的熟练程度，考试的最终结果很少会根据您的考试结果的重新评估而改变。即便某道考题存在某种缺陷，我们也无法假设若此考题不存在缺陷，您能给出正确的回答。在这种情况下，我们将为考生提供免费重考的机会。如果您对特定考题的技术准确性有任何疑问，请[提交在线请求](https://support.microsoft.com/zh-cn/getsupport?oaspworkflow=start_1.0.0.0&wf=0&wfName=capsub&productkey=visualstudio&locale=zh-cn&ccsid=636062745883333361)。您将收到考题质疑表。
+重新评估您的分数不太可能改变您的通过/未通过状态。由于 Microsoft 必须确保通过考试并且获得我们的认证的考生证明其跨技能领域具备必需的熟练程度，考试的最终结果很少会根据您的考试结果的重新评估而改变。即便某道考题存在某种缺陷，我们也无法假设若此考题不存在缺陷，您能给出正确的回答。在这种情况下，我们将为考生提供免费重考的机会。如果您对特定考题的技术准确性有任何疑问，请 [提交在线请求](https://support.microsoft.com/en-us/getsupport?oaspworkflow=start_1.0.0.0&wf=0&wfName=capsub&productkey=visualstudio&locale=en-us&ccsid=636062745883333361)。您将收到考题质疑表。
 
 **我可以如何就某道考题提出质疑？**
 
-如果您认为Microsoft认证考试中的问题不准确，则可以使用[考试项目挑战过程](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) 在参加考试的30个日历天内。评估过程可帮助我们确定和纠正有问题的考题，并相应地更新考试。
+如果您认为Microsoft Certification exam中的问题不准确，则可以使用[考试项目挑战过程](#policies-5) 在参加考试的30个日历天内。评估过程可帮助我们确定和纠正有问题的考题，并相应地更新考试。
 
 **Microsoft 员工是否将审阅并评估我质疑的考题？**
 
-Microsoft 员工将执行初始评估。如果需要另外评估，独立的主题专家（技术和工作职能专家）也将审查并评估质疑。
+Microsoft 员工将执行初始评估。如果需要另外评估，独立的主题专家(技术和工作职能专家)也将审查并评估质疑。
 
 **如果我不同意评估者的决定会怎样？我是否可以提出申诉？**
 
@@ -880,7 +882,7 @@ Microsoft 员工将执行初始评估。如果需要另外评估，独立的主�
 
 **为什么我在参加考试之前需要接受保密协议 (NDA)？**
 
-Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。NDA 从法律角度要求考生对考试内容相关信息保密。要求接受 NDA 可从法律角度禁止盗版和/或非法使用考试内容，从而帮助保护 Microsoft 认证考试的安全性和 Microsoft Certification Program的完整性。
+Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。NDA 从法律角度要求考生对考试内容相关信息保密。要求接受 NDA 可从法律角度禁止盗版和/或非法使用考试内容，从而帮助保护 Microsoft Certification exams的安全性和 Microsoft Certification Program的完整性。
 
 **什么是作弊？**
 
@@ -892,7 +894,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **如果考生伪造分数报告则会发生什么情况？**
 
-如果 Microsoft 确定某位考生伪造了分数报告，则该考生不再有资格参加将来的任何 Microsoft 考试，其认证可能会被撤销。
+如果 Microsoft 确定某位考生伪造了分数报告，则该考生不再有资格参加将来的任何 Microsoft exams，其认证可能会被撤销。
 
 **什么是代理考试？**
 
@@ -904,73 +906,79 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **为什么我应该避免代理考试？**
 
-如果某位考生从事代理考试行为，则该考生将被永久禁止或者禁止参加将来的任何 Microsoft 认证考试，并且 Microsoft Certification Program证书可能会被收回。此外，适用情况下，考试分数和认证可能会被撤销。即便考生并无在 Microsoft Certification Program中采取欺诈行为的意图，也可能需要采取这些措施。
+如果某位考生从事代理考试行为，则该考生将被永久禁止或者禁止参加将来的任何 Microsoft Certification exams，并且 Microsoft Certification Program证书可能会被收回。此外，适用情况下，考试分数和认证可能会被撤销。即便考生并无在 Microsoft Certification Program中采取欺诈行为的意图，也可能需要采取这些措施。
 
-如果您相信某个网站或公司提供代理考试服务，请立即发送电子邮件至[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)告知 Microsoft 具体情形
+如果您相信某个网站或公司提供代理考试服务，请立即发送电子邮件至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) 告知 Microsoft 具体情形
 
-**什么是“考试回忆”，它们是否合法？**
+**什么是"考试回忆"，它们是否合法？**
 
-与认证考试相关时，考试回忆是指包含通过欺诈方式获取并且意图与考生共享或者向考生出售的认证考试内容的来源（如网站）。考试回忆包含的内容与考试中出现的考题完全相同或基本相似。由于考试内容是通过欺诈方式获取的，使用这种类型的材料准备考试或者在考试期间使用这种类型的材料将构成作弊。“考试回忆”提供者违反了 Microsoft 的知识产权和保密协议。
+与认证考试相关时，考试回忆是指包含通过欺诈方式获取并且意图与考生共享或者向考生出售的认证考试内容的来源(如网站)。考试回忆包含的内容与考试中出现的考题完全相同或基本相似。由于考试内容是通过欺诈方式获取的，使用这种类型的材料准备考试或者在考试期间使用这种类型的材料将构成作弊。"考试回忆"提供者违反了 Microsoft 的知识产权和保密协议。
 
-**为什么我应该留意“考试回忆”网站和材料？**
+**为什么我应该留意"考试回忆"网站和材料？**
 
-如果考生为了通过考试而有意或无意地熟记在“考试回忆”中找到的未经授权的内容，显然，他或她并不具备有效使用和管理 Microsoft 软件或系统必需的技能。最终，其经理将认为其缺乏技术知识和技能并采取适当的措施。如果 Microsoft 知悉某位考生曾使用“考试回忆”网站准备考试，则该考生将被永久禁止或者禁止参加将来的任何 Microsoft 认证考试，并且 Microsoft Certification Program证书可能会被收回。此外，适用情况下，考试分数和认证可能会被撤销。即便考生并无在 Microsoft Certification Program中采取欺诈行为的意图，也可能需要采取这些措施。
+如果考生为了通过考试而有意或无意地熟记在"考试回忆"中找到的未经授权的内容，显然，他或她并不具备有效使用和管理 Microsoft 软件或系统必需的技能。最终，其经理将认为其缺乏技术知识和技能并采取适当的措施。如果 Microsoft 知悉某位考生曾使用"考试回忆"网站准备考试，则该考生将被永久禁止或者禁止参加将来的任何 Microsoft Certification exams，并且 Microsoft Certification Program证书可能会被收回。此外，适用情况下，考试分数和认证可能会被撤销。即便考生并无在 Microsoft Certification Program中采取欺诈行为的意图，也可能需要采取这些措施。
 
-许多“考试回忆”提供者的言辞、产品描述和预期用途颇为明目张胆，而其他提供者的言辞和做法较为隐晦。因此，考生在使用好到令人难以置信的备考材料时应小心谨慎。
+许多"考试回忆"提供者的言辞、产品描述和预期用途颇为明目张胆，而其他提供者的言辞和做法较为隐晦。因此，考生在使用好到令人难以置信的备考材料时应小心谨慎。
 
-如果您认为您发现了包含 Microsoft 内容的“考试回忆”网站，请发送电子邮件至[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
+如果您认为您发现了包含 Microsoft 内容的"考试回忆"网站，请发送电子邮件至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
+
 
 **考试中心应提供哪种安全保护？**
 
-考试中心应制定一些安全政策，必须强制实施它们才能获取并保持考试中心资格。持续检查可确保每个考试中心满足 Microsoft 和考试交付提供商概述的安全要求。此外，考试中心的监考人员经过授权可对违反考试规则的考生立即采取适当措施。有关考生预期行为的特定信息，请联系考试交付提供商。如果您对您的考试体验的安全性有任何疑问，请发送电子邮件至[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
+考试中心应制定一些安全政策，必须强制实施它们才能获取并保持考试中心资格。持续检查可确保每个考试中心满足 Microsoft 和考试交付提供商概述的安全要求。此外，考试中心的监考人员经过授权可对违反考试规则的考生立即采取适当措施。有关考生预期行为的特定信息，请联系考试交付提供商。如果您对您的考试体验的安全性有任何疑问，请发送电子邮件至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
 
 **部分考试中心可能会发生哪些种类的不正当行为？**
 
 当考试中心管理员不遵循 Microsoft 或考试交付提供商的任何安全政策时，将做出不适当的行为。示例可能包括但不限于忽视不适宜的考生身份；不索取每位考生的 ID；不定期巡视；不隔开考试台；忽视存在的小抄或电子设备；对任何考题提供答案或者任何形式的帮助；允许以任何形式发布 Microsoft 知识产权。
 
+
 **参与欺诈行为的考试中心会发生什么情况？**
 
 如果 Microsoft 确定某个考试中心从事不正当或欺诈性行为，则 Microsoft 有权利停止该中心的所有考试交付。
 
-**如果我发现某个网站披露 Microsoft 认证考试信息或者某人作弊或售卖考题和答案，那么我应该与谁联系？**
+**如果我发现某个网站披露 Microsoft Certification exam信息或者某人作弊或售卖考题和答案，那么我应该与谁联系？**
 
-发送电子邮件至[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com), 并尽可能详尽地陈述有关情形和牵涉人员的信息。尽管我们感激匿名举报，然而我们通常需要更多信息来开展彻底的调查；如果您愿意，请包括您的完整联系信息，以便来自 Microsoft 的某人可以在必要时联系您讨论详情。Microsoft 有专人负责调查这些举报。由于像您这样的人员大力举报，许多网站已被终止。我们收到的邮件量巨大，因而您收到的可能并不一定是个人答复。
+发送电子邮件至 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com), 并尽可能详尽地陈述有关情形和牵涉人员的信息。尽管我们感激匿名举报，然而我们通常需要更多信息来开展彻底的调查；如果您愿意，请包括您的完整联系信息，以便来自 Microsoft 的某人可以在必要时联系您讨论详情。Microsoft 有专人负责调查这些举报。由于像您这样的人员大力举报，许多网站已被终止。我们收到的邮件量巨大，因而您收到的可能并不一定是个人答复。
 
-我们前认证和培训高级总监Don Field描述了[保护Microsoft 认证价值的努力](https://borntolearn.mslearn.net/b/weblog/archive/2011/11/10/ensuring-integrity-of-our-certification-program)最近产生的1,350万美元的判决是如何产生的确保我们的认证计划的完整性。阅读他的文章，并在我们的[Born to Learn](https://borntolearn.mslearn.net/)博客上获得有关Microsoft认证和培训的最新信息。
+我们前认证和培训高级总监Don Field描述了 [保护Microsoft 认证价值的努力](https://borntolearn.mslearn.net/b/weblog/archive/2011/11/10/ensuring-integrity-of-our-certification-program) 最近产生的1,350万美元的判决是如何产生的。阅读他的文章，并在我们的 [Born to Learn](https://borntolearn.mslearn.net/) 博客上获得有关Microsoft认证和培训的最新信息。
 
 **如果我举报安全问题，那么我可以保持匿名吗？**
 
-是。与[mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)的所有通信往来都可以保持匿名，我们不会与任何人分享您的联系信息。如果您希望包括您的联系信息以便我们可以跟进更多信息，那么我们将竭力保护该信息。
+是。与 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) 的所有通信往来都可以保持匿名，我们不会与任何人分享您的联系信息。如果您希望包括您的联系信息以便我们可以跟进更多信息，那么我们将竭力保护该信息。
 
 ### 基于成绩的测试
 
-**什么是基于成绩的测试（PBT）？**
+**什么是基于成绩的测试(PBT)？**
 
 基于成绩的测试使您有机会通过完成技术任务来展示您的技能。今天，这意味着在分级实验室中完成任务，但在将来，PBT可能采取不同的形式。例如，对于那些目前正在履行工作职责的人，Microsoft 正在探索将您每天所做的工作纳入我们的认证要求的方法。对于尚未担任工作职位的人，我们将继续通过其他方式通过组合和分级实验证明您的技能。Microsoft 不断创新，以确保我们以与您实际完成工作的方式相匹配的方式评估您的技能和能力。
 
 **完成实验后我能得到什么？**
 
-此类问题要求您在虚拟环境中执行任务。您将看到一个包含虚拟机窗口和**任务窗格**的屏幕。虚拟机窗口是一个远程连接的实时环境，您可以在其中执行真实软件和应用程序的任务。
+此类问题要求您在虚拟环境中执行任务。您将看到一个包含虚拟机窗口和 **任务窗格** 的屏幕。虚拟机窗口是一个远程连接的实时环境，您可以在其中执行真实软件和应用程序的任务。
 
-**任务**窗格列出了您需要在实验中执行的任务。您可以使用 **+** 或 **-** 符号展开或折叠每个任务。为方便起见，每个任务都有一个复选框，以便您可以在完成任务时标记任务。这样做不会影响实验室中的任何内容或评分。实验中没有任何内容表明您是否未完成所需任务，因此您可能需要通过选中复选框来跟踪已完成的任务。
+**任务** 窗格列出了您需要在实验中执行的任务。您可以使用 **+** 或 **-** 符号展开或折叠每个任务。为方便起见，每个任务都有一个复选框，以便您可以在完成任务时标记任务。这样做不会影响实验室中的任何内容或评分。实验中没有任何内容表明您是否未完成所需任务，因此您可能需要通过选中复选框来跟踪已完成的任务。
 
-离开实验后，您将无法返回该实验，因为一旦您离开实验或考试部分，评分就会开始（在后台）。单击**下一步**时，系统将要求您确认是否确实要离开实验。单击**是**将结束实验部分，并将对任务进行评分。
+离开实验后，您将无法返回该实验，因为一旦您离开实验，评分就会开始(在后台)。单击 **下一步** 时，系统将要求您确认是否确实要离开实验。单击 **是** 将结束实验部分，并将对任务进行评分。
+
 
 **如果考试有实验，考试的结构是什么样的？**
 
-启动考试后，您将在实验加载时回答传统的问题（例如多项选择，拖放，构建列表等）。完成实验后，在实验评分时，您将回答另一组传统问题。如果您过快完成第一组问题，则可能需要等待实验室完成配置。请注意以下事项：
+启动考试时，您会看到一个屏幕，告诉您考试中将包含多少项目，案例研究和实验，包括任务的数量。请记下此信息，以便您可以相应地安排考试时间。
 
-- 您离开考试的任何部分后，您将无法返回。但在每个部分的末尾，您都有机会查看您的答案。**在查看答案时，考试时间不会停止。确保您关注时间**；注意时间和剩余问题的数量。
+启动考试后，您将在实验加载时回答所有传统的问题(例如多项选择，拖放，构建列表等)。实验将是考试的最后一部分。请注意以下事项：
 
-- 每个考试都包含一个或两个性能部分/实验室，您必须完成多个任务。每个项目后面都有一系列传统项目，让我们有时间为试验打分，这样您就可以在考试结束后立即收到通过/未通过的成绩。再次提醒，注意您的时间。实验后您必须回答一些问题。
+-离开考试的任何部分(例如案例研究或实验)后，您将无法返回。但是，在大多数部分的末尾，您都有机会检查您的答案(您的考试可能包括无法检查的部分；这将在该部分的开头注明)。**在查看答案时，考试时间不会停止。确保您关注时间**；注意时间和剩余问题的数量。
 
-- 在第一个试验之前的概述页面上提供了考试中的试验数量。请认真阅读！然后，相应地管理您的时间。
+- 每个考试都包含一个或两个性能部分/实验室，您必须完成多个任务。研究表明，完成这些任务所需的时间是传统项目的4倍左右。请合理安排您的时间，以便您有足够的时间完成实验。我们确保合理地安排时间的考生将有足够的时间来完成实验室。
 
-- 在转移到另一个任务之前，切勿等待任务执行。在某些（少见的）情况下，在完成另一个任务之前需要执行某些操作，但在执行该任务时，您可以执行其他任务。**切勿浪费时间等待任务**运行。转至不依赖于该任务的活动，这样您就可以充分利用您的考试时间。在某些情况下，开始一项任务可能足以得分（例如在 Azure 中创建资源）；您可以在处理其他任务时让该任务在后台执行。我们在任务列表中包含了注释，告诉您只需要启动该任务。您可以继续执行其他任务，甚至可以离开该部分（转到下一部分考试）而不会受到处罚。**仔细阅读任务**。
+- 在第一个实验和任务之前的概述页面上提供了考试中的试验数量。请认真阅读！然后，相应地管理您的时间。
 
-**为什么实验考试包含传统类型问题（例如多项选择，拖放，构建列表等）？**
+- 在转移到另一个任务之前，切勿等待任务执行。在某些情况下，您需要先执行一些任务才能完成另一个任务，但这会在任务中注明，并且在执行该任务时您可以处理其他任务。**切勿浪费时间等待任务** 运行。转至不依赖于该任务的活动，这样您就可以充分利用您的考试时间。在某些情况下，开始一项任务可能足以得分(例如在 Azure 中创建资源)；您可以在处理其他任务时让该任务在后台执行。我们在任务列表中包含了注释，告诉您只需要启动该任务。您可以继续执行其他任务，甚至可以离开该部分(在可能的情况下转到下一个实验，或考试末尾)而不会受到处罚。**仔细阅读任务。执行解决任务中出现的问题所需的操作。**
 
-由于各种原因，我们无法通过实验评估所有关键技能。我们不能要求您完成运行时间超过几分钟或需要大量资源的任务;因此，我们将继续使用更适合考试体验的问题来评估这些技能。
+
+**为什么实验考试包含传统类型问题(例如多项选择，拖放，构建列表等)？**
+
+由于各种原因，我们无法通过实验评估所有关键技能。例如我们不能要求您完成运行时间超过几分钟或需要大量资源的任务;因此，我们将继续使用更适合考试体验的问题来评估这些技能。
 
 **考试中有多少实验？每个实验有多少个任务？**
 
@@ -978,11 +986,11 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **任务是如何得分的？**
 
-根据最终结果进行评分。我们不关心您如何完成任务（例如，通过UI或使用PowerShell命令） - 只要您成功完成了任务。像往常一样完成任务；评分脚本评估关键特征的最终结果，以确定它是否正确完成。例如，如果任务是添加用户，则评分脚本可确保您添加该用户。
+根据最终结果进行评分。我们不关心您如何完成任务(例如，通过UI或使用PowerShell命令) - 只要您成功完成了任务。像往常一样完成任务；评分脚本评估关键特征的最终结果，以确定它是否正确完成。例如，如果任务是添加用户，则评分脚本可确保您添加该用户。
 
 我们不要求您使用特定方法来执行任务。如果您更习惯使用 PowerShell 或 CLI 而不是 GUI，那就是我们希望您使用的。我们测试的是您执行任务的最终结果 - 您是否正确执行了它？ - 不是您用于执行任务的方法。
 
-**每道考题值多少分？**
+**每个任务值多少分？**
 
 大多数任务都是一分;如果任务超过一分，则在任务描述中提供该信息。
 
@@ -1000,15 +1008,23 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **为什么我要在开始试验之前等待？**
 
-在云中配置环境需要花费时间，并且只有在完全配置资源时才会加载您需要访问以完成任务的环境。因此，考试从一系列常规项目（多选、拖放、构建列表等）开始，这些项目给时间配置试验并将其加载到环境中。如果您过快地回答这些问题，则必须等待试验完成加载。
+在云中配置环境需要花费时间，并且只有在完全配置资源时才会加载您需要访问以完成任务的环境。因此，考试从一系列常规项目(多选、拖放、构建列表等)开始，这些项目给时间配置试验并将其加载到环境中。如果您过快地回答这些问题，则必须等待试验完成加载。
 
 **我听说试验可以在空白屏幕上启动。为解决这个问题，有什么我可以做的吗？**
 
-如果您的试验使用空白屏幕启动，请尝试打开新选项卡并导航至 https://portal.azure.com。在大多数时候，打开此新标签将解决问题。
+如果您的试验使用空白屏幕启动，请尝试打开新选项卡并导航至 https://portal.azure.com。 在大多数时候，打开此新标签将解决问题。
 
 **我的试验遇到了一些问题。我如何让 Microsoft 知道？**
 
-如果您在试验中遇到问题，请通过我们的考试项目质疑流程升级。虽然我们无法为您的经历提供具体的解释，但我们对您经历的调查将帮助我们确定根本原因并找出可改善每个人体验的解决方案。
+如果您在试验中遇到问题，请通过我们的[考试项目质疑流程](#policies-5)升级。虽然我们无法为您的经历提供具体的解释，但我们对您经历的调查将帮助我们确定根本原因并找出可改善每个人体验的解决方案。
+
+**我的试验遇到了一些问题。我如何请求重新评分？**
+
+如果您收到分数，则可以准确反映出您在实验之前的表现。如果您未通过，重新评分不会改变这个结果。
+
+**我何时会收到我的成绩？**
+
+实验打分比传统项目需要更长的时间。由于实验出现在考试末尾时，因此您可能不会立即得到结果。可能需要30分钟或更长时间才会出来成绩。您不必等待成绩报告。它将自动传送到我们的认证数据库，并将显示在您的 MC 面板中。这应该在考试开始后的24小时内完成。如果未完成，请联系[MCP支持论坛](https://aka.ms/mcpforum)。
 
 **包含实机考题的考试是否需要更长时间才能完成？**
 
@@ -1016,33 +1032,36 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **准备实机考题的方式是否应不同于其他考试？**
 
-否。无论考题形式如何，所考察的技能都保持相同。考试所评估的知识和技能列在考试详细信息页面的“考察的技能”部分中。
+否。无论考题形式如何，所考察的技能都保持相同。考试所评估的知识和技能列在考试详细信息页面的"考察的技能"部分中。如果您练习这些技能，那么您可以为任何项目类型做好准备，包括实验。
 
 **对于有试验的考试，是否有任何特定的考试中心要求？当我尝试安排有试验的考试时，许多考试中心都没有列出，但是没有试验的考试中列出了相同的考试中心。**
 
-包括试验的考试要求考试中心满足某些互联网连接要求，因此可用的考试中心较少。随着试验被添加到更多基于角色的考试中，他们也将受到同一组考试中心的影响。但是，您可以通过在线监考参加这些考试；有关详细信息，请访问 https://www.microsoft.com/learning/online-proctored-exams.aspx 。如果您有心仪的考试中心，请联系该考试中心，了解他们是否可以提供试验；或者，您在选择考试时它们将不会被列为可用的考试中心。如果发生这种情况，我们建议您找另外的考试中心或通过在线监考参加考试。
+包括试验的考试要求考试中心满足某些互联网连接要求，因此可用的考试中心较少。随着试验被添加到更多基于角色的考试中，他们也将受到同一组考试中心的影响。但是，您可以通过在线监考参加这些考试；有关详细信息，请访问 https://www.microsoft.com/learning/online-proctored-exams.aspx。 如果您有心仪的考试中心，请联系该考试中心，了解他们是否可以提供试验；或者，您在选择考试时它们将不会被列为可用的考试中心。如果发生这种情况，我们建议您找另外的考试中心或通过在线监考参加考试。
 
 ### 基于角色的认证
 
 **基于角色的认证是如何命名的？他们还会成为 MCSA，MCSD和MCSE吗？**
 
-因为我们正在对我们的认证计划进行重大转型，所以我们正在逐渐放弃试用 MCSA，MCSE 和 MCSD 等缩略语。此认证将明确指出您在工作角色中是“Microsoft Certified”，并且它们将显示该认证在我们框架中的水平（fundamentals、associate 或 expert）。
+因为我们正在对我们的认证计划进行重大转型，所以我们正在逐渐放弃试用 MCSA，MCSE 和 MCSD 等缩略语。此认证将明确指出您在工作角色中是"Microsoft Certified"，并且它们将显示该认证在我们框架中的水平(fundamentals、associate 或 expert)。
 
 **我已经拥有的 MCSA，MCSD 和 MCSE 认证会怎样？**
 
-您已经拥有的 MCSA，MCSD 和 MCSE 认证没有任何变化。他们仍在您的成绩单上。这些认证的相关性取决于您当前（和未来）的工作角色以及认证对您的经理和组织以及您所从事的工作的重要性。
+您已经拥有的 MCSA，MCSD 和 MCSE 认证没有任何变化。他们仍在您的成绩单上。这些认证的相关性取决于您当前(和未来)的工作角色以及认证对您的经理和组织以及您所从事的工作的重要性。
+
 
 **一些 MCSA，MCSD 和 MCSE 认证仍然可用。这些会发生什么？**
 
 只要考试仍然可用，您就可以继续获得 MCSA，MCSD 和 MCSE 认证。当我们停用这些认证途径中的一部分考试时，您将无法再获得这些认证。
 
+
 **您正在停用一些获得 MCSA，MCSD 和 MCSE 认证所需的考试。当考试停用时，我的认证会怎样？**
 
-在考试停用之前，请务必通过所有那些您正在尝试通过的MCSA，MCSE或MCSD认证。如果您成功，则将获得认证，将出现在您的成绩单上。您已经拥有的 MCSA，MCSD 和 MCSE 认证没有任何变化。此认证的相关性取决于您当前（和未来）的工作角色以及认证对您的经理和组织以及您所从事的工作的重要性。
+在考试停用之前，请务必通过所有那些您正在尝试通过的MCSA，MCSE或MCSD认证。如果您成功，则将获得认证，将出现在您的成绩单上。您已经拥有的 MCSA，MCSD 和 MCSE 认证没有任何变化。此认证的相关性取决于您当前(和未来)的工作角色以及认证对您的经理和组织以及您所从事的工作的重要性。
 
 **为了更加紧密地结合培训和考试，您是否降低了人们通过考试或获得认证所需的经验要求？**
 
 不，我们不会降低人们通过考试或获得认证所需的经验要求。培训旨在为考试做好准备，但其本身可能不够。为了解决我们基于角色的考试中的问题，要求您运用在实际问题培训时获得的技能和知识。
+
 
 ### 考试的学术优惠价
 
@@ -1054,11 +1073,13 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 是。您的学术验证仅在 12 个月内有效。12 个月后，您就需要重新进行一次验证流程。
 
-**我是一名教育工作者。我在 Microsoft 认证考试中能否享受与先前在 Pearson VUE 时一样的学术折扣（在适用的国家/地区）？**
 
-是。您需要遵照与学生相同的流程处理。换言之，您必须在 Microsoft 帐户个人资料中选择“学生”作为工作职能，而且必须通过与学生相同的流程验证您的身份。
+**我是一名教育工作者。我在 Microsoft Certification exam中能否享受与先前在 Pearson VUE 时一样的学术折扣(在适用的国家/地区)？**
 
-**如果我对 Microsoft 认证考试的学术验证流程有疑问，我该联系谁？**
+是。您需要遵照与学生相同的流程处理。换言之，您必须在 Microsoft 帐户个人资料中选择"学生"作为工作职能，而且必须通过与学生相同的流程验证您的身份。
+
+
+**如果我对 Microsoft Certification exams的学术验证流程有疑问，我该联系谁？**
 
 如果您有与考试注册有关的一般问题，请与您的[Microsoft区域服务中心](https://www.microsoft.com/learning/help.aspx)联系。对于特定于新的或待处理的验证请求的问题，您可以[联系支持](https://academic.getmicrosoftkey.com/default/support)。
 
@@ -1066,7 +1087,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **我如何请求获得便利？**
 
-如果您在考试时需要特殊设备或其他便利，则可以使用他们的合理调整要求系统通过[Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 申请便利。[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。上面的 参加考试时的特殊住宿部分提供了更多详细信息。
+如果您在考试时需要特殊设备或其他便利，则可以使用他们的合理 '调整要求系统' [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 通过[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 申请便利。上面的 [参加考试时的特殊住宿](#special-accommodations-when-taking-exams) 部分提供了更多详细信息。
 
 **为什么需要提交文件？**
 
@@ -1078,8 +1099,9 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **我有助听器/轮椅/需要吸入器/等。我是否需要获得特殊许可才能将其带入考场？**
 
-这被认为是舒适的辅助工具，**不**需要事先获得批准。在测试中心工作人员进行目视检查后，将允许在考场中使用舒适辅助设备。除非另外在[此处](https://home.pearsonvue.com/test-taker/Test-accommodations/Comfort-aids.aspx)注明，否则将通过不直接触摸物品（或考生）且不要求考生将物品移走的方式检查物品来进行外观检查。
+这被认为是舒适的辅助工具，**不**需要事先获得批准。在测试中心工作人员进行目视检查后，将允许在考场中使用舒适辅助设备。除非另外在 [此处](https://home.pearsonvue.com/test-taker/Test-accommodations/Comfort-aids.aspx) 注明，否则将通过不直接触摸物品(或考生)且不要求考生将物品移走的方式检查物品来进行外观检查。
 
 **我有一个问题未在此处回答。我在哪里能找到答案？**
 
 如果您无法在此处找到问题的答案，请通过以下电子邮件联系我们：[accommodationspearsonvue@pearson.com](mailto:accommodationspearsonvue@pearson.com).
+
