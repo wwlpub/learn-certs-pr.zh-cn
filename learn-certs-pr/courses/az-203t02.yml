@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 开发Azure平台即服务计算解决方案
+title: Develop Azure Platform as a Service compute solutions
 metadata:
-  title: '课程 AZ-203T02-A: 开发Azure平台即服务计算解决方案'
-  description: '课程 AZ-203T02-A: 开发Azure平台即服务计算解决方案'
+  title: 'Course AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
+  description: 'Course AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
 uid: course.az-203t02
 courseNumber: 'AZ-203T02-A'
 hoursToComplete: 24
@@ -42,10 +42,11 @@ outlineSection: |-
   - Azure App Service核心概念
   - 创建Azure应用服务Web应用
   - 通过在Azure App Service中使用WebJobs创建后台任务
+
   学完本模块后，学生将能够&#58;
   - 了解App Service核心概念和功能
   - 使用Azure CLI，Azure门户和PowerShell创建App Service Web应用程序
-  - 创建连续的和触发的WebJob 
+  - 创建连续的和触发的WebJob
 
   ### 模块 2&#58; 创建Azure App Service移动应用程序
   Azure App Service的移动应用程序功能为企业开发人员和系统集成商提供了高度可扩展且可在全球范围内使用的移动应用程序开发平台。
@@ -56,18 +57,16 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 将他们的应用程序推送到移动应用程序服务
   - 注册用于推送通知的应用
-  
+
   ### 模块 3&#58; 创建Azure App Service API应用
   本模块介绍如何创建和记录Azure App Service API。
   #### 课程
   - 创建API
   - 使用Swagger记录API
-
   学完本模块后，学生将能够&#58;
   - 创建一个APIM实例并创建一个新的API
   - 使用Swashbuckle在ASP.NET Core中创建Swagger对象
-
-
+  
   ### 模块 4&#58; 实现Azure功能
   Azure Functions是一种用于在云中轻松运行小段代码或“函数”的解决方案。您可以只编写解决问题所需的代码，而无需担心整个应用程序或运行该问题的基础结构。
   #### 课程

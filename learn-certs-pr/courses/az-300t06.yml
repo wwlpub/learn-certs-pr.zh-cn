@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 进行云开发
+title: Developing for the Cloud
 metadata:
-  title: '课程 AZ-300T06-A: 进行云开发'
-  description: '课程 AZ-300T06-A: 进行云开发'
+  title: 'Course AZ-300T06-A: Developing for the Cloud'
+  description: 'Course AZ-300T06-A: Developing for the Cloud'
 uid: course.az-300t06
 courseNumber: 'AZ-300T06-A'
 hoursToComplete: 24
@@ -45,12 +45,13 @@ exams:
 - uid: exam.az-300
 summary: |-
   了解如何配置基于消息的集成架构，开发异步处理，创建用于自动缩放的应用程序，以及更好地了解Azure Cognitive Services解决方案。
+
   #### 受众概况
   成功的云解决方案架构师从在操作系统，虚拟化，云基础架构，存储结构，计费和网络方面的实践经验开始担任这一角色。
 outlineSection: |-
   ### 模块 1&#58; 开发长期运行的任务和分布式事务
   该模块的主题包括&#58; 使用批处理实现大规模，并行和高性能应用程序；使用Microsoft Azure虚拟机的HPC；使用队列实施弹性应用程序；以及通过使用Webhooks实现代码来解决应用程序事件。实施Webhook可以为外部资源提供应用程序的URL。然后，只需要应用程序执行操作，外部资源就会向该URL发出HTTP请求。
-  
+
   ### 模块 2&#58; 配置基于消息的集成架构
   #### 课程
   - 配置应用或服务以发送电子邮件
@@ -60,6 +61,7 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   配置基于消息的集成架构
+
   ### 模块 3&#58; 开发异步处理
   #### 课程
   - 实现并行性/多线程和处理
@@ -67,16 +69,16 @@ outlineSection: |-
   - 实施用于存储或数据访问的接口
   - 实施适当的异步计算模型
   - 实施自动缩放规则和模式
+
   学完本模块后，学生将能够&#58;
   - 了解如何开发异步处理
-
 
   ### 模块 4&#58; 为自动缩放而开发
   #### 课程
   - 实施自动缩放规则和模式
   - 实现用于解决单例应用程序实例的代码
   - 实现解决瞬态的代码
-
+  
   学完本模块后，学生将能够&#58;
   - 开始创建用于自动缩放的应用
 

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 在Dynamics 365 for Finance and Operations中配置和使用仓库和运输管理
+title: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations
 metadata:
-  title: '课程 MB-330T03-A: 在Dynamics 365 for Finance and Operations中配置和使用仓库和运输管理'
-  description: '课程 MB-330T03-A: 在Dynamics 365 for Finance and Operations中配置和使用仓库和运输管理'
+  title: 'Course MB-330T03-A: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T03-A: Configure and use warehouse, and transportation management in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t03
 courseNumber: 'MB-330T03-A'
 hoursToComplete: 24
@@ -21,6 +21,7 @@ exams:
 - uid: exam.mb-330
 summary: |-
   通过使业务物流现代化、及时提供客户响应、提前预测洞察力、优化采购以及统一从销售到履行的流程，企业使用Dynamics 365 for Finance and Operations实现供应链的自动化和优化。本课程讨论如何在Microsoft Dynamics 365 for Finance and Operations中配置和使用仓库和运输管理。
+  
   #### 受众概况
   Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -36,6 +37,7 @@ outlineSection: |-
   - 位置指令和工作模板
   - 实习实验室
   - 模块总结
+  
   在本模块中，学生学习了&#58;
   - 配置仓库管理参数
   - 创建仓库和位置
@@ -56,6 +58,7 @@ outlineSection: |-
   - 配置移动设备
   - 实习实验室
   - 模块总结
+  
   在本模块中，学生学习了如何&#58;
   - 创建新的工作类
   - 配置移动设备
@@ -66,7 +69,7 @@ outlineSection: |-
   - 配置移动设备的基本外观
   - 创建移动设备用户
   - 设置标签布局并定义打印标签的设置
-
+  
   ### 模块 3&#58; 使用仓库管理
   在使用移动设备进行仓库管理之前，必须安装应用程序。本课介绍如何在Finance and Operations中使用仓库管理流程。
   #### 课程
@@ -80,8 +83,7 @@ outlineSection: |-
   - 包装和货柜运输
   - 实习实验室
   - 模块总结
-
-
+  
   在本模块中，学生学习了如何执行&#58;
   - 入站操作
   - 出站操作

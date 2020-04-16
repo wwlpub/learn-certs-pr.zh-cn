@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 实现SharePoint混合方案
+title: Implementing SharePoint Hybrid Scenarios
 metadata:
-  title: '课程 MS-301T03-A: 实现SharePoint混合方案'
-  description: '课程 MS-301T03-A: 实现SharePoint混合方案'
+  title: 'Course MS-301T03-A: Implementing SharePoint Hybrid Scenarios'
+  description: 'Course MS-301T03-A: Implementing SharePoint Hybrid Scenarios'
 uid: course.ms-301t03
 courseNumber: 'MS-301T03-A'
 hoursToComplete: 24
@@ -11,7 +11,7 @@ skillsGained:
 - skill: 描述可用的SharePoint混合方案。
 - skill: 描述SharePoint混合配置的要求。
 - skill: 描述SharePoint服务器混合。
-- skill: 配置SharePoint混合方案'
+- skill: 配置SharePoint混合方案‘
 - skill: 配置本地端数据网关。
 - skill: 描述云混合搜索和混合联合搜索之间的区别。
 - skill: 评估不同类型的混合搜索。
@@ -63,29 +63,29 @@ outlineSection: |-
   - 描述可用的SharePoint混合方案。
   - 描述SharePoint混合配置的要求。
   - 描述SharePoint服务器混合。
-
+  
   ### 模块 2&#58; 实现SharePoint混合方案
   本模块的重点是实现SharePoint混合方案。它具体讨论混合配置路线图，包括混合基础架构配置和混合选择器配置。它还引入了本地数据网关，以便在SharePoint Server 2019中启用Office 365功能。
   #### 课程
   - 实现SharePoint混合方案
   - 配置本地端数据网关
+  
   学完本模块后，学生将能够&#58;
-  - 配置SharePoint混合方案'
+  - 配置SharePoint混合方案‘
   - 配置本地端数据网关。
   
   ### 模块 3&#58; 实现SharePoint混合搜索
   本模块的重点是实现SharePoint混合搜索。它引入了不同类型的混合搜索，包括云混合搜索和混合联合搜索。它解释了如何设置混合搜索和配置搜索结果。
   #### 课程
   - SharePoint混合搜索概述
-  - 配置SharePoint混合搜索'
-
+  - 配置SharePoint混合搜索‘
+  
   学完本模块后，学生将能够&#58;
   - 描述云混合搜索和混合联合搜索之间的区别。
   - 评估不同类型的混合搜索。
   - 配置云混合搜索。
   - 配置混合搜索结果。
-
-
+  
   ### 模块 4&#58; 课程总结
 
   ### 实验室 &#58; 配置SharePoint混合

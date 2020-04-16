@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 设计 Azure 数据解决方案
+title: Designing an Azure Data Solution
 metadata:
-  title: '课程 DP-201T01-A: 设计 Azure 数据解决方案'
-  description: '课程 DP-201T01-A: 设计 Azure 数据解决方案'
+  title: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  description: 'Course DP-201T01-A: Designing an Azure Data Solution'
 uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
@@ -30,12 +30,13 @@ exams:
 - uid: exam.dp-201
 summary: |-
   在本课程中，学生将各种数据平台技术设计用于符合业务和技术要求的解决方案中。这可以包括本地、云和混合数据场景，其中包含关系数据、NoSQL数据或数据仓库数据。他们还将学习如何使用一系列用于流数据和批处理数据的技术来设计流程架构。学生还将探索如何设计数据安全性，包括数据访问、数据策略和标准。他们还将设计Azure数据解决方案，其中包括大数据、批处理和流数据解决方案的优化、可用性和灾难恢复。
+  
   #### 受众概况
   本课程的听众是希望了解Microsoft Azure上存在的数据平台技术的数据专业人员，数据架构师和商业智能专业人员。本课程的主要听众是开发应用程序的人员，这些应用程序可以利用Microsoft Azure上存在的数据平台技术提供内容。
 prerequisitesSection: |-
   除了专业经验外，参加此培训的学生还应具有与以下课程相当的技术知识&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
-  - DP-200&#58; 实施Azure数据解决方案
+  - [Azure Fundamentals](https://docs.microsoft.com/zh-cn/learn/modules/welcome-to-azure/)
+  - DP-200&#58;实施Azure数据解决方案
 outlineSection: |-
   ### 模块 1&#58; 数据平台架构注意事项
   在本模块中，学生将学习如何通过检查每个良好架构中发现的核心原理，在Azure中设计和构建安全、可伸缩和高性能的解决方案。他们将学习在整个架构中使用关键原则，无论选择何种技术，可以帮助您设计、构建和不断改进架构，从而为组织带来效益。
@@ -46,7 +47,8 @@ outlineSection: |-
   - 设计可用性和可恢复性
   - 效率和运营设计
   - 案例研究
-  #### 实验 室&#58; 案例研究
+  
+  #### 实验 室&#58;案例研究
   - 考虑安全性的设计
   - 考虑性能和可伸缩性
   - 设计可用性和可恢复性
@@ -64,19 +66,17 @@ outlineSection: |-
   - 在Azure中设计企业BI解决方案
   - 在Azure中自动化企业BI解决方案
   - 在Azure中构建企业级对话机器人
-
-  #### 实验 室&#58; 在Azure中构建企业级会话机器人
+  
+  #### 实验 室&#58;在Azure中构建企业级会话机器人
   - 在Azure中设计企业BI解决方案
   - 在Azure中实现企业BI解决方案自动化
   - 在Azure中实现企业BI解决方案自动化
-
   学完本模块后，学生将能够&#58;
   - 了解创建架构的核心原则
   - 从批处理模式的角度描述Lambda架构
   - 在Azure中设计企业BI解决方案
   - 在Azure中自动化企业BI解决方案
   - 在Azure中构建企业级对话机器人
-
 
 
   ### 模块 3&#58; Azure实时参考架构
@@ -88,7 +88,7 @@ outlineSection: |-
   - 创建Azure IoT参考架构
 
 
-  #### 实验 &#58; Azure实时参考架构
+  #### 实验 &#58;Azure实时参考架构
   - 使用Azure Stream Analytics构建流处理管道
   - 使用Azure Databricks设计流处理管道
   - 创建Azure IoT参考架构
@@ -111,7 +111,7 @@ outlineSection: |-
   - 应用安全
 
 
-  #### 实验 &#58; 数据平台安全设计注意事项
+  #### 实验 &#58;数据平台安全设计注意事项
   - 深度安全防御方法
   - 身份保护
 
@@ -136,7 +136,7 @@ outlineSection: |-
   - 设计备份和还原策略
 
 
-  #### 实验 &#58; 弹性和缩放设计
+  #### 实验 &#58;弹性和缩放设计
   - 通过缩放调整工作量
   - 优化存储和数据库性能的设计
   - 设计高度可用的解决方案
@@ -160,7 +160,7 @@ outlineSection: |-
   - 使用自动化减少工作量和错误
 
 
-  #### 实验 &#58; 效率和运营设计
+  #### 实验 &#58;效率和运营设计
   - 尽可能提高您的云环境效率
   - 使用监控和分析了解运行情况
   - 使用自动化减少工作量和错误

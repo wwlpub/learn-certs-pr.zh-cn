@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 管理Microsoft 365内置合规性
+title: Administering Microsoft 365 Built-in Compliance
 metadata:
-  title: '课程 MS-500T04-A: 管理Microsoft 365内置合规性'
-  description: '课程 MS-500T04-A: 管理Microsoft 365内置合规性'
+  title: 'Course MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
+  description: 'Course MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
 uid: course.ms-500t04
 courseNumber: 'MS-500T04-A'
 hoursToComplete: 24
@@ -31,9 +31,9 @@ summary: |-
   您的组织可能需要进行数据保留和调查的内部策略和外部要求。在本课程中，您将学习Microsoft 365中的存档和保留，以及数据管理和如何进行内容搜索和调查。具体来说，本课程涵盖数据保留策略和标记、针对SharePoint的就地记录管理、电子邮件保留，以及如何执行支持eDiscovery调查的内容搜索。本课程还帮助您的组织为全球数据保护法规（GDPR）做好准备。
   
   #### 受众概况
-  该考试适用于Microsoft 365 安全管理员角色。此角色与 Microsoft 365 企业管理员，业务利益相关者和其他工作负载管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
+  该考试适用于Microsoft 365 安全管理员角色。此角色与 Microsoft 365 企业管理员，业务利益相关者和其他工作负载管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。 
 
-  此角色主动保护Microsoft 365企业环境。职责包括响应威胁、实施、管理和监控针对Microsoft 365环境的安全和合规性解决方案。它们对事件、调查和数据治理的执行作出反应。
+  此角色主动保护Microsoft 365企业环境。职责包括响应威胁、实施、管理和监控针对Microsoft 365环境的安全和合规性解决方案。它们对事件、调查和数据治理的执行作出反应。 
 
   Microsoft 365安全管理员熟悉 Microsoft 365 工作负荷，在身份保护、信息保护、威胁防护、安全管理和数据治理方面拥有丰富的技能和经验。该角色专注于Microsoft 365环境，并包括混合环境。
 prerequisitesSection: |-
@@ -53,10 +53,12 @@ outlineSection: |-
   - 安全和合规中心的保留政策
   - 在Exchange中的存档和保留
   - 在SharePoint中的就地记录管理
+  
   #### 实验室 &#58; 存档和保留
   - 在组织中创建和授权用户
   - 配置保留标签和策略
   - MRM保留策略
+  
   学完本模块后，您应该能够&#58;
   - 描述 Microsoft 365 中的数据治理。
   - 描述就地存档和记录管理之间的区别。
@@ -76,6 +78,7 @@ outlineSection: |-
   - 管理电子邮件的保留
   - 数据治理故障排除
   - 分析和遥测
+  
   学完本模块后，您应该能够&#58;
   - 规划安全和合规角色
   - 描述您需要为GDPR考虑的事项。
@@ -84,15 +87,13 @@ outlineSection: |-
   - 描述电子邮件消息和电子邮件文件夹的保留策略
   - 解释如何计算各个要素的保留期。
   - 修复未按预期运行的保留策略。
-
+  
   ### 模块 3&#58; 管理搜索和调查
-  本模块的重点是内容搜索和调查。具体来说，它涉及如何使用eDiscovery对Microsoft 365数据进行高级调查。它还包括审计日志和讨论GDPR数据主题请求。
+  本模块的重点是内容搜索和调查。  具体来说，它涉及如何使用eDiscovery对Microsoft 365数据进行高级调查。它还包括审计日志和讨论GDPR数据主题请求。
   #### 课程
   - 在安全和合规中心搜索内容
   - 审计日志调查
   - 高级eDiscovery
-
-
   #### 实验室 &#58; eDiscovery
   - 在组织中创建和授权用户
   - 调查您的Microsoft 365数据

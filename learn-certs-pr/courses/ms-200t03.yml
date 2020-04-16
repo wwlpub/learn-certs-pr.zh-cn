@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 管理消息传递的高可用性和灾难恢复
+title: Managing Messaging High Availability and Disaster Recovery
 metadata:
-  title: '课程 MS-200T03-A: 管理消息传递的高可用性和灾难恢复'
-  description: '课程 MS-200T03-A: 管理消息传递的高可用性和灾难恢复'
+  title: 'Course MS-200T03-A: Managing Messaging High Availability and Disaster Recovery'
+  description: 'Course MS-200T03-A: Managing Messaging High Availability and Disaster Recovery'
 uid: course.ms-200t03
 courseNumber: 'MS-200T03-A'
 hoursToComplete: 48
@@ -33,6 +33,7 @@ summary: |-
   在本课程中，学生将学习传统和现代的消息传递高可用性和灾难恢复解决方案。考虑到过去几年添加的大量新功能，以及对可用性和灾难恢复的日益重视，消息传递系统变得越来越复杂。传统的高可用性和灾难恢复方法仍然存在，主要存在于硬件层，例如用于存储的RAID系统、成组设备复制和使用外部存储的归档解决方案。虽然Microsoft Exchange支持这些传统方法，但它也提供了通过直接集成到消息传递系统中的解决方案来实现高可用性和灾难恢复现代化的解决方案。这包括直接在消息数据库中构建的连续复制和保留解决方案。这为管理员节省了大量的时间和精力来维护硬件和软件上不同层次的外部解决方案。
 
   在本课程中，学生将了解每个解决方案，他们将学习何时使用其中一个，如何计划部署，以及如何实际实施。
+  
   #### 受众概况
   消息管理员部署、配置、管理
   本地和云企业环境中的收件人、权限、邮件保护、邮件流和公用
@@ -57,13 +58,13 @@ outlineSection: |-
   - 客户端访问服务的高可用性
   - 邮件传输的高可用性
   - 实现站点弹性
-
+  
   ### 模块 2&#58; 管理灾难恢复
   #### 课程
   - 规划灾难恢复
   - 实施备份策略
   - 恢复邮箱、数据库和服务器
-
+  
   ### 模块 3&#58; 管理公共文件夹
   #### 课程
   - 规划公用文件夹层次结构

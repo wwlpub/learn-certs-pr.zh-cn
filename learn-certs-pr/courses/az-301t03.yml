@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 部署、迁移和集成设计
+title: Designing for Deployment, Migration, and Integration
 metadata:
-  title: '课程 AZ-301T03-A: 部署，迁移和集成设计'
-  description: '课程 AZ-301T03-A: 部署，迁移和集成设计'
+  title: 'Course AZ-301T03-A: Designing for Deployment, Migration, and Integration'
+  description: 'Course AZ-301T03-A: Designing for Deployment, Migration, and Integration'
 uid: course.az-301t03
 courseNumber: 'AZ-301T03-A'
 hoursToComplete: 24
@@ -48,12 +48,14 @@ exams:
 - uid: exam.az-301
 summary: |-
   了解如何将Azure资源管理器（ARM）模板部署到资源组，如何使用Azure Building Blocks工具编写复杂的部署以及如何将API或逻辑应用程序与API管理服务集成。
+
   #### 受众概况
   成功的云解决方案架构师从在操作系统，虚拟化，云基础架构，存储结构，计费和网络方面的实践经验开始担任这一角色。
 outlineSection: |-
   ### 模块 1&#58; 使用Azure资源管理器部署资源
   本模块建立了对Azure资源管理器（ARM）以及部署，资源，模板，资源组和标签的核心概念的基本了解。该模块将深入探讨使用ARM模板的资源自动部署。
-  #### 实验 &#58; 使用Azure资源管理器部署资源
+
+  #### 实验 &#58;使用Azure资源管理器部署资源
   学完本模块后，学生将能够&#58;
   - 创建资源组。
   - 将资源添加到资源组。
@@ -65,18 +67,18 @@ outlineSection: |-
   本模块介绍解决方案如何利用Azure中的无服务器应用程序托管服务来
   托管Web应用程序，REST API，集成工作流和HPC工作负载，而无需管理特定的服务器资源。该模块专注于与App Services相关的组件，例如Web Apps，API Apps，Mobile Apps，Logic Apps和Functions。
 
-  #### 实验 &#58; 将托管的容器化工作负载部署到Azure
+  #### 实验 &#58;将托管的容器化工作负载部署到Azure
   学完本模块后，学生将能够&#58;
   - 在托管应用程序代码或App Service实例中的容器之间进行选择。
   - 描述API，移动和Web应用之间的区别。
   - 将API或逻辑应用程序与API管理服务集成在一起。
   - 设计应用程序服务计划或多区域部署以实现高性能和可扩展性。
-  
+
   ### 模块 3&#58; 在Azure中创作无服务器应用程序
   本模块介绍解决方案如何利用Azure中的无服务器应用程序托管服务来
   托管Web应用程序，REST API，集成工作流和HPC工作负载，而无需管理特定的服务器资源。该模块专注于与App Services相关的组件，例如Web Apps，API Apps，Mobile Apps，Logic Apps和Functions。
-
-  #### 实验 &#58; 将无服务器工作负载部署到Azure
+  
+  #### 实验 &#58;将无服务器工作负载部署到Azure
   学完本模块后，学生将能够&#58;
   - 在托管应用程序代码或App Service实例中的容器之间进行选择。
   - 描述API，移动和Web应用之间的区别。

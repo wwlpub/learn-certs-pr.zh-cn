@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 在Dynamics 365 for Finance and Operations中配置和使用离散制造方法
+title: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: '课程 MB-320T02-A: 在Dynamics 365 for Finance and Operations中配置和使用精益制造方法'
-  description: '课程 MB-320T02-A: 在Dynamics 365 for Finance and Operations中配置和使用精益制造方法'
+  title: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t02
 courseNumber: 'MB-320T02-A'
 hoursToComplete: 24
@@ -20,8 +20,9 @@ products:
 exams:
 - uid: exam.mb-320
 summary: |-
-  通过选择最适合的制造流程、改进运营流程、简化资源管理、加快产品交付、提高质量和客户满意度，企业使用Dynamics 365 for Finance and Operations来使互联运营更加智能化。
+  通过选择最适合的制造流程、改进运营流程、简化资源管理、加快产品交付、提高质量和客户满意度，企业使用Dynamics 365 for Finance and Operations来使互联运营更加智能化。 
   本课程讨论如何在Microsoft Dynamics 365 for Finance and Operations中配置和使用精益制造。
+  
   #### 受众概况
   Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -33,6 +34,7 @@ outlineSection: |-
   - 简介
   - 概念和术语
   - 模块总结
+  
   在本课中，学生学习了如何&#58;
   - 理解精益制造
   - 理解精益概念和术语
@@ -46,13 +48,13 @@ outlineSection: |-
   - 创建生产流程
   - 实习实验室
   - 模块总结
+  
   在本模块中，学生学习了如何&#58;
   - 配置参数
   - 配置价值流
   - 创建生产流程
   - 配置精益制造工作单元
-
-
+  
   ### 模块 3&#58; 创建和处理固定看板规则
   在Dynamics 365 for Finance and Operations中，看板被实现为基于下拉信号的计划、跟踪和处理框架。看板是供应拉动系统的重要组成部分，是精益生产/供应的关键要素。看板被使用后，应传递（触发）给供应源以补充看板。这种供应源是通过看板所关联的生产流程活动来定义的。Finance and Operations中的看板规则与生产流联系在一起，作为定义看板活动的基础。可以设置看板规则以支持各种按库存生产和按订单生产的场景。
   #### 课程
@@ -62,7 +64,6 @@ outlineSection: |-
   - 处理固定看板
   - 实习实验室
   - 模块总结
-
 
   学生理解看板和看板类型的概述，并学习如何配置和处理固定的看板规则。
 

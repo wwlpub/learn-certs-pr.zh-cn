@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 实施持续交付
+title: Implementing Continuous Delivery
 metadata:
-  title: '课程 AZ-400T03-A: 实施持续交付'
-  description: '课程 AZ-400T03-A: 实施持续交付'
+  title: 'Course AZ-400T03-A: Implementing Continuous Delivery'
+  description: 'Course AZ-400T03-A: Implementing Continuous Delivery'
 uid: course.az-400t03
 courseNumber: 'AZ-400T03-A'
 hoursToComplete: 24
@@ -46,19 +46,22 @@ exams:
 - uid: exam.az-400
 summary: |-
   本课程提供实现连续交付的知识和技能。学生将学习如何设计发布策略，设置发布管理工作流程以及实现适当的部署模式。
+  
   #### 受众概况
   本课程的学生对实现DevOps流程或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
 prerequisitesSection: |-
   关于Azure，版本控制，敏捷软件开发和核心软件开发原理的基础知识。拥有在软件供应组织的工作经验会很有帮助。
 outlineSection: |-
   ### 模块 1&#58; 设计发布策略
+  
   #### 课程
   - 持续交付简介
   - 发布策略建议
   - 建立高质量的发布渠道
   - 选择部署模式
   - 选择正确的发布管理工具
-  #### 实验 &#58; 制定发布策略
+  
+  #### 实验 &#58;制定发布策略
   学完本模块后，学生将能够&#58;
   - 区分发布和部署
   - 定义发布管道的组件
@@ -69,6 +72,7 @@ outlineSection: |-
   - 选择发布管理工具
   
   ### 模块 2&#58; 设置发布管理工作流程
+  
   #### 课程
   - 创建发布管道
   - 设置和配置环境
@@ -76,17 +80,19 @@ outlineSection: |-
   - 将Secrets与发布管道集成
   - 配置自动集成和功能测试自动化
   - 自动检查健康
+  
   #### 实验 &#58; 使用Terraform和Azure Pipelines在云中自动化您的基础架构部署
-
+  
   #### 实验 &#58; 使用Azure密钥保险库在管道中设置机密
-
+  
   #### 实验 &#58; 设置和运行负载测试
+  
+  #### 实验 &#58;设置和运行功能测试
 
-  #### 实验 &#58; 设置和运行功能测试
+  #### 实验 &#58;使用Azure Monitor作为发布门
 
-  #### 实验 &#58; 使用Azure Monitor作为发布门
-
-  #### 实验 &#58; 创建发布仪表板
+  #### 实验 &#58;创建发布仪表板
+  
   学完本模块后，学生将能够&#58;
   - 说明Azure DevOps和其他版本管理工具中使用的术语
   - 描述什么是构建和发布任务，它可以做什么以及一些可用的部署任务
@@ -111,9 +117,9 @@ outlineSection: |-
   - 逐步曝光部署
 
 
-  #### 实验 &#58; 蓝绿部署
+  #### 实验 &#58;蓝绿部署
 
-  #### 实验 &#58; 流量管理器
+  #### 实验 &#58;流量管理器
   学完本模块后，学生将能够&#58;
   - 描述部署模式
   - 实施蓝绿色部署

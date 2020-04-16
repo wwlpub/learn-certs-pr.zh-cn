@@ -1,19 +1,19 @@
 ### YamlMime:Course
-title: 配置Dynamics 365 Field Service
+title: Configuring Dynamics 365 Field Service
 metadata:
-  title: '课程 MB-240T01-A: 配置 Dynamics 365 Field Service'
-  description: '课程 MB-240T01-A: 配置 Dynamics 365 Field Service'
+  title: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
+  description: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
 uid: course.mb-240t01
 courseNumber: 'MB-240T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 确定现场服务实施中的关键组成部分
-- skill: 定义将被交付给客户的产品和服务
-- skill: 确定在特定场景中使用哪些定价选项
-- skill: 确定要求哪些资源
-- skill: 配置系统，以支持资源需求
-- skill: 定义常见的报告问题并将其模板化，以便于使用
+- skill: 确定现场服务实施中的关键组成部分。
+- skill: 定义将被交付给客户的产品和服务。
+- skill: 确定在特定场景中使用哪些定价选项。
+- skill: 确定要求哪些资源。
+- skill: 配置系统，以支持资源需求。
+- skill: 定义常见的报告问题并将其模板化，以便于使用。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -27,7 +27,7 @@ products:
 exams:
 - uid: exam.mb-240
 summary: |-
-  Dynamics 365 for Field Service通过提供各种工具帮助确定和调度资源并为移动工作者管理工作负载，帮助企业更好地在市场中定位。本课程将使学生具备所需的技能，以识别和配置用于提供现场服务和移动解决方案的关键组件。关键主题包括确定组织的注意事项，它们将驱动配置决策和公共配置的各个方面。
+  Dynamics 365 for Field Service通过提供各种工具帮助确定和调度资源并为移动工作者管理工作负载，帮助企业更好地在市场中定位。本课程将使学生具备所需的技能，以识别和配置用于提供现场服务和移动解决方案的关键组件。关键主题包括确定组织的注意事项，它们将驱动配置决策和公共配置的各个方面。 
   本课程有助于学生更好地理解围绕实施的大局和最终目标，这些实施有助于设计与客户和组织目标相一致的更有效的解决方案。
 prerequisitesSection: |-
   对Dynamics 365的特性、功能和导航的基本了解。
@@ -37,13 +37,13 @@ outlineSection: |-
   - 现场服务简介
   - 定义产品和服务
   - 定义税码
-
+  
   ### 模块 2&#58; 资源调度配置
   #### 课程
   - 映射和位置信息
   - 配置资源组件
   - 定义帐户偏好
-
+  
   ### 模块 3&#58; 定义和配置可预订资源
   #### 课程
   - 定义可预订的资源

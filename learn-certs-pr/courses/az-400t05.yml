@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 实施应用程序基础架构
+title: Implementing Application Infrastructure
 metadata:
-  title: '课程 AZ-400T05-A: 实施应用程序基础架构'
-  description: '课程 AZ-400T05-A: 实施应用程序基础架构'
+  title: 'Course AZ-400T05-A: Implementing Application Infrastructure'
+  description: 'Course AZ-400T05-A: Implementing Application Infrastructure'
 uid: course.az-400t05
 courseNumber: 'AZ-400T05-A'
 hoursToComplete: 24
@@ -32,6 +32,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   本课程提供在DevOps管道中部署应用程序基础结构的知识和技能。学生将学习如何将基础结构实现为代码和配置管理，如何使用常见的自动化工具来配置Azure基础结构，以及如何使用各种Azure服务和部署方法来部署应用程序基础结构。学生还将学习如何将第三方部署工具与Chef和Puppet等Azure集成在一起，以将合规性和安全性纳入发布渠道。
+  
   #### 受众概况
   本课程的学生对实现应用程序基础结构以及该基础结构的管理和配置，或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
 prerequisitesSection: |-
@@ -52,11 +53,13 @@ outlineSection: |-
   - 版本控制
   - 使用ARM模板进行实验室部署到Azure
   - 模块复习题
+  
   学完本模块后，学生将能够&#58;
   - 将基础架构和配置作为代码原则
   - 使用Microsoft自动化技术（例如ARM模板，PowerShell和Azure CLI）部署和管理基础结构
-
+  
   ### 模块 2&#58; Azure部署模型和服务
+  
   #### 课程
   - 学习目标
   - 部署模型和选项
@@ -64,24 +67,26 @@ outlineSection: |-
   - 具有DevOps的Azure自动化
   - 期望状态配置（DSC）
   - Azure平台即服务（PaaS）服务
-  - Azure服务结构
+  - Azure Service Fabric
   - 实验室Azure自动化-IaaS或PaaS部署
   - Moduel评论问题
+  
   学完本模块后，学生将能够&#58;
   - 描述Azure可用的部署模型和服务
   
   ### 模块 3&#58; 创建和管理Kubernetes服务基础架构
+  
   #### 课程
   - 学习目标
   - Azure Kubernetes服务
   - 实验室部署和扩展AKS集群
   - 模块复习题
-
+  
   学完本模块后，学生将能够&#58;
   - 部署和配置托管Kubernetes集群
-
-
+  
   ### 模块 4&#58; Azure提供的第三方和开源工具
+  
   #### 课程
   - 学习目标
   - Chef
@@ -97,6 +102,7 @@ outlineSection: |-
 
 
   ### 模块 5&#58; 在基础架构中实现合规性和安全性
+  
   #### 课程
   - DevOps的安全性和合规性原则
   - Azure安全中心

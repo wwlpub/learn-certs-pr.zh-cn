@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 身份管理
+title: Microsoft 365 Identity Management
 metadata:
-  title: '课程 MS-100T03-A: Microsoft 365 身份管理'
-  description: '课程 MS-100T03-A: Microsoft 365 身份管理'
+  title: 'Course MS-100T03-A: Microsoft 365 Identity Management'
+  description: 'Course MS-100T03-A: Microsoft 365 Identity Management'
 uid: course.ms-100t03
 courseNumber: 'MS-100T03-A'
 hoursToComplete: 48
@@ -35,6 +35,7 @@ exams:
 - uid: exam.ms-100
 summary: |-
   了解Microsoft 365身份管理，包括如何管理云身份的用户安全组和许可证，以及如何规划和实现身份同步、联合身份、应用程序和外部访问。
+  
   #### 受众概况
   本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
 prerequisitesSection: |-
@@ -51,7 +52,7 @@ outlineSection: |-
   - 练习 1&#58; 设置您的实验室环境
   - 练习 2&#58; 使用Microsoft 365管理员中心管理您的Microsoft 365身份环境
   - 练习 3&#58; 使用Windows PowerShell管理您的Microsoft 365身份环境
-
+  
   ### 模块 2&#58; 规划和实现身份同步
   #### 课程
   - 身份同步简介
@@ -67,8 +68,7 @@ outlineSection: |-
   - 联合身份简介
   - 规划AD FS部署
   - 实现AD FS
-
-
+  
   ### 模块 4&#58; 实现应用程序和外部访问
   #### 课程
   - 在Azure AD中实现应用程序

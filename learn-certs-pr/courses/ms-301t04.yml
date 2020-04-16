@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 迁移至 SharePoint Online
+title: Migrating to SharePoint Online
 metadata:
-  title: '课程 MS-301T04-A: 迁移至 SharePoint Online'
-  description: '课程 MS-301T04-A: 迁移至 SharePoint Online'
+  title: 'Course MS-301T04-A: Migrating to SharePoint Online'
+  description: 'Course MS-301T04-A: Migrating to SharePoint Online'
 uid: course.ms-301t04
 courseNumber: 'MS-301T04-A'
 hoursToComplete: 24
@@ -58,7 +58,7 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 规划内容迁移过程。
   - 描述迁移过程中可利用的资源和工具。
-
+  
   ### 模块 2&#58; 迁移到SharePoint Online
   本模块的重点是使用SharePoint迁移工具（SPMT）将内容迁移到云。模块具体讨论了SPMT的要求和局限性。针对不同的数据源，如文件共享和SharePoint内容，本模块介绍了不同的迁移方法。
   #### 课程
@@ -71,6 +71,5 @@ outlineSection: |-
   - 管理和监控迁移过程。
   
   ### 模块 3&#58; 课程总结
-
   ### 实验室 &#58; 将文件迁移到SharePoint Online
 

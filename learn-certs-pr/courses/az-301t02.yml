@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 设计数据平台解决方案
+title: Designing a Data Platform Solution
 metadata:
-  title: '课程 AZ-301T02-A: 设计数据平台解决方案'
-  description: '课程 AZ-301T02-A: 设计数据平台解决方案'
+  title: 'Course AZ-301T02-A: Designing a Data Platform Solution'
+  description: 'Course AZ-301T02-A: Designing a Data Platform Solution'
 uid: course.az-301t02
 courseNumber: 'AZ-301T02-A'
 hoursToComplete: 24
@@ -55,6 +55,7 @@ summary: |-
 outlineSection: |-
   ### 模块 1&#58; 使用Azure存储支持Azure解决方案
   此模块描述了多少Azure服务将Azure存储服务用作Azure中其他应用程序解决方案的后备存储。在将Azure存储用作全面Azure解决方案的补充服务时，该模块深入考虑了重要的考虑因素。
+
   学完本模块后，学生将能够&#58;
   - 根据解决方案的需求确定Azure存储的理想定价选项。
   - 确定Azure存储服务的性能阈值。
@@ -64,15 +65,16 @@ outlineSection: |-
 
   ### 模块 2&#58; 比较Azure中的数据库选项
   此模块比较Azure中可用的各种关系和非关系数据存储选项。将选项按组进行浏览，例如关系数据库（Azure SQL数据库，MySQL和Azure上的PostgreSQL），非关系数据库（Azure Cosmos DB和存储表），流传输（流Analytics）和存储（数据工厂，数据仓库，和Data Lake）。
+
   #### 实验 &#58; 在Azure中部署数据库实例
   学完本模块后，学生将能够&#58;
   - 比较和对比针对应用程序，Azure平台和网络的监视服务。
   - 确定用于大规模数据提取的数据流选项。
   - 确定长期数据存储选项。
-  
+
   ### 模块 3&#58; 监视和自动化Azure解决方案
   本模块涵盖了架构，设计和可能部署Azure解决方案之后可用的监视和自动化解决方案。该模块检查用于监视单个应用程序，Azure平台和网络组件的服务。该模块还涵盖了自动化和备份选项，以启用Azure托管解决方案的业务连续性方案。
-
+  
   #### 实验 &#58; 将配置管理解决方案部署到Azure
   学完本模块后，学生将能够&#58;
   - 比较和对比针对应用程序，Azure平台和网络的监视服务。

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 实施DevOps开发过程
+title: Implementing DevOps Development Processes
 metadata:
-  title: '课程 AZ-400T01-A: 实施devOps开发过程'
-  description: '课程 AZ-400T01-A: 实施devOps开发过程'
+  title: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+  description: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
 uid: course.az-400t01
 courseNumber: 'AZ-400T01-A'
 hoursToComplete: 24
@@ -31,6 +31,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   本课程提供实施DevOps流程的知识和技能。学生将学习如何使用源代码控制，为企业扩展Git以及实现和管理构建基础结构。
+  
   #### 受众概况
   本课程的学生对实现DevOps流程或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
 prerequisitesSection: |-
@@ -44,6 +45,7 @@ outlineSection: |-
   - Azure存储库简介
   - 从Team Foundation版本控制（TFVC）迁移到Git
   - 验证您的Git回购
+
   学完本模块后，学生将能够&#58;
   - 描述使用源代码管理的好处
   - 从TFVC迁移到Git
@@ -58,9 +60,10 @@ outlineSection: |-
   - Git版本
   - 公共项目
   - Git中的文件
+
   学完本模块后，学生将能够&#58;
   - 适用于企业DevOps的Scale Git
-  
+
   ### 模块 3&#58; 实施和管理构建基础架构
   #### 课程
   - DevOps中的管道概念
@@ -69,7 +72,7 @@ outlineSection: |-
   - 代理池
   - 管道和并发
   - Azure DevOps和开源项目
-  - Azure Pipelines YAML与Visual Designer
+  - Azure Pipelines YAML vs Visual Designer
   - 设置私人代理
   - 将Jenkins与Azure Pipelines集成
   - 将外部源代码控制与Azure Pipelines集成
@@ -77,8 +80,7 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   - 实施和管理构建基础架构
-
-
+  
   ### 模块 4&#58; 管理应用程序配置和机密
   #### 课程
   - 安全简介

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 在Dynamics 365 for Finance and Operations中配置和使用离散制造方法
+title: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: '课程 MB-320T01-A: 在Dynamics 365 for Finance and Operations中配置和使用离散制造方法'
-  description: '课程 MB-320T01-A: 在Dynamics 365 for Finance and Operations中配置和使用离散制造方法'
+  title: 'Course MB-320T01-A: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T01-A: Configure and use discrete manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t01
 courseNumber: 'MB-320T01-A'
 hoursToComplete: 48
@@ -21,6 +21,7 @@ exams:
 - uid: exam.mb-320
 summary: |-
   通过选择最适合的制造流程、改进运营流程、简化资源管理、加快产品交付、提高质量和客户满意度，企业使用Dynamics 365 for Finance and Operations来使互联运营更加智能化。本课程讨论如何在Microsoft Dynamics 365 for Finance and Operations中配置和使用离散制造。
+  
   #### 受众概况
   Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -36,6 +37,7 @@ outlineSection: |-
   - 总账和生产控制模块
   - 实习实验室
   - 总结
+  
   在本模块中，学生学习了&#58;
   - 离散制造、精益制造和过程制造方法
   - 统一制造
@@ -44,7 +46,7 @@ outlineSection: |-
   - 总帐和生产控制模块之间的互连性
   - 生产池
   - 如何使用分配密钥
-
+  
   ### 模块 2&#58; 离散制造入门
   尽管每个法人实体的制造过程都是独特的，但根据生产环境的性质，生产控制模块中使用的核心概念元素往往非常相似。
   #### 课程
@@ -63,10 +65,9 @@ outlineSection: |-
   - 物料清单
   - 资源
   - 路线和操作
-
+  
   ### 模块 3&#58; 配置离散制造
   在生产控制模块中工作并创建生产订单之前，必须设置生产参数。选择的参数直接影响生产订单和生产生命周期。参数可以按公司或按站点设置，这决定了Dynamics 365 for Finance and Operations是使用公司级参数还是特定于站点的参数。参数、生产订单和生命周期根据其状态和生产生命周期，审查如何定义这些参数、如何使用日记帐名称、如何创建生产订单以及如何通过制造对其进行处理。本课介绍如何在Finance and Operations中配置离散制造。
-
   #### 课程
   - 简介
   - 为生产准备总账
@@ -75,7 +76,6 @@ outlineSection: |-
   - 配置运营和路线
   - 实习实验室
   - 模块总结
-
 
   在本模块中，学生学习了如何&#58;
   - 在生产中配置库存维度

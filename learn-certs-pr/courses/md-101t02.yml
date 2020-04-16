@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 管理现代桌面和设备
+title: Managing Modern Desktops and Devices
 metadata:
-  title: '课程 MD-101T02-A: 管理现代桌面和设备'
-  description: '课程 MD-101T02-A: 管理现代桌面和设备'
+  title: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
+  description: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
 uid: course.md-101t02
 courseNumber: 'MD-101T02-A'
 hoursToComplete: 48
@@ -38,6 +38,7 @@ summary: |-
   Intune纳入到组织内部以及如何用它管理现代
   桌面和设备。学生还将了解部署和
   管理应用程序和基于浏览器的应用程序的方法。
+  
   #### 受众概况
   现代桌面管理员（MDA）在企业环境中部署、配置、保护、管理和监控设备和客户端应用程序。职责包括管理身份、访问、策略、更新和应用程序。现代桌面管理员与 M365企业管理员合作设计并实施满足现代组织业务需求的设备策略。现代桌面管理员必须熟悉M365工作负荷，并且必须精通部署、配置和维护 Windows 10 及非 Windows 设备方面具有过硬的技能和丰富的经验。现代桌面管理员的角色专注于云服务，而不是本地管理技术。
 prerequisitesSection: |-
@@ -49,44 +50,48 @@ prerequisitesSection: |-
 outlineSection: |-
   ### 模块 1&#58; 设备注册
   在本单元中，学生将研究共同管理的益处和先决条件，并学习如何为其制定计划。本模块还将介绍Azure AD join、Microsoft Intune简介以及如何为注册设备配置策略。本模块最后将概述Intune中的设备清单，并使用Intune控制台、Power BI和Microsoft Graph进行报告。
+  
   #### 课程
   - 设备管理选项
   - 管理 Intune 设备注册和清单
+  
   #### 实验室 &#58; 实习实验室 - 设备注册和管理
   - 安装MDM迁移分析工具（MMAT）
   - 获取Intune和Azure AD Premium许可证并启用设备管理
   - 在 Intune 中注册设备
   - 在 Intune 中管理设备
   - 创建设备清单报告
+  
   学完本模块后，学生将能够&#58;
   - 描述迁移到共同管理的益处和方法
   - 使用Microsoft Intune部署MDM
   - 配置设备注册
   - 在Windows Intune中注册桌面和移动设备
   - 配置和下载清单报告
-
+  
   ### 模块 2&#58; 配置配置文件
   本模块深入探讨Intune设备配置文件，包括设备配置文件的类型以及内置配置文件和自定义配置文件之间的区别。学生将学习如何将配置文件分配到Azure AD组以及在Intune中监视设备和配置文件。本模块最后将概述如何使用Windows Analytics进行运行状况和合规性报告。
+  
   #### 课程
   - 配置设备配置文件
   - 管理用户档案
   - 监控设备
+  
   #### 实验室 &#58; 实习实验室 - 管理配置文件
   - 配置漫游用户档案和文件夹重定向
   - 基于场景创建和部署设备配置文件
   - 更改部署的策略并监视用户和设备活动
   - 配置企业状态漫游
-
-
+  
   学完本模块后，学生将能够&#58;
   - 描述设备配置文件的类型
   - 创建和分配设备配置文件
   - 配置用户档案和文件夹重定向
   - 使用Intune和Windows Analytics监视和报告设备情况
 
-
   ### 模块 3&#58; 应用管理
   在本模块中，学生将学习本地应用程序管理和基于云的解决方案。本模块将介绍如何管理Intune中的Office 365 ProPlus部署，以及如何管理未注册设备上的应用程序。本模块最后将概述使用Internet Explorer和Microsoft Edge的企业模式，并使用Intune跟踪已安装的应用程序、许可证和分配的应用程序。
+  
   #### 课程
   - 实施移动应用程序管理（MAM）
   - 部署和更新应用程序
@@ -109,6 +114,7 @@ outlineSection: |-
 
 
   ### 模块 4&#58; 课程总结
+  
   #### 课程
   - 期末考试
 

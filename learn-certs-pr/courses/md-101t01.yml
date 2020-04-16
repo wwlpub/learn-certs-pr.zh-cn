@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 部署现代桌面
+title: Deploying the Modern Desktop
 metadata:
-  title: '课程 MD-101T01-A: 部署现代桌面'
-  description: '课程 MD-101T01-A: 部署现代桌面'
+  title: 'Course MD-101T01-A: Deploying the Modern Desktop'
+  description: 'Course MD-101T01-A: Deploying the Modern Desktop'
 uid: course.md-101t01
 courseNumber: 'MD-101T01-A'
 hoursToComplete: 48
@@ -27,6 +27,7 @@ exams:
 - uid: exam.md-101
 summary: |-
   随着台式机的发展，部署和更新它们的方法也在发展。在本课程中，您将学习如何规划和实现操作系统部署策略。本课程将帮助学生了解各种可用的方法、适合的场景以及如何使用现代方法部署Windows。本课程还将涉及Windows更新策略的规划和实施。
+  
   #### 受众概况
   现代桌面管理员（MDA）在企业环境中部署、配置、保护、管理和监控设备和客户端应用程序。职责包括管理身份、访问、策略、更新和应用程序。现代桌面管理员与 M365企业管理员合作设计并实施满足现代组织业务需求的设备策略。现代桌面管理员必须熟悉M365工作负荷，并且必须精通部署、配置和维护 Windows 10 及非 Windows 设备方面具有过硬的技能和丰富的经验。现代桌面管理员的角色专注于云服务，而不是本地管理技术。
 prerequisitesSection: |-
@@ -38,10 +39,12 @@ prerequisitesSection: |-
 outlineSection: |-
   ### 模块 1&#58; 规划操作系统部署策略
   本模块说明如何规划和实现部署策略。它涵盖了部署Windows的各种方法和场景。它讨论了本地部署和云技术，以及新部署、升级和迁移的注意事项。
+  
   #### 课程
   - Windows即服务概述
   - Windows 10部署选项
   - Windows 10部署注意事项
+  
   #### 实验室 &#58; 实习实验室&#58; 规划Windows 10部署
   学完本模块后，学生将能够&#58;
   - 描述Windows即服务。
@@ -53,29 +56,31 @@ outlineSection: |-
   
   ### 模块 2&#58; 实施Windows 10
   本模块介绍用于部署Windows 10的新的现代方法，如Windows Autopilot和配置包。本模块还包括用于升级计划、应用程序兼容性和迁移方法的工具。
+  
   #### 课程
   - 使用动态部署方法实施 Windows 10
   - 使用 Windows Autopilot 实施 Windows 10
   - 将设备升级到 Windows 10
+  
   #### 实验室 &#58; 实习实验室 实施Windows 10
   - 创建和部署配置包
   - 迁移用户设置
   - 使用Windows Autopilot部署 Windows 10
+  
   学完本模块后，学生将能够&#58;
   - 制定操作系统部署和升级策略
   - 了解不同的部署方法
   - 了解本地和基于云的解决方案可用于哪些场景
   - 部署和迁移桌面到Windows 10
   - 规划和配置Windows更新策略。
-
-
+  
   ### 模块 3&#58; 管理Windows 10更新
   本模块介绍如何管理Windows的更新。本模块介绍Windows 10的维护选项。学生将学习部署更新的不同方法以及如何配置Windows更新策略。
+  
   #### 课程
   - 更新Windows 10
   - Windows Update for Business
   - Windows Analytics简介
-
 
   #### 实验室 &#58; 实习实验室 管理 Windows 10更新
   - 手动配置Windows更新设置

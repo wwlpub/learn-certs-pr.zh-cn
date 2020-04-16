@@ -1,25 +1,25 @@
 ### YamlMime:Course
-title: 管理 Microsoft Exchange Server 2016/2019
+title: Administering Microsoft Exchange Server 2016/2019
 metadata:
-  title: '课程 20345-1-B: 管理Microsoft Exchange Server 2016/2019'
-  description: '课程 20345-1-B: 管理Microsoft Exchange Server 2016/2019'
+  title: 'Course 20345-1-B: Administering Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-1-B: Administering Microsoft Exchange Server 2016/2019'
 uid: course.20345-1
 courseNumber: '20345-1-B'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 部署Exchange Server
-- skill: 规划和配置Exchange Server的存储
-- skill: 在Exchange Server中创建和管理各种收件人对象
-- skill: 使用Exchange Server cmdlet执行收件人管理和Exchange Server管理任务
-- skill: 在Exchange Server中部署客户端访问服务
-- skill: 管理Exchange Server中的高可用性
-- skill: 为Exchange Server实施灾难恢复
-- skill: 在Exchange Server中配置和管理邮件传输
-- skill: 在Exchange Server中配置邮件安全性
-- skill: 监视Exchange Server并对其进行故障排除
-- skill: 配置基于Exchange Server角色的访问控制权限，并为管理员和用户配置审核日志记录
-- skill: 实施和管理与Exchange Online的集成
+- skill: 部署Exchange Server。
+- skill: 规划和配置Exchange Server的存储。
+- skill: 在Exchange Server中创建和管理各种收件人对象。
+- skill: 使用Exchange Server cmdlet执行收件人管理和Exchange Server管理任务。
+- skill: 在Exchange Server中部署客户端访问服务。
+- skill: 管理Exchange Server中的高可用性。
+- skill: 为Exchange Server实施灾难恢复。
+- skill: 在Exchange Server中配置和管理邮件传输。
+- skill: 在Exchange Server中配置邮件安全性。
+- skill: 监视Exchange Server并对其进行故障排除。
+- skill: 配置基于Exchange Server角色的访问控制权限，并为管理员和用户配置审核日志记录。
+- skill: 实施和管理与Exchange Online的集成。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -47,7 +47,6 @@ prerequisitesSection: |-
 outlineSection: |-
   ### 模块 1&#58; 部署Exchange Server
   本模块说明了Exchange Server的关键功能和架构。本模块还说明了部署Exchange Server的前提条件和要求。此外，本模块还说明了如何使用Exchange管理中心和Exchange命令行管理程序来管理Exchange Server。
-
   #### 课程
   - Exchange Server概述
   - Exchange Server架构
@@ -74,15 +73,13 @@ outlineSection: |-
   - Exchange Server邮箱数据库
   - Exchange Server存储
   - 配置Exchange Server邮箱数据库和存储
-
+  
   #### 实验 &#58; 配置Exchange Server存储
   - 创建和配置邮箱数据库
-
   学完本模块后，学生将能够&#58;
   - 描述Exchange Server邮箱数据库的功能。
   - 说明可用于Exchange Server的存储选项。
   - 配置Exchange Server邮箱数据库和存储。
-
 
   ### 模块 3&#58; 管理收件人对象
   本模块说明了如何在Exchange Server中管理用户、共享、资源、公用文件夹、仲裁邮箱。本模块还说明了如何在Exchange Server中管理联系人、邮件用户和通讯组。最后，本模块说明了如何在Exchange Server中配置地址列表以及电子邮件地址和通讯簿策略。

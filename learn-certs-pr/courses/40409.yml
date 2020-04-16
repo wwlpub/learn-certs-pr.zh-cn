@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 为Skype for Business Online和Server 2015部署语音工作负载
+title: Deploying Voice Workloads for Skype for Business Online and Server 2015
 metadata:
-  title: '课程 40409-A: 为Skype for Business Online和Server 2015部署语音工作负载'
-  description: '课程 40409-A: 为Skype for Business Online和Server 2015部署语音工作负载'
+  title: 'Course 40409-A: Deploying Voice Workloads for Skype for Business Online and Server 2015'
+  description: 'Course 40409-A: Deploying Voice Workloads for Skype for Business Online and Server 2015'
 uid: course.40409
 courseNumber: '40409-A'
 hoursToComplete: 120
@@ -11,15 +11,15 @@ skillsGained:
 - skill: 描述Skype for Business Online和Skype for Business Server 2015可用的各种语音工作负载。
 - skill: 评估网络以准备Skype for Business Server 2015或Skype for Business Online语音解决方案。
 - skill: 部署和配置Skype for Business语音解决方案，该解决方案将Skype for Business Online和Skype for Business Enterprise Voice结合在一起。
-- skill: 使用PSTN呼叫部署和配置Cloud PBX
-- skill: 配置本地企业语音功能
-- skill: 通过本地PSTN连接部署和配置Cloud PBX
-- skill: 将Skype for Business Server 2015与非Microsoft语音基础结构集成
-- skill: 规划和部署Cloud Connector Edition
-- skill: 配置扩展Skype for Business Enterprise语音（本地）功能的功能，例如位置信息服务器和响应组
-- skill: 优化TCP/IP网络上的语音通信
-- skill: 使用呼叫质量方法和Skype for Business Server 2015监视工具和报告
-- skill: Skype for Business Online和Skype for Business Server 2015企业语音（本地）语音通信的故障排除
+- skill: 使用PSTN呼叫部署和配置Cloud PBX。
+- skill: 配置本地企业语音功能。
+- skill: 通过本地PSTN连接部署和配置Cloud PBX。
+- skill: 将Skype for Business Server 2015与非Microsoft语音基础结构集成。
+- skill: 规划和部署Cloud Connector Edition。
+- skill: 配置扩展Skype for Business Enterprise语音（本地）功能的功能，例如位置信息服务器和响应组。
+- skill: 优化TCP/IP网络上的语音通信。
+- skill: 使用呼叫质量方法和Skype for Business Server 2015监视工具和报告。
+- skill: Skype for Business Online和Skype for Business Server 2015企业语音（本地）语音通信的故障排除。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -50,31 +50,31 @@ outlineSection: |-
   - 设计语音工作量
   - Skype for Business生态系统
   - SIP基础和路由
+
   #### Lab&#58; 定制您的实验室环境
   - 配置本地组织
   学完本模块后，学生将能够&#58;
   - 描述Skype for Business Server 2015和Skype for Business Online在各种可能的语音架构中可用的不同选项。
   - 说明云技术如何改变语音架构的设计、部署和管理。
   - 将他们以前的经验与他们在整个课程中将学到的内容联系起来。
+
   ### 模块 2&#58; 评估网络和语音部署选项
   在本模块中，您将学习如何为Skype for Business Server 2015或Skype for Business Online的实施执行网络就绪评估。该模块与Skype运营框架（SOF）计划阶段相吻合。具体来说，该模块与“构想”，“评估”和“设计”阶段保持一致。您将了解有关Skype for Business Online和Skype for Business Server 2015功能的信息。您还将学习Skype for Business Online和Skype for Business Server 2015支持的架构。
   #### 课程
   - 网络规划与评估
   - 业务功能和功能的Skype
   - 规划您的Cloud PBX解决方案
-
+  
   #### 实验 &#58; 使用Office 365配置身份联合
   - 在Office 365中添加自定义域并启用目录同步
   - 执行目录同步
   - 安装和配置Active Directory联合身份验证服务
   - 使用Office 365启用单点登录
-
   学完本模块后，学生将能够&#58;
   - 描述网络评估的阶段。
   - 确定Skype for Business Online计划。
   - 描述受支持的语音架构。
   - 为给定场景选择语音架构。
-
 
   ### 模块 3&#58; 拆分域配置
   在本模块中，您将学习术语“拆分域”的含义以及关于Skype for Business产品的描述。您还将学习拆分域的好处，部署此环境所需的前提条件以及配置后如何配置用户。最后，您将学习解决常见问题。
@@ -179,9 +179,9 @@ outlineSection: |-
 
 
   #### 实验 &#58; 呼叫流程和可管理性
-  - *练习 1&#58; 测试当前的PBX呼叫解决方案
-  - *练习 2&#58; 使用本地PSTN连接启用Cloud PBX
-  - *练习 3&#58; 使用本地PSTN连接测试Cloud PBX
+  - *练习1&#58; 测试当前的PBX呼叫解决方案
+  - *练习2&#58; 使用本地PSTN连接启用Cloud PBX
+  - *练习3&#58; 使用本地PSTN连接测试Cloud PBX
 
   学完本模块后，学生将能够&#58;
   - *使用本地PSTN连接架构和方案说明Cloud PBX

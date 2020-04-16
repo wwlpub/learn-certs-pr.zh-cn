@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 在Dynamics 365 for Finance and Operations中配置和使用过程制造
+title: Configure and use process manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: '课程 MB-320T03-A: 在Dynamics 365 for Finance and Operations中配置和使用过程制造'
-  description: '课程 MB-320T03-A: 在Dynamics 365 for Finance and Operations中配置和使用过程制造'
+  title: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t03
 courseNumber: 'MB-320T03-A'
 hoursToComplete: 24
@@ -35,6 +35,7 @@ outlineSection: |-
   - 配置已批准的供应商
   - 实习实验室
   - 模块总结
+  
   在此模块中，学生学习了&#58;
   - 了解过程制造
   - 了解配方管理
@@ -50,12 +51,13 @@ outlineSection: |-
   - 设置效力管理
   - 实习实验室
   - 模块总结
+  
   在本模块中，学生学习了如何&#58;
   - 理解批次属性
   - 确定和配置批次属性
   - 理解批次和批次控制流程
   - 配置批次返工
-
+  
   ### 模块 3&#58; 配置商品定价和产品合规性
   本主题说明如何开始使用Finance and Operations中的商品定价和合规性。
   #### 课程
@@ -64,8 +66,7 @@ outlineSection: |-
   - 配置产品合规性
   - 实习实验室
   - 模块总结
-
-
+  
   在本模块中，学生学习了如何&#58;
   - 配置商品定价
   - 配置产品合规性

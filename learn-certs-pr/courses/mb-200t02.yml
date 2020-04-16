@@ -1,19 +1,19 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Power Platform 自动化'
+title: 'Dynamics 365: Power Platform automation'
 metadata:
-  title: '课程 MB-200T02-A: Dynamics 365: Power Platform 自动化'
-  description: '课程 MB-200T02-A: Dynamics 365: Power Platform 自动化'
+  title: 'Course MB-200T02-A: Dynamics 365: Power Platform automation'
+  description: 'Course MB-200T02-A: Dynamics 365: Power Platform automation'
 uid: course.mb-200t02
 courseNumber: 'MB-200T02-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 确定Power Platform中可用的自动化选项
-- skill: 确定何时使用何种自动化
-- skill: 创建和管理业务规则
-- skill: 创建和管理工作流
+- skill: 确定Power Platform中可用的自动化选项。
+- skill: 确定何时使用何种自动化。
+- skill: 创建和管理业务规则。
+- skill: 创建和管理工作流。
 - skill: 创建和使用 Microsoft Flow
-- skill: 创建和使用业务流程流
+- skill: 创建和使用业务流程流。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,20 +32,21 @@ exams:
 summary: |-
   通过将日常任务自动化和将最佳实践标准化，Microsoft Power Platform帮助组织优化其运营。这种培训提供了对Microsoft Dynamics 365和Power Platform的能力的高级概述，并为其他Microsoft Dynamics 365和Power Platform培训提供了基础。
   在本课程中，我们全球公认的专家将指导学生了解各种可用的自动化选项，以及如何在实际场景中使用这些选项。
+  
   #### 受众概况
   Dynamics 365 Customer Engagement Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
   熟悉业务应用程序并希望为您的业务定制和实现它们。
 outlineSection: |-
-  ### 模块  1&#58; 平台自动化概述
+  ### 模块 1&#58; 平台自动化概述
   在本模块中，学生将学习Power Platform自动化功能的基本知识。他们将了解自动化的需求，以及如何将需求映射到功能。
   #### 课程
   - 平台自动化概述
   - 模块总结
   学完本模块后，学生将能够&#58;
   - 确定通用平台自动化及其用途
-
-  ### 模块  2&#58; 业务规则
+  
+  ### 模块 2&#58; 业务规则
   在本模块中，学生将学习如何构建和使用业务规则，以及如何与其他平台自动化一起工作。
   #### 课程
   - 业务规则简介
@@ -54,7 +55,7 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 创建和利用业务规则
   
-  ### 模块  3&#58; 工作流
+  ### 模块 3&#58; 工作流
   在本模块中，学生将学习如何构建和利用业务规则，以及它们如何与其他平台自动化工具一起发挥作用。
   #### 课程
   - 工作流简介
@@ -63,9 +64,8 @@ outlineSection: |-
   - 模块总结
   学完本模块后，学生将能够&#58;
   - 创建和使用工作流
-
-
-  ### 模块  4&#58; Microsoft Flow
+  
+  ### 模块 4&#58; Microsoft Flow
   在本模块中，学生将学习如何构建和使用Microsoft Flow，以及它们如何与其他平台自动化工具一起发挥作用。
   #### 课程
   - Microsoft Flow简介
@@ -75,12 +75,11 @@ outlineSection: |-
   - 从应用开始
   - Flow部署注意事项
   - 模块总结
-
   学完本模块后，学生将能够&#58;
   - 创建和使用 Microsoft Flow
 
 
-  ### 模块  5&#58; 业务流程流
+  ### 模块 5&#58; 业务流程流
   在本模块中，学生将学习如何构建和使用业务流程流，以及它们如何与其他平台自动化工具一起发挥作用。
   #### 课程
   - 业务流程流简介

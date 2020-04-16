@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 身份和服务
+title: Microsoft 365 Identity and Services
 metadata:
-  title: '课程 MS-100T00-A: Microsoft 365 Identity and Services'
-  description: '课程 MS-100T00-A: Microsoft 365 Identity and Services'
+  title: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
+  description: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
 uid: course.ms-100t00
 courseNumber: 'MS-100T00-A'
 hoursToComplete: 120
@@ -28,10 +28,11 @@ products:
 exams:
 - uid: exam.ms-100
 summary: |-
-  本课程涵盖Microsoft 365企业管理的三个核心要素: Microsoft 365租户和服务管理、Office 365管理和Microsoft 365身份管理。
+  本课程涵盖Microsoft 365企业管理的三个核心要素：Microsoft 365租户和服务管理、Office 365管理和Microsoft 365身份管理。
   在Microsoft 365租户和服务管理中，您将检查设计Microsoft 365租户时必须规划的所有关键组件。完成此规划阶段后，您将学习如何配置Microsoft 365租户，包括您的组织配置文件、租户订阅选项、组件服务、用户帐户和许可证以及安全组。最后，您将学习如何管理您的租户，其中包括租户角色的配置，以及管理租户的运行状况和服务。
   现在您的Microsoft 365租户已牢固就位，您将检查Office 365管理的关键组件。首先概述Office 365产品功能，包括Exchange Online、SharePoint Online、Microsoft Teams、其他产品资源和设备管理。然后，您将过渡到配置Office 365，主要关注配置Office客户端到Office 365的连接。最后，您将研究如何管理Office 365 ProPlus部署，从用户驱动的客户端安装到集中的Office 365 ProPlus部署。您将通过学习如何配置Office Telemetry和Microsoft Analytics来结束本节。
   本课程的最后部分将深入研究Microsoft 365身份同步，重点是Azure活动目录连接。您将学习如何计划和实现Azure AD Connect，如何管理同步身份，以及如何使用多因素身份验证和自助服务密码管理功能在Microsoft 365中实现密码管理。本节最后全面介绍了应用程序和外部访问的实现。您将学习如何在Azure Active Directory中添加和管理应用程序，包括如何配置多租户应用程序。然后，您将研究如何配置Azure AD应用程序代理，包括如何安装和注册连接器以及如何发布用于远程访问的本地应用f程序。最后，您将研究如何为外部访问设计和管理解决方案。这包括Azure AD B2B协作的许可指南、创建协作用户和B2B协作疑难解答。
+  
   #### 受众概况
   本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
 prerequisitesSection: |-
@@ -46,7 +47,7 @@ outlineSection: |-
   - 规划您的服务设置
   - 规划您的混合环境
   - 规划到Office 365的迁移
-
+  
   ### 模块 2&#58; 配置您的Microsoft 365租户
   #### 课程
   - 规划您的Microsoft 365体验
@@ -55,23 +56,21 @@ outlineSection: |-
   - 管理Microsoft 365中的安全组
   - 实现您的域名服务
   - 利用FastTrack和合作伙伴服务
-
+  
   ### 模块 3&#58; 实验室 1 - 配置您的Microsoft 365租户
   ### 实验室 &#58; 配置您的Microsoft 365租户
   - 练习 1 - 设置Microsoft 365试用租户
-
+  
   ### 模块 4&#58; 管理您的Microsoft 365租户
   #### 课程
   - 配置租户角色
   - 管理租户健康和服务
-
+  
   ### 模块 5&#58; 实验室 2 - 配置您的Microsoft 365租户
-
   #### 实验室 &#58; 管理您的Microsoft 365租户
   - 练习 1 - 管理行政委派
   - 练习 2 - 配置Office 365消息加密 (OME)
   - 练习 3 - 监视和排除Office 365故障
-
 
   ### 模块 6&#58; Office 365概述
   #### 课程
@@ -82,8 +81,7 @@ outlineSection: |-
   - 设备管理概述
 
 
-  ### 模块 7&#58; 实验室 3 - Office 365概述
-
+  ### 模块 7;实验室 3 - Office 365概述
   ### 实验室 &#58; Office 365概述
   - 练习 1 - Exchange Online概述
   - 练习 2 - SharePoint Online概述
