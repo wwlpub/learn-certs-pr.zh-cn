@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 与Dynamics 365 for Finance and Operations数据集成并准备将其上线
+title: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations
 metadata:
-  title: '课程 MB-300T03-A: 与Dynamics 365 for Finance and Operations数据集成并准备将其上线'
-  description: '课程 MB-300T03-A: 与Dynamics 365 for Finance and Operations数据集成并准备将其上线'
+  title: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
 uid: course.mb-300t03
 courseNumber: 'MB-300T03-A'
 hoursToComplete: 24
@@ -23,6 +23,7 @@ exams:
 summary: |-
   组织使用Dynamics 365 for Finance and Operations以降低运营成本并快速响应不断变化的业务需求。这一解决方案使组织能够实现这些目标。
   本课程讨论如何为Microsoft Dynamics 365 for Finance and Operations配置数据迁移并将其上线。
+  
   #### 受众概况
   Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -51,7 +52,7 @@ outlineSection: |-
   - 生成源和目标数据结构之间的字段映射
   - 执行测试迁移并验证输出。
   - 支持现有系统和迁移系统之间的过渡
-
+  
   ### 模块 2&#58; 使用数据管理
   在本模块中，学生将了解数据管理平台的基本概念。学生还将学习如何使用数据管理工作区在Dynamics 365 for Finance and Operations中导入和导出数据。
   最后，他们将学习如何使用数据管理平台的异步重复集成特性。数据管理框架可用于管理Finance and Operations中的数据实体和数据实体包。
@@ -74,14 +75,12 @@ outlineSection: |-
   
   ### 模块 3&#58; 执行用户验收测试
   为了在上线前测试和评估客户解决方案，我们需要一个Dynamics 365 for Finance and Operations环境，该环境具有所有配置并可通过扩展进行可能的定制。
-
   拥有一种方法来确保为一个简短、高效和以角色为中心的测试用例场景正确地组织和规划创建和测试总是有益的。
   #### 课程
   - 简介
   - 为用户验收创建并执行测试用例
   - 实习实验室
   - 模块总结
-
 
   在本模块中，学生学习了&#58;
   - 如何理解测试用例和业务需求之间的关联
@@ -90,7 +89,6 @@ outlineSection: |-
   - 如何创建场景验收测试BPM库
   - 如何在Azure DevOps中同步和配置测试方案
   - 如何执行测试
-
 
   ### 模块 4&#58; 准备上线
   通过将Dynamics 365 for Finance and Operations中的已实现解决方案转移到生产环境中，所有这些努力工作都将获得成功。这是完成实现这一激动人心的体验的关键和最后阶段。

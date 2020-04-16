@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 设备管理
+title: Microsoft 365 Device Management
 metadata:
-  title: '课程 MS-101T03-A: Microsoft 365 设备管理'
-  description: '课程 MS-101T03-A: Microsoft 365 设备管理'
+  title: 'Course MS-101T03-A: Microsoft 365 Device Management'
+  description: 'Course MS-101T03-A: Microsoft 365 Device Management'
 uid: course.ms-101t03
 courseNumber: 'MS-101T03-A'
 hoursToComplete: 24
@@ -36,6 +36,7 @@ exams:
 - uid: exam.ms-101
 summary: |-
   本课程介绍关于Microsoft 365设备管理的一切--从建立Microsoft Intune到将设备注册到Intune，再到监视设备，再到通过使用条件访问策略控制用户可以从已注册设备执行的操作。如果您已经在使用传统的设备管理工具（如配置管理器）管理设备，那么您将感兴趣的是了解如何无缝地移动到现代管理（在现代管理中，设备由Intune管理），以及如何从新的设备管理功能（如合规性、条件访问）中获益，以及Windows Autopilot，用于部署来自云端的新设备。
+  
   #### 受众概况
   本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
 prerequisitesSection: |-
@@ -50,14 +51,14 @@ outlineSection: |-
   - 从Configuration Manager过渡到Intune
   - Microsoft Store for Business简介
   - 规划移动应用程序管理
-
+  
   ### 模块 2&#58; 规划Windows 10部署策略
   #### 课程
   - Windows 10部署场景
   - 规划 Windows 10 订阅激活策略
   - 解决Windows 10升级错误
   - Windows Analytics简介
-
+  
   ### 模块 3&#58; 实施移动设备管理
   #### 课程
   - 规划移动设备管理
@@ -69,8 +70,8 @@ outlineSection: |-
   #### 实验室 &#58; 使用Microsoft Store for Business
   - 练习 1&#58; 配置和管理Microsoft Store for Business
   - 练习 2&#58; 使用Microsoft Store for Business
-
-  #### 实验室 &#58; 使用 Intune 管理设备
+  
+  #### 实验室 &#58;使用 Intune 管理设备
   - 练习 1&#58; 获取Intune并启用设备管理
   - 练习 2&#58; 为Intune配置Azure AD
   - 练习 3&#58; 创建Intune策略

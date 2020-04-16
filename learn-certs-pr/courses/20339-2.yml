@@ -1,25 +1,25 @@
 ### YamlMime:Course
-title: SharePoint 2016 高级技术
+title: Advanced Technologies of SharePoint 2016
 metadata:
-  title: '课程 20339-2-A: SharePoint 2016 高级技术'
-  description: '课程 20339-2-A: SharePoint 2016 高级技术'
+  title: 'Course 20339-2-A: Advanced Technologies of SharePoint 2016'
+  description: 'Course 20339-2-A: Advanced Technologies of SharePoint 2016'
 uid: course.20339-2
 courseNumber: '20339-2-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 描述核心SharePoint 2016架构及其新增功能和改进功能
-- skill: 描述SharePoint 2016中的关键混合功能
-- skill: 规划和设计SharePoint 2016环境，以满足高可用性和灾难恢复的要求
-- skill: 计划和实施业务连接服务和安全商店服务
-- skill: 为SharePoint 2016部署配置和管理生产力服务
-- skill: 在SharePoint 2016部署中管理解决方案
-- skill: 规划和配置社交计算功能
-- skill: 规划和配置面向Internet环境的Web内容管理
-- skill: 在SharePoint 2016部署中规划和配置企业内容管理
-- skill: 计划和配置商业智能解决方案
-- skill: 计划和配置工作管理，生产力以及协作平台和功能
-- skill: 执行升级或迁移到SharePoint 2016
+- skill: 描述核心SharePoint 2016架构及其新增功能和改进功能。
+- skill: 描述SharePoint 2016中的关键混合功能。
+- skill: 规划和设计SharePoint 2016环境，以满足高可用性和灾难恢复的要求。
+- skill: 计划和实施业务连接服务和安全商店服务。
+- skill: 为SharePoint 2016部署配置和管理生产力服务。
+- skill: 在SharePoint 2016部署中管理解决方案。
+- skill: 规划和配置社交计算功能。
+- skill: 规划和配置面向Internet环境的Web内容管理。
+- skill: 在SharePoint 2016部署中规划和配置企业内容管理。
+- skill: 计划和配置商业智能解决方案。
+- skill: 计划和配置工作管理，生产力以及协作平台和功能。
+- skill: 执行升级或迁移到SharePoint 2016。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -34,8 +34,9 @@ exams:
 summary: |-
   本课程为期五天，将教您在SharePoint 2016环境中如何规划、配置和管理高级功能。本课程的重点关注领域包括实现高可用性、灾难恢复、服务应用程序架构和Microsoft Business Connectivity Services。本课程还将重点介绍社交计算功能、生产力以及协作平台和功能。学生还将学习商业智能解决方案、企业内容管理、Web内容管理基础架构、解决方案和应用程序。本课程还涵盖如何制定和实施治理计划，以及如何执行升级或迁移至SharePoint 2016。
   这是针对IT专业人员的两门课程的第二部分，并且与SharePoint 2016 IT Pro认证保持一致。
+
   #### 受众概况
-  本课程针对有经验的IT专业人员，他们有兴趣学习如何在数据中心或云中安装、配置、部署和管理SharePoint 2016。
+  本课程针对有经验的IT专业人员，他们有兴趣学习如何在数据中心或云中安装、配置、部署和管理SharePoint 2016。 
 
   学生通常应具有四年以上的动手经验*，涉及规划和维护SharePoint以及SharePoint所依赖的其他核心技术，包括Windows Server 2012 R2或更高版本、Internet信息服务（IIS）、Microsoft SQL Server 2014 R2或更高版本、Active Directory域服务（AD DS）和网络基础结构服务。
 
@@ -84,11 +85,8 @@ outlineSection: |-
   #### 课程
   - 探索SharePoint 2016中的混合功能
   - 准备混合SharePoint 2016部署
-
-
   #### 实验 &#58; 配置Office 365租户
   - 创建Office 365租户
-
 
   #### 实验 &#58; 创建混合团队网站
   - 准备SharePoint环境
@@ -172,7 +170,7 @@ outlineSection: |-
   - 部署服务器场解决方案
 
   学完本模块后，学生将能够&#58;
-  - 在Microsoft SharePoint中管理功能和解决方案 2016。
+  - 在Microsoft SharePoint中管理功能和解决方案 2016.
   - 在SharePoint 2016部署中管理沙盒解决 方案。
 
 
@@ -194,7 +192,8 @@ outlineSection: |-
   - 配置社区站点参与
 
   学完本模块后，学生将能够&#58;
-  - 管理Microsoft SharePoint 2016管理用户档案并 使用Microsoft Identity Manager（MIM）2016 配置用户档案同步。
+  - 管理Microsoft SharePoint 2016管理用户档案并
+  - 使用Microsoft Identity Manager (MIM) 2016.
   - 在SharePoint 2016中启用社交互动。
   - 在SharePoint 2016中构建社区和社区网站。
 
@@ -268,8 +267,7 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 说明Microsoft SharePoint商业智能（BI）架构，其组件并规划商业智能。
   - 规划，部署和管理核心Microsoft SharePoint 2016 BI服务。
-  - 配置SharePoint 2016和Microsoft SQL Server 2014
-  中可用的高级BI选项。
+  - 配置SharePoint 2016和Microsoft SQL Server 2014 中可用的高级BI选项。
 
 
   ### 模块 11&#58; 规划和配置生产力与协作

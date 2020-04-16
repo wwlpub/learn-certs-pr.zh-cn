@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 开发 Azure 存储
+title: Develop for Azure storage
 metadata:
-  title: '课程 AZ-203T03-A: 开发 Azure 存储'
-  description: '课程 AZ-203T03-A: 开发 Azure 存储'
+  title: 'Course AZ-203T03-A: Develop for Azure storage'
+  description: 'Course AZ-203T03-A: Develop for Azure storage'
 uid: course.az-203t03
 courseNumber: 'AZ-203T03-A'
 hoursToComplete: 24
@@ -56,18 +56,16 @@ outlineSection: |-
   - 了解Azure Cosmos DB的核心功能
   - 管理容器和物品
   - 创建和更新文档
-  
+
   ### 模块 3&#58; 开发使用关系数据库的解决方案
   SQL数据库是Microsoft Azure中的通用关系数据库托管服务，支持诸如关系数据，JSON，空间和XML之类的结构。
   #### 课程
   - Azure SQL概述
   - 使用代码创建、读取、更新和删除数据库表
-
   学完本模块后，学生将能够&#58;
   - 了解Azure SQL数据库服务的工作方式
   - 使用代码执行数据库操作
-
-
+  
   ### 模块 4&#58; 开发使用Microsoft Azure Blob存储的解决方案
   Azure Blob存储是Microsoft的云对象存储解决方案。Blob存储经过优化，可存储大量非结构化数据。非结构化数据是不遵循特定数据模型或定义的数据，例如文本或二进制数据。
   #### 课程

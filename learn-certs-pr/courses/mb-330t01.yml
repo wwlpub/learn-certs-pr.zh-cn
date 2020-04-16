@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 在Dynamics 365 for Finance and Operations中配置和使用供应链管理
+title: Configure and use supply chain management in Dynamics 365 for Finance and Operations
 metadata:
-  title: '课程 MB-330T01-A: 在Dynamics 365 for Finance and Operations中配置和使用供应链管理'
-  description: '课程 MB-330T01-A: 在Dynamics 365 for Finance and Operations中配置和使用供应链管理'
+  title: 'Course MB-330T01-A: Configure and use supply chain management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T01-A: Configure and use supply chain management in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t01
 courseNumber: 'MB-330T01-A'
 hoursToComplete: 48
@@ -21,6 +21,7 @@ exams:
 - uid: exam.mb-330
 summary: |-
   通过使业务物流现代化、及时提供客户响应、提前预测洞察力、优化采购以及统一从销售到履行的流程，企业使用Dynamics 365 for Finance and Operations实现供应链的自动化和优化。本课程讨论如何在Microsoft Dynamics 365 for Finance and Operations中配置和使用供应链管理。
+  
   #### 受众概况
   Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -38,6 +39,7 @@ outlineSection: |-
   - 库存结账和调整
   - 实习实验室
   - 模块总结
+  
   在本模块中，学生学习了&#58;
   - 执行入站和出站库存操作
   - 配置库存参数
@@ -57,6 +59,7 @@ outlineSection: |-
   - 使用库存日记账
   - 实习实验室
   - 模块总结
+  
   在本模块中，学生学习了如何&#58;
   - 使用转移日记账
   - 使用库存调整日记账
@@ -64,7 +67,7 @@ outlineSection: |-
   - 使用盘点和标签盘点日记帐
   - 使用物料到达日记账
   - 使用寄售日记账
-
+  
   ### 模块 3&#58; 使用库存报表
   本模块介绍如何使用Finance and Operations中的供应链管理流程的库存报表。
   #### 课程
@@ -73,8 +76,7 @@ outlineSection: |-
   - 使用其他库存查询和报告
   - 实习实验室
   - 模块总结
-
-
+  
   在本模块中，学生学习了如何&#58;
   - 理解ABC分类
   - 使用库存查询和报告
@@ -119,7 +121,7 @@ outlineSection: |-
   本模块说明如何配置和执行Finance and Operations中的从采购到购买的流程。
   #### 课程
   - 简介
-  - 采购和外包业务场景
+  - Procurement and sourcing business scenario
   - 创建采购申请工作流
   - 创建采购申请
   - 创建询价

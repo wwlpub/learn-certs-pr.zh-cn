@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 部署和配置基础架构
+title: Deploying and Configuring Infrastructure
 metadata:
-  title: '课程 AZ-300T01-A: 部署和配置基础架构'
-  description: '课程 AZ-300T01-A: 部署和配置基础架构'
+  title: 'Course AZ-300T01-A: Deploying and Configuring Infrastructure'
+  description: 'Course AZ-300T01-A: Deploying and Configuring Infrastructure'
 uid: course.az-300t01
 courseNumber: 'AZ-300T01-A'
 hoursToComplete: 24
@@ -55,6 +55,7 @@ summary: |-
   学生将学习Azure提供的监视工具和功能，包括Azure警报和活动日志。除了警报和日志外，还将向学生介绍Log Analytics作为有效的数据分析解决方案，以了解系统状态和运行状况。也许学生会学到的最令人兴奋的事情是如何使用Azure资源管理器（ARM）部署模型来处理资源，资源组和ARM模板。
 
   由于本课程是Azure解决方案架构师考试系列中的第一门课程，因此提供了大量介绍性内容，可帮助学生为课程中的其余课程做好准备。向学生提供了一个课程，其中介绍了在Azure门户中工作的提示和技巧，并介绍了Azure环境中使用的关键工具，例如Cloud Shell和Resource Explorer。重点是将PowerShell和命令行界面（CLI）视为重要技能，不仅可以为考试做准备，而且还可以为职位角色本身学习。
+
   #### 受众概况
   成功的云解决方案架构师从在操作系统，虚拟化，云基础架构，存储结构，计费和网络方面的实践经验开始担任这一角色。
 outlineSection: |-
@@ -68,7 +69,7 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   - 实施和管理存储
-  
+
   ### 模块 3&#58; 部署和管理虚拟机（VM）
   在本模块中，您将学习如何执行以下操作&#58;
   - 在Azure门户中创建虚拟机（VM）
@@ -78,11 +79,9 @@ outlineSection: |-
   - 监控虚拟机（VM）
 
   此外，您将学习如何定期使用备份来保护数据，无论是通过快照，Azure备份还是Azure Site Recovery。
-
   学完本模块后，学生将能够&#58;
   - 部署和管理虚拟机
-
-
+  
   ### 模块 4&#58; 配置和管理虚拟网络
   在本模块中，您将使用Azure门户以及Azure PowerShell和CLI创建和实施虚拟网络。您将获得有关如何将IP地址分配给Azure资源以与其他Azure资源，本地网络和Internet通信的概述。
   #### 课程

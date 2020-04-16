@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 设计和实现 Azure AI 解决方案
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: '课程 AI-100T01-A: 设计和实现 Azure AI 解决方案'
-  description: '课程 AI-100T01-A: 设计和实现 Azure AI 解决方案'
+  title: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  description: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
 uid: course.ai-100t01
 courseNumber: 'AI-100T01-A'
 hoursToComplete: 72
@@ -53,21 +53,19 @@ outlineSection: |-
   - 介绍QnA Maker
   - 通过QnA Maker实施知识库
   - 将QnA与Bot集成
-  
+
   ### 模块 4&#58; 了解如何创建语言以了解LUIS的功能
   学生将学习有关意图和话语的语言理解（LUIS），以及如何创建意图和话语以支持自然语言处理解决方案。
   #### 课程
   - 介绍语言理解
   - 创建一个新的LUIS服务
   - 建立LUIS
-
-
+  
   ### 模块 5&#58; 使用LUIS增强您的机器人
   该学生将学习如何将LUIS与Bot集成在一起，以更好地了解用户与Bot交互时的意图。
   #### 课程
   - AI应用程序的语言理解概述
   - 集成LUIS和Bot以创建基于AI的解决方案
-
 
   ### 模块 6&#58; 将认知服务与Bot和Agent集成
   该学生将学习如何将Bot和Agent与Azure认知服务集成在一起以实现高级功能，例如情感分析，图像和文本分析以及OCR和对象检测。

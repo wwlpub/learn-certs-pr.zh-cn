@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 for Finance and Operations的核心常用特性
+title: Core common features of Dynamics 365 for Finance and Operations
 metadata:
-  title: '课程 MB-300T01-A: Dynamics 365 for Finance and Operations的核心常用特性'
-  description: '课程 MB-300T01-A: Dynamics 365 for Finance and Operations的核心常用特性'
+  title: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
 uid: course.mb-300t01
 courseNumber: 'MB-300T01-A'
 hoursToComplete: 24
@@ -21,8 +21,9 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  组织使用Dynamics 365 for Finance and Operations以降低运营成本并快速响应不断变化的业务需求。这一解决方案使组织能够实现这些目标。
+  组织使用Dynamics 365 for Finance and Operations以降低运营成本并快速响应不断变化的业务需求。这一解决方案使组织能够实现这些目标。 
   本课程讨论Microsoft Dynamics 365 for Finance and Operations的核心组件。
+  
   #### 受众概况
   Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -38,7 +39,7 @@ outlineSection: |-
   - 供应链管理简介
   - 模块总结
   学生将理解Finance and Operations是什么以及它所支持的行业。他们将熟悉Finance and Operations中的模块，这些模块中功能的用途，以及它们如何支持特定于行业的领域。
-
+  
   ### 模块 2&#58; 生命周期服务入门
   Microsoft Dynamics Lifecycle Services（LCS）是一个协作工作区，客户及其合作伙伴可以使用它来管理Dynamics 365 for Finance and Operations项目，从售前到实施，最后到生产环境，无论是在云上还是在本地。它提供有助于管理项目的清单和工具，包括有助于管理实施过程的方法。
   #### 课程
@@ -50,6 +51,7 @@ outlineSection: |-
   - 了解如何使用回归套件自动化工具
   - 实习实验室
   - 模块总结
+  
   学生将能够&#58;
   - 了解LCS在财务和运营方面的功能和工具
   - 重复使用现有资产，复制和共享数据
@@ -75,7 +77,7 @@ outlineSection: |-
   - 描述基于建议的解决方案的未来状态业务流程
   - 决定何时构建或是购买
   - 创建功能设计文档（FDD）
-
+  
   ### 模块 4&#58; 报告和分析概述
   Dynamics 365 for Finance and Operations中的报告可以简单地定义为数据的结构化表示。
   在理想情况下，报表将数据具体化，使用户能够做出明智的决策。
@@ -86,12 +88,11 @@ outlineSection: |-
   - 为实例配置PowerBI
   - 实习实验室
   - 模块总结
-
+  
   学生应已经了解&#58;
   - Finance and Operations中不同类型的报告和查询
   - 财务报告
   - 为Microsoft Power Platform配置Finance and Operations
-
 
   ### 模块 5&#58; 构建和测试移动应用程序
   本模块介绍针对Dynamics 365 Finance and Operations的移动应用程序的指导原则和设计模式。此外，它还解释了如何基于用例场景构建和测试移动应用程序。
@@ -125,5 +126,5 @@ outlineSection: |-
   - 课程总结
   - 课后调查
 
-  - 学生已经完成课程。
+  学生已经完成课程。
 

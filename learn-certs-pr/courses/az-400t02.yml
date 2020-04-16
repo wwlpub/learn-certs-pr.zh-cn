@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 实施持续集成
+title: Implementing Continuous Integration
 metadata:
-  title: '课程 AZ-400T02-A: 实施持续集成'
-  description: '课程 AZ-400T02-A: 实施持续集成'
+  title: 'Course AZ-400T02-A: Implementing Continuous Integration'
+  description: 'Course AZ-400T02-A: Implementing Continuous Integration'
 uid: course.az-400t02
 courseNumber: 'AZ-400T02-A'
 hoursToComplete: 24
@@ -38,6 +38,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   本课程提供知识和技能，以实现持续集成的DevOps实践。学生将学习如何在Azure DevOps管道中实施持续集成，如何管理代码质量和安全性原则以及如何实施容器构建策略。
+  
   #### 受众概况
   本课程的学生对DevOps持续集成过程或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
 prerequisitesSection: |-
@@ -46,29 +47,34 @@ prerequisitesSection: |-
 outlineSection: |-
   ### 模块 1&#58; 在Azure DevOps管道中实现持续集成
   在本单元中，将向您介绍持续集成原则，包括&#58;收益、挑战、建立最佳实践和实施步骤。您还将了解有关使用工作流、触发器、代理和工具实施构建策略的信息。
+
   #### 课程
   - 持续集成概述
   - 实施构建策略
-  #### 实验 &#58; 启用与Azure管道的持续集成
-  #### 实验 &#58; 创建Jenkins构建作业并触发CI
+
+  #### 实验 &#58;启用与Azure管道的持续集成
+
+  #### 实验 &#58;创建Jenkins构建作业并触发CI
+
   完成本单元后，学生将&#58;
   - 能够解释为什么持续集成很重要
   - 使用Azure DevOps实现持续集成
-  
+
   ### 模块 2&#58; 管理代码质量和安全策略
   在本模块中，您将学习如何管理代码质量，包括&#58;技术债，SonarCloud和其他工具解决方案。您还将学习如何使用开源，OWASP和WhiteSource Bolt管理安全策略。
+
   #### 课程
   - 管理代码质量
   - 管理安全策略
 
-  #### 实验 室&#58; 使用Azure DevOps和SonarCloud管理技术债
+  #### 实验 室&#58;使用Azure DevOps和SonarCloud管理技术债
 
-  #### 实验 &#58; 使用WhiteSource Bolt和Azure DevOps检查漏洞
+  #### 实验 &#58;使用WhiteSource Bolt和Azure DevOps检查漏洞
+  
   学完本模块后，学生将能够&#58;
   - 管理代码质量，包括&#58;技术债SonarCloud和其他工具解决方案。
   - 使用开源，OWASP和WhiteSource Bolt管理安全策略。
   - 管理代码质量，包括&#58;技术债，SonarCloud和其他工具解决方案。
-
 
   ### 模块 3&#58; 实施容器构建策略
   在本模块中，您将学习如何实施容器策略，包括容器与虚拟机的区别以及微服务如何使用容器。您还将学习如何使用Docker实现容器。
@@ -76,7 +82,7 @@ outlineSection: |-
   - 实施容器建造策略
 
 
-  #### 实验 &#58; 具有Azure和Docker映像的现有.NET应用程序
+  #### 实验 &#58;具有Azure和Docker映像的现有.NET应用程序
   学完本模块后，学生将能够&#58;
   - 实施容器策略，包括容器与虚拟机的区别以及微服务如何使用容器。
   - 使用Docker实现容器。

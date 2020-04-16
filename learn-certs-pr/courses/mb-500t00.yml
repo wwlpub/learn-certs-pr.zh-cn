@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Microsoft Dynamics 365: Finance and Operations 应用程序开发人员'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
 metadata:
-  title: '课程 MB-500T00-A: Microsoft Dynamics 365: Finance and Operations 应用程序开发人员'
-  description: '课程 MB-500T00-A: Microsoft Dynamics 365: Finance and Operations 应用程序开发人员'
+  title: 'Course MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: 'Course MB-500T00-A: Microsoft Dynamics 365: Finance and Operations Apps Developer'
 uid: course.mb-500t00
 courseNumber: 'MB-500T00-A'
 hoursToComplete: 120
@@ -20,13 +20,12 @@ products:
 exams:
 - uid: exam.mb-500
 summary: |-
-  开发人员培&#58;Microsoft Dynamics 365 Finance and Operations应用程序开发人员实施和扩展应用程序以满足业务需求。考生可以使用标准化的应用程序编码模式，可扩展的功能以及外部集成来提供可以完全实现的解决方案。
-  
+  开发人员培训&#58; Microsoft Dynamics 365 Finance and Operations应用程序开发人员实施和扩展应用程序以满足业务需求。考生可以使用标准化的应用程序编码模式，可扩展的功能以及外部集成来提供可以完全实现的解决方案。
+
   #### 受众概况
-  Microsoft Dynamics 365 Finance and Operations应用程序开发人员 
+  Microsoft Dynamics 365 Finance and Operations应用程序开发人员  
 outlineSection: |-
   ### 模块 1&#58; 概述与架构
-
   描述Dynamics 365生态系统和Dynamics 365 Finance and Operations (FO)软件的主要组件，描述D365FO的体系结构，描述相关的D365FO设计和部署注意事项
 
   #### 实验室&#58; 开发环境配置和项目/模型创建
@@ -62,7 +61,7 @@ outlineSection: |-
 
   实现D365 FO功能
 
-  #### 实验室&#58; SysExtension框架
+  #### 实验室&#58; SysExtension Framework
 
   ### 模块 8&#58; 集成
 

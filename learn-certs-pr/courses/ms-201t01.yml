@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 定义混合消息策略
+title: Defining a Hybrid Messaging Strategy
 metadata:
-  title: '课程 MS-201T01-A: 定义混合消息策略'
-  description: '课程 MS-201T01-A: 定义混合消息策略'
+  title: 'Course MS-201T01-A: Defining a Hybrid Messaging Strategy'
+  description: 'Course MS-201T01-A: Defining a Hybrid Messaging Strategy'
 uid: course.ms-201t01
 courseNumber: 'MS-201T01-A'
 hoursToComplete: 48
@@ -31,6 +31,7 @@ exams:
 - uid: exam.ms-201
 summary: |-
   本课程向学生介绍混合消息传递的所有事项。学生将学习如何为Exchange组织部署混合环境，以及如何将邮箱迁移到Exchange Online。他们将首先检查可用的邮箱迁移选项，然后重点介绍如何规划混合部署。最后，学生将学习如何实施Windows10并排除混合部署中的故障。
+  
   #### 受众概况
   消息管理员部署、配置、管理
   并对内部部署和云企业环境中的收件人、权限、邮件保护、邮件流和公用文件夹进行故障诊断。职责包括管理消息卫生、消息传递基础架构以及混合配置和迁移。消息传递管理员还实现和管理灾难恢复、高可用性和客户端访问。要实现满足现代组织业务需求的安全混合拓扑，消息管理员必须与安全管理员和Microsoft 365企业管理员协作。消息传送管理员应在认证类型、许可和与 Microsoft 365 应用程序集成方面具备实际应用知识。
@@ -47,12 +48,12 @@ outlineSection: |-
   - 执行IMAP迁移
   - 规划切换和分阶段迁移
   - 执行高级迁移
-
+  
   ### 模块 2&#58; 规划混合环境
   #### 课程
   - Exchange混合部署要求
   - 规划运行混合配置向导
-
+  
   ### 模块 3&#58; 部署邮件流并排除其故障
   #### 课程
   - 部署和管理Edge传输服务器

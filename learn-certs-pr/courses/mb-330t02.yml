@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 使用Dynamics 365 for Finance and Operations中的质量管理、公司间交易和总体规划
+title: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations
 metadata:
-  title: '课程 MB-330T02-A: 使用Dynamics 365 for Finance and Operations中的质量管理、公司间交易和总体规划'
-  description: '课程 MB-330T02-A: 使用Dynamics 365 for Finance and Operations中的质量管理、公司间交易和总体规划'
+  title: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t02
 courseNumber: 'MB-330T02-A'
 hoursToComplete: 24
@@ -21,6 +21,7 @@ exams:
 - uid: exam.mb-330
 summary: |-
   通过使业务物流现代化、及时提供客户响应、提前预测洞察力、优化采购以及统一从销售到履行的流程，企业使用Dynamics 365 for Finance and Operations实现供应链的自动化和优化。本课程讨论如何在Dynamics 365 for Finance and Operations中使用质量管理、公司间交易和总体规划。
+  
   #### 受众概况
   Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -35,6 +36,7 @@ outlineSection: |-
   - 实施检疫管理
   - 实习实验室
   - 模块总结
+  
   在本模块中，学生学习了如何&#58;
   - 执行质量控制和质量管理流程
   - 应用库存冻结
@@ -50,6 +52,7 @@ outlineSection: |-
   - 设置公司间协议和直接交货
   - 实习实验室
   - 模块总结
+  
   在本模块中，学生学习了如何&#58;
   - 为公司间贸易关系配置产品
   - 配置公司间贸易关系
@@ -58,6 +61,7 @@ outlineSection: |-
   - 处理公司间直接交货
   - 处理公司间费用
   - 了解公司间退货订单链
+  
   ### 模块 3&#58; 配置和使用总体规划
   本模块说明如何在Finance and Operations中配置和使用总体规划。
   #### 课程
@@ -70,8 +74,7 @@ outlineSection: |-
   - 运行计划和确定的计划订单
   - 实习实验室
   - 模块总结
-
-
+  
   在本模块中，学生学习了如何&#58;
   - 定义总体规划策略
   - 了解需求和供给预测
@@ -79,7 +82,6 @@ outlineSection: |-
   - 配置项目覆盖范围
   - 了解公司间总体规划简介
   - 运行计划和确定的计划订单
-
 
   ### 模块 4&#58; 课程总结
   最终评估和课程总结，以及课程的课后调查。

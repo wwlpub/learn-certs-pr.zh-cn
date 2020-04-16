@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 连接到并使用Azure服务和第三方服务
+title: Connect to and consume Azure and third-party services
 metadata:
-  title: '课程 AZ-203T06-A: 连接到并使用Azure服务和第三方服务'
-  description: '课程 AZ-203T06-A: 连接到并使用Azure服务和第三方服务'
+  title: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
+  description: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
 uid: course.az-203t06
 courseNumber: 'AZ-203T06-A'
 hoursToComplete: 24
@@ -49,17 +49,19 @@ outlineSection: |-
   - 使用Visual Studio创建逻辑应用
   - 为Logic Apps创建自定义连接器
   - 为Logic Apps创建自定义模板
+
   学完本模块后，学生将能够&#58;
   - 了解如何创建和管理Azure Logic应用
-
+  
   ### 模块 2&#58; 将Azure搜索集成到解决方案中
   Azure搜索是一种即服务搜索的云解决方案，为开发人员提供API和工具，可为Web，移动和企业应用程序中的私有异类内容添加丰富的搜索体验。在本模块中，学生将学习如何将Azure搜索集成到他们的解决方案中。
   #### 课程
   - 创建和查询Azure搜索索引
   - Azure搜索中的全文本搜索
+
   学完本模块后，学生将能够&#58;
   - 提供服务，创建索引，加载数据并执行搜索
-  
+
   ### 模块 3&#58; API管理
   API管理（APIM）帮助组织将API发布给外部，合作伙伴和内部开发人员，以释放其数据和服务的潜力。
   #### 课程
@@ -69,8 +71,7 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   - 使用Azure门户，带有订阅和客户端证书的安全API来配置APIM服务，并使用API​​策略来修改API的行为
-
-
+  
   ### 模块 4&#58; 开发基于事件的解决方案
   本模块涵盖通过在应用程序中集成Azure事件网格，事件中心和通知中心，在Azure中开发基于事件的解决方案。
   #### 课程

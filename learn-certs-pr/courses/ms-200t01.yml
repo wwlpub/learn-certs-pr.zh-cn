@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 了解现代消息传递架构
+title: Understanding the Modern Messaging Infrastructure
 metadata:
-  title: '课程 MS-200T01-A: 了解现代消息传递基础架构'
-  description: '课程 MS-200T01-A: 了解现代消息传递基础架构'
+  title: 'Course MS-200T01-A: Understanding the Modern Messaging Infrastructure'
+  description: 'Course MS-200T01-A: Understanding the Modern Messaging Infrastructure'
 uid: course.ms-200t01
 courseNumber: 'MS-200T01-A'
 hoursToComplete: 48
@@ -30,6 +30,7 @@ exams:
 - uid: exam.ms-200
 summary: |-
   在本课程中，学生将学习使用Exchange Server和Exchange Online的现代消息传递基础架构，以及如何在不同的场景和组织中部署消息传递。它们将在指导下完成初始部署过程，并初步了解消息传递管理工具。学生将学习如何创建和管理不同类型的收件人，以及如何创建和管理作为所有邮件数据存储位置的Exchange Server邮箱数据库。最后，将向消息传递基础结构组织设置介绍它们，例如如何管理消息传递环境的身份验证、如何为组织中的用户配置配额，以及如何配置与联合的组织共享。
+  
   #### 受众概况
   消息管理员部署、配置、管理
   本地和云企业环境中的收件人、权限、邮件保护、邮件流和公用
@@ -53,20 +54,20 @@ outlineSection: |-
   - 现代消息传递架构概述
   - 部署现代消息传递基础结构
   - 管理现代消息传递基础结构
-
+  
   ### 模块 2&#58; 管理收件人对象和资源
   #### 课程
   - Exchange收件人
   - 创建和管理Exchange收件人
   - 管理电子邮件地址、清单和资源
-
+  
   ### 模块 3&#58; 管理邮箱数据库
   #### 课程
   - Exchange Server中的邮箱数据库
   - 规划邮箱数据库
   - 创建和管理邮箱数据库
   - 对邮箱数据库进行故障排除
-
+  
   ### 模块 4&#58; 管理组织设置
   #### 课程
   - 管理消息传递的身份验证
@@ -74,7 +75,6 @@ outlineSection: |-
   - 设计外部访问解决方案
   
   ### 模块 5&#58; 课程总结
-
   ### 实验室 &#58; 管理收件人基础结构
   - 创建本地收件人
   - 创建云端收件人

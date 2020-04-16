@@ -1,25 +1,25 @@
 ### YamlMime:Course
-title: 设计和部署 Microsoft Exchange Server 2016/2019
+title: Designing and Deploying Microsoft Exchange Server 2016/2019
 metadata:
-  title: '课程 20345-2-B: 设计和部署 Microsoft Exchange Server 2016/2019'
-  description: '课程 20345-2-B: 设计和部署 Microsoft Exchange Server 2016/2019'
+  title: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
 uid: course.20345-2
 courseNumber: '20345-2-B'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 规划Exchange Server部署
-- skill: 规划和部署Exchange Server硬件、虚拟化、邮箱数据库和公用文件夹
-- skill: 规划Exchange Server中的邮件传输
-- skill: 规划和部署Exchange Server中的客户端访问服务
-- skill: 设计和实施高可用性的Exchange Server环境
-- skill: 通过使用托管可用性和期望状态配置（DSC）维护Exchange Server
-- skill: 规划邮件安全性，并设计并在Exchange Server中实现Active Directory权限管理服务（AD RMS）和Microsoft Azure RMS
-- skill: 设计并实施消息保留和归档
-- skill: 设计和实施数据丢失防护策略，就地保留和eDiscovery
-- skill: 设计并实现Exchange Server组织之间的邮件共存
-- skill: 规划并实施从早期版本的Exchange Server到Exchange Server 2019的升级
-- skill: 规划混合Exchange部署
+- skill: 规划Exchange Server部署。
+- skill: 规划和部署Exchange Server硬件、虚拟化、邮箱数据库和公用文件夹。
+- skill: 规划Exchange Server中的邮件传输。
+- skill: 规划和部署Exchange Server中的客户端访问服务。
+- skill: 设计和实施高可用性的Exchange Server环境。
+- skill: 通过使用托管可用性和期望状态配置（DSC）维护Exchange Server。
+- skill: 规划邮件安全性，并设计并在Exchange Server中实现Active Directory权限管理服务（AD RMS）和Microsoft Azure RMS。
+- skill: 设计并实施消息保留和归档。
+- skill: 设计和实施数据丢失防护策略，就地保留和eDiscovery。
+- skill: 设计并实现Exchange Server组织之间的邮件共存。
+- skill: 规划并实施从早期版本的Exchange Server到Exchange Server 2019的升级。
+- skill: 规划混合Exchange部署。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -59,6 +59,7 @@ outlineSection: |-
   - 评估现有的消息传递基础结构
   - 确认要求
   - 讨论&#58; Exchange Server 2019的部署设计
+
   学完本模块后，学生将能够&#58;
   - 描述Exchange Server 2019中的新功能
   - 描述如何收集Exchange Server部署的业务需求
@@ -77,12 +78,11 @@ outlineSection: |-
   - 规划邮箱数据库
   - 实施邮箱数据库
   - 规划和实施公用文件夹
-
+  
   学完本模块后，学生将能够&#58;
   - 规划和实施Exchange Server硬件
   - 规划Exchange Server虚拟化和Microsoft Azure集成
   - 规划和实施公用文件夹
-
 
   ### 模块 3&#58; 规划消息传输
   本模块说明了如何在内部以及在互联网之间规划和实施邮件路由。本模块还描述了组织中与传输有关的任务。
