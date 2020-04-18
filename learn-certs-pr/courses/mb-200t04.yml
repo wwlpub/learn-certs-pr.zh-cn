@@ -1,18 +1,18 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Power Platform测试和部署'
+title: 'Dynamics 365: Power Platform test and deploy'
 metadata:
-  title: 'Course MB-200T04-A: Dynamics 365: Power Platform测试和部署'
-  description: 'Course MB-200T04-A: Dynamics 365: Power Platform测试和部署'
+  title: 'Course MB-200T04-A: Dynamics 365: Power Platform test and deploy'
+  description: 'Course MB-200T04-A: Dynamics 365: Power Platform test and deploy'
 uid: course.mb-200t04
 courseNumber: 'MB-200T04-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 启用并更新第一方应用程序
-- skill: 安装第三方应用程序
-- skill: 配置托管和非托管解决方案
-- skill: 更新和修补解决方案
-- skill: 分发解决方案
+- skill: 启用并更新第一方应用程序。
+- skill: 安装第三方应用程序。
+- skill: 配置托管和非托管解决方案。
+- skill: 更新和修补解决方案。
+- skill: 分发解决方案。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -31,6 +31,7 @@ exams:
 summary: |-
   通过将日常任务自动化和将最佳实践标准化，Microsoft Power Platform帮助组织优化其运营。这种培训提供了对Microsoft Dynamics 365和Power Platform的能力的高级概述，并为其他Microsoft Dynamics 365和Power Platform培训提供了基础。
   在本课程中，我们全球公认的专家通过管理解决方案及其部署来指导学生。
+  
   #### 受众概况
   Dynamics 365 Customer Engagement Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -57,7 +58,7 @@ outlineSection: |-
   - 模块总结
   学完本模块后，学生将能够&#58;
   - 使用解决方案创建、管理和部署自定义设置。
-
+  
   ### 模块 3&#58; 额外部署注意事项
   在本模块中，学生将学习如何为移动设备配置和部署组件，如Microsoft Flow。
   #### 课程
@@ -68,8 +69,7 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 移动配置
   - 部署组件
-
-
+  
   ### 模块 4&#58; 文档和测试
   在本模块中，学生将学习如何设计测试方案和执行性能调整。
   #### 课程
@@ -79,7 +79,6 @@ outlineSection: |-
   - 文档
   - 与客户接触
   - 模块总结
-
   学完本模块后，学生将能够&#58;
   - 创建和使用测试方案
   - 定位性能调整工具

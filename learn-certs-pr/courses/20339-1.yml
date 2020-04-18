@@ -1,27 +1,27 @@
 ### YamlMime:Course
-title: 规划和管理 SharePoint 2016
+title: Planning and Administering SharePoint 2016
 metadata:
-  title: '课程 20339-1-A: 规划和管理 SharePoint 2016'
-  description: '课程 20339-1-A: 规划和管理 SharePoint 2016'
+  title: 'Course 20339-1A: Planning and Administering SharePoint 2016'
+  description: 'Course 20339-1A: Planning and Administering SharePoint 2016'
 uid: course.20339-1
 courseNumber: '20339-1A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 描述SharePoint 2016的关键功能
-- skill: 设计用于SharePoint 2016部署的信息架构
-- skill: 为SharePoint 2016部署设计逻辑体系架构
-- skill: 设计SharePoint 2016部署的物理体系架构
-- skill: 安装和配置SharePoint 2016
-- skill: 创建和配置网络应用程序和网站集
-- skill: 规划和配置用于SharePoint 2016部署的服务应用程序
-- skill: 管理用户和权限，并保护SharePoint 2016部署中的内容
-- skill: 在SharePoint 2016部署中配置身份验证
-- skill: 在SharePoint 2016部署中配置平台和服务器场级安全性
-- skill: 在SharePoint Web应用程序和网站集中管理信息分类
-- skill: 配置和管理用户个人资料和听众
-- skill: 在SharePoint 2016中配置和管理搜索体验
-- skill: 监视、维护SharePoint 2016部署并故障排除
+- skill: 描述SharePoint 2016的关键功能。
+- skill: 设计用于SharePoint 2016部署的信息架构。
+- skill: 为SharePoint 2016部署设计逻辑体系架构。
+- skill: 设计SharePoint 2016部署的物理体系架构。
+- skill: 安装和配置SharePoint 2016。
+- skill: 创建和配置网络应用程序和网站集。
+- skill: 规划和配置用于SharePoint 2016部署的服务应用程序。
+- skill: 管理用户和权限，并保护SharePoint 2016部署中的内容。
+- skill: 在SharePoint 2016部署中配置身份验证。
+- skill: 在SharePoint 2016部署中配置平台和服务器场级安全性。
+- skill: 在SharePoint Web应用程序和网站集中管理信息分类。
+- skill: 配置和管理用户个人资料和听众。
+- skill: 在SharePoint 2016中配置和管理搜索体验。
+- skill: 监视、维护SharePoint 2016部署并故障排除。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -64,7 +64,7 @@ prerequisitesSection: |-
   - 使用Microsoft Hyper-V虚拟机。
   该课程的理想考生必须具有至少一年在大型企业中部署和管理多个SharePoint 2013服务器场的经验。由于许多客户尚未从SharePoint 2010升级，因此考生也可以至少具有两年的SharePoint 2010经验。但是，他们还必须了解SharePoint 2010和SharePoint 2013之间的差异，尤其是在混合方面。
 outlineSection: |-
-  ### 模块 1&#58; SharePoint 2016简介
+  ### 模块  1&#58; SharePoint 2016简介
   本模块描述了SharePoint环境的结构和功能，以及SharePoint 2016中针对IT专业人员的主要变动。本模块还描述了可用于部署SharePoint 2016的选项。
   #### 课程
   - SharePoint部署的关键组件
@@ -74,28 +74,29 @@ outlineSection: |-
   - 确定SharePoint 2016的体系架构和功能。
   - 确定SharePoint 2016中的新功能和不推荐使用的功能。
   - 确定SharePoint 2016的部署选项。
-  ### 模块 2&#58; 设计信息架构
+
+  ### 模块  2&#58; 设计信息架构
   本模块描述了如何收集业务需求，以及成功信息体系架构项目的关键要素。本模块还说明了如何在SharePoint 2016部署中构造信息并使其易于查找和检索。
   #### 课程
   - 识别业务需求
   - 了解业务需求
   - 在SharePoint 2016中组织信息
   - 规划可发现性
-
   #### 实验 &#58; 设计信息架构-第一部分
   - 识别网站栏和内容类型
-
-
   #### 实验 &#58; 创建信息架构-第二部分
   - 设计业务分类
 
   学完本模块后，学生将能够&#58;
-  - 解释如何理解业务需求 组织信息架构的设计。
-  - 描述SharePoint 2016中可用的关键组件 以部署信息架构。
-  - 规划可发现性，作为信息 架构部署的一部分。
+  - 解释如何理解业务需求
+  组织信息架构的设计。
+  - 描述SharePoint 2016中可用的关键组件
+  以部署信息架构。
+  - 规划可发现性，作为信息
+  架构部署的一部分。
 
 
-  ### 模块 3&#58; 设计逻辑架构
+  ### 模块  3&#58; 设计逻辑架构
   本模块说明如何进行逻辑架构设计以及如何对其进行记录。
   #### 课程
   - SharePoint 2016逻辑架构概述
@@ -112,7 +113,7 @@ outlineSection: |-
   记录逻辑架构。
 
 
-  ### 模块 4&#58; 设计物理架构
+  ### 模块  4&#58; 设计物理架构
   本模块描述了SharePoint 2016的物理设计要求，以及实现物理架构设计所需的物理组件。本模块还说明了SharePoint服务器场拓扑，并描述了如何将逻辑架构设计映射到物理架构设计。
   #### 课程
   - 设计用于SharePoint部署的物理组件
@@ -133,7 +134,7 @@ outlineSection: |-
   - 将逻辑架构设计映射到物理架构设计。
 
 
-  ### 模块 5&#58; 安装和配置SharePoint 2016
+  ### 模块  5&#58; 安装和配置SharePoint 2016
   本模块说明了如何在不同的拓扑中安装SharePoint 2016，编写安装脚本以及配置SharePoint 2016环境。本模块还说明了如何在SharePoint 2016部署中配置核心场级设置。
   #### 课程
   - 安装SharePoint 2016
@@ -154,11 +155,11 @@ outlineSection: |-
   本模块后，学生将能够&#58;
   - 安装SharePoint 2016。
   - 部署和配置SharePoint 2016。
-  - 编写安装脚本和配置 SharePoint 2016。
+  - 编写安装脚本和配置 SharePoint 2016.
   - 配置SharePoint 2016服务器场设置。
 
 
-  ### 模块 6&#58; 创建Web应用程序和网站集
+  ### 模块  6&#58; 创建Web应用程序和网站集
   本模块说明如何在SharePoint 2016中创建Web应用程序以及如何配置这些应用程序。本模块还说明了如何在SharePoint 2016和SharePoint Online中创建和配置网站集。
   #### 课程
   - 创建Web应用程序
@@ -183,7 +184,7 @@ outlineSection: |-
   - 创建和配置网站集。
 
 
-  ### 模块 7&#58; 规划和配置服务应用程序
+  ### 模块  7&#58; 规划和配置服务应用程序
   本模块描述SharePoint 2016中的服务应用程序架构，以及如何配置和管理服务应用程序。
   #### 课程
   - 服务应用程序架构简介
@@ -203,7 +204,7 @@ outlineSection: |-
   - 描述如何配置和管理SharePoint 2016服务应用程序
 
 
-  ### 模块 8&#58; 管理用户和权限，以及安全内容
+  ### 模块  8&#58; 管理用户和权限，以及安全内容
   本模块说明如何在SharePoint 2016中配置授权。本模块还说明了如何在SharePoint 2016中配置网站集安全。
   #### 课程
   - 在SharePoint 2016中配置授权
@@ -226,7 +227,7 @@ outlineSection: |-
   - 管理对SharePoint 2016中内容的访问。
 
 
-  ### 模块 9&#58; 为SharePoint 2016配置身份验证
+  ### 模块  9&#58; 为SharePoint 2016配置身份验证
   本模块说明有关SharePoint 2016身份验证架构以及如何为SharePoint 2016配置声明，提供程序和身份联合。本模块还说明了如何为SharePoint 2016配置服务器到服务器身份验证。
   #### 课程
   - 认证概述
@@ -246,7 +247,7 @@ outlineSection: |-
   - 为SharePoint 2016配置服务器到服务器的身份验证。
 
 
-  ### 模块 10&#58; 保护SharePoint 2016部署的安全
+  ### 模块  10&#58; 保护SharePoint 2016部署的安全
   本模块说明如何在平台级别保护SharePoint 2016部署的安全，以及如何为SharePoint 2016部署配置服务器场级的安全设置。
   #### 课程
   - 保护平台
@@ -265,7 +266,7 @@ outlineSection: |-
   - 为SharePoint 2016部署配置服务器场级安全设置。
 
 
-  ### 模块 11&#58; 管理分类法
+  ### 模块  11&#58; 管理分类法
   本模块说明如何创建和管理内容类型以及内容类型传播。此外，本模块还说明了如何在SharePoint Web应用程序和网站集中实现托管元数据。本模块还说明了如何在SharePoint 2016中配置托管元数据服务应用程序。
   #### 课程
   - 管理内容类型
@@ -289,7 +290,7 @@ outlineSection: |-
   - 在SharePoint 2016中配置托管元数据服务应用程序。
 
 
-  ### 模块 12&#58; 配置用户个人资料
+  ### 模块  12&#58; 配置用户个人资料
   本模块说明如何配置User Profile Service应用程序以及如何管理用户配置文件和受众。
   #### 课程
   - 配置用户配置文件服务应用程序
@@ -310,7 +311,7 @@ outlineSection: |-
   - 管理用户个人资料和受众。
 
 
-  ### 模块 13&#58; 配置企业搜索
+  ### 模块  13&#58; 配置企业搜索
   本模块描述了Search Service应用程序，并说明了如何在SharePoint 2016中配置Search Service。本模块还说明了如何在SharePoint 2016中管理搜索体验。
   #### 课程
   - 了解Search Service应用程序架构
@@ -338,7 +339,7 @@ outlineSection: |-
   - 管理SharePoint 2016中的搜索体验。
 
 
-  ### 模块 14&#58; 监视和维护SharePoint 2016环境
+  ### 模块  14&#58; 监视和维护SharePoint 2016环境
   本模块说明如何为SharePoint 2016实施监视计划，以及如何优化SharePoint 2016部署的性能。本模块还说明了如何规划和配置SharePoint缓存。此外，本模块还说明了如何在SharePoint 2016环境中识别和解决问题。
   #### 课程
   - 监视SharePoint 2016环境

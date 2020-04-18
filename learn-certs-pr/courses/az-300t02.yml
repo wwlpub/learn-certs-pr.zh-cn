@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 实现工作负载和安全性
+title: Implementing Workloads and Security
 metadata:
-  title: '课程 AZ-300T02-A: 实现工作负载和安全性'
-  description: '课程 AZ-300T02-A: 实现工作负载和安全性'
+  title: 'Course AZ-300T02-A: Implementing Workloads and Security'
+  description: 'Course AZ-300T02-A: Implementing Workloads and Security'
 uid: course.az-300t02
 courseNumber: 'AZ-300T02-A'
 hoursToComplete: 24
@@ -44,25 +44,26 @@ products:
 exams:
 - uid: exam.az-300
 summary: |-
-  本课程传授IT专业人员如何发现、评估、规划和实施将本地资源和基础结构迁移到Azure。学生将学习如何使用Azure迁移执行发现和评估阶段，这对于成功进行迁移至关重要。学生还将学习如何使用Azure Site Recovery执行将工作负载实际迁移到Azure的过程。该课程主要侧重于在Hyper-V基础架构上使用ASR准备和完成迁移过程。
+  本课程传授IT专业人员如何发现、评估、规划和实施将本地资源和基础结构迁移到Azure。学生将学习如何使用Azure迁移执行发现和评估阶段，这对于成功进行迁移至关重要。学生还将学习如何使用Azure Site Recovery执行将工作负载实际迁移到Azure的过程。该课程主要侧重于在Hyper-V基础架构上使用ASR准备和完成迁移过程。 
   此外，学生还将学习如何部署无服务器计算功能，例如Azure功能，事件网格和服务总线。学生将学习Azure多重身份验证如何保护对数据和应用程序的访问，并帮助满足客户对简单登录过程的需求。此外，学生还将学习如何使用Azure Active Directory特权身份管理来管理、控制和监视对组织内Azure资源的访问。
   了解如何管理和维护用于核心Web应用程序和服务的基础结构，由开发人员构建和部署这些核心Web应用程序和服务。学生将学习如何将Azure App Service用作平台即服务（PaaS）产品，用于为Web和移动环境部署云应用程序。
   最后，学生将了解如何实现高级网络功能，例如Application Gateway；如何配置负载均衡；将本地网络与Azure虚拟网络集成；以及如何使用Network Watcher监视和解决问题。
+
   #### 受众概况
   成功的Azure Solutions Architect开始担任这一角色，以操作系统、虚拟化、云基础架构、存储结构、计费和网络方面的经验作为开始。
 outlineSection: |-
   ### 模块 1&#58; 评估并执行将服务器迁移至Azure
   此模块涵盖将工作负载迁移到新环境（无论是另一个数据中心还是公共云），并为迁移设置明确的目标。目标包括针对迁移的技术目标和针对业务的目标，以及对组织业务的收益。活动包括Azure迁移过程的组成部分&#58; 创建项目、创建收集器、评估准备情况并估算成本。此外，您将获得并概述包括端到端方案的Azure Site Recovery（ASR）。
+
   学完本模块后，学生将能够&#58;
   - 评估并执行从服务器迁移至Azure
-  
+
   ### 模块 2&#58; 实施和管理应用程序服务
   本模块包括以下主题&#58; 部署Web应用程序；管理网络应用；应用服务安全；无服务器计算概念；管理事件网格；管理服务总线；以及管理逻辑应用程序。
 
   学完本模块后，学生将能够&#58;
   - 实施和管理应用程序服务
-
-
+  
   ### 模块 3&#58; 实施高级虚拟网络
   本模块包括下列主题&#58; Azure负载平衡器；Azure应用程序网关；站点间VPN连接；以及ExpressRoute概述，ExpressRoute使公司可以连接提供商提供的专用私人连接以将本地网络扩展到Microsoft云。
 

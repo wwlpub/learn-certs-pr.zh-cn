@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 实现Azure安全性
+title: Implement Azure security
 metadata:
-  title: '课程 AZ-203T04-A: 实施 Azure 安全性'
-  description: '课程 AZ-203T04-A: 实施 Azure 安全性'
+  title: 'Course AZ-203T04-A: Implement Azure security'
+  description: 'Course AZ-203T04-A: Implement Azure security'
 uid: course.az-203t04
 courseNumber: 'AZ-203T04-A'
 hoursToComplete: 24
@@ -44,6 +44,7 @@ outlineSection: |-
   - 实施Azure资源的托管身份
   - 通过使用证书，基于表单的身份验证或令牌来实施身份验证
   - 实施多因素身份验证
+
   学完本模块后，学生将能够&#58;
   - 了解Microsoft身份平台的架构
   - 在其解决方案中实施OAuth2身份验证
@@ -54,10 +55,11 @@ outlineSection: |-
   #### 课程
   - 基于声明的授权
   - 基于角色的访问控制（RBAC）授权
+
   学完本模块后，学生将能够&#58;
   - 在其开发解决方案中使用基于声明的授权
   - 通过REST API使用RBAC管理对资源的访问
-  
+
   ### 模块 3&#58; 实施安全的数据解决方案
   该模块涵盖了静态数据和传输数据的安全性。
   #### 课程
@@ -65,7 +67,7 @@ outlineSection: |-
   - 端到端加密
   - 实施Azure机密计算
   - 在Azure Key Vault中管理加密密钥
-
+  
   学完本模块后，学生将能够&#58;
   - 了解加密选项
   - 使用透明数据加密来加密数据

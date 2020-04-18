@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 在Dynamics 365 for Marketing中设置事件和调查
+title: Set up events and surveys in Dynamics 365 for Marketing
 metadata:
-  title: '课程 MB-220T02-A: 在Dynamics 365 for Marketing中设置事件和调查'
-  description: '课程 MB-220T02-A: 在Dynamics 365 for Marketing中设置事件和调查'
+  title: 'Course MB-220T02-A: Set up events and surveys in Dynamics 365 for Marketing'
+  description: 'Course MB-220T02-A: Set up events and surveys in Dynamics 365 for Marketing'
 uid: course.mb-220t02
 courseNumber: 'MB-220T02-A'
 hoursToComplete: 24
@@ -28,6 +28,7 @@ summary: |-
   活动、网络研讨会和调查通常是营销组织联系客户的关键部分。活动和网络研讨会包含许多不断变化的部分，管理起来可能很复杂。Dynamics 365 for Marketing通过将所有计划数据集中到一个中心位置并通过可自定义的事件门户提供执行通道，简化了此过程。调查通常在活动结束后提供，但也可以在整个营销生命周期中用于征求反馈。通过微软的客户之声解决方案，调查很容易设置、管理、执行，并与事件关联。
   本课程将涵盖活动规划，包括设置和管理会议、演讲者、通行证、等候名单、场馆、赞助商、供应商、后勤和住宿；以及活动执行，如创建自定义注册字段、管理注册和签到以及活动门户；然后本课程将涵盖调查创建和分发。最后，模块将以事件和调查结果作为总结。
   通过自定义演示、检查知识问题和实践学习实验室，了解Dynamics 365 for Marketing的所有设置和核心功能。
+  
   #### 受众概况
   本课程是为那些想学习如何为企业利用Dynamics 365 for Marketing的IT或营销专业人士而设计的。
 prerequisitesSection: |-
@@ -46,7 +47,7 @@ outlineSection: |-
   - 创建自定义登记字段
   - 创建活动出站消息
   - 设置和管理活动门户、登记和签到功能
-
+  
   ### 模块 2&#58; 客户之声
   在本模块中，学生将回顾如何在Dynamics 365 for Marketing中配置、设计和分发客户之声调查。
   #### 课程
@@ -54,14 +55,13 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 创建可重复使用的调查主题
   - 创建、设计、预览和发布调查
-  ­ 了解如何通过Dynamics 365 for Marketing分发调查
+  ­- 了解如何通过Dynamics 365 for Marketing分发调查
   - 克隆、导入、转换、关闭、停止或删除调查
   
   ### 模块 3&#58; 结果
   在结果模块中，学生将回顾营销活动和调查见解。
   #### 课程
   - 回顾
-
   学完本模块后，学生将能够&#58;
   - 利用活动控制面板评估活动结果
   - 查看调查结果

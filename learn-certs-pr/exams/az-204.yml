@@ -1,0 +1,101 @@
+### YamlMime:Examination
+title: Developing Solutions for Microsoft Azure (测试)
+metadata:
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (测试)'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (测试)'
+uid: exam.az-204
+displayName: AZ-204
+summary: |-
+  参加此考试的考生是云开发人员，他们将参与从需求定义和设计到开发、部署和维护的所有开发阶段。他们与云数据库管理员，云管理员和客户合作以实施解决方案。
+  
+  考生应精通 Azure SDK、数据存储选项、数据连接、API、应用程序身份验证和授权、计算和容器部署、调试、性能调整和监视。
+  <br/>
+  
+  考生必须具有1-2年的专业开发经验以及 Microsoft Azure 的使用经验。他们必须能够使用 Azure 支持的语言进行编程。
+  
+  <div style='color&#58; red;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></div>
+subTitle: '此考试衡量您完成以下技术任务的能力:开发 Azure 计算解决方案；开发 Azure 存储；实现 Azure 安全性；监控、故障排除和优化解决方案；并连接并使用 Azure 服务和第三方服务。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
+locales:
+- en
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+levels:
+- intermediate
+skills:
+- 开发 Azure 计算解决方案(25-30%)
+- 开发 Azure 存储 (10-15%)
+- 实现 Azure 安全性 (15-20%)
+- 监控、排除故障和优化 Azure 解决方案 (10-15%)
+- 连接并使用 Azure 服务和第三方服务(25-30%)
+roles:
+- developer
+products:
+- azure
+- azure-active-directory
+- azure-api-management
+- azure-app-service
+- azure-application-gateway
+- azure-automation
+- azure-cdn
+- azure-clis
+- azure-cloud-shell
+- azure-container-instances
+- azure-container-registry
+- azure-cosmos-db
+- azure-event-grid
+- azure-event-hubs
+- azure-functions
+- azure-key-vault
+- azure-logic-apps
+- azure-monitor
+- azure-policy
+- azure-portal
+- azure-redis-cache
+- azure-resource-manager
+- azure-sdks
+- azure-service-bus
+- azure-storage
+- azure-stream-analytics
+- azure-traffic-manager
+- azure-virtual-machines
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.data-science
+- uid: learn.secure-your-cloud-data
+relatedCertifications:
+- related:
+    uid: certification.azure-developer
+resources:
+- title: 认证学习路径
+  description: '发现培训资源以获得Microsoft Certified: Azure Developer Associate。'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 支持认证考试
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md

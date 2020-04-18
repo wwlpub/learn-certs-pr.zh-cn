@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 在 Azure 上设计和实现数据科学解决方案
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: '课程 DP-100T01-A: 在 Azure 上设计和实现数据科学解决方案'
-  description: '课程 DP-100T01-A: 在 Azure 上设计和实现数据科学解决方案'
+  title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -21,27 +21,28 @@ exams:
 - uid: exam.dp-100
 summary: |-
   获得有关如何使用Azure服务来开发、培训和部署机器学习解决方案的必要知识。本课程首先概述支持数据科学的Azure服务。从那里开始，它着重于使用Azure的首要数据科学服务Azure机器学习服务来自动化操作数据科学管道。本课程侧重于Azure，不教学生关于数据科学的知识。假定学生已经知道这一点。
+  
   #### 受众概况
   本课程面向数据科学家以及在训练和部署机器学习模型方面负有重要责任的人员。
 prerequisitesSection: |-
   参加本课程之前，学生必须具备&#58;
-  - 获得[Azure Fundamentals认证](https://docs.microsoft.com/learn/certifications/azure-fundamentals)。
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - 了解数据科学，包括如何准备数据、训练模型以及评估竞争模型以选择最佳模型。
   - 如何使用Python编程语言进行编程并使用Python库&#58;pandas，scikit-learn，matplotlib和seaborn。
 outlineSection: |-
   ### 模块 1&#58; 在Azure上研究数据科学
-  学生将学习数据科学过程和数据科学家的工作。然后将其应用于了解Azure服务如何支持和增强数据科学处理。
+  学生将学习数据科学过程和数据科学家的工作。  然后将其应用于了解Azure服务如何支持和增强数据科学处理。
   #### 课程
   - 介绍数据科学处理
   - Azure数据科学选项概述
   - 介绍Azure Notebooks
-
+  
   ### 模块 2&#58; 使用Azure机器学习服务从事数据科学研究
   学生将学习如何使用Azure机器学习服务（AML）端到端自动化数据科学处理。
   #### 课程
   - 介绍AML服务
   - 使用AML服务注册和部署ML模型
-
+  
   ### 模块 3&#58; 使用AML服务自动进行机器学习
   在本模块中，学生将学习机器学习管道，以及AML服务的AutoML和HyperDrive如何实现其中一部分繁琐工作的自动化。
   #### 课程

@@ -1,0 +1,125 @@
+### YamlMime:Course
+title: Managing Microsoft Teams
+metadata:
+  title: 'Course MS-700T00-A: Managing Microsoft Teams'
+  description: 'Course MS-700T00-A: Managing Microsoft Teams'
+uid: course.ms-700t00
+courseNumber: 'MS-700T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 什么是Microsoft Teams以及组件如何协同工作
+- skill: 如何为Microsoft Teams实现治理、安全和合规性
+- skill: 如何为Microsoft Teams部署准备组织环境
+- skill: 如何部署和管理Teams
+- skill: Microsoft Teams中的协作管理方法
+- skill: Microsoft Teams中管理和排除通信故障的技术
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-700
+summary: |-
+  Managing Microsoft Teams"课程是为有志于担任Microsoft 365 Teams管理员角色的人员设计的。
+  Microsoft Teams Administrator为专注于企业环境中的高效协作和通信的Microsoft Teams配置、部署和管理Office 365工作负载。
+  本课程涵盖六个核心要素—Microsoft Teams概述、实施Microsoft Teams治理、安全和合规性、为Microsoft Teams的部署准备环境、部署和管理团队、管理Microsoft团队中的协作和通信。
+  在“Microsoft Teams概述”中，您将概括了解Microsoft Teams，包括Teams体系结构和相关的Office 365工作负载。我们将向您概述Microsoft Teams中的安全性和合规性，并最终概述如何管理Microsoft Teams。
+  在为Microsoft Teams实现治理、安全和合规性时，您将为Office 365组规划和配置治理，包括过期和命名策略。然后，您将通过为Microsoft Teams配置条件访问、多因素身份验证(MFA)或威胁管理来实现安全性。最后，您将使用DLP策略、eDiscovery案例或监督策略来实现Teams的合规性。
+  在为Microsoft Teams部署准备环境时，您计划通过评估具有共存和升级模式的升级路径、管理会议迁移以及配置共存和升级设置，从Skype for Business升级到Microsoft Teams。然后，您将计划和配置Microsoft Teams的网络设置，最后部署和管理Microsoft Teams端点。
+  在部署和管理Teams过程中，您将学习如何创建和管理团队，管理内部和外部用户的成员资格和访问权限。
+  在管理Microsoft Teams中的协作时，您将管理聊天和协作体验，如团队设置或专用频道创建策略。最后，您将管理Teams应用程序的设置，如Microsoft Teams中的应用程序设置策略、应用程序、机器人程序和连接器，或在Microsoft Teams中发布自定义应用程序。
+  本课程的最后将探讨如何管理Microsoft Teams中的通信。您将学习如何管理现场活动和会议体验，如何管理Microsoft Teams的电话号码或电话系统，以及如何解决音频、视频和客户端问题。
+
+  #### 受众概况
+  本课程的学生对Microsoft Teams或通过Microsoft Teams Administrator Associate认证考试感兴趣。
+prerequisitesSection: |-
+  - 熟练理解对Microsoft 365服务有了基本功能体验。
+  - 精通一般IT实务，包括使用PowerShell。
+outlineSection: |-
+  ### 模块 1&#58; Microsoft Teams概述
+  在“Microsoft Teams概述”中，您将概括了解Microsoft Teams，包括Teams体系结构和相关的Office 365工作负载。我们将向您概述Microsoft Teams中的安全性和合规性，并最终概述如何管理Microsoft Teams。
+  #### 课程
+  - Microsoft Teams概述
+  - Microsoft Teams中的安全性和合规性概述
+  - Microsoft Teams管理概述
+
+
+  #### 实验室&#58; 管理角色和创建团队
+  - 准备团队角色和许可
+  - 创建新的团队
+
+
+  ### 模块 2&#58; 实施Microsoft Teams治理、安全和合规性
+  在为Microsoft Teams实现治理、安全和合规性时，您将为Office 365组规划和配置治理，包括过期和命名策略。然后，您将通过为Microsoft Teams配置条件访问、多因素身份验证(MFA)或威胁管理来实现安全性。最后，您将使用DLP策略、eDiscovery案例或监督策略来实现Teams的合规性。
+  #### 课程
+  - 为Microsoft Teams实施治理和生命周期管理
+  - 为Microsoft Teams实现安全性
+  - 为Microsoft Teams实现合规性
+
+
+  #### 实验室&#58; 为团队和内容配置安全性和合规性
+  - 为Microsoft Teams实施治理和生命周期管理
+  - 为Microsoft Teams实现安全性
+  - 为Microsoft Teams实现合规性
+
+
+  ### 模块 3&#58; 为Microsoft Teams的部署准备环境
+  在为Microsoft Teams部署准备环境时，您计划通过评估具有共存和升级模式的升级路径、管理会议迁移以及配置共存和升级设置，从Skype for Business升级到Microsoft Teams。然后，您将计划和配置Microsoft Teams的网络设置，最后部署和管理Microsoft Teams端点。
+  #### 课程
+  - 从Skype for Business升级到Microsoft Teams
+  - 为Microsoft Teams计划和配置网络设置
+  - 部署和管理Microsoft Teams端点
+
+
+  #### 实验室&#58; Teams的环境准备工作
+  - 计算网络能力
+  - 评估配置文件
+  - 提供团队资源
+
+
+  ### 模块 4&#58; 部署和管理Teams
+  在部署和管理Teams过程中，您将学习如何创建和管理团队，管理内部和外部用户的成员资格和访问权限。
+  #### 课程
+  - 创建和管理Teams
+  - 管理成员资格
+  - 管理外部用户的访问
+
+
+  #### 实验室&#58; 管理Teams
+  - 管理团队资源
+  - 管理共享和访问
+
+
+  ### 模块 5&#58; 管理Microsoft Teams中的协作
+  在管理Microsoft Teams中的协作时，您将管理聊天和协作体验，如团队设置或专用频道创建策略。最后，您将管理Teams应用程序的设置，如Microsoft Teams中的应用程序设置策略、应用程序、机器人程序和连接器，或在Microsoft Teams中发布自定义应用程序。
+  #### 课程
+  - 管理聊天和协作体验
+  - 管理Teams应用程序的设置
+
+
+  #### 实验室&#58; 修改Teams的协作设置
+  - 配置频道和消息策略
+  - 管理Teams应用程序设置
+
+
+  ### 模块 6&#58; 管理Microsoft Teams中的通信
+  本课程的最后将探讨如何管理Microsoft Teams中的通信。您将学习如何管理现场活动和会议体验，如何管理Microsoft Teams的电话号码或电话系统，以及如何解决音频、视频和客户端问题。
+  #### 课程
+  - 管理现场活动和会议体验
+  - 管理电话号码
+  - 管理Microsoft Teams的电话系统
+  - 音频、视频和客户端问题的疑难解答
+
+
+  #### 实验室&#58; 修改Teams的通信设置
+  -配置会议策略
+  - 管理Microsoft Teams的电话系统
+  - 音频、视频和客户端问题的疑难解答

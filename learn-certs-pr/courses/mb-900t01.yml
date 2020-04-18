@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 Fundamentals
+title: Dynamics 365 fundamentals
 metadata:
-  title: '课程 MB-900T01-A: Dynamics 365 Fundamentals'
-  description: '课程 MB-900T01-A: Dynamics 365 Fundamentals'
+  title: 'Course MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Course MB-900T01-A: Dynamics 365 fundamentals'
 uid: course.mb-900t01
 courseNumber: 'MB-900T01-A'
 hoursToComplete: 24
@@ -36,14 +36,14 @@ outlineSection: |-
   - 用于统一操作的应用程序
   - Power Platform
   - 应用程序基础知识
-
+  
   ### 模块 2&#58; 云的概念
   在本模块中，我们将讨论高级云概念，并介绍微软的云产品Azure，分析它与Dynamics 365的关系。
   #### 课程
   - 云架构概述
   - 不同类型的可用云服务
   - 将云产品与相应的本地产品进行比较
-
+  
   ### 模块 3&#58; 管理部署和发布
   在本模块中，我们将介绍重要的实现注意事项，包括部署类型、发布节奏和安全模型设计。
   #### 课程

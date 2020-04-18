@@ -1,24 +1,24 @@
 ### YamlMime:Course
-title: Microsoft 365 基础知识
+title: Microsoft 365 Fundamentals
 metadata:
-  title: '课程 MS-900T01-A: Microsoft 365 Fundamentals'
-  description: '课程 MS-900T01-A: Microsoft 365 Fundamentals'
+  title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 区分不同的云服务模型
-- skill: 确定Microsoft 365和Office 365之间的关键区别
-- skill: 规划迁移到Microsoft 365服务
-- skill: 确定Microsoft内部部署服务和Microsoft 365云服务之间的关键区别
-- skill: 在Microsoft 365中定义企业移动性
-- skill: 确定Microsoft 365服务如何支持团队协作
-- skill: 描述身份，包括云、本地和混合身份
-- skill: 描述云设备管理和保护，包括Intune的使用
-- skill: 描述数据保护，包括使用Azure信息保护
-- skill: 概述合规性以及Microsoft 365中的合规特性
-- skill: 介绍Microsoft 365订阅、许可证、帐单和支持
+- skill: 区分不同的云服务模型。
+- skill: 确定Microsoft 365和Office 365之间的关键区别。
+- skill: 规划迁移到Microsoft 365服务。
+- skill: 确定Microsoft内部部署服务和Microsoft 365云服务之间的关键区别。
+- skill: 在Microsoft 365中定义企业移动性。
+- skill: 确定Microsoft 365服务如何支持团队协作。
+- skill: 描述身份，包括云、本地和混合身份。
+- skill: 描述云设备管理和保护，包括Intune的使用。
+- skill: 描述数据保护，包括使用Azure信息保护。
+- skill: 概述合规性以及Microsoft 365中的合规特性。
+- skill: 介绍Microsoft 365订阅、许可证、帐单和支持。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -51,20 +51,22 @@ outlineSection: |-
   - 云计算原理
   - Microsoft云服务
   - 迁移到云服务
+  
   #### 实验室 &#58; 云基础知识
   - 练习1&#58; 确定适当的云模型（纸面实验室）
-
+  
   ### 模块 2&#58; Microsoft 365核心服务
   #### 课程
   - Microsoft 365核心服务
   - Microsoft 365中的Microsoft本地部署服务和云服务
   - Microsoft 365中的统一端点管理
   - Microsoft 365中的团队协作
-  ### 实验室 &#58; 启用和配置Microsoft 365租户
+  
+  #### 实验室 &#58; 启用和配置Microsoft 365租户
   - 练习 1&#58; 激活和配置Microsoft 365租户
-  - 练习 2&#58; 浏览Microsoft 365用户和管理门户
+  - 练习2&#58; 浏览Microsoft 365用户和管理门户
   - 练习 3&#58; 配置新用户和组账户
-
+  
   ### 模块 3&#58; Microsoft 365中的安全性，合规性，隐私和信任
   #### 课程
   - 组织安全基础
@@ -72,13 +74,11 @@ outlineSection: |-
   - 身份和访问管理
   - Microsoft 365中的设备和数据保护
   - Microsoft 365中的合规性
-
-
-  ### 实验室 &#58; Microsoft 365中的安全性
+  
+  #### 实验室 &#58; Microsoft 365中的安全性
   - 练习 1&#58; 管理Azure活动目录中的用户和设备
   - 练习 2&#58; 评估身份保护
   - 练习 3&#58; 探索合规工具
-
 
   ### 模块 4&#58; Microsoft 365定价和支持
   #### 课程

@@ -1,15 +1,15 @@
 ### YamlMime:Course
-title: 在Dynamics 365 for Marketing中配置设置和核心功能
+title: Configure settings and core functionality in Dynamics 365 for Marketing
 metadata:
-  title: '课程 MB-220T01-A: 在Dynamics 365 for Marketing中配置设置和核心功能'
-  description: '课程 MB-220T01-A: 在Dynamics 365 for Marketing中配置设置和核心功能'
+  title: 'Course MB-220T01-A: Configure settings and core functionality in Dynamics 365 for Marketing'
+  description: 'Course MB-220T01-A: Configure settings and core functionality in Dynamics 365 for Marketing'
 uid: course.mb-220t01
 courseNumber: 'MB-220T01-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 配置高级设置
-- skill: 管理营销内容、模版和集成
+- skill: 管理营销内容、模版和集成。
 - skill: 创建和管理潜在客户
 - skill: 通过销售线索评分模型评估销售准备情况
 - skill: 设计和创建营销表单和页面
@@ -33,6 +33,7 @@ summary: |-
   营销转型、组织和增长从这里开始。通过Dynamics 365 for Marketing，潜在客户可以转变为业务关系。通过超越基本的电子邮件营销，找到并培养更多的随时可实现销售的潜在客户。连接销售和市场营销，将流程自动化，做出更明智的决策，以最大限度地提高市场投资回报率。
   本课程回顾入门所需的市场营销应用程序配置。它深入到销售线索的创造、管理和评分。从那里开始，课程包括创建营销表单和页面。然后，学生学习如何通过细分来分解销售线索和联系人，以让营销工作有所侧重。接下来，学生将学习如何使用高级设计器功能创建电子邮件营销消息。然后，所有的部分都与客户的旅程联系在一起。Dynamics 365 for Marketing允许客户旅程创建一个模型，该模型通过使用自动消息传递、活动生成、交互式决策点等来帮助指导所选营销细分市场的成员完成此过程。最后，学生学习如何回顾、理解和管理客户洞察。
   通过自定义演示、检查知识问题和实践学习实验室，了解Dynamics 365中用于营销的所有设置和核心功能。
+  
   #### 受众概况
   本课程是为那些想学习如何为企业利用Dynamics 365 for Marketing的IT或营销专业人士而设计的。
 prerequisitesSection: |-
@@ -47,8 +48,8 @@ outlineSection: |-
   - 管理 LinkedIn 和 Power BI 集成
   学完本模块后，学生将能够&#58;
   - 置高级设置，例如&#58; 组织、业务管理、内容、营销和事件设置
-  - 管理营销内容和模版
-
+  - 管理营销内容和模版  
+  
   ### 模块 2&#58; 销售线索
   在本模块中，学生将学习如何创建和管理销售线索以及为销售线索评分。
   #### 课程
@@ -58,21 +59,19 @@ outlineSection: |-
   - 创建和管理销售线索
   - 同步来自于LinkedIn的销售线索
   - 通过销售线索评分模型评估销售准备情况
-
+  
   ### 模块 3&#58; 营销表单和页面
   本模块将介绍如何创建营销表单和页面。
   #### 课程
   - 创建营销表单
   - 创建营销页面
   - 管理互联网营销
-
   学完本模块后，学生将能够&#58;
   - 创建营销表单并将其嵌入营销页面
   - 创建营销页面
   - 预览、验证和启用营销页面
   - 创建营销表单和页面模版
-
-
+  
   ### 模块 4&#58; 细分市场和列表
   本模块将介绍如何细分市场、订阅中心、列表和双重确认。
   学完本模块后，学生将能够&#58;

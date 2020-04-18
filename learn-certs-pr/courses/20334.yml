@@ -1,46 +1,46 @@
 ### YamlMime:Course
-title: 'Skype for Business 2015/2019 核心解决方案'
+title: Core Solutions of Skype for Business 2015/2019
 metadata:
-  title: '课程 20334-C: Skype for Business 2015/2019 核心解决方案'
-  description: '课程 20334-C: Skype for Business 2015/2019 核心解决方案'
+  title: 'Course 20334-C: Core Solutions of Skype for Business 2015/2019'
+  description: 'Course 20334-C: Core Solutions of Skype for Business 2015/2019'
 uid: course.20334
 courseNumber: '20334-C'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 描述Skype for Business的架构，并设计Skype for Business拓扑
-- skill: 安装并实施Skype for Business Server
-- skill: 通过使用各种可用工具来运营和管理Skype for Business Server
-- skill: 在Skype for Business中设计和实施客户端和用户
-- skill: 在Skype for Business Server中实施会议
-- skill: 设计和实施其他会议选项
-- skill: 在Skype for Business中设计和实施监视和归档
-- skill: 设计和实施与外部用户和组织的连接
-- skill: 在Skype for Business Server中实施企业语音
-- skill: 在Skype for Business中规划和实施高可用性
-- skill: 为Skype for Business设计和实施灾难恢复方案
-- skill: 设计和部署Skype for Business混合
-- skill: 规划并实施向Skype for Business Server 2019或Microsoft Teams的迁移
+- skill: 描述Skype for Business的架构，并设计Skype for Business拓扑。
+- skill: 安装并实施Skype for Business Server。
+- skill: 通过使用各种可用工具来运营和管理Skype for Business Server。
+- skill: 在Skype for Business中设计和实施客户端和用户。
+- skill: 在Skype for Business Server中实施会议。
+- skill: 设计和实施其他会议选项。
+- skill: 在Skype for Business中设计和实施监视和归档。
+- skill: 设计和实施与外部用户和组织的连接。
+- skill: 在Skype for Business Server中实施企业语音。
+- skill: 在Skype for Business中规划和实施高可用性。
+- skill: 为Skype for Business设计和实施灾难恢复方案。
+- skill: 设计和部署Skype for Business混合。
+- skill: 规划并实施向Skype for Business Server 2019或Microsoft Teams的迁移。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
-- advanced
+- intermediate
 roles:
 - administrator
 products:
-- m365
+- skype
 exams:
 - uid: exam.70-334
 summary: |-
   本课程为学生提供计划、部署、配置和管理Microsoft Skype for Business解决方案所需的知识和技能。学生将学习如何部署多站点且高度可用的Skype for Business基础结构，该基础结构支持即时消息（IM）、会议、企业语音、存档和监视。学生还将学习如何管理和维护基础结构中的问题并排除故障。
 
-  本课程主要侧重于Skype for Business的本地部署，但包含有关如何将本地部署与Teams或Skype for Business Online集成以及如何从早期版本的Skype for Business  Server进行迁移的信息。本课程帮助学生为考试70-334&#58;Skype for Business 2015核心解决方案做准备。
+  本课程主要侧重于Skype for Business的本地部署，但包含有关如何将本地部署与Teams或Skype for Business Online集成以及如何从早期版本的Skype for Business Server进行迁移的信息。本课程帮助学生为考试70-334&#58;Skype for Business 2015核心解决方案做准备。
 
   #### 受众概况
   本课程的主要受众是负责组织中Skype for Business部署的信息技术（IT）专业人员。使用以前版本的经验会有所帮助，但对于参加本课程的学生而言不是必需的。此外，学生应精通 Active Directory 域服务 (AD DS)、数据网络以及支持 Skype for Business 配置的电信标准和组件。学生还应该熟悉Microsoft Exchange Server和Microsoft 365。
 
-  本课程的次级听众包括计划参加考试 70-334&#58; Skype for Business 2015的核心解决方案的IT专业人员，作为独立考试或作为Microsoft认证解决方案专家（MCSE）Communications 认证考试要求的一部分。
+  本课程的次级听众包括计划参加考试70-334&#58; Skype for Business 2015的核心解决方案的IT专业人员，作为独立考试或作为Microsoft认证解决方案专家（MCSE）Communications 认证考试要求的一部分。
 prerequisitesSection: |-
   除了专业经验之外，参加此培训的学生还应该具有以下技术知识&#58;
   - 至少两年的Windows Server管理经验，包括Windows Server 2016或Windows Server 2019
@@ -57,7 +57,7 @@ outlineSection: |-
   - Skype for Business管理工具简介
 
 
-  #### 实验 &#58; 为业务服务器拓扑设计和发布Skype
+  #### 实验 &#58;为业务服务器拓扑设计和发布Skype
   - 设计和创建拓扑
   - 更新纽约站点的拓扑
 
@@ -75,11 +75,11 @@ outlineSection: |-
   - 将Skype for Business Server与Exchange Server和SharePoint Server集成在一起
 
 
-  #### 实验 &#58; 配置用于Skype for Business Server的DNS和简单URL
+  #### 实验 &#58;配置用于Skype for Business Server的DNS和简单URL
   - 为Skype for Business Server配置所需的DNS记录和简单URL
 
 
-  #### 实验 &#58; 部署Skype for Business Server
+  #### 实验 &#58;部署Skype for Business Server
   - 安装和配置Skype for Business Server
   - 安装Skype for Business服务器证书
 
@@ -101,13 +101,13 @@ outlineSection: |-
   - Skype for Business故障排除工具
 
 
-  #### 实验 &#58; 使用管理工具来管理Skype for Business Server
+  #### 实验 &#58;使用管理工具来管理Skype for Business Server
   - 在Windows 10客户端上安装Skype for Business管理工具
   - 使用Skype for Business Server控制面板
   - 使用Skype for Business Server命令行管理程序
 
 
-  #### 实验 &#58; 使用Skype for Business故障排除工具
+  #### 实验 &#58;使用Skype for Business故障排除工具
   - 使用Skype for Business Server命令行管理程序Cmdlet创建RBAC结构
   - 使用集中式日志记录服务
   - 使用消息分析器执行网络捕获
@@ -131,26 +131,22 @@ outlineSection: |-
   - 管理Skype for Business地址簿
 
 
-  #### 实验 &#58; 在Skype for Business 2015中配置用户和客户端
+  #### 实验 &#58;在Skype for Business 2015中配置用户和客户端
   - 使用管理外壳使用户能够使用Skype for Business
   - 解决用户登录问题
 
 
-  #### 实验 &#58; 在Skype for Business Server中配置策略和通讯簿
+  #### 实验 &#58;在Skype for Business Server中配置策略和通讯簿
   - 配置客户端策略
   - 配置通讯录
 
   学完本模块后，学生将能够&#58;
   - 使用Skype for Business Server控制面板和
-  - Skype for Business Server命令行管理程序。
+  Skype for Business Server命令行管理程序。
 
   - 部署Skype for Business客户。
-
-  - 说明Skype for Business 客户的注册、登录和
-  身份验证过程。
-
+  - 说明Skype for Business 客户的注册、登录和 身份验证过程。
   - 配置带内策略和组策略。
-
   - 描述如何管理Skype for Business地址簿。
 
 
@@ -163,20 +159,17 @@ outlineSection: |-
   - 配置会议设置
 
 
-  #### 实验 &#58; 安装和配置Office Online服务器
+  #### 实验 &#58;安装和配置Office Online服务器
   - 安装Office Online服务器
 
 
-  #### 实验 &#58; 在Skype for Business Server中配置会议
+  #### 实验 &#58;在Skype for Business Server中配置会议
   - 配置、分配和验证会议策略
 
   学完本模块后，学生将能够&#58;
   - 描述Skype for Business会议功能和方式。
-
   - 将Skype for Business Server 2015与Office Web Apps Server集成。
-
   - 规划会议带宽利用率。
-
   - 配置会议设置和策略。
 
 
@@ -191,24 +184,20 @@ outlineSection: |-
   - 配置大型会议和Skype会议广播
 
 
-  #### 实验 &#58; 实施并排除断会议策略问题
+  #### 实验 &#58;实施并排除断会议策略问题
   - 创建和编辑会议策略
   - 排除会议策略问题
 
 
-  #### 实验 &#58; 配置其他会议方式
+  #### 实验 &#58;配置其他会议方式
   - 部署电话拨入式会议
   - 为LRS部署做准备
 
   学完本模块后，学生将能够&#58;
   - 管理会议生命周期。
-
   - 配置会议和会议策略。
-
   - 部署电话拨入式会议。
-
   - 配置Lync Room System（LRS）的基础结构。
-
   - 配置大型会议和Skype会议广播。
 
 
@@ -221,20 +210,17 @@ outlineSection: |-
   - 实施归档
 
 
-  #### 实验 &#58; 实施监视
+  #### 实验 &#58;实施监视
   - 启用监控报告
 
 
-  #### 实验 &#58; 实施归档
+  #### 实验 &#58;实施归档
   - 启用Skype for Business Server存档到Microsoft Exchange Server 2013
 
   学完本模块后，学生将能够&#58;
   - 描述Skype for Business Server中的监视服务组件。
-
   - 实施监控。
-
   - 设计归档策略。
-
   - 实施归档。
 
 
@@ -260,15 +246,10 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   - 确定用于外部访问的组件。
-
   - 配置外部访问策略和安全性。
-
   - 配置外部访问网络和证书。
-
   - 配置反向代理。
-
   - 为移动客户端配置Skype for Business Server 2015。
-
   - 在Skype for Business Server中设计和配置联盟。
 
 
@@ -293,9 +274,7 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   - 设计包含持久聊天的Skype for Business拓扑。
-
   - 在Skype for Business中部署持久聊天。
-
   - 在Skype for Business中配置和管理持久聊天。
 
 
@@ -317,15 +296,9 @@ outlineSection: |-
   - 配置硬件负载平衡
 
   学完本模块后，学生将能够&#58;
-  - 在Skype for Business Server环境中设计并实施
-  用于前端服务器的高可用性解决方案。
-
-  - 在Skype for Business Server环境中设计并实施
-  用于前端服务器的高可用性解决方案。
-
-  - 在Skype for Business Server环境中设计并实施
-  用于文件存储，边缘服务器，中介服务器，Office 离线服务器场和
-  反向代理服务器的高可用性解决方案。
+  - 在Skype for Business Server环境中设计并实施 用于前端服务器的高可用性解决方案。
+  - 在Skype for Business Server环境中设计并实施 用于前端服务器的高可用性解决方案。
+  - 在Skype for Business Server环境中设计并实施 用于文件存储，边缘服务器，中介服务器，Office 离线服务器场和 反向代理服务器的高可用性解决方案。
 
 
   ### 模块 11&#58; 在Skype for Business 2015中实施灾难恢复
@@ -342,12 +315,8 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   - 在Skype for Business Server中描述灾难恢复选项。
-
   - 在Skype for Business Server中实施灾难恢复。
-
-  - 描述“持久聊天”，“中央”的灾难恢复选项
-  管理存储、位置信息服务（LIS）数据库和用户
-  数据。
+  - 描述“持久聊天”，“中央”的灾难恢复选项 管理存储、位置信息服务（LIS）数据库和用户 数据。
 
 
   ### 模块 12&#58; 与Skype for Business Online集成
@@ -363,9 +332,7 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   - 描述Skype for Business Online功能。
-
   - 为混合Skype for Business部署准备本地环境。
-
   - 配置混合Skype for Business部署。
 
 
@@ -382,10 +349,7 @@ outlineSection: |-
   - 执行从Lync Server 2013到Skype for Business Server 2015的就地升级
 
   学完本模块后，学生将能够&#58;
-  - 描述支持Skype for Business服务器的迁移和升级路径
-  路径。
-
-  - 将Lync Server 2013就地升级到Skype for Business
-  路径。
-
+  - 描述支持Skype for Business服务器的迁移和升级路径 路径。
+  - 将Lync Server 2013就地升级到Skype for Business 路径。
   - 描述升级期间如何管理用户体验。
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 设计DevOps策略
+title: Designing a DevOps Strategy
 metadata:
-  title: '课程 AZ-400T07-A: 设计DevOps策略'
-  description: '课程 AZ-400T07-A: 设计DevOps策略'
+  title: 'Course AZ-400T07-A: Designing a DevOps Strategy'
+  description: 'Course AZ-400T07-A: Designing a DevOps Strategy'
 uid: course.az-400t07
 courseNumber: 'AZ-400T07-A'
 hoursToComplete: 24
@@ -32,6 +32,7 @@ exams:
 - uid: exam.az-400
 summary: |-
   本课程提供设计DevOps策略的知识和技能。学生将学习如何规划转换、选择项目和创建团队结构。学生还将学习如何制定质量和安全策略。还将规划迁移和合并工件和源代码控制的计划。
+  
   #### 受众概况
   本课程的学生对规划DevOps项目或通过Microsoft Azure DevOps Solutions认证考试感兴趣。
 prerequisitesSection: |-
@@ -40,11 +41,14 @@ prerequisitesSection: |-
 outlineSection: |-
   ### 模块 1&#58; 规划DevOps
   在本模块中，学生将学习有关转换规划、项目选择和团队结构的知识。
+  
   #### 课程
   - 转换计划
   - 项目选择
   - 团队结构
-  #### 实验 &#58; 使用Azure板进行敏捷规划和项目组合管理
+  
+  #### 实验 &#58;使用Azure板进行敏捷规划和项目组合管理
+  
   学完本模块后，学生将能够&#58;
   - 制定共享目标和时间表的转型计划
   - 选择一个项目并确定项目指标和KPI
@@ -52,23 +56,23 @@ outlineSection: |-
   
   ### 模块 2&#58; 规划质量和安全性
   在本模块中，学生将学习有关制定质量策略和规划安全开发的知识。
+  
   #### 课程
   - 制定质量策略
   - 规划安全开发
-  #### 实验 &#58; 使用LaunchDarkly和AzureDevOps管理功能标志
+  
+  #### 实验 &#58;使用LaunchDarkly和AzureDevOps管理功能标志
   学完本模块后，学生将能够&#58;
   - 制定项目质量策略
   - 规划安全的开发实践和合规性规则。
-
-
+  
   ### 模块 3&#58; 迁移和合并工件和工具
   在本模块中，学生将学习有关迁移和合并工件以及迁移和集成源代码控制措施的知识。
   #### 课程
   - 迁移和整合Artifact
   - 迁移和集成源代码管理
 
-
-  #### 实验 &#58; 将Azure Repos和Azure Pipelines与Eclipse集成
+  #### 实验 &#58;将Azure Repos和Azure Pipelines与Eclipse集成
   学完本模块后，学生将能够&#58;
   - 迁移和合并Artifact
   - 迁移和整合源代码控制措施

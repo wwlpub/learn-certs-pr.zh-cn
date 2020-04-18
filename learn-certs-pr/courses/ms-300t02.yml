@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 管理 SharePoint Online
+title: Managing SharePoint Online
 metadata:
-  title: '课程 MS-300T02-A: 管理 SharePoint Online'
-  description: '课程 MS-300T02-A: 管理 SharePoint Online'
+  title: 'Course MS-300T02-A: Managing SharePoint Online'
+  description: 'Course MS-300T02-A: Managing SharePoint Online'
 uid: course.ms-300t02
 courseNumber: 'MS-300T02-A'
 hoursToComplete: 24
@@ -35,7 +35,7 @@ summary: |-
   
   #### 受众概况
   该考试适用于Microsoft 365 Teamwork Administrator角色。此角色负责配置、部署和管理专注于高效协作和采用的Office 365和Azure工作负载。他们管理应用程序、服务和支持基础架构，以满足业务需求。管理员知道并可以区分产品和服务，但不能直接管理每个产品或服务。
-  Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
+  Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。 
 
   Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
 prerequisitesSection: |-
@@ -49,6 +49,7 @@ outlineSection: |-
   #### 课程
   - 管理用户档案
   - 规划和配置自定义项和应用
+  
   学完本模块后，学生将能够&#58;
   - 描述如何配置用户配置文件属性
   - 描述如何管理受众
@@ -56,12 +57,9 @@ outlineSection: |-
   
   ### 模块 2&#58; 规划和配置托管元数据和业务连接
   本模块介绍托管元数据和业务连接服务。它介绍了托管元数据的概念以及导入术语集的过程。它还描述了如何管理业务连接服务和创建外部列表。
-
-
   #### 课程
   - 规划和配置托管元数据
   - 规划和配置 Business Connectivity Service (BCS) 和 Secure Store 服务
-
 
   学完本模块后，学生将能够&#58;
   - 描述托管元数据的功能

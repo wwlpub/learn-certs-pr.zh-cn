@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Building applications and solutions with Microsoft 365 core services
+metadata:
+  title: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+  description: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+uid: course.ms-600t00
+courseNumber: 'MS-600T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 实现 Microsoft Identity
+- skill:  使用 Microsoft Graph 工作
+- skill: 确定工作负载平台目标
+- skill: 集成点，包括 Microsoft Teams、Office 加载项、以及 SharePoint Framework
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-600
+summary: |-
+  本课程涵盖了Microsoft 365平台的五个核心元素&#58; 实现 Microsoft Identity、使用 Microsoft Graph、扩展和定制 SharePoint、扩展 Teams 和扩展 Office。
+  在本课程中，学生将学习如何实现 Microsoft Identity 并使用 Microsoft Graph。学生还将获得有关UI元素(包括适配卡和 UI Fabric)、集成点(包括Microsoft Teams、Office加载项、SharePoint框架、可操作消息)和确定工作负载平台目标的知识。
+  在实现 Microsoft Identity 时，学生将学习实现Microsoft标识，包括注册应用程序、植入身份验证、配置使用API的权限以及创建访问Microsoft Graph的服务。
+  在使用Microsoft Graph的过程中，学生将学习如何使用Microsoft Graph访问用户数据、探索查询参数、管理组生命周期、访问文件和优化网络流量。
+  在扩展和自定义SharePoint时，学生将学习SharePoint框架web部件、扩展以及如何打包和部署SPFx解决方案。
+  在扩展Teams时，学生将查看Teams应用程序的组件，使用webhook、标签和会话机器人。
+  在扩展 Office 过程中，学生通过适配卡来使用 Office 加载项、任务窗格加载项、JavaScript API、Office UI Fabric和可操作消息。
+
+  #### 受众概况
+  本课程的学生对 Microsoft 365 开发平台或通过 Microsoft 365 Developer Associate 认证考试感兴趣。学生也应该具备1-2年的开发经验。本课程假设学生知道如何编码，并对REST API、JSON、OAuth2、OData、OpenID Connect、微软身份(包括Azure AD和微软帐户)、Azure AD B2C和权限/同意概念有基本的了解。
+prerequisitesSection: |-
+  - 学生应具有1-2年的开发经验。本课程假设学生知道如何编码，并对REST API、JSON、OAuth2、OData、OpenID Connect、微软身份(包括Azure AD和微软帐户)、Azure AD B2C和权限/同意概念有基本的了解。
+  - 建议学生在软件开发的所有阶段都具有在Microsoft Teams、Office加载项或SharePoint Framework方面开发解决方案的经验。
+outlineSection: |-
+  ### 模块 1&#58; 实施 Microsoft Identity
+  在本模块中，学生将学习实现Microsoft标识，包括注册应用程序、植入身份验证、配置使用API的权限以及创建访问Microsoft Graph的服务。
+  #### 课程
+  - Microsoft 身份平台
+  - 注册应用
+  - 实现身份验证
+  - 配置使用API的权限
+  - 配置使用API的身份验证
+  - 在API中实现身份验证
+  - 创建访问Microsoft Graph的服务
+
+
+  #### 实验室&#58; 实施 Microsoft Identity
+  - 在Azure活动目录中注册应用程序
+  - 实现身份验证
+  - 配置使用API的权限
+  - 配置使用API的身份验证
+  - 在API中实现身份验证
+  - 创建访问Microsoft Graph的服务
+
+  学完本模块后，学生将能够&#58;
+  - 在Azure活动目录中注册应用程序
+  - 实现身份验证
+  - 配置使用API的权限
+  - 创建访问Microsoft Graph的服务
+
+
+  ### 模块 2&#58; 使用 Microsoft Graph
+  在本模块中，学生将学习如何使用Microsoft Graph访问用户数据、探索查询参数、管理组生命周期、访问文件和优化网络流量。
+  #### 课程
+  - 什么是 Microsoft Graph
+  - 从Microsoft Graph访问用户数据
+  - 带查询参数的数据使用
+  - 在Microsoft Graph上管理组生命周期
+  - 使用Microsoft Graph访问文件
+  - 优化网络流量
+
+
+  #### 实验室&#58; 使用 Microsoft Graph
+  - 从Microsoft Graph查询用户数据
+  - 通过HTTP查询Microsoft Graph时使用查询参数
+  - 检索和控制从Microsoft Graph返回的信息
+  - 创建Office 365组和团队
+  - 将文件上传到OneDrive和SharePoint
+  - 在Microsoft Graph中使用更改通知并跟踪更改
+  - 减少批量请求的通信量
+  - 了解Microsoft Graph中的节流
+
+  学完本模块后，学生将能够&#58;
+  - 使用Microsoft Graph访问用户数据
+  - 使用Microsoft Graph上的查询处理数据
+  - 在Microsoft Graph上管理组生命周期
+  - 使用Microsoft Graph优化网络流量
+
+
+  ### 模块 3&#58; 扩展和自定义SharePoint
+  在本模块中，学生将学习SharePoint框架web部件、扩展以及如何打包和部署SPFx解决方案。
+  #### 课程
+  - SharePoint框架web部件
+  - SharePoint框架扩展
+  - 封装和部署SPFx解决方案
+  - Microsoft Graph的使用
+  - 从SPFx内部使用受到Azure AD保护的第三方API
+  - 将Web部件作为Teams标签
+  - 在SharePoint中创建品牌和主题
+
+
+  #### 实验室&#58; 扩展和自定义SharePoint
+  - SharePoint框架(SPFx)简介
+  - 使用web部件属性窗格
+  - 创建SharePoint框架扩展
+  - 创建命令集扩展
+  - 创建字段自定义程序扩展
+  - 部署SharePoint框架解决方案
+  - 调用受到Azure AD保护的第三方REST API
+  - 将SPFx解决方案部署到Microsoft Teams
+
+  学完本模块后，学生将能够&#58;
+  - 封装和部署SharePoint框架解决方案
+  - 利用Microsoft Graph的资源消耗
+  - 将web部件用作Teams标签
+
+
+  ### 模块 4&#58; 扩展Teams
+  在本模块中，您将查看Teams应用程序的组件，使用webhook、标签和会话机器人。
+  #### 课程
+  - Microsoft Teams应用程序
+  - Microsoft Teams中的网络钩子(Webhook)
+  - Microsoft Teams中的标签
+  - Microsoft Teams中的消息程序扩展
+  - Microsoft Teams中的会话机器人
+
+
+  #### 实验室&#58; 扩展Teams
+  - 了解Teams应用程序的组件
+  - 在Microsoft Teams中使用网络钩子(webhook)
+  - 在Microsoft Teams中创建标签
+  - 了解消息程序扩展
+  - 了解会话机器人
+
+  学完本模块后，学生将能够&#58;
+  - 认识Teams应用程序的组件
+  - 在Microsoft Teams中使用网络钩子(webhook)
+  - 在Microsoft Teams中创建标签
+  - 创建并注册外出网络钩子(webhook)
+
+
+  ### 模块 5&#58; 扩展Office
+  在本模块中，您将通过适配卡来使用 Office 加载项、任务窗格加载项、JavaScript API、Office UI Fabric和可操作消息。
+  #### 课程
+  - Office 加载项
+  - Office JS API
+  - 加载项的自定义
+  - 测试、调试和部署选项
+  - 可操作消息
+
+
+  #### 实验室&#58; 扩展Office
+  - 了解Office加载项的基本组件和类型
+  - 了解Office JavaScript API
+  - 了解加载项的自定义
+  - 了解可操作消息
+
+  学完本模块后，学生将能够&#58;
+  - 了解Office加载项的基本组件和类型
+  - 了解Office JavaScript API
+  - 了解加载项的自定义
+  - 了解可操作消息

@@ -2,14 +2,18 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
+  description: 'Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
+summary: |-
+  Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
+  
+  <div style='color&#58; red;'><br/>MCSE Productivity Solutions Expert 认证将于2020年6月30日停用。因此，在2021年6月30日之后，MCSE Productivity Solutions Expert 认证将不符合 Microsoft 365 Certified: Enterprise Administrator Expert 认证的先决条件。(MCSE 停用后1年)。</div>
 subTitle: Microsoft 365 企业管理员参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
 levels:
 - advanced
 skills:
+- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 设计和实现 Microsoft 365 服务
 - 管理用户身份和角色
 - 管理访问和身份验证
@@ -22,8 +26,6 @@ roles:
 type: role-based
 products:
 - m365
-- azure-active-directory
-- office-365
 courses:
 - uid: course.ms-100t01
 - uid: course.ms-100t02
@@ -54,12 +56,12 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oH9a
-- title: 重新考试
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
 - title: 认证支持
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。

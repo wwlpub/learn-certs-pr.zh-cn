@@ -1,25 +1,29 @@
 ### YamlMime:Examination
 title: Core Solutions of Microsoft Skype for Business 2015
 metadata:
-  title: '考试 70-334: Core Solutions of Microsoft Skype for Business 2015'
-  description: '考试 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  title: 'Exam 70-334: Core Solutions of Microsoft Skype for Business 2015'
+  description: 'Exam 70-334: Core Solutions of Microsoft Skype for Business 2015'
 uid: exam.70-334
 displayName: 70-334
-summary: 本考试面向负责设计、规划、部署和维护统一通信 (UC) 解决方案的 IT 顾问和电信咨询专业人员。考生应能够将业务需求转化为 UC 解决方案的技术架构和设计。考生至少应具备两年的 Skype for Business 技术相关经验，并应熟悉所支持的迁移方案。考生应能够熟练地针对最终用户、终结点设备、电话、音频/视频和 Web 会议、安全性和高可用性部署 Skype for Business 解决方案。考生也应知道如何使用 Microsoft 工具对 Skype for Business 进行监视和故障排除。此外，考生应精通 Active Directory 域服务、数据网络以及支持 Skype for Business 配置的电信标准和组件。考生应熟悉将 Skype for Business 与 Microsoft Exchange Server 和 Office 365 进行集成的要求。
+summary: |-
+  <div style='color&#58; red;'>此考试于2020年6月30日停用。可能会有替代考试。如需了解更多信息，请访问我们的博客&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 并查看我们的考试停用帖子。注意&#58; 考试将于美国中部标准时间晚上11:59停用<br/><br/></div>
+  
+  本考试面向负责设计、规划、部署和维护统一通信 (UC) 解决方案的 IT 顾问和电信咨询专业人员。考生应能够将业务需求转化为 UC 解决方案的技术架构和设计。考生至少应具备两年的 Skype for Business 技术相关经验，并应熟悉所支持的迁移方案。考生应能够熟练地针对最终用户、终结点设备、电话、音频/视频和 Web 会议、安全性和高可用性部署 Skype for Business 解决方案。考生也应知道如何使用 Microsoft 工具对 Skype for Business 进行监视和故障排除。此外，考生应精通 Active Directory 域服务、数据网络以及支持 Skype for Business 配置的电信标准和组件。考生应熟悉将 Skype for Business 与 Microsoft Exchange Server 和 Office 365 进行集成的要求。
 subTitle: 本考试面向负责设计、规划、部署和维护统一通信 (UC) 解决方案的 IT 顾问和电信咨询专业人员。考生应能够将业务需求转化为 UC 解决方案的技术架构和设计。考生至少应具备两年的 Skype for Business 技术相关经验，并应熟悉所支持的迁移方案。考生应能够熟练地针对最终用户、终结点设备、电话、音频/视频和 Web 会议、安全性和高可用性部署 Skype for Business 解决方案。考生也应知道如何使用 Microsoft 工具对 Skype for Business 进行监视和故障排除。此外，考生应精通 Active Directory 域服务、数据网络以及支持 Skype for Business 配置的电信标准和组件。考生应熟悉将 Skype for Business 与 Microsoft Exchange Server 和 Office 365 进行集成的要求。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBg
 practiceTestUrl: https://www.mindhub.com/70-334-Core-Solutions-of-Microsoft-Skype-for-Busi-p/mu-70-334_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=334&examname=Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-334
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=334&examname=Core%20Solutions%20of%20Microsoft%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2F70-334
-levels:
+levels: 
 - advanced
 skills:
-- 规划和设计 Skype for Business (35–40%)
-- 部署和配置 Skype for Business (30–35%)
-- Skype for Business 管理和故障排除 (30–35%)
+- '注意: 出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- 规划和设计 Skype for Business(30-35%)
+- 部署和配置Skype for Business(30–35%)
+- 管理Skype for Business及排除故障 (30–35%)
 roles:
 - administrator
 products:
@@ -30,7 +34,7 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: 重新考试
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证控制面板
@@ -38,7 +42,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md

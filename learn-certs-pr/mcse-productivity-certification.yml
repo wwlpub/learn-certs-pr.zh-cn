@@ -2,18 +2,18 @@
 title: MCSE Productivity Solutions Expert
 metadata:
   title: MCSE Productivity Solutions Expert
-  description: MCSE 生产力解决方案专家
+  description: MCSE Productivity Solutions Expert
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: >-
-  此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为[Microsoft 365认证企业管理员专家](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)的要求之.
-
-
+summary: |-
+  <div style='color&#58; red;'>此考试于2020年6月30日停用。可能会有替代考试。如需了解更多信息，请访问我们的博客&#58;<a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 并查看我们的考试停用帖子。注意&#58;考试将于美国中部标准时间晚上11:59停用<br/><br/></div>
+  
+  此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为[Microsoft 365认证企业管理员专家](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)的要求之一
+  
   要成为MCSE生产力解决方案专家，请完成以下要求&#58;
-
   - 获得一项必备认证
-    - 必备选项1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
-    - 必备选项2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
+    - 必备选项1&#58;[MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
+    - 必备选项2&#58;[MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
   - 通过其中一项选修考试
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
@@ -23,7 +23,7 @@ subTitle: 此认证考察您是否具备将公司迁移到云、提高用户生�
 levels:
 - advanced
 skills:
-- 无
+- none
 roles:
 - administrator
 type: role-based
@@ -46,12 +46,12 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oH9a
-- title: 重新考试
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
-- title: 支持认证
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。

@@ -1,10 +1,10 @@
 ### YamlMime:Course
-title: Dynamics 365 for Customer Engagement for Sales
+title: Microsoft Dynamics 365 Sales
 metadata:
-  title: '课程 MB-210T01-A: Dynamics 365 for Customer Engagement for Sales'
-  description: '课程 MB-210T01-A: Dynamics 365 for Customer Engagement for Sales'
+  title: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
+  description: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
 uid: course.mb-210t01
-courseNumber: 'MB-210T01-A'
+courseNumber: 'MB-210T01'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -29,6 +29,7 @@ exams:
 summary: |-
   Microsoft Dynamics 365 for Sales是一个端到端的应用程序，用于管理对客户和潜在客户的处理；它有助于根据销售目标跟踪数据，将最佳实践自动化，从数据中学习，等等。
   我们由全球公认的专家组成的团队一步步带领学生，从销售线索到机会，再到达成交易。使用应用程序的可用自动化和定制选项，学生将学习如何使销售人员发挥最佳效率。
+  
   #### 受众概况
   Dynamics 365 Customer Engagement Functional Consultant负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
 prerequisitesSection: |-
@@ -56,7 +57,7 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 创建客户记录
   - 使用销售工具
-
+  
   ### 模块 3&#58; 订单报价
   在本模块中，学生将学习如何使用报价和订单来进一步利用Dynamics 365 for Sales管理销售机会，直到完成交易。
   #### 课程
@@ -69,16 +70,14 @@ outlineSection: |-
   - 创建和使用产品目录
   - 为销售机会添加报价
   - 完成订单销售
-
-
-  ### 模块  4&#58; 销售分析和洞察
+  
+  ### 模块 4&#58; 销售分析和洞察
   在本模块中，学生将学习如何创建和使用目标、与PowerBI集成以及启用销售人工智能。
   #### 课程
   - 概述
   - Power BI
   - 销售人工智能
   - 模块总结
-
   学完本模块后，学生将能够&#58;
   - 创建和使用目标
   - 与PowerBI集成

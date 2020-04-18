@@ -1,31 +1,31 @@
 ### YamlMime:Examination
 title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: '考试 DP-100: Designing and Implementing a Data Science Solution on Azure'
-  description: '考试 DP-100: Designing and Implementing a Data Science Solution on Azure'
+  title: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
 uid: exam.dp-100
 displayName: DP-100
-summary: >-
-  本考试的考生应用科学严谨性和数据探索技巧，以便获得可行的见解并将结果告利益相关者。考生利用机器学习技巧来训练、评估和部署模型，以便构建能够满足业务目标的 AI 解决方案。考生使用涉及到自然语言处理、语音、计算机视觉和预测性分析的应用程序。
-
-
-  考生作为多学科团队的一部分。在解决方案中，团队综合考虑伦理、隐私和治理等因素。考生通常具备数学、统计学以及计算机科学方面的背景。
-subTitle: 该考试衡量您完成以下技术任务的能力：定义和准备开发环境；准备建模数据；执行特征设计，开发模型。
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>阶段1&#58;考试内容将于2020年5月22日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  
+  Azure Data Scientists 利用他们在数据科学和机器学习方面的知识在 Azure 上实施和运行机器学习工作负载；特别是使用 Azure 机器学习服务。这需要为 Azure 的数据科学工作负荷规划并创建合适的工作环境，运行数据实验和训练预测模型，管理和优化模型，以及将机器学习模型部署到生产中。
+subTitle: '此考试衡量您完成以下技术任务的能力:设置 Azure 机器学习工作区；进行实验和训练模型；优化和管理模型；并部署和使用模型。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-100&examname=考试%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 levels:
 - intermediate
 skills:
-- 明确和准备开发环境 (15-20%)
-- 为建模准备数据 (25-30%)
-- 执行特征设计 (15-20%)
-- 开发模型 (40-45%)
+- 考试内容将于2020年5月22日更新。请下载下面的技能测量文档，看看有何变化。
+- 设置 Azure 机器学习工作区(30-35%) 
+- 进行实验和训练模型(25-30%) 
+- 优化和管理模型(20-25%) 
+- 部署和使用模型(20-25%)
 roles:
 - data-scientist
 products:
@@ -34,34 +34,29 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Azure Data Scientist Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 重新考试
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 认证考试支持
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 支持认证考试
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md

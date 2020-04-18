@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 启用Microsoft Teams for Collaboration
+title: Enabling Microsoft Teams for Collaboration
 metadata:
-  title: '课程 MS-300T03-A: 启用Microsoft Teams for Collaboration'
-  description: '课程 MS-300T03-A: 启用Microsoft Teams for Collaboration'
+  title: 'Course MS-300T03-A: Enabling Microsoft Teams for Collaboration'
+  description: 'Course MS-300T03-A: Enabling Microsoft Teams for Collaboration'
 uid: course.ms-300t03
 courseNumber: 'MS-300T03-A'
 hoursToComplete: 24
@@ -31,26 +31,28 @@ exams:
 - uid: exam.ms-300
 summary: |-
   Microsoft Teams是Microsoft 365团队合作的中心。在本课程中，您将学习如何规划、部署和管理Microsoft团队。具体来说，本课程讨论团队与SharePoint、OneDrive和Office 365 Groups的关系。它提供了在组织内采用和部署Teams的最佳实践。它还包括如何为您的Teams数据建立来宾策略和数据治理。
-  本课程是为在组织中管理和部署Microsoft Teams的IT专业人员设计的。
+  本课程是为在组织中管理和部署Microsoft Teams的IT专业人员设计的。 
 
   这是面向Teamwork Administrator角色的四门系列课程中的第三课。这些课程有助于准备考试MS-300&#58;部署Microsoft 365 Teamwork。
+  
   #### 受众概况
   该考试适用于Microsoft 365 Teamwork Administrator角色。此角色负责配置、部署和管理专注于高效协作和采用的Office 365和Azure工作负载。他们管理应用程序、服务和支持基础架构，以满足业务需求。管理员知道并可以区分产品和服务，但不能直接管理每个产品或服务。
   Teamwork Administrator必须能够部署、管理、迁移和保护 SharePoint（在线、本地和混合）、OneDrive和 Teams。
   Teamwork Administrator对以下应用程序和服务的集成点有基本的了解&#58;Office、PowerApps、Flow、Yammer、Microsoft Graph、Stream、Planner和Project。管理员了解如何集成第三方应用程序和服务，包括业务线应用程序。
 prerequisitesSection: |-
-  学员应在具备以下技能的情况下开始本课程&#58；
+  学员应在具备以下技能的情况下开始本课程&#58;
   - 对活动目录和Azure AD的基本了解
   - 基本了解移动设备管理和其他操作系统（Android和MacOS）
   - 使用Windows PowerShell的体验
 outlineSection: |-
   ### 模块 1&#58; 规划Microsoft Teams 部署
-  此模块介绍如何规划Microsoft Teams。它讨论用户将如何使用Teams进行身份验证，以及在组织中部署Teams的最佳实践。
+  此模块介绍如何规划Microsoft Teams。  它讨论用户将如何使用Teams进行身份验证，以及在组织中部署Teams的最佳实践。
   #### 课程
   - Teams入门
   - 部署Teams
   - Teams和频道
   - 身份验证和访问
+  
   学完本模块后，学生将能够&#58;
   - 解释团队如何与SharePoint Online、Exchange Online和OneDrive交互
   - 描述不同的Teams客户端以及如何使用它们
@@ -61,13 +63,13 @@ outlineSection: |-
   - 描述如何使用团队和频道来组织Microsoft Teams中的内容
   
   ### 模块 2&#58; 配置Microsoft Teams
-  本模块介绍如何设置和配置Microsoft Teams。它讨论了标签、机器人和连接器在Teams中的使用。它引入了与Teams会议管理相关的概念。
+  本模块介绍如何设置和配置Microsoft Teams。  它讨论了标签、机器人和连接器在Teams中的使用。  它引入了与Teams会议管理相关的概念。
   #### 课程
   - 在Office 365中设置Microsoft Teams
   - Microsoft Teams中的应用程序
   - Teams中的会议
-
-  ### 实验室 &#58; 配置Microsoft Teams
+  
+  #### 实验室 &#58; 配置Microsoft Teams
   学完本模块后，学生将能够&#58;
   - 在Office 365中设置Microsoft Teams
   - 描述和管理Microsoft Teams中的应用程序
@@ -75,10 +77,9 @@ outlineSection: |-
   - 描述和使用Teams中的连接器
   - 描述Teams中的会议概念
   - 描述可用于促进Teams中会议的设备
-
-
+  
   ### 模块 3&#58; 管理Teams环境
-  本模块的重点是管理Microsoft Teams。具体来说，我们将讨论安全性和合规性以及隐私和数据管理。虽然本课程不明确涵盖语音呼叫，但本模块讨论与服务质量相关的主题。
+  本模块的重点是管理Microsoft Teams。  具体来说，我们将讨论安全性和合规性以及隐私和数据管理。  虽然本课程不明确涵盖语音呼叫，但本模块讨论与服务质量相关的主题。
 
   #### 课程
   - 隐私和治理

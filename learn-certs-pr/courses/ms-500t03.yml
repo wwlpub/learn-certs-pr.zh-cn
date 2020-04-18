@@ -1,19 +1,19 @@
 ### YamlMime:Course
-title: 实施Microsoft 365信息保护
+title: Implementing Microsoft 365 Information Protection
 metadata:
-  title: '课程 MS-500T03-A: 实施Microsoft 365信息保护'
-  description: '课程 MS-500T03-A: 实施Microsoft 365信息保护'
+  title: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
+  description: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
 uid: course.ms-500t03
 courseNumber: 'MS-500T03-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 实施信息权限管理
-- skill: 确保Office 365中的消息安全
-- skill: 配置数据丢失防护策略
-- skill: 部署和管理云应用安全模板
-- skill: 为Microsoft 365实施Azure信息保护
-- skill: 为设备实施Windows信息保护
+- skill: 实施信息权限管理。
+- skill: 确保Office 365中的消息安全。
+- skill: 配置数据丢失防护策略。
+- skill: 部署和管理云应用安全模板。
+- skill: 为Microsoft 365实施Azure信息保护。
+- skill: 为设备实施Windows信息保护。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -29,8 +29,9 @@ exams:
 - uid: exam.ms-500
 summary: |-
   信息保护是指在数据所在的任何位置对其进行定位和分类。在本课程中，您将了解有助于保护Microsoft 365环境的信息保护技术。具体来说，本课程讨论信息权限管理的内容、消息加密，以及支持数据丢失预防和信息保护的标签、策略和规则。最后，本课程介绍Microsoft云应用安全的部署。
+  
   #### 受众概况
-  该考试适用于Microsoft 365 安全管理员角色。此角色与 Microsoft 365 企业管理员，业务利益相关者和其他工作负载管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
+  该考试适用于Microsoft 365 安全管理员角色。此角色与 Microsoft 365 企业管理员，业务利益相关者和其他工作负载管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。 
 
   此角色主动保护Microsoft 365企业环境。职责包括响应威胁、实施、管理和监控针对Microsoft 365环境的安全和合规性解决方案。它们对事件、调查和数据治理的执行作出反应。
   Microsoft 365安全管理员熟悉 Microsoft 365 工作负荷，在身份保护、信息保护、威胁防护、安全管理和数据治理方面拥有丰富的技能和经验。该角色专注于Microsoft 365环境，并包括混合环境。
@@ -52,10 +53,12 @@ outlineSection: |-
   - Azure信息保护
   - 高级信息保护
   - Windows信息保护
+  
   #### 实验室 &#58; 数据丢失防护
   - 在组织中创建和授权用户
   - 配置MDM自动注册
   - 配置AIP和WIP
+  
   学完本模块后，学生将能够&#58;
   - 描述Microsoft 365加密选项。
   - 描述S/MIME的使用。
@@ -64,19 +67,20 @@ outlineSection: |-
   - 为权限管理服务（RMS）模板配置高级AIP服务设置。
   - 规划Windows信息保护策略的部署。
   
-  #### 模块 2&#58; 数据丢失防护
-  本模块主要介绍Microsoft 365中的数据丢失防护。您将了解如何创建策略、编辑规则和自定义用户通知。
+  ### 模块 2&#58; 数据丢失防护
+  本模块主要介绍Microsoft 365中的数据丢失防护。  您将了解如何创建策略、编辑规则和自定义用户通知。
   #### 课程
   - 数据丢失防护说明
   - 数据丢失防护策略
   - 自定义DLP策略
   - 创建DLP策略以保护文档
   - 策略提示
+  
   #### 实验室 &#58; 数据丢失防护
   - 在组织中创建和授权用户
   - 创建DLP策略
   - 检验DLP策略
-
+  
   学完本模块后，学员应能够&#58;
   - 描述数据丢失防护（DLP）。
   - 了解行动和条件如何对DLP协同发挥作用
@@ -88,14 +92,14 @@ outlineSection: |-
   - 描述如何使用DLP策略的托管属性。
   - 解释SharePoint Online如何从文档创建爬网属性。
   - 描述用户创建包含敏感信息的电子邮件时的用户体验。
-
-
+  
   ### 模块 3&#58; 云应用的安全性
-  本模块主要介绍Microsoft 365的云应用的安全性。本模块将解释云发现、应用程序连接器、策略和警报。
+  本模块主要介绍Microsoft 365的云应用的安全性。  本模块将解释云发现、应用程序连接器、策略和警报。
+  
   #### 课程
   - 云应用安全说明
   - 使用云应用安全信息
-  配置 Office 365 云应用安全
+  - Office 365 Cloud App Security
 
   学完本模块后，学生将能够&#58;
   - 描述云应用安全。

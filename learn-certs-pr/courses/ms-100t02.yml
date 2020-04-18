@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 租户和服务管理
+title: Microsoft 365 Tenant & Service Management
 metadata:
-  title: '课程 MS-100T02-A: Microsoft 365 租户和服务管理'
-  description: '课程 MS-100T02-A: Microsoft 365 租户和服务管理'
+  title: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
+  description: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
 uid: course.ms-100t02
 courseNumber: 'MS-100T02-A'
 hoursToComplete: 24
@@ -11,7 +11,7 @@ skillsGained:
 - skill: 规划他们的 Microsoft 365 本地基础架构
 - skill: 规划他们的身份和身份验证解决方案
 - skill: 规划和配置他们的 Microsoft 365 体验
-- skill: 利用Microsoft's FastTrack和伙伴服务
+- skill: 利用Microsoft’s FastTrack和伙伴服务
 - skill: 实现他们的域名服务
 - skill: 配置他们的Microsoft 365租户角色
 - skill: 管理他们的Microsoft 365租户健康和服务
@@ -30,6 +30,7 @@ exams:
 - uid: exam.ms-100
 summary: |-
   了解Microsoft 365租户和服务管理，包括如何规划、管理和自定义组织的Microsoft 365租户和服务。
+  
   #### 受众概况
   本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
 prerequisitesSection: |-
@@ -41,14 +42,14 @@ outlineSection: |-
   #### 课程
   规划 Microsoft 365 本地基础架构
   - 规划您的身份和身份验证解决方案
-
+  
   ### 模块 2&#58; 配置您的Microsoft 365租户
   #### 课程
   - 规划您的Microsoft 365体验
   - 配置您的Microsoft 365体验
   - 利用FastTrack和合作伙伴服务
   - 实现您的域名服务
-
+  
   ### 模块 3&#58; 管理您的Microsoft 365租户
   #### 课程
   - 配置租户角色

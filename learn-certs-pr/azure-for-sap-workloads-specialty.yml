@@ -1,28 +1,34 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
   description: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
+summary: |-
+  Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
 subTitle: Azure for SAP Workloads的架构师对SAP Landscape认证流程和行业标准具有丰富的经验和知识，这些知识和知识专门针对SAP解决方案的长期运行。
 levels:
 - advanced
 skills:
+- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 将SAP工作负载迁移到Azure
-- 设计Azure解决方案以支持SAP工作负载
-- 构建和部署Azure SAP工作负载
-- 验证Azure基础架构是否适用于SAP工作负载
-- 操作 Azure SAP 体系结构
+- 设计Azure解决方案以支持SAP Workloads
+- 构建和部署Azure for SAP Workloads
+- 验证Azure基础架构是否适用于SAP Workloads
+- 操作Azure SAP体系结构
 roles:
 - administrator
 - solution-architect
-type: role-based
+type: specialty
 products:
 - azure
 courses:
 - uid: course.az-120t00
+paths:
+- uid: learn.wwl.sap-certified-offerings-azure
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.run-azure-sap-workloads
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
 exams:
 - uid: exam.az-120
@@ -32,12 +38,12 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oH9a
-- title: 重新考试
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: deals.md
-- title: 支持认证
-  description: 通过Microsoft认证支持论坛获得帮助。论坛主持人将在一个工作日后回应，周一至周五。
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。

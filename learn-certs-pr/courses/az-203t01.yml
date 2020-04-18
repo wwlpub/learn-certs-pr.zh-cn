@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 开发Azure基础架构即服务计算解决方案
+title: Develop Azure Infrastructure as a Service compute solutions
 metadata:
-  title: '课程 AZ-203T01-A: 开发Azure基础架构即服务计算解决方案'
-  description: '课程A Z-203T01-A: 开发Azure基础架构即服务计算解决方案'
+  title: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
+  description: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
 uid: course.az-203t01
 courseNumber: 'AZ-203T01-A'
 hoursToComplete: 24
@@ -41,6 +41,7 @@ outlineSection: |-
   - 提供虚拟机
   - 创建ARM模板
   - 为VM配置Azure磁盘加密
+
   学完本模块后，学生将能够&#58;
   - 了解如何使用Azure门户，PowerShell和代码来创建和部署虚拟机。
   - 了解如何使用Azure门户和Visual Studio创建和部署ARM。
@@ -53,12 +54,13 @@ outlineSection: |-
   - 使用Azure CLI和Azure门户运行批处理作业
   - 使用代码运行批处理作业
   - 使用批处理服务API管理批处理作业
+
   学完本模块后，学生将能够&#58;
   - 了解Azure Batch服务的工作方式
   - 了解如何使用Azure CLI创建和运行批处理作业
   - 了解如何使用代码创建和运行批处理作业
   - 了解如何使用Azure Batch Service API管理作业
-  
+
   ### 模块 3&#58; 创建容器化解决方案
   您可以构建和运行基于Kubernetes编排和管理这些应用程序组件可用性的现代，可移植，基于微服务的应用程序。随着团队采用基于微服务的应用程序不断进步，Kubernetes支持无状态和有状态应用程序。
   #### 课程
@@ -66,7 +68,7 @@ outlineSection: |-
   - 创建解决方案的容器映像
   - 向 Azure Container Registry 发布图像
   - 使用Azure容器实例或AKS运行容器
-
+  
   学完本模块后，学生将能够&#58;
   - 学习AKS的核心概念
   - 了解如何部署AKS集群
