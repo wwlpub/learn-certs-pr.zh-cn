@@ -6,8 +6,11 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>该考试的内容将于2020年4月更新。请下载下面的技能测评文档以了解更多信息。<br/><br/></div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于2020年5月19日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  </div>
+
   此考试的候选人是具有市场营销专业知识的 Microsoft Dynamics 365 客户参与职能顾问。候选人负责实施吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递以及提供营销见解的解决方案。
 
   候选人负责配置和扩展核心营销应用程序，包括电子邮件营销，设置，交互式客户旅程，带有个性化体验的潜在客户培训，LinkedIn 集成，活动，客户意见，登陆页面，细分和评分以及维护通用数据保护监管(GDPR)合规。
@@ -22,8 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 该考试的内容将于2020年4月更新。请下载下面的技能测评文档以了解更多信息。
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- 考试内容将于2020年5月19日更新。请下载下面的技能测量文档，看看将有何变化。
 - 配置市场营销应用(5-10%)
 - 管理细分市场和列表(10-15%)
 - 创建和管理营销表单和页面(10-15%)
@@ -34,7 +36,7 @@ skills:
 - 配置和分析客户响应(10-15%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 - dynamics-marketing
 exams:
@@ -51,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-marketing
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate。'
+  description: '发现培训资源以获得 Microsoft Certified：Dynamics 365 Marketing Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -62,7 +64,7 @@ resources:
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 支持认证考试
+- title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
@@ -74,3 +76,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

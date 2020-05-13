@@ -2,33 +2,36 @@
 title: 'Microsoft Certified: Azure Database Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Database Administrator Associate'
-  description: Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft  SQL Server 的云原生和混合数据平台解决方案的操作。
+  description: 'Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。'
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft  SQL Server 的云原生和混合数据平台解决方案的操作。Azure 数据库管理员使用各种方法和工具来执行日常操作，包括应用有关使用 T-SQL 进行管理管理的知识。
-  
-  <div style='color&#58; red;'><br/><strong>说明&#58; 此认证将于2020年4月2日推出</strong> 此信息不是最终信息，发布认证后可能会有细微改动。</div>
-subTitle: Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft  SQL Server 的云原生和混合数据平台解决方案的操作。
+  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。Azure 数据库管理员使用各种方法和工具来执行日常操作，包括应用有关使用 T-SQL 进行管理管理的知识。
+subTitle: Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。
 levels:
 - intermediate
 skills:
-- 规划和实施数据平台资源 
-- 实施安全的环境 
-- 监控和优化运营资源 
-- 优化查询性能 
+- 规划和实施数据平台资源
+- 实施安全的环境
+- 监控和优化运营资源
+- 优化查询性能
 - 执行任务自动化
-- 规划和实施高可用性和灾难恢复(HADR)环境 
-- 使用 T-SQL 执行管理
+- 规划和实施高可用性和灾难恢复（HADR）环境
+- 使用 T -SQL 执行管理
 roles:
-- administrator
+- database-administrator
 type: role-based
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
 exams:
 - uid: exam.dp-300
@@ -48,3 +51,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

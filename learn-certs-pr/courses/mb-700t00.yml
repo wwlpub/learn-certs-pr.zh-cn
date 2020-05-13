@@ -5,7 +5,20 @@ metadata:
   description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: course.mb-700t00
 courseNumber: 'MB-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 72
+skillsGained:
+- skill: 定义解决方案架构师角色的技能领域
+- skill: 解释 Microsoft 的实例和部署模型建议
+- skill: 了解云解决方案、CDM 和 CDS
+- skill: 深入了解授权、AppSource 和 Dynamics 365 支持
+- skill: 使用生命周期服务作为解决方案架构师
+- skill: 了解设计 Dynamics 365 解决方案时的考虑因素
+- skill: 了解用于数据管理的概念和工具
+- skill: 解释关于解决方案的整合选项和业务事件
+- skill: 了解有关解决方案本地化、合规性和报告的可用选项
+- skill: 进行有关可扩充性、安全性和性能的架构对话
+- skill: 了解什么是 ALM 应用程序生命周期管理
+- skill: 识别自动化测试和使用 RSAT 的机会
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -18,4 +31,44 @@ products:
 - dynamics
 exams:
 - uid: exam.mb-700
-summary: ""
+summary: |-
+  本课程是为有志成为解决方案架构师角色的新手而开发的。本课程提供侧重于应用程序架构和技术技能的技术信息，以开始他们的职业生涯。本课程不会涵盖此角色所需的行业技能和交付技巧。
+
+  #### 受众概况
+
+  本课程的对象应该具有 Dynamics 365&#58; Finance and Operations Applications 的功能或技术重点方面的先前经验。主要面向有志成为解决方案架构师角色的新手。 
+prerequisitesSection: |-
+  您必须完成面向解决方案架构师的解决方案架构设计师学习路径&#58;[此处](https&#58;//docs.microsoft.com/learn/browse/?roles=solution-architect&products=dynamics-finance-operations)
+outlineSection: |-
+  ### 模块 1&#58; 简介
+
+  ### 模块 2&#58; 架构师角色
+
+  ### 模块 3&#58; 环境、实例和部署模型
+
+  ### 模块 4&#58; 云解决方案、CDM 和 CDS
+
+  ### 模块 5&#58; 授权、AppSource 和支持
+
+  ### 模块 6&#58; 生命周期服务 
+
+  ### 模块 7&#58; 设计 Dynamics 365 解决方案
+
+  ### 模块 8&#58; 数据管理
+
+  ### 模块 9&#58; 整合和商务事件
+
+  ### 模块 10&#58; 本地化、合规性和报告
+
+  ### 模块 11&#58; 扩充性
+
+  ### 模块 12&#58; 安全性
+
+  ### 模块 13&#58; 效能
+
+  ### 模块 14&#58; 应用程序生命周期管理 
+
+  ### 模块 15&#58; 自动化测试和 RSAT
+
+  ### 模块 16&#58; 架构师的其他领域
+

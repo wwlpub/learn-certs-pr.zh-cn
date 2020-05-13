@@ -6,31 +6,37 @@ metadata:
 uid: exam.mb-901
 displayName: MB-901
 summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于17年4月更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  </div>
+
   此考试将涵盖采用 Dynamics 365 的配置和优点。
-  
+
   考生应该对 Dynamics 365 功能和 Microsoft 云计算有功能上的了解。
 
   本考试的考生应具备信息技术(IT)环境方面的一般知识或相关工作经验。考生还应对业务场景和解决IT项目的业务，法律和安全要求的经验有基本的了解。
-subTitle: 该考试衡量您了解 Microsoft Dynamics 365 的能力；人工智能(AI)；混合现实(MR)；动力平台；云概念；云安全； Dynamics 365中基于角色的安全性；通用数据服务；数据管理框架； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
+subTitle: 该考试衡量您了解 Microsoft Dynamics 365 的能力；人工智能；混合现实；动力平台；云概念；云安全； Dynamics 365中基于角色的安全性；通用数据服务；数据管理框架； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
+- 此考试的内容于17年4月更新。请下载下面的技能测量文档，看看有何变化。
 - 确定用于 Dynamics 365 的 Microsoft 平台组件(30-35%)
-- 了解 Dynamics 365 的 AI 和混合现实(10-15%)
-- 了解模型驱动的应用(25-30%)
-- 了解 Dynamics 365 Finance and Operations 应用(25-30%)
+- 描述 Dynamics 365 中的人工智能和混合实境 (10-15%)
+- 描述模型驱动式应用程序 (25-30%)
+- 描述 Finance and Operations 应用程序 (25-30%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-901t00
@@ -41,7 +47,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Fundamentals。'
+  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Fundamentals。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -49,7 +55,7 @@ resources:
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 支持认证考试
+- title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
@@ -61,3 +67,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

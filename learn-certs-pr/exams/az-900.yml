@@ -6,8 +6,11 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>考试内容将于2020年5月28日更新。请下载下面的技能测量文档，看看有何变化。</div>
-  
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于2020年5月28日更新。NOTE：2020 年 4 月 15 日之前公布的更新将于 2020 年 9 月 15 日实施。现在规划于 5 月 28 日进行的更新只是措辞的次要更新；请下载下面评估文件的技能，以了解将会在 5 月 28 日发生什么变化 。</div>
+  </div>
+
   此考试面向希望证明自己掌握 Cloud 服务基础知识以及如何通过 Microsoft Azure 提供这些服务的考生。该考试适用于具有非技术背景的考生，例如参与销售或购买基于 Cloud 的解决方案和服务的人员，或者参与基于 Cloud 的解决方案和服务的人员，以及具有技术背景并需要证明自己具有 Cloud 服务基础知识的人员。不要求具有 IT 技术经验，然而，一些一般性的 IT 知识或经验将是有益的。
 
   本考试可以被看作是了解 Cloud 服务以及 Microsoft Azure 如何举例证明那些概念的可选的第一步。它可被看作是 Microsoft Azure 或 Microsoft Cloud 服务考试的一个先导。尽管这是有益的第一步，但在参加任何其他基于 Azure 的认证之前，验证基础水平知识、参加此考试并不是先决条件。
@@ -16,10 +19,10 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -28,7 +31,7 @@ locales:
 levels:
 - beginner
 skills:
-- 考试内容将于2020年5月28日更新。请下载下面的技能测量文档，看看有何变化。
+- '考试内容将于2020年5月28日更新。NOTE: 2020 年 4 月 15 日之前公布的更新将于 2020 年 9 月 15 日实施。现在规划于 5 月 28 日进行的更新只是措辞的次要更新；请下载下面评估文件的技能，以了解将会在 5 月 28 日发生什么变化 。'
 - 了解云概念(15-20%)
 - 了解核心 Azure 服务(30-35%)
 - 了解安全性、隐私、合规性和信任(25-30%)
@@ -54,7 +57,7 @@ resources:
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: 支持认证考试
+- title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
@@ -66,3 +69,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

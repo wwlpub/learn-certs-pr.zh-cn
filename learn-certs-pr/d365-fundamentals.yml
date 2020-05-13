@@ -2,19 +2,21 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals'
-  description: '证明您了解 Microsoft Dynamics 365；人工智能(AI)；混合现实(MR)；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。'
+  description: '证明您了解 Microsoft Dynamics 365；人工智能（AI）；混合现实（MR）；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。'
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  证明您了解 Microsoft Dynamics 365；人工智能(AI)；混合现实(MR)；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
-subTitle: '证明您了解 Microsoft Dynamics 365；人工智能(AI)；混合现实(MR)；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。'
+  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  证明您了解 Microsoft Dynamics 365；人工智能；混合现实；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
+subTitle: '证明您了解 Microsoft Dynamics 365；人工智能（AI）；混合现实（MR）；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。'
 levels:
 - beginner
 skills:
-- 确定 Dynamics 365 的 Microsoft 平台组件
-- 了解 Dynamics 365 的AI和混合现实
-- 了解模型驱动的应用
-- 了解 Dynamics 365 财务和运营应用程序
+- 确定用于 Dynamics 365 的 Microsoft 平台组件
+- 描述 Dynamics 365 中的人工智能和混合实境
+- 描述模型驱动式应用程序
+- 描述 Finance and Operations 应用程序
 roles:
 - functional-consultant
 type: fundamentals
@@ -29,7 +31,7 @@ exams:
 - uid: exam.mb-901
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Fundamentals。'
+  description: '发现培训资源以获得 Microsoft Certified：Dynamics 365 Fundamentals。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -46,3 +48,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

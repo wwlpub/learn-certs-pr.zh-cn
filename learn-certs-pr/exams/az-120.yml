@@ -1,36 +1,42 @@
 ### YamlMime:Examination
-title: Planning and Administering Microsoft Azure for SAP Workloads
+title: 'Planning and Administering Microsoft Azure for SAP Workloads'
 metadata:
   title: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
   description: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  参加该考试的考生是熟悉SAP Landscape Certification流程以及针对SAP长期运行.解决方案的标准的建筑师和工程师。考生针对服务提出建议，并适当调整资源以实现最佳的弹性、性能、规模、供应、规模和监控。
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
 
-  Architects of Azure for SAP Workloads 应具有以下方面的丰富经验和知识&#58;SAP应用程序，SAP HANA，S / 4HANA，SAP NetWeaver，SAP BW，用于SAP应用程序和数据库的OS服务器，Azure门户，ARM模板，操作系统，虚拟化，云基础架构，存储结构，高可用性设计，灾难恢复设计，数据保护概念和网络。
+  参加该考试的考生是熟悉SAP Landscape Certification流程以及针对SAP长期运行解决方案的标准的建筑师和工程师。考生针对服务提出建议，并适当调整资源以实现最佳的弹性、性能、规模、供应、规模和监控。
+
+  Architects of Azure for SAP Workloads 应具有以下方面的丰富经验和知识：SAP应用程序，SAP HANA，S / 4HANA，SAP NetWeaver，SAP BW，用于SAP应用程序和数据库的OS服务器，Azure门户，ARM模板，操作系统，虚拟化，云基础架构，存储结构，高可用性设计，灾难恢复设计，数据保护概念和网络。
 
   强烈建议参加此考试的考生除具有SAP HANA和Linux认证外，还应具有Azure Administrator或Azure Architect认证。
-subTitle: '此考试措能够衡量您完成以下技术任务的能力:将SAP工作负载迁移到Azure；设计一个Azure解决方案以支持SAP工作负载；建立和部署Azure SAP工作负载；验证用于SAP工作负载的Azure基础架构；以及运营Azure SAP 基础架构。'
+subTitle: '此考试措能够衡量您完成以下技术任务的能力：将SAP工作负载迁移到Azure；设计一个Azure解决方案以支持SAP工作负载；建立和部署Azure SAP工作负载；验证用于SAP工作负载的Azure基础架构；以及运营Azure SAP 基础架构。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - advanced
 skills:
-- '注意:出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 将SAP工作负载迁移到Azure(10-15%)
-- 设计Azure解决方案以支持SAP工作负载(20-25%)
-- 构建和部署Azure for SAP工作负载(35-40%)
-- 验证Azure基础架构是否适用于SAP工作负载(10-15%)
+- 设计Azure解决方案以支持SAP Workloads(20-25%)
+- 构建和部署Azure for SAP Workloads(35-40%)
+- 验证Azure基础架构是否适用于SAP Workloads(10-15%)
 - 操作Azure SAP体系结构(10-15%)
 roles:
 - solution-architect
 - devops-engineer
 products:
 - azure
+- azure-sap
 courses:
 - uid: course.az-120t00
 paths:
@@ -50,7 +56,7 @@ resources:
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 支持认证考试
+- title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
@@ -62,3 +68,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+
