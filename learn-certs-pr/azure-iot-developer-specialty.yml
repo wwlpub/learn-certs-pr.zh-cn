@@ -6,6 +6,8 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
   证明您了解如何实施作为 IoT 解决方案一部分的 Azure 服务，包括数据分析、数据处理、数据存储选项和平台即服务选项。IoT Developer 必须能够在物联网解决方案的代码部分中识别 Azure 物联网服务配置设置。
 subTitle: 证明您了解如何实施作为 IoT 解决方案一部分的 Azure 服务，包括数据分析、数据处理、数据存储选项和平台即服务选项。IoT Developer 必须能够在物联网解决方案的代码部分中识别 Azure 物联网服务配置设置。
 levels:
@@ -13,10 +15,10 @@ levels:
 skills:
 - '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 实施物联网解决方案基础架构
-- 提供和管理设备
+- 设置和管理设备
 - 实施边缘
 - 处理和管理数据
-- 监控、故障排除并优化 IoT 解决方案 
+- 监控、故障排除并优化 IoT 解决方案
 - 实施安全性
 roles:
 - developer
@@ -27,6 +29,11 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
@@ -46,3 +53,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

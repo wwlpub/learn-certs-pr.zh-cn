@@ -7,6 +7,13 @@ uid: course.pl-900t00
 courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Power Platform 组件：Power Apps、Power Bi 和 Microsoft Automate'
+- skill: 描述 Power Platform 组件：Common Data Service，连接器和 AI 建立器
+- skill: 描述 M365、Dynamics 365、Microsoft Azure 和第三方服务的跨云案例
+- skill: 识别 Power Platform 的权益和功能
+- skill: 识别 Power Platform 组件的基本功能和商务价值
+- skill: 使用 Microsoft Automate，Power BI和Power Apps 实施简单的解决方案
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -18,7 +25,11 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-900
-summary: ""
+summary: |-
+  了解 Power Platform 的业务价值和产品功能。建立一个简单的 PowerApp，将数据与 CDS 联机，组建一个 Power BI 控制面板，并使用 Microsoft Flow 自动化流程。
+
+  #### 受众概况
+  此考试的考生是希望通过自动执行业务流程，分析数据以深入了解业务并通过创建简单的应用程序体验来提高工作效率的用户。
 prerequisitesSection: |-
   本课程无先决条件
 outlineSection: |-
@@ -27,7 +38,7 @@ outlineSection: |-
   #### 课程
   - Power平台概述
   - 模块总结
-  
+
   了解Power平台的组件和特性
   - 确定何时使用每个Power平台组件应用程序创建业务解决方案
   - 了解使用Power平台创建业务解决方案的价值
@@ -42,7 +53,7 @@ outlineSection: |-
   #### 实验室&#58; 如何构建基本画布应用程序1
   - 创建员工画布应用程序
   - 完成应用程序
-  
+
   #### 实验室&#58; 如何构建基本画布应用程序2
   - 创建安全画布应用程序
 
@@ -58,11 +69,11 @@ outlineSection: |-
   - 模块总结
 
 
-  #### 实验室&#58; 数据建模
+  #### 实验室&#58;数据建模
   - 创建环境和解决方案
   - 创建实体和关系
   - 导入数据
-  
+
   说明通用数据服务中的环境、实体、字段和关系
   - 描述通用数据服务与通用数据模型的区别
   - 说明业务规则和流程的用例和限制
@@ -95,3 +106,4 @@ outlineSection: |-
   描述Power BI的业务价值和特性
   - 从用户的角度看Power BI的工作原理和外观
   - 了解如何构建简单的Power BI控制面板
+

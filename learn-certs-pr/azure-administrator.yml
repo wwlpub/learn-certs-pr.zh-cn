@@ -6,16 +6,18 @@ metadata:
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
   Azure 管理员负责实现、监视和维护微软 Azure 解决方案，包括与计算、存储、网络和安全相关的主要服务。
 subTitle: Azure 管理员负责实现、监视和维护微软 Azure 解决方案，包括与计算、存储、网络和安全相关的主要服务。
 levels:
 - intermediate
 skills:
-- 管理Azure订阅和资源
+- 管理 Azure 身份和治理
 - 实施和管理存储
-- 部署和管理虚拟机（VM）
+- 部署和管理 Azure 计算资源
 - 配置和管理虚拟网络
-- 管理身份
+- 监视和备份 Azure 资源
 roles:
 - administrator
 type: role-based
@@ -27,7 +29,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
-- uid: course.az-103t00
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -42,7 +44,7 @@ paths:
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
-- uid: exam.az-103
+- uid: exam.az-104
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -59,3 +61,4 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

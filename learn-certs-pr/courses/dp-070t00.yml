@@ -21,7 +21,7 @@ products:
 - sql-server
 summary: |-
   本课程将使学生了解Azure SQL数据库，并教授学生将MySQL和PostgreSQL工作负载迁移到Azure SQL数据库所需的知识。
-  
+
   #### 受众概况
   本课程的主要对象是计划将MySQL或Postgres DB工作负载迁移到Azure SQL DB的数据库开发人员。
   本课程的主要听众是MySQL/Postgres管理员，旨在提高人们对Azure SQL DB的功能和优势的认识。
@@ -29,23 +29,26 @@ prerequisitesSection: |-
   除了专业经验之外，参加此培训的学生还应该具有以下技术知识&#58;
   - 对开源关系数据库管理系统（例如Postgres和/或MySQL），SQL管理，备份和恢复技术（即转储表数据）的一些了解
 outlineSection: |-
-  ### 模块 1&#58; 迁移至用于MySQL和PostgreSQL的Azure SQL数据库
+  ### 模块 1&#58; 迁移至用于Azure SQL DB for MySQL & PostgreSQL
   本模块描述了Azure SQL DB的优点和架构。
   #### 课程
   - OSS数据库概述
   - 常见的OSS数据库工作负载
   - 迁移中的客户挑战
-  
-  #### 实验 &#58;创建源OSS数据库
+
+
+  #### 实验室 &#58; 创建源OSS数据库
   - 安装Postgres迁移数据库服务器
   - 安装MySQL迁移数据库服务器
   - 从Postgres/MySQL进行备份/数据转储
   - 从数据转储还原
+
   在本模块结束后，学生将能够&#58;
   - OSS数据库概述
   - 常见的OSS数据库工作负载
   - 迁移中的客户挑战
- 
+
+
   ### 模块 2&#58; 将本地MySQL迁移到Azure SQL DB for MySQL
   本模块描述了将MySQL工作负载迁移到Azure SQL DB的优点和过程
   #### 课程
@@ -53,17 +56,20 @@ outlineSection: |-
   - 将本地MySQL迁移到SQL DB for MySQL
   - 应用迁移
   - 迁移后注意事项
-  
-  #### 实验 &#58;将MySQL数据库工作负载迁移到Azure SQL DB
+
+
+  #### 实验室 &#58; 将MySQL数据库工作负载迁移到Azure SQL DB
   - 将MySQL数据库工作负载迁移到Azure SQL DB
   - 定义源数据库和目标数据库
   - 执行迁移
   - 验证迁移
+
   在本模块结束后，学生将能够&#58;
   - 配置和管理 Azure SQL DB for MySQL
   - 将本地MySQL迁移到SQL DB for MySQL
   - 应用迁移
   - 迁移后注意事项
+
 
   ### 模块 3&#58; 将本地PostgreSQL迁移到Azure SQL DB for PostgreSQL
   本模块描述了将PostgreSQL DB工作负载迁移到Azure SQL DB的优点和过程
@@ -74,7 +80,7 @@ outlineSection: |-
   - 迁移后注意事项
 
 
-  #### 实验 &#58;将PostgreSQL数据库工作负载迁移到 Azure SQL DB
+  #### 实验室 &#58; 将PostgreSQL数据库工作负载迁移到 Azure SQL DB
   - 配置Azure SQL DB for PostgreSQL
   - 定义源数据库和目标数据库
   - 执行迁移
@@ -86,5 +92,7 @@ outlineSection: |-
   - 应用迁移
   - 迁移后注意事项
 
-  ####其他阅读本课程不需要其他阅读
+  #### 其他阅读内容
+
+  本课程不需要其他阅读
 
