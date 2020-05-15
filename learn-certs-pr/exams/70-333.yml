@@ -6,8 +6,10 @@ metadata:
 uid: exam.70-333
 displayName: 70-333
 summary: |-
-  <div style='color&#58; red;'>此考试于2020年6月30日停用。可能会有替代考试。如需了解更多信息，请访问我们的博客&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 并查看我们的考试停用帖子。注意&#58; 考试将于美国中部标准时间晚上11:59停用<br/><br/></div>
-  
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
+  </div>
+
   本考试面向负责设计、规划、部署和维护统一通信 (UC) 解决方案的 IT 顾问和电信咨询专业人员。考生应能够将业务需求转化为 UC 解决方案的技术架构和设计。考生至少应具备两年的 Skype for Business 技术相关经验，并应熟悉所支持的迁移方案。考生应能够熟练地针对最终用户、终结点设备、电话、音频/视频和 Web 会议、安全性和高可用性部署 Skype for Business Server 和 Skype for Business Online 解决方案。考生也应知道如何使用 Microsoft 工具对 Skype for Business 进行监视和故障排除。此外，考生应精通 Active Directory 域服务、数据网络以及支持 Skype for Business 配置的电信标准和组件。考生应熟悉将 Skype for Business 与 Microsoft Exchange Server 和 Office 365 进行集成的要求。
 subTitle: 本考试面向负责设计、规划、部署和维护统一通信 (UC) 解决方案的 IT 顾问和电信咨询专业人员。考生应能够将业务需求转化为 UC 解决方案的技术架构和设计。考生至少应具备两年的 Skype for Business 技术相关经验，并应熟悉所支持的迁移方案。考生应能够熟练地针对最终用户、终结点设备、电话、音频/视频和 Web 会议、安全性和高可用性部署 Skype for Business Server 和 Skype for Business Online 解决方案。考生也应知道如何使用 Microsoft 工具对 Skype for Business 进行监视和故障排除。此外，考生应精通 Active Directory 域服务、数据网络以及支持 Skype for Business 配置的电信标准和组件。考生应熟悉将 Skype for Business 与 Microsoft Exchange Server 和 Office 365 进行集成的要求。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -17,13 +19,14 @@ scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=3
 locales:
 - en
 - ja
-levels: 
+levels:
 - advanced
 skills:
-- '注意: 出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
+- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
 - 利用企业语音规划和设计 Skype for Business(30-35%)
 - 部署和配置企业语音(30-35%)
 - 管理和排查企业语音(30-35%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -46,3 +49,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

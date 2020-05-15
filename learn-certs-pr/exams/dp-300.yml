@@ -6,14 +6,16 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
   参加此考试的考生是数据库管理员和数据管理专家，他们管理在 Microsoft SQL Server 和 Microsoft Azure 数据服务之上构建的本地和云关系数据库。
-  
-  Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft  SQL Server 的云原生和混合数据平台解决方案的操作。Azure 数据库管理员使用各种方法和工具来执行日常操作，包括应用有关使用 T-SQL 进行管理管理的知识。
-  
+
+  Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。Azure 数据库管理员使用各种方法和工具来执行日常操作，包括应用有关使用 T-SQL 进行管理管理的知识。
+
   该角色负责管理，可用性，安全性以及性能监控以及现代关系数据库解决方案的优化。该角色与 Azure 数据工程师角色一起管理数据平台解决方案的运营方面。
-  
-  <div style='color&#58; red;'><br/><strong>说明&#58; 此测试版考试将于2020年4月2日推出。</strong> 此信息不是最终信息，beta考试推出后可能会有细微改动。</div>
-subTitle: '此考试衡量您完成以下技术任务的能力&#58; 规划和实施数据平台资源；实施安全的环境；监控和优化运营资源；优化查询性能；执行任务自动化；计划并实施高可用性和灾难恢复(HADR)环境；然后使用 T -SQL 执行管理。'
+
+  <div style='font-weight&#58; bold;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></div>
+subTitle: '此考试衡量您完成以下技术任务的能力：规划和实施数据平台资源；实施安全的环境；监控和优化运营资源；优化查询性能；执行任务自动化；计划并实施高可用性和灾难恢复(HADR)环境；然后使用 T -SQL 执行管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
@@ -30,13 +32,16 @@ skills:
 - 规划和实施高可用性和灾难恢复(HADR)环境(15-20%)
 - 使用 T-SQL 执行管理(10-15%)
 roles:
-- administrator
+- database-administrator
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
@@ -50,7 +55,7 @@ resources:
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 支持认证考试
+- title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
@@ -62,3 +67,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

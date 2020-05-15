@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: Microsoft Azure IoT Developer (beta)
+title: Microsoft Azure IoT Developer
 metadata:
-  title: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
-  description: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
+  title: 'Exam AZ-220: Microsoft Azure IoT Developer'
+  description: 'Exam AZ-220: Microsoft Azure IoT Developer'
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
   Azure IoT Developer 负责创建和维护 IoT 解决方案的云和边缘部分所需的实施和编码。除了通过使用云服务配置和维护设备之外，IoT Developer 还设置物理设备。IoT Developer 负责在整个生命周期内维护设备。
 
   IoT Developer 实施物联网解决方案的设计，包括设备拓扑，连接性，调试和安全性。IoT Developer 部署计算/容器并配置设备网络。IoT Developer 为解决方案实施设计，以管理数据管道，包括与物联网相关的监视和数据转换。IoT Developer 与数据工程师和其他利益相关者合作，以确保成功进行业务集成。
 
-  IoT Developer 应充分了解如何实施构成 IoT 解决方案的 Azure 服务，包括数据存储选项、数据分析、数据处理和平台即服务选项。IoT Developer 必须能够识别IoT解决方案的代码部分中的 Azure IoT 服务配置设置，并至少使用一种 Azure 支持的语言(包括C＃，Node，C 或 Python)执行特定的 IoT 编码任务。
-  
-  <div style='color&#58; red;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。  <a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a>.</div>
+  IoT Developer 应充分了解如何实施构成 IoT 解决方案的 Azure 服务，包括数据存储选项、数据分析、数据处理和平台即服务选项。IoT Developer 必须能够识别 IoT 解决方案的代码部分中的 Azure IoT 服务配置设置，并至少使用一种 Azure 支持的语言(包括C＃，Node，C 或 Python)执行特定的 IoT 编码任务。
 subTitle: '这项考试衡量您实施 IoT 解决方案基础架构的能力；供应和管理设备；在 Azure IoT Edge 设备上实施解决方案;处理和管理数据；监控，故障排除和优化 IoT 解决方案;并实施安全性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
@@ -22,12 +22,11 @@ locales:
 levels:
 - intermediate
 skills:
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 实施物联网解决方案基础架构(15-20%)
-- 设置和管理设备(20-25%) 
-- 实施 Edge (15-20%)
+- 设置和管理设备(20-25%)
+- 实施边缘(15-20%)
 - 处理和管理数据(15-20%)
-- 监控、排除故障和优化 IoT 解决方案 (15-20%)
+- 监控、故障排除并优化 IoT 解决方案 (15-20%)
 - 实施安全性(15-20%)
 roles:
 - developer
@@ -37,6 +36,11 @@ products:
 - azure-iot-hub
 courses:
 - uid: course.az-220t00
+paths:
+- uid: learn.introduction-to-azure-iot
+- uid: learn.securely-connect-iot-devices-to-cloud
+- uid: learn.build-intelligent-edge-with-azure-iot-edge
+- uid: learn-develop-solutions-with-azure-iot-central
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
@@ -50,7 +54,7 @@ resources:
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 支持认证考试
+- title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
@@ -62,3 +66,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

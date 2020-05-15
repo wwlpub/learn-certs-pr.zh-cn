@@ -10,14 +10,14 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 在Microsoft 365中管理用户和组访问。
 - skill: 描述和管理Azure身份保护功能。
-- skill: 规划和实施Azure AD Connect
+- skill: 规划和实施Azure AD Connect。
 - skill: 管理已同步的身份。
 - skill: 描述和使用条件访问。
 - skill: 描述网络攻击威胁向量。
 - skill: 描述Microsoft 365中的安全解决方案。
 - skill: 使用Microsoft Secure Score来评估您的安全状态。
 - skill: 为Microsoft 365配置各种高级威胁保护服务。
-- skill: 配置Advanced Threat Analytics。
+- skill: 配置高级威胁分析。
 - skill: 规划和部署安全的移动设备。
 - skill: 实施信息权限管理。
 - skill: 确保Office 365中的消息安全。
@@ -68,11 +68,11 @@ outlineSection: |-
   - Azure AD 身份保护
 
 
-  #### 实验&#58; 初始化您的试用租户
+  #### 实验室&#58;初始化您的试用租户
   - 设置您的Microsoft 365租户
 
 
-  #### 实验&#58; 配置特权身份管理
+  #### 实验室&#58;配置特权身份管理
   - 发现和管理Azure资源
   - 分配目录角色
   - 激活和停用PIM角色
@@ -82,10 +82,10 @@ outlineSection: |-
 
   学完本模块后，学生将能够&#58;
   - 创建和管理用户帐户。
-  - 描述并使用Microsoft 365管理员角色
-  - 规划密码策略和身份验证
+  - 描述并使用Microsoft 365管理员角色。
+  - 规划密码策略和身份验证。
   - 描述零信任安全性的概念
-  - 在Office 365中实现多因素身份验证
+  - 在Office 365中实现多因素身份验证。
   - 启用Azure身份保护
 
 
@@ -121,7 +121,7 @@ outlineSection: |-
   - 外部访问解决方案
 
 
-  #### 实验&#58; 使用条件访问来启用MFA
+  #### 实验室&#58;使用条件访问来启用MFA
   - MFA 认证试点（特定应用需要MFA）
   - MFA有条件访问（完成MFA推出）
 
@@ -142,7 +142,7 @@ outlineSection: |-
   - Microsoft Secure Score
 
 
-  #### 实验&#58; 使用Microsoft安全分数
+  #### 实验室&#58;使用Microsoft安全分数
   - 在Microsoft 365安全中心中提高安全分数
 
   学完本模块后，学生将能够&#58;
@@ -164,7 +164,7 @@ outlineSection: |-
   - Microsoft Defender Advanced Threat Protection
 
 
-  #### 实验室&#58; 管理 Microsoft 365 安全服务
+  #### 实验室&#58;管理 Microsoft 365 安全服务
   - 实施 ATP 策略
 
   学完本模块后，学生将能够&#58;
@@ -184,7 +184,7 @@ outlineSection: |-
   - 配置高级威胁分析
 
 
-  #### 实验&#58; 使用攻击模拟器
+  #### 实验室&#58;使用攻击模拟器
   - 进行模拟的鱼叉式网络钓鱼攻击
   - 进行模拟密码攻击
 
@@ -206,7 +206,7 @@ outlineSection: |-
   - 将设备注册到移动设备管理
 
 
-  实验&#58; 为 Intune 配置 Azure AD
+  #### 实验室&#58;为 Intune 配置 Azure AD
   - 启用设备管理
   - 为 Intune 配置 Azure AD
   - 创建 Intune 策略
@@ -230,7 +230,7 @@ outlineSection: |-
   - Windows信息保护
 
 
-  #### 实验&#58; 实施Azure信息保护和Windows信息保护
+  #### 实验室&#58;实施Azure信息保护和Windows信息保护
   - 实施 Azure 信息保护
   - 实施 Windows 信息保护
 
@@ -248,7 +248,7 @@ outlineSection: |-
   - Office 365消息加密
 
 
-  - 实验&#58; 配置Office 365消息加密
+  #### 实验室&#58;配置Office 365消息加密
   - 配置Office 365消息加密
   - 验证信息权限管理
 
@@ -268,7 +268,7 @@ outlineSection: |-
   - 策略提示
 
 
-  #### 实验&#58; 实施数据丢失预防策略
+  #### 实验室&#58;实施数据丢失预防策略
   - 管理DLP政策
   - 检验MRM和DLP策略
 
@@ -305,7 +305,7 @@ outlineSection: |-
   - 数据治理故障排除
 
   学完本模块后，学生将能够&#58;
-  - 规划安全和合规角色
+  - 规划安全和合规角色。
   - 描述您需要为GDPR考虑的事项。
   - 描述什么是Exchange中的的道德墙，以及它的工作原理。
   - 在邮箱中使用保留标记。
@@ -325,7 +325,7 @@ outlineSection: |-
   - 在SharePoint中的就地记录管理
 
 
-  #### 实验&#58; 合规与保留
+  #### 实验室&#58;合规与保留
   - 初始化合规
   - 配置保留标签和策略
 
@@ -346,7 +346,7 @@ outlineSection: |-
   - 高级eDiscovery
 
 
-  #### 实验&#58; 管理搜索和调查
+  #### 实验室&#58;管理搜索和调查
   - 调查您的Microsoft 365数据
   - 进行数据主题请求
 
@@ -358,3 +358,4 @@ outlineSection: |-
   - 输入搜索审核日志的条件。
   - 描述Microsoft 365中的高级eDiscovery。
   - 查看高级eDiscovery事件日志。
+

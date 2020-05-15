@@ -6,22 +6,28 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于2020年5月1日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  </div>
+
   此考试的考生是希望通过自动执行业务流程，分析数据以深入了解业务并通过创建简单的应用程序体验来提高工作效率的用户。
-  
+
   此考试涵盖以下内容&#58; 描述Power Platform组件&#58; Power Apps，Power BI，Microsoft Automate，通用数据服务(CDS)，连接器和AI构建器； 用Microsoft 365，Dynamics 365，Microsoft Azure和第三方服务描述跨云场景; 确定Power Platform的优势和功能；确定Power Platform组件的基本功能和商业价值；使用Microsoft Automate，Power BI和AI Builder实施简单的解决方案；并在无代码环境中创建一个基本应用。
 subTitle: 该考试将衡量您了解Power Platform商业价值；了解Power Platform核心组件；展示Power BI的业务价值；以及展示Microsoft Automate的商业价值的能力。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
+practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: 'https://examregistration.microsoft.com/?locale=zh-cn&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
+- 考试内容将于2020年5月1日更新。请下载下面的技能测量文档，看看将有何变化。
 - 了解Power Platform的商业价值(20-25%)
 - 了解Power Platform的核心组件(20-25%)
 - 展示Power BI的商业价值(15-20%)
@@ -51,7 +57,7 @@ resources:
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
-- title: 支持认证考试
+- title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md
 - title: 认证控制面板
@@ -63,3 +69,4 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+
