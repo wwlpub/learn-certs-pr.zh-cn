@@ -13,8 +13,12 @@
     href: retired-certification-exams.md 
   - name: 已停用课程
     href: retired-courses.md
-- name: MCT认证
+- name: 成为 Microsoft Certified Trainer
   href: mct-certification.md
+- name: 关于 Microsoft 认证考试
+  href: certification-exams.md
+- name: 关于在线考试
+  href: online-exams.md
 - name: 考试政策和常见问题
   href: certification-exam-policies.md
 - name: 认证帮助
