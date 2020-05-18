@@ -8,7 +8,7 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 描述 Power Platform 组件：Power Apps、Power Bi 和 Microsoft Automate'
+- skill: 描述 Power Platform 组件：Power Apps、Power Bi 和 Microsoft Automate
 - skill: 描述 Power Platform 组件：Common Data Service，连接器和 AI 建立器
 - skill: 描述 M365、Dynamics 365、Microsoft Azure 和第三方服务的跨云案例
 - skill: 识别 Power Platform 的权益和功能
