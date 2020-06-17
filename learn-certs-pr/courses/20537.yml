@@ -1,0 +1,228 @@
+### YamlMime:Course
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack
+metadata:
+  title: 'Course 20537-B: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack'
+  description: 'Course 20537-B: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack'
+uid: course.20537
+courseNumber: '20537-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Microsoft Azure Stack 的组件和体系结构。
+- skill: 部署 Microsoft Azure Stack。
+- skill: 了解 Microsoft Azure Stack 中使用的 Windows Server 2016 功能。
+- skill: 了解 DevOps 如何使用 Microsoft Azure Stack。
+- skill: 在 Microsoft Azure Stack 中提供资源。
+- skill: 在 Microsoft Azure Stack 中管理 IaaS。
+- skill: 在 Microsoft Azure Stack 中管理 PaaS。
+- skill: 在 Microsoft Azure Stack 中管理更新。
+- skill: 在 Microsoft Azure Stack 中执行监控和故障排除。
+- skill: 了解许可和计费在 Microsoft Azure Stack 中的工作方式。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.70-537
+summary: "这个为期五天的课程将为学生提供部署和配置 Microsoft Azure Stack 所需的关键知识。通过动手实验，学生将学到以下内容：\n- Microsoft Azure Stack 的关键功能。 \n- Microsoft Azure Stack、Microsoft Azure 和 Windows Azure Pack 之间的区别。\n- Microsoft Azure Stack 的体系结构和组件。\n- 如何部署 Microsoft Azure Stack。\n- Microsoft Azure Stack 中使用的 Windows Server 角色和功能。\n- 身份和身份验证在 Microsoft Azure Stack 中的工作方式。\n- Microsoft Azure Stack 如何启用 DevOps。 \n- 如何创建和管理 Azure Resource Manager 模板。\n- 如何创建和管理 Plans。如何创建和管理 Offers 和 Delegation。\n- 在 Microsoft Azure Stack 中管理 Marketplace。\n- Microsoft Azure Stack 中软件定义的网络。\n- 了解如何在 Microsoft Azure Stack 中配置和管理存储。\n- 如何在 Microsoft Azure Stack 中配置虚拟机。\n- 在 Microsoft Azure Stack 中配置 Resource Provider。\n- 如何监视和排除 Microsoft Azure Stack 故障。\n- 了解许可和计费在 Microsoft Azure Stack 中的工作方式。\n\n#### 受众概况\n本课程面向有兴趣使用 Microsoft Azure Stack 从其自己的数据中心向最终用户或客户提供云服务的服务管理员、开发人员和云架构师。"
+prerequisitesSection: |-
+  在参加本课程之前，学生必须具备&#58;
+  - Windows Server 2016 如何工作的知识。
+  - SQL Server 2014 如何工作的知识。
+  - Microsoft Azure 如何工作的知识。
+outlineSection: |-
+  ### 模块 1&#58; Azure Stack 概述
+  在第一个模块中，介绍了与 Azure Stack 相关的关键概念，这些概念将帮助您了解什么是 Azure Stack 及其提供的功能。您还将了解 Azure Stack、Microsoft Azure 和 Windows Azure Pack 之间的区别。
+  #### 课程
+  - 什么是 Azure Stack？
+  - 对 Azure Stack 与 Microsoft Azure 进行比较。
+  - 对 Azure Stack 与 Windows Azure Pack 进行比较。
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Azure Stack 的关键功能。
+  - 了解 Azure Stack 和 Microsoft Azure 之间的区别。
+  - 了解 Azure Stack 和 Windows Azure Pack 之间的区别。
+
+
+  ### 模块 2&#58; Microsoft Azure Stack 的基础组件
+  在本模块中，您将了解 Azure Stack 使用的 Windows Server 2016 功能以及可供选择的 System Center 2016 组件，可以添加 System Center 2016 组件以进一步管理和维护 Azure Stack 环境。  您还将学习 Azure Stack 如何管理身份验证以及各种可用的身份验证提供程序。
+
+
+  #### 课程
+  - Windows Server 2016 和 System Center 2016。
+  - 身份和身份验证。
+
+
+  #### 实验&#58; 回顾 Azure Stack 基础结构
+  - 回顾 Azure Stack 基础结构组件。
+
+  学完本模块后，学生将能够&#58;
+  - 了解如何在 Microsoft Azure Stack 中使用 Windows Server 2016 和可供选择的 System Center 2016 功能。
+  - 了解身份和身份验证在 Microsoft Azure Stack 中的工作方式。
+
+
+  ### 模块 3&#58; 部署 Microsoft Azure Stack
+  本模块介绍了 Azure Stack 的一些内部体系结构以及它如何构成此系统的基础。它将讨论各种 Azure Stack 概念，例如&#58;
+  - 软件定义的数据中心
+  - Azure Stack 的内部体系结构
+  - Azure Stack 基础架构
+  - Azure Stack 的先决条件
+  - Azure Stack 的规划和安装
+  #### 课程
+  - Microsoft Azure Stack 体系结构
+  - Azure Stack 的先决条件
+  - 安装 Azure Stack
+
+
+  #### 实验&#58; 确认先决条件并安装 Microsoft Azure Stack
+  - 确认先决条件。
+  - 确认安装成功。
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Microsoft Azure Stack 的体系结构。
+  - 了解 Microsoft Azure Stack 的先决条件。
+  - 安装 Microsoft Azure Stack。
+
+
+  ### 模块 4&#58; 提供 Microsoft Azure Stack 资源
+  本模块讨论 Azure Stack 中的一些关键功能，这些功能提供了租户在使用虚拟机和 SQL Server 数据库等资源时使用的机制。
+  #### 课程
+  - 使用 Plans 和 Offers。
+  - Microsoft Azure Stack Marketplace。
+  - 在 Azure Stack 中启用多租户。
+  - 将 Azure Stack 与 Windows Azure Pack 集成。
+
+
+  #### 实验&#58; 在 Microsoft Azure Stack 中管理 Offers 和 Plans
+  - 配置 Plans。
+  - 配置 Offers。
+  - 订阅 Offers。
+  - 委托 Offers。
+  - 创建一个新的 Marketplace 项目。
+
+  学完本模块后，学生将能够&#58;
+  - 在 Microsoft Azure Stack 中配置 Offers 和 Plans。
+  - 管理 Microsoft Azure Stack Marketplace。
+  - 在 Azure Stack 中启用多租户。
+  - 将 Azure Stack 与 Windows Azure Pack 集成。
+
+
+  ### 模块 5&#58; Microsoft Azure Stack 和 DevOps
+  本模块讨论 Azure Stack 如何让组织利用 DevOps 的基础。它详细介绍了 Azure Stack，Azure Resource Manager，可用的 SDK 和 API 的基础，以及如何使用配置管理技术（如 PowerShell Desired State Configuration、Chef 和 Puppet）来促进应用程序快速、一致且稳定地部署。
+  #### 课程
+  - 针对 DevOps 的 Microsoft Azure Stack 中使用的技术。
+  - Azure Resource Manager 模板。
+  - 第三方资源提供程序。
+
+
+  #### 实验&#58; 调试和部署 ARM 模板
+  - 使用 Windows PowerShell 获取 API 版本。
+  - 使用 Visual Studio 调试 ARM 模板。
+  - 使用 Azure CLI 部署虚拟机。
+
+  学完本模块后，学生将能够&#58;
+  - 了解 Microsoft Azure Stack 中 DevOps 使用的技术。
+  - 了解 Azure Resource Manager 中的模板。
+  - 了解可用于 Microsoft Azure Stack 的第三方资源提供程序。
+
+
+  ### 模块 6&#58; 基础架构即服务和 Microsoft Azure Stack
+  本模块讨论 Azure Stack 中的基础架构即服务。它涵盖以下领域&#58;
+
+  - 软件定义的数据中心
+  - Hyper-V 网络虚拟化
+  - 与 Azure Stack 的外部连接
+  - Azure Stack 中的 Azure 一致存储
+  - Azure Stack 中的虚拟机
+
+
+  #### 课程
+  - Microsoft Azure Stack 和 Windows Server 2016 对软件定义的网络进行了改进。
+  - Azure Stack Storage。
+  - Microsoft Azure Stack 中的虚拟机。
+
+
+  #### 实验&#58; 在 Microsoft Azure Stack 中配置存储和虚拟机
+  - 创建订阅和资源组。
+  - 创建存储账户。
+  - 创建虚拟网络。
+  - 创建虚拟机。
+
+  学完本模块后，学生将能够&#58;
+  - 了解 Microsoft Azure Stack 和 Windows Server 2016 对软件定义网络的改进。
+  - 配置 Azure Stack Storage。
+  - 在 Microsoft Azure Stack 中部署虚拟机。
+
+
+  ### 模块 7&#58; 平台即服务和 Microsoft Azure Stack
+  堆栈将基于平台即服务（PaaS）的产品从 Microsoft Azure 引入 Azure Stack。Microsoft Azure 最初是为基于 PaaS 的应用程序开发而设计的，后来又添加了基于 IaaS 的服务。在 Azure Stack 的初始版本中，Microsoft 提供了 4 种基于 PaaS 的服务&#58;用于网站的 SQL 和 MySQL 数据库，
+  
+  用于安全存储密码和证书等机密信息的 Key Vault，用于无服务器计算的 Azure Functions。本模块将详细介绍每种产品，并说明如何利用它们。
+  #### 课程
+  - 了解平台即服务。
+  - Microsoft Azure Stack 中的 SQL Server 和 MySQL 服务器提供程序。
+  - 应用服务资源提供程序。
+  - Azure Key Vault。
+  - Azure 功能。
+
+
+  #### 实验&#58; 在 Azure Stack 中将配置平台即服务
+  - 添加托管服务器
+  - 配置 Plan 和 Offer
+  - 创建 SQL Server 数据库
+  - 配置应用服务的 Plan 和 Offer
+
+  学完本模块后，学生将能够&#58;
+  - 描述平台即服务。
+  - 配置 SQL 和 MySQL 资源提供程序。
+  - 配置应用程序服务资源提供程序。
+  - 了解 Key Vault 如何在 Azure Stack 中运行。
+  - 了解 Azure Functions 在 Azure Stack 中的运行方式。
+
+
+  ### 模块 8&#58; 在 Microsoft Azure Stack 中进行监视
+  在本模块中，您将学习如何监视和更新 Azure Stack。您还将学习如何使用 Azure Stack 监视租户配置的来宾工作负载。您将学习如何对 Azure Stack 的核心组件进行故障排除。最后，您将学习如何保护 Azure Stack 基础结构以及如何保护租户工作负载。
+  #### 课程
+  - 现场可更换单元。
+  - Azure Stack 控制平面监视。
+  - 为 Azure Stack 基础结构安装补丁。
+  - 监视 Microsoft Azure Stack 中的来宾工作负载。
+  - 对 Azure Stack 进行故障排除。
+  - 保护 Azure Stack 和租户工作负载。
+
+
+  #### 实验&#58; 对 Microsoft Azure Stack 和来宾操作系统进行故障排除和监视
+  - 监视Azure Stack。
+  - 监视来宾操作系统。
+  - 使用审核日志和警报对 Azure Stack 进行故障排除。
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Microsoft Azure Stack 中的现场可更换单元的概念。
+  - 描述 Microsoft Azure Stack 中的控制平面监视。
+  - 了解如何在 Microsoft Azure Stack 中管理修补程序。
+  - 监视 Microsoft Azure Stack 中的来宾工作负载。
+  - 对 Microsoft Azure Stack 进行故障排除。
+  - 保护 Azure Stack 和租户工作负载。
+
+
+  ### 模块 9&#58; 许可 Microsoft Azure Stack 和计费租户
+  在本模块中，您将学习 Microsoft 如何授予 Azure Stack 许可，包括 Azure Stack 的两种收费模式以及 Azure Stack 部署中通常涉及的其他费用。
+  #### 课程
+  - 如何为 Azure Stack 授予许可和付款。
+  - Azure 一致使用 API。
+  - Azure Stack 中的业务成本和模型。
+
+
+  #### 实验&#58; 获取使用情况信息
+  - 获取 Azure Stack 使用情况信息。
+
+  学完本模块后，学生将能够&#58;
+  - 了解 Azure Stack 的计费方式。
+  - 使用 Azure 一致使用 API。
+  - 了解 Azure Stack 中的业务成本和模型。
+

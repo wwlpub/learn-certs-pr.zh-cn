@@ -1,0 +1,215 @@
+### YamlMime:Course
+title: Analyzing Data with Power BI
+metadata:
+  title: 'Course 20778-C: Analyzing Data with Power BI'
+  description: 'Course 20778-C: Analyzing Data with Power BI'
+uid: course.20778
+courseNumber: '20778-C'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述自助式 BI。
+- skill: 描述Power BI 产品套件。
+- skill: 连接到数据源并优化数据模型。
+- skill: 从不同来源成形和合并数据
+- skill: 建模数据。
+- skill: 建立报告并管理解决方案。
+- skill: 描述 Power BI 开发人员 API。
+- skill: 描述 Power BI 行动应用程序。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+exams:
+- uid: exam.70-778
+summary: |-
+  为期五天的教师指导的课程提供学生知识和技能来 使用 Power BI 分析数据
+
+  #### 受众概况
+  本课程的主要对象是需要使用 Power BI 分析数据的 BI 专业人员。 本课程的次要对象是技术熟练的企业用户。
+prerequisitesSection: |-
+  除了专业经验之外，参加此培训的学生还应该已经具有以下技术知识&#58;
+  - Microsoft Windows 操作系统及其核心功能的基本知识。
+  - 数据仓库结构拓扑（包括星型和雪花式结构）的基础知识。
+  - 对基本程序设计概念（例如循环和分支）的某些了解。
+  - 需要了解关键业务优先级（如收入、盈利能力和财务会计）。
+  - 熟悉 Microsoft Office 应用程序-特别是 Excel。
+outlineSection: |-
+  ### 模块 1&#58; 自助式 BI 解决方案简介
+  商业智能（BI）这个词在最近几年变得越来越普遍。与大数据、数据挖掘、预测性分析、数据科学和数据监管一样，BI 现在已成为商务词汇的重要组成部分。背后的主要动力是组织需要应付不断增长的数据集。现在，拥有包含数百万数据列的数据库库是正常的，需要数 GB，TB 或甚至 PB 的储空存间。数据不再局限于内部部署机房，而是托管在云端中，摘要从第三方提供者处取得，公共数据集可免费使用，社交媒体互动产生不断扩充的数据集。
+
+  报表和分析明显不是一个新的商务概念，但是与五或 十年前相比，今天的数据分析方法之间的差异是巨大的。如今，组织不仅需要 BI 查看过去所做的事情，而且还可以了解将来要做的事情。现在有大量数据可以收集并撰写报告。对数据需求日益增长，它们可以提供最新资料，让企业能够对市场和产业变化的趋势做出更快的响应。那些能够快速做出回应并预测短期趋势以在有消费者需求的情况下提供产品和服务的企业，在我们这个竞争激烈的现代世界中，最有可能生存。随着大数据的兴起，对数据分析人员的需求日益增长，他们可以取得这些数据并在大量数据中找到临界点。
+  #### 课程
+  - 商业智能简介
+  - 数据分析简介
+  - 数据视觉效果简介
+  - 自助式 BI 概述
+  - 自助式 BI 的考虑因素
+  - 自助式 BI 的 Microsoft 工具
+
+
+  #### 实验&#58; 探索企业 BI 解决方案
+  - 检视报告
+  - 建立 Power BI 报告
+  - 建立 Power BI 控制面板
+
+  学完本模块后，学生将能够&#58;
+  - 描述 BI 的趋势。
+  - 描述 Power BI 中的数据分析流程。
+  - 使用 Power BI 中的关键视觉效果。
+  - 描述自助式 BI 的原理。
+  - 描述自助式 BI 的考虑因素。
+  - 了解您如何使用 Microsoft 产品来实施 BI 解决方案。
+
+
+  ### 模块 2&#58; Power BI 简介
+  自助式商业智能（BI）迅速普及，因为它具有使用户能够产生报表，处理数据，执行分析等功能，而无需依赖报表开发人员。自助式 BI 趋势是由 Microsoft 对改进 Excel 和 Power BI 的承诺而推动的，这两种产品近年来都获得许多增强。但是，尽管 Microsoft 使用新增到 Excel 中的四个支持工具（Power Pivot，Power View，Power Query 和 Power Map）启用更深入的数据分分析，但它们并未完全整合到 Excel 界面中。相反，它们存在于个别的 windows 中。发布与同事共享报告的 SharePoint 新增其复杂性且成为一项耗时的工作。
+
+  使用 Power BI 可以通过简单的整合使用者界面消除复杂性和障碍，并且能够快速发布到云端或内部部署的入口网站，以轻松共享报告。本模块介绍 Power BI，并探讨可快速建立和发布复杂的数据视觉效果的功能。
+  #### 课程
+  - Power BI
+  - Power BI 服务
+
+
+  #### 实验&#58; 建立 Power BI 控制面板。
+  - 连接到 Power BI 数据
+  - 建立 Power BI 控制面板
+
+  学完本模块后，学生将能够&#58;
+  - 使用 Power BI Desktop 应用程序开发报告。
+  - 使用报表项目在 Power BI 入口网站 上建立控制面板。
+  - 了解 Power BI 服务的组件，包括授权和租用户管理。
+
+
+  ### 模块 3&#58; Power BI 数据
+  Power BI 提供一种直接的报告建立方法，并且具有建立和共享控制面板的能力，而无需对报表开发人员有相依性或对 Microsoft SharePoint 的需求。长期以来，Microsoft Excel 一直是以自助服务样式工作的数据分析人员的工具选项。但是，Excel 不能提供一种不使用 SharePoint 共享报表的快速、简便方法，或者不建立多个电子表格复本，而这些复本会很快变得过时或存在于原始档控制之外。
+
+  近年来，支持工具已新增到 Excel 中&#58;Power View，Power Query（在Excel 2016 中称为 Get＆Transform）和 Power Pivot。Power BI 以 Power BI Desktop 的形式将大部分功能带入整合环境。以前，需要在不同的支持工具之间进行转换带给 Excel 使用者带来不便，但是 Power BI Desktop 将这些工具整合在一起。这意味着 Power BI 正迅速成为数据分析和共享的明显选择。但是，在可预见的将来，分析师可能会继续使用 Excel。Power BI 可以轻松与 Excel 和许多其他数据源合作。通过使用来自来源组合的数据，这种快速建立报告的能力能够真正为 Power BI 注入力量。
+  #### 课程
+  - 使用 Excel 作为 Power BI 的数据源
+  - Power BI 数据模型
+  - 使用数据库作为 Power BI 的数据源
+  - Power BI 服务
+
+
+  #### 实验&#58; 将数据导入 Power BI
+  - 将 Excel 文件导入 Power BI
+  - 从 Excel 文件检视报告
+
+  学完本模块后，学生将能够&#58;
+  - 描述数据模型，并知道如何在模型中优化数据。
+  - 连接到 Excel 文件并导入数据。
+  - 使用 R 脚本数据连接器，将内部部署和云端 SQL Server 数据库作为数据源。
+  - 利用 Power BI 服务的功能。
+  - 使用 Q&A 以自然查询语言询问并建立应用程序。
+
+
+  ### 模块 4&#58; 形成和合并数据
+  Power BI Desktop 提供一个自助服务解决方案，用于建立视觉效果、互动报告和控制面板。使用者可以连接到各种各样的数据源，将来自内部部署数据库、软件即解决方案（SaaS）提供者、云端服务以及诸如 Microsoft Excel 等本机文件的数据组合到一个报告中。Power BI 报表和控制面板的优点是能够快速组建报表以展示此数据，从而使它们立即可读取-以视觉方式显示数据中的丛集，极端值和模式。为此，每个报表必须具有一个包含表和列的数据集，准备直接新增到视觉效果中。数据必须格式化为相关货币，数字应具有正确的小数字，可能需要其他数据行和量值，并且可能必须从多个数据表中合并数据。借助 Power BI Desktop，您可以使用成行数据的功能强大、内建工具以完成所有这些工作。本模块介绍可用于准备数据并将其转换为准备报告的窗体工具。
+  #### 课程
+  - Power BI Desktop 查询
+  - 形成数据
+  - 合并数据
+
+
+  #### 实验&#58; 成形和合并数据
+  - 形成 Power BI 数据
+  - 合并 Power BI 数据
+
+  学完本模块后，学生将能够&#58;
+  - 在 Power BI 中执行一系列查询编辑任务。
+  - 使用格式化和转换来成形数据。
+  - 从数据集的数据表中将数据合并在一起。
+
+
+  ### 模块 5&#58; 建模数据
+  Microsoft Power BI 正在自助式 BI 领域日益为人所知，因为它可以快速建立出色、互动报告和控制面板。Power BI 提供直接的方法，可以将来自各种来源的数据合并到单一数据集中，然后使用该数据建立连贯的报告。该模块寻就视觉效果场景，并探讨出售的技术和功能以成形和增强数据。通过自动建立关联性，庞大的 DAX 函数库以及快速新增计算的数据行，数据表和量值的能立，您将看到 Power BI 如何建立有吸引力的报告，同时帮助您找到对数据的隐藏见解。
+  #### 课程
+  - 关联性
+  - DAX 查询
+  - 计算和量值
+
+
+  #### 实验&#58; 建模数据
+  - 建立关联性
+  - 计算
+
+  学完本模块后，学生将能够&#58;
+  - 描述数据表之间的关联性。
+  - 了解 DAX 语法并使用 DAX 函数来增强数据集。
+  - 建立计算数据行，计算数据表和量值。
+
+
+  ### 模块 6&#58; 互动数据视觉效果
+  自助式商业智能（BI）在组织中变得越来越流行。本方法使企业用户可以存取公司数据，以及建立和共享报告以及关键绩效指标（KPI），而无需依赖专门的报告开发人员。企业用户可以使用 Microsoft Power BI 工具套件连接到各种数据源。这些包括主要的产业标准数据库、Microsoft 云端服务（Microsoft Azure SQL 数据库、Azure Data Lake 和 Azure Machine Learning）以及 Microsoft Excel 和其他文件，以及软件即服务（SaaS）提供者，例如 Microsoft Bing、 Facebook 和 MailChimp。以可视化方式快速建立出色、互动控制面板的弹性和能力的组合，使 Power BI 成为任何需要为其使用者自助 BI 解决方案的组织的明显选择。
+  #### 课程
+  - 建立 Power BI 报告
+  - 管理 Power BI 解决方案
+
+
+  #### 实验&#58; 建立 Power BI 控制面板。
+  - 连接到 Power BI 数据
+  - 组建 Power BI 报告
+  - 建立 Power BI 控制面板
+
+  学完本模块后，学生将能够&#58;
+  - 使用 Power BI Desktop 建立互动数据视觉效果。
+  - 管理 Power BI 解决方案。
+
+
+  ### 模块 7&#58; 直接连接
+  Power BI 服务支持与 Azu资 SQL 数据库，Azure SQL 数据仓库，大数据源（例如 Azure HDInsight 上的 Spark）和 SQL Server Analysis Services 的实时直接连接。DirectQuery 意味着每当您配量数据或将其他字段新增加到视觉效果时，都会直接向数据源发布新查询。
+  
+  Power BI 与以多维度模式执行的 SQL Server Analysis Services 模型一起使用，因此您可以在报表和控制面板中使用 OLAP多维数据集 (Cube) 和模型。是否在云端中使用 Power BI 服务以及内部部署 SQL Server Analysis Services 实施都没有关系&#58;内部部署数据网关可实施云端与内部部署数据服务器之间的实时连接。
+  #### 课程
+  - 云端数据
+  - 正在连接到 Analysis Services
+
+
+  #### 实验&#58; 直接连接
+  - 直接连接到 Power BI
+
+  学完本模块后，学生将能够&#58;
+  - 使用 Power BI 直接连接来存取 Azure SQL 数据库和 Azure SQL 数据仓库中的数据
+  - 使用 Power BI 直接连接来存取 Hadoop 等大数据源中的数据。
+  - 将 Power BI 与 SQL Server Analysis Services 数据一起使用。
+  - 使用以多维度模式执行的 Analysis Services 模型。
+
+
+  ### 模块 8&#58; 使用 Power BI 开发
+  Power BI API 是REST 式 API，开发人员可以程序设计方式使用来存取 Power BI 中的数据集、数据表和行。使用本 API，您可以将数据从应用程序推送到 Power BI 中，并将 Power BI 视觉效果整合到应用程序中。您还可以将自定义视觉效果新增到应用程序以及 Power BI 控制面板和报告。
+
+  在本模块中，您将学习如何使用 Power BI API 在应用程序中内嵌内容以及如何在报告中使用自定义视觉效果。
+
+  #### 课程
+  - Power BI API
+  - 自定义视觉效果
+
+
+  #### 实验&#58; 使用 Marketplace 视觉效果
+  - 使用自定义视觉效果
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Power BI 开发人员 API。
+  - 列出建立自定义视觉效果的步骤。
+  - 将自定义视觉效果导入 Power BI 中以在 Power BI 报表中使用。
+
+
+  ### 模块 9&#58; Power BI 行动装置
+  Power BI 行动应用程序使您可以在行动装置备上存取和使用 Power BI 信息，包括 iOS（iPad、iPhone、iPod Touch、Apple Watch），Android 手机或平板计算机以及 Windows 10 装置。这意味着，在 Power BI Desktop 和Power BI 服务中建立的 Power BI 报表和 Power BI 控制面板可能会在任何地方、任何时间使用。
+
+  Power BI 报表和控制面板设计为无需修改即可在行动装置上工作。但是，您还可以建立特定的优化报告和报告版面配置，以显示在行动装置上。Power BI 行动应用程序支持控制面板的共享和批注，即使您未连接道网络，也可以在行动装置上使用 Power BI 数据。Power BI 警示和通知还可以在 Power BI 服务（包括行动装置）上使用。
+
+  #### 课程
+  - Power BI 行动应用程序
+  - 使用 Power BI 行动应用程序
+
+  学完本模块后，学生将能够&#58;
+  - 为行动装置备建立控制面板和报告。
+  - 使用 Power BI 行动应用程序。
+

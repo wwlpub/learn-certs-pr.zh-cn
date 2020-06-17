@@ -1,0 +1,187 @@
+### YamlMime:Course
+title: Analyzing Data with Excel
+metadata:
+  title: 'Course 20779-B: Analyzing Data with Excel'
+  description: 'Course 20779-B: Analyzing Data with Excel'
+uid: course.20779
+courseNumber: '20779-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 探索并扩充传统的 Excel 控制面板。
+- skill: 探索并扩充 Excel 数据模型。
+- skill: 预格式化并导入 .CSV 文件。
+- skill: 从 SQL Server 数据库导入数据
+- skill: 从报告导入数据。
+- skill: 使用高级 DAX 功能建立量值
+- skill: 在 Excel 中建立数据视觉效果。
+- skill: 使用 Excel 建立 Power BI 控制面板。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-analyst
+products:
+- office-excel
+exams:
+- uid: exam.70-779
+summary: "课程的主要目的是使学生能够将 BI 技术新增到 Excel 数据分析中。该课程超越了数据表和图表的功能，并使用了枢纽分析图，Excel 数据模型和 Power BI。\n\n#### 受众概况\n本课程适用于经验丰富的使用 Excel 分析数据并且希望增加 BI 技术的学生。 \n\n对展示数据的替代方法感兴趣的 SQL Server 报表建立者可能会参加本课程。."
+prerequisitesSection: |-
+  在参加本课程之前，学生必须具备&#58;
+  - Microsoft Windows 操作系统及其核心功能的基本知识。
+  - 关系型数据库如何工作的知识。
+  - 对 Excel 电子表格的广泛知识，包括公式，图表，筛选，排序和小计。
+  - 相当于已经参加课程 10994 的数据分析基本知识。
+outlineSection: |-
+  ### 模块 1&#58; Excel 中的数据分析
+  本模块着眼于传统的 Excel 控制面板及其扩充方式。
+  #### 课程
+  - Excel 的传统数据分析
+  - Excel 数据透视表
+  - 传统数据分析限制
+
+
+  #### 实验&#58; 组建传统的 Excel 控制面板
+  - 格式化数据
+  - 组建数据透视表
+  - 新增枢纽分析图和交叉分析筛选器
+
+  学完本模块后，学生将能够&#58;
+  - 使用 Excel 描述传统数据分析
+  - 描述 Excel 数据透视表
+  - 描述使用Excel进行经典数据分析的局限性
+
+
+  ### 模块 2&#58; Excel 数据模型
+  本模块着眼于传统的 Excel 控制面板及其扩充方式。
+  #### 课程
+  - 使用 Excel 数据模型
+  - DAX
+
+
+  #### 实验&#58; 探索 Excel 数据模型
+  - 建立计算数据行
+  - 格式化数据模型数据
+  - 建立量值
+  - 分析数据
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Excel 数据模型
+  - 在 Excel 数据表中检视数据
+  - 描述 DAX
+
+
+  ### 模块 3&#58; 从文件导入数据
+  该模块着眼于预先格式化和导入 CSV 文件。
+  #### 课程
+  - 将数据导入 Excel
+  - 成形和转换数据
+  - 加载数据中
+
+
+  #### 实验&#58; 从 CSV 文件导入数据
+  - 从 CSV 文件导入和转换数据
+  - 从文件夹新增数据;
+
+  学完本模块后，学生将能够&#58;
+  - 将数据导入 Excel。
+  - 成形和转换数据。
+  - 加载数据。
+
+
+  ### 模块 4&#58; 从数据库导入数据
+  本模块着眼于如何从 SQL Server 数据库将数据导入 Excel。
+  #### 课程
+  - 可用的数据源
+  - 预览、成形和转换数据
+  - 数据表关联性和层次结构
+  - 加载数据中
+
+
+  #### 实验&#58; 从多个来源导入数据
+  - 从 SQL Server 导入数据
+  - 从 CSV 文件导入数据
+  - 建立数据表
+
+  学完本模块后，学生将能够&#58;
+  - 识别可用的数据源。
+  - 预览、成形和转换数据。
+  - 说明数据表关联性和层次结构。
+  - 从各种来源加载资料。
+
+
+  ### 模块 5&#58; 从 Excel 报表导入数据
+  本模块描述如何从报告中会入数据。
+  #### 课程
+  - 从 Excel 报告导入数据
+  - 转换 Excel 报表数据
+
+
+  #### 实验&#58; 从报告导入数据
+  - 从 Excel 导入数据
+  - 转换 Excel 数据
+  - 将数据加载到 Excel 数据模型中
+
+  学完本模块后，学生将能够&#58;
+  - 从 Excel 报告导入数据。
+  - 转换 Excel 报告数据。
+
+
+  ### 模块 6&#58; 建立和格式化量值
+  本模块描述如何建立和格式化量值。
+  #### 课程
+  - DAX
+  - 量值
+  - 高级的 DAX 函数
+
+
+  #### 实验&#58; 使用高级 DAX 函数建立量值
+  - 去年相比
+  - 年初至今
+  - 市场占有率
+
+  学完本模块后，学生将能够&#58;
+  - 说明什么是 DAX 以及何时使用。
+  - 描述量值。
+  - 在 DAX 中使用某些高级函数。
+
+
+  ### 模块 7&#58; 在 Excel 中可视化数据
+  本模块介绍了如何在Excel中的数据可视化。
+  #### 课程
+  - 枢纽分析图
+  - 多维数据集 (Cube) 函数
+  - 多维数据集 (Cube) 函数的图表
+
+
+  #### 实验&#58; 在 Excel 中数据可视化
+  - 建立表格式报告
+  - 建立枢纽分析图
+  - 将交叉分析筛选器新增到图表
+
+  学完本模块后，学生将能够&#58;
+  - 建立并优化枢纽分析图。
+  - 描述 Cube 函数以及何时使用。
+  - 描述用于Cube 函数的许多图表。
+
+
+  ### 模块 8&#58; 使用 Excel 与 Power BI
+  本模块介绍如何使用 Excel 与 Power BI。
+  #### 课程
+  - Power BI
+  - 将 Excel 资料上传到 Power BI
+  - Power BI 行动应用程序
+
+
+  #### 实验&#58; 使用 Excel 建立 Power BI 控制面板。
+  - 上传 Excel 资料
+  - 建立 Power BI 控制面板
+  - 使用 Power BI 桌面
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Power BI 和可用的各种版本。
+  - 将 Excel 资料上传到 Power BI。
+  - 描述 Power BI 应用程序。
+

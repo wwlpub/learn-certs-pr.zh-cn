@@ -1,0 +1,282 @@
+### YamlMime:Course
+title: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager
+metadata:
+  title: 'Course 20745-B: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager'
+  description: 'Course 20745-B: Implementing a Software-Defined DataCenter Using System Center Virtual Machine Manager'
+uid: course.20745
+courseNumber: '20745-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 说明不同的虚拟化选项。
+- skill: 在 Windows Server 2016 上安装和管理 Hyper-V。
+- skill: 安装和配置 System Center 2016 虚拟机管理器。
+- skill: 管理存储结构和结构更新。
+- skill: 配置和管理 Virtual Machine Manager 库和库对象。
+- skill: 管理网络结构。
+- skill: 使用 Virtual Machine Manager 创建和管理虚拟机。
+- skill: 在 Virtual Machine Manager 中管理云。
+- skill: 在 Virtual Machine Manager 中管理服务。
+- skill: 通过使用 System Center Operations Manager 监视虚拟化基础结构。
+- skill: 实施和管理 Microsoft Hyper-V 副本和 Microsoft Azure 站点恢复。
+- skill: 通过使用 Data Protection Manager 保护虚拟化基础架构。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-system-center
+exams:
+- uid: exam.70-745
+summary: |-
+  此为期五天的课程介绍如何使用 Microsoft System Center 2016 Virtual Machine Manager 在软件定义的数据中心中实施和管理虚拟化基础结构。本课程还介绍如何使用 Microsoft System Center Operations Manager 监视基础结构以及如何使用 Microsoft System Center Data Protection Manager 保护基础结构。
+
+  #### 受众概况
+  本课程适用于负责使用 System Center 2016 Virtual Machine Manager 在软件定义的数据中心中设计、实施和管理虚拟化基础结构的 IT 专业人员和管理员。本课程的主要重点是在 Windows Server 2016 中管理 Hyper-V 虚拟化基础架构，然而该课程还涵盖了可以使用 Virtual Machine Manager 2016 进行管理的其他虚拟化平台。 
+
+  本课程还面向想要确定要在其软件定义的数据中心中实施哪种虚拟化产品以及想要熟悉用于管理虚拟化基础架构的 System Center 2016 解决方案的 IT 决策者。
+prerequisitesSection: |-
+  除了专业经验之外，参加此培训的学生还应该已经具有以下技术知识&#58;
+  - 了解 TCP / IP 和网络概念
+  - 了解不同的存储技术和概念
+  - 熟悉不同类型的虚拟化
+  - 熟悉 Windows Server 和 Windows Server 管理
+  - 了解 Windows PowerShell
+
+  学生应具有在团队/虚拟团队中工作的能力，并具有良好的文档编制和沟通技巧。
+
+  参加此训练的学生可以通过参加以下课程或获得同等水平的知识和技能来满足先决条件&#58;
+  - 20740 - Storage & Compute with Windows Server 2016
+  - 20741 - Networking with Windows Server 2016
+outlineSection: |-
+  ### 模块 1&#58; 服务器虚拟化导论
+  本模块说明了不同的虚拟化解决方案。它还描述了软件定义的数据中心和 Microsoft Azure 的概念。
+  #### 课程
+  - 概述 Microsoft 虚拟化
+  - 引入软件定义的数据中心
+  - 将虚拟化扩展到云
+
+
+  #### 实验&#58; 评估虚拟化选项
+  - 选择适当的虚拟化方法
+  - 创建 Azure 虚拟机
+
+  学完本模块后，学生将能够&#58;
+  - 描述各种虚拟化技术以及应用它们的场景。
+  - 描述软件定义的数据中心如何工作并对它们与传统数据中心进行比较
+  - 列出 Microsoft Azure 的主要优点以及管理 Azure 的过程。
+
+
+  ### 模块 2&#58; 概述 Hyper-V 虚拟化
+  本模块说明如何在 Windows Server 2016 中安装和管理 Hyper-V。
+  #### 课程
+  - 安装和配置 Hyper-V 角色
+  - 创建和管理虚拟硬盘和虚拟机
+  - 创建和使用 Hyper-V 虚拟交换机
+  - 使用 Hyper-V 实施故障转移群集
+
+
+  #### 实验&#58; 创建和管理虚拟硬盘和虚拟机
+  - 安装和配置 Hyper-V 服务器角色
+  - 配置虚拟机和虚拟硬盘
+
+
+  #### 实验&#58; 使用 Hyper-V 实现故障转移群集
+  - 创建 Hyper-V 故障转移群集
+  - 管理 Hyper-V 故障转移群集
+
+  学完本模块后，学生将能够&#58;
+  - 安装和配置 Hyper-V 角色。
+  - 创建和管理虚拟硬盘和虚拟机。
+  - 创建和使用 Hyper-V 虚拟交换机。
+  - 使用 Hyper-V 实现故障转移群集。
+
+
+  ### 模块 3&#58; 安装和配置 Virtual Machine Manager
+  本模块说明如何安装和配置 Virtual Machine Manager 来管理虚拟化环境。
+  #### 课程
+  - 概述 Virtual Machine Manager
+  - 安装 Virtual Machine Manager
+  - 添加主机并管理主机组
+
+
+  #### 实验&#58; 安装和配置 Virtual Machine Manager
+  - 安装和配置 Virtual Machine Manager
+  - 管理主机和主机组
+  - 使用 Virtual Machine Manager 管理 Azure 订阅
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Virtual Machine Manager 的主要功能。
+  - 说明如何安装 Virtual Machine Manager。
+
+  将虚拟化主机添加到 Virtual Machine Manager，并管理虚拟化主机和主机组
+
+  ### 模块 4&#58; 管理存储结构和结构更新
+  本模块说明如何在 Virtual Machine Manager 中管理存储结构和结构更新。
+  #### 课程
+  - 概述服务器虚拟化存储技术
+  - 管理存储结构
+  - 管理结构更新
+
+
+  #### 实验&#58; 管理存储结构和结构更新
+  - 实施存储基础架构
+  - 创建文件服务器集群和存储 QoS 策略
+  - 管理结构更新
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Virtual Machine Manager 使用的存储技术。
+  - 在 Virtual Machine Manager 中部署和管理存储结构。
+  - 管理 Virtual Machine Manager 的更新。
+
+
+  ### 模块 5&#58; 配置和管理 Virtual Machine Manager 库和库对象
+  本模块描述如何配置和管理 Virtual Machine Manager 库和库对象。它还描述了配置文件和模板之间的差异以及如何使用它们。
+  #### 课程
+  - Virtual Machine Manager 库概述
+  - 准备 Windows 以进行 Virtual Machine Manager 部署
+  - 使用配置文件
+  - 使用 VM 模板
+
+
+  #### 实验&#58; 配置和管理 Virtual Machine Manager 库和库对象
+  - 配置和管理 Virtual Machine Manager 库
+  - 为 Virtual Machine Manager 库创建 Windows 映像
+  - 创建和管理配置文件和模板
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Virtual Machine Manager 库和库资源。
+  - 准备 Windows 以进行 Virtual Machine Manager 部署。
+  - 说明如何使用配置文件。
+  - 描述如何使用 VM 模板。
+
+
+  ### 模块 6&#58; 管理网络结构
+  本模块说明如何在 Virtual Machine Manager 中管理网络结构。
+  #### 课程
+  - Virtual Machine Manager 中的网络概念
+  - 管理软件定义的网络
+  - 了解网络功能虚拟化
+
+
+  #### 实验&#58; 创建和配置网络结构
+  - 将 Hyper-V 主机的虚拟网络适配器与管理逻辑网络相关联
+  - 部署 Network Controller
+
+
+  #### 实验&#58; 配置和测试 Hyper-V 网络虚拟化
+  - 配置 Hyper-V 网络虚拟化
+  - 配备和测试租户 VM 网络
+
+  学完本模块后，学生将能够&#58;
+  - 解释 Virtual Machine Manager 中的主要网络概念。
+  - 使用 Virtual Machine Manager 实施软件定义的网络。
+  - 描述 Network Controller 中可用的核心网络功能虚拟化（NFV）组件。
+
+
+  ### 模块 7&#58; 使用 Virtual Machine Manager 创建和管理虚拟机
+  本模块说明如何使用 Virtual Machine Manager 创建和管理虚拟机。
+  #### 课程
+  - 虚拟机管理任务
+  - 创建、克隆和转换 VM
+
+
+  #### 实验&#58; 使用 System Center VM Manager 创建和管理 VM
+  - 创建虚拟机并修改其属性
+  - 创建和管理检查点
+  - 克隆和迁移虚拟机
+
+  学完本模块后，学生将能够&#58;
+  - 描述您可以在虚拟机上执行的各种管理任务。
+  - 创建、克隆和转换 VM。
+
+
+  ### 模块 8&#58; 在 Microsoft System Center Virtual Machine Manager 中管理云
+  本模块说明如何使用 Virtual Machine Manager 创建和管理云。
+  #### 课程
+  - 云导论
+  - 创建和管理云
+  - 在 Virtual Machine Manager 中创建用户角色
+
+
+  #### 实验&#58; 在 Virtual Machine Manager中 管理云
+  - 创建私有云
+  - 创建用户角色
+
+  学完本模块后，学生将能够&#58;
+  - 解释云的概念以及如何使用 Virtual Machine Manager 创建云。
+  - 创建和管理云服务。
+  - 在 Virtual Machine Manager 中创建用户角色。
+
+
+  ### 模块 9&#58; 在 Virtual Machine Manager 中管理服务
+  本模块说明如何在 Virtual Machine Manager 中创建和管理服务。
+  #### 课程
+  - 概述 Virtual Machine Manager 中的服务
+  - 在 Virtual Machine Manager 中创建和管理服务
+
+
+  #### 实验&#58; 在 Virtual Machine Manager 中管理服务
+  - 创建服务模板
+  - 部署服务并更新服务模板
+  - 扩展服务并更新服务
+
+  学完本模块后，学生将能够&#58;
+  - 在 Virtual Machine Manager 中描述服务。
+  - 在 Virtual Machine Manager 中创建和管理服务。
+
+
+  ### 模块 10&#58; 使用 System Center Operations Manager 监视虚拟化基础结构
+  本模块说明如何使用 Operations Manager 监视虚拟化基础结构。
+  #### 课程
+  - Operations Manager 架构和安全性
+  - 使用 Operations Manager 进行监视和报告
+  - 将 Operations Manager 与 Virtual Machine Manager 和 Data Protection Manager 集成
+
+
+  #### 实验&#58; 使用 Operations Manager 监视虚拟化基础结构
+  - 实施 Operations Manager 代理
+  - 将 Operations Manager 与 Virtual Machine Manager 集成
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Operations Manager 架构，并说明如何保护对 Operations Manager 数据的访问。
+  - 使用 Operations Manager 进行监视和报告。
+  - 将 Operations Manager 与 Virtual Machine Manager 和 Data Protection Manager 集成。
+
+
+  ### 模块 11&#58; 实施和管理 Hyper-V Replica 和 Azure Site Recovery
+  本模块说明如何实施和管理 Hyper-V Replica 和 Azure Site Recovery。
+  #### 课程
+  - 实施和管理 Hyper-V Replica
+  - 实施和管理 Azure Site Recovery
+
+
+  #### 实验&#58; 实施和管理 Hyper-V Replica 和 Azure Site Recovery
+  - 配置和管理 Hyper-V Replica
+  - 配置和管理 Azure Site Recovery
+
+  学完本模块后，学生将能够&#58;
+  - 实施和管理 Hyper-V Replica。
+  - 实施和管理 Azure Site Recovery。
+
+
+  ### 模块 12&#58; 使用 Data Protection Manager 保护虚拟化基础架构
+  本模块说明如何使用 Data Protection Manager 保护虚拟化基础结构。
+  #### 课程
+  - 概述 VM 的备份和还原选项
+  - 配置和管理用于虚拟化基础架构保护的 Data Protection Manager
+
+
+  #### 实验&#58; 使用 Data Protection Manager 保护虚拟化基础架构
+  - 配置 DPM 服务器并安装 DPM 保护代理
+  - 创建和配置保护组
+  - 恢复虚拟机和其他数据
+  - 通过 DPM 提供在线保护
+
+  学完本模块后，学生将能够&#58;
+  - 描述虚拟机的备份和还原选项。
+  - 配置和管理 Data Protection Manager 以保护虚拟化基础架构。
+

@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Security Fundamentals
+metadata:
+  title: 'Exam 98-367: Security Fundamentals'
+  description: 'Exam 98-367: Security Fundamentals'
+uid: exam.98-367
+displayName: 98-367
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试将考察考生的基本安全知识和技能。还可作为通向 Microsoft 认证解决方案专员 (MCSA) 考试的敲门砖。建议考生通过参加相关培训课程熟悉这里介绍的概念和技术。考生应具备一定的 Windows Server、基于 Windows 的网络、Active Directory、防恶意产品、防火墙、网络拓扑与设备和网络端口方面的实践经验。
+
+  <div style='font-weight&#58; bold;'><br/>自 2016 年 6 月 23 日起，除了安全和威胁术语更新之外，这门考试还将包括 Windows 10 的更新。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试98-367变更文档。</div>
+subTitle: 本考试将考察考生的基本安全知识和技能。还可作为通向 Microsoft 认证解决方案专员 (MCSA) 考试的敲门砖。建议考生通过参加相关培训课程熟悉这里介绍的概念和技术。考生应具备一定的 Windows Server、基于 Windows 的网络、Active Directory、防恶意产品、防火墙、网络拓扑与设备和网络端口方面的实践经验。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k1
+practiceTestUrl: https://www.mindhub.com/MTA-98-367-Security-Fundamentals-p/mu-98-367_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-367&examname=Security%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-367
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 了解安全层(25-30%)
+- 了解操作系统安全 (35-40%)
+- 了解网络安全 (20-25%)
+- 了解安全软件 (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.40032
+- uid: course.40367
+relatedCertifications:
+- related:
+    uid: certification.mta-security-fundamentals
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

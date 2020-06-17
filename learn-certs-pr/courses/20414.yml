@@ -1,0 +1,277 @@
+### YamlMime:Course
+title: Implementing an Advanced Server Infrastructure
+metadata:
+  title: 'Course 20414-C: Implementing an Advanced Server Infrastructure'
+  description: 'Course 20414-C: Implementing an Advanced Server Infrastructure'
+uid: course.20414
+courseNumber: '20414-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述企业数据中心。
+- skill: 使用 System Center 2012 规划和实施服务器虚拟化策略。
+- skill: 规划和实施部署虚拟服务器基础结构所需的网络和存储基础结构
+- skill: 在 Windows Hyper-V® 上规划和部署虚拟机。
+- skill: 使用 System Center 2012 规划和实施虚拟化管理解决方案。
+- skill: 使用 Windows Server 2012 工具和 Microsoft System Center 2012-Operations Manager 规划和实施服务器监视策略。
+- skill: 规划和实施高可用性的应用程序和档案服务基础结构。
+- skill: 通过使用 Windows Server 2012 中的故障转移集群功能来规划和实施高可用性服务器基础结构。
+- skill: 在 Windows Server 2012 环境中规划和实施业务持续性策略。
+- skill: 规划和实施PKI部署，以及规划和实施凭证管理解决方案。
+- skill: 规划和实施 AD FS 服务器部署并声明感知应用程序访问
+- skill: 规划和实施动态访问控制 、Workplace Join 和工作文件夹。
+- skill: 规划和实施 AD RMS 部署，规划和管理 AD RMS 模版和存取，以及规划和实施对 AD RMS 服务的外部访问。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-414
+summary: |-
+  在为期五天的 Microsoft 官方课程中，获得实际操作指导并练习规划，设计和部署实体和逻辑 Windows Server® 2012 R2 企业基础结构本课程是两门课程系列中的第二部分，提供在企业环境中设计和实施 Windows Server 2012 R2 基础结构所需的技能和知识。这两门课程共同涵盖企业服务器基础结构的设计、规划、部署、保护、监视、自动化和虚拟化。本课程涵盖规划和实施高可用性、安全性基础结构的知识和技能，重点是 Active Directory® 同盟服务(AD FS)、公钥基础结构(PKI)和 Active Directory 权限管理服务(AD RMS)。您还将学习规划和部署虚拟机所需的技能，包括自助服务和虚拟机部署自动化以及规划和实施包括 Microsoft® System Center 2012 R2-Operations Manager 的监视策略。本课程直接对应于 Microsoft Certified Solutions Expert (MCSE)考试 Exam 414&#58; Implementing an Advanced Server Infrastructure 且为其实际备考首选。该考试是“MCSE：服务器基础结构”认证要求的五项考试中的第五项。 
+
+  注意&#58; 本课程中的实验基于 Windows Server 2012 R2 和 System Center 2012 R2。本课程是为经验丰富的 IT 专业人员设计的，这些专业人员支持大中型企业，且具有管理 Windows Server 2012 R2 的经验并具有 MCSA&#58; Windows Server 2012 认证或同等技能。
+
+  #### 受众概况
+  本课程适用于负责规划、设计和部署实体和逻辑 Windows Server 2012 企业版和 Active Directory 域服务(AD DS)基础结构(包括网络服务)的信息技术(IT)专业人员。应试者通常具有以前 Windows Server 操作系统的经验，并具有 Windows Server 2012 认证(MCSA)或同等技能。
+  本课程的第二受众是希望将考试 70-414&#58; Implementing an Advanced Enterprise Server Infrastructure 作为单独或 MCSE 认证要求的一部分的 IT 专业人士。
+prerequisitesSection: |-
+  参加本课程之前，学生必须具备&#58;
+  - 了解TCP/IP 和联网概念。
+  - 了解Windows Server 2012 和 AD DS，包括规划、设计和部署。
+  - 了解脚本和批处理文件。
+  - 了解安全性概念，例如验证和授权。
+  - 了解部署，封装和映像建立工具。
+  - 在团队或虚拟团队中工作的经验。
+  实现 Windows Server 2012 MCSA 认证并了解课程 20413C&#58; Designing and Implementing an Enterprise Server Infrastructure 中的信息。
+outlineSection: |-
+  ### 模块 1&#58; 企业数据中心中的管理概述
+  在本模块中，学生将能够描述企业数据中心以及如何使用 System Center 2012 来管理企业数据中心。
+  #### 课程
+  - 企业数据中心概述
+  - Microsoft System Center 2012 R2 组件概述
+
+
+  #### 实验&#58; 实施企业数据中心的考虑因素
+
+  学完本模块后，学生将能够&#58;
+  - 描述企业数据中心。
+  - 描述如何使用 System Center 2012 组件来管理企业数据中心。
+
+
+  ### 模块 2&#58; 规划和实施服务器虚拟化策略
+  在本模块中，学生将能够使用 System Center 2012 规划和实施服务器虚拟化策略。
+  #### 课程
+  - 规划 VMM 部署
+  - 规划和实施服务器器虚拟化主机环境
+
+
+  #### 实验&#58; 规划和实施服务器器虚拟化策略
+
+  学完本模块后，学生将能够&#58;
+  - 根据 Windows Server 2012 Hyper-V 和 System Center 2012- Virtual Machine Manager(VMM)的服务器虚拟化环境。
+  - 根据 Windows Server 2012 Hyper-V 和 VMM 实施服务器虚拟化环境。
+
+
+  ### 模块 3&#58; 规划和实施网络和虚拟化存储
+  在该模块中，学生将能够规划和实施部署虚拟服务器基础结构所需的网络和存储基础结构。
+  #### 课程
+  - 规划用于虚拟化存储基础结构
+  - 实施用于虚拟化存储基础结构
+  - 规划和实施虚拟化网络基础结构
+  - 规划和实施网络虚拟化
+
+
+  #### 实验&#58; 规划和实施虚拟网络和存储
+
+  学完本模块后，学生将能够&#58;
+  - 说明虚拟机可用的存储选项。
+  - 在 Windows Server 2012 中配置 iSCSI 储 存以及如何从 VMM 管理存储。
+  - 规划和实施用于服务器虚拟化网络基础结构。
+  - 在 Hyper-V 和 VMM 中规划和实施网络虚拟化。
+
+
+  ### 模块 4&#58;  规划和部署虚拟机
+  在本模块中，学生将能够在 Windows Hyper-V 上规划和部署虚拟机。
+  #### 课程
+  - 规划虚拟机配置
+  - 使用 VMM 为虚拟机部署做准备
+  - 部署虚拟机
+  - 规划和实施 Hyper-V 复本
+
+
+  #### 实验&#58; 规划和实施虚拟机部署和管理策略
+
+  学完本模块后，学生将能够&#58;
+  - 规划虚拟机配置。
+  - 规划和配置可用于实施 VMM 部署的 VMM 配置文件和模版。
+  - 规划和实施 Hyper-V 复本。
+
+
+  ### 模块 5&#58; 规划和实施虚拟化管理解决方案
+  在本模块中，学生将能够使用 System Center 2012 规划和实施虚拟化管理解决方案。
+  #### 课程
+  - 使用System Center 2012 规划和实施自动化
+  - 规划和实施 System Center 2012 管理
+  - 在 System Center 2012 中规划和实施自助选项
+  - 在服务器虚拟化基础结构中规划和实施更新
+
+
+  #### 实验&#58; 规划和实施虚拟化管理解决方案
+
+  学完本模块后，学生将能够&#58;
+  - 使用 System Center 2012 规划虚拟机环境的自动化。
+  - 在System Center 2012中规划委派的管理模型。
+  - 使用 System Center 2012 规划虚拟机环境的自助服务和自动化。
+  - 使用VMM 规划和实施 Hyper-V 主机的更新。
+
+
+  ### 模块 6&#58; 规划和实施服务器监视策略
+  在本模块中，学生将能够使用 Windows Server 2012工具和 Operations Manager 规划和实施服务器监视策略
+  #### 课程
+  - Windows Server 2012中的规划监视
+  - Operations Manager 概述
+  - 规划和配置监视组件
+  - 使用 VMM 配置整合
+
+
+  #### 实验&#58; 实施服务器器监视策略
+
+  学完本模块后，学生将能够&#58;
+  - 使用 Windows Server 2012 工具规划监视策略。
+  - 描述 Operations Manager 组件，并描述如何使用 Operations Manager 监视实体和虚拟服务器。
+  - 规划和配置管理组件，通知和报告。
+  - 配置Operations Manager和VMM的集成
+
+
+  ### 模块 7&#58; 规划和实施档案服务和应用程序的高可用性
+  在本模块中，学生将能够规划和实施高可用性应用程序和档案服务基础结构。
+  #### 课程
+  - 规划和实施存储空间
+  - 规划和实施 DFS
+  - 规划和实施 NLB
+
+
+  #### 实验&#58; 规划和实施档案服务和应用程序的高可用性
+
+  学完本模块后，学生将能够&#58;
+  - 使用存储空间规划和实施高可用性存储基础结构。
+  - 使用 DFS 规划和实施高可用性档案服务部署。
+  - 规划和实施使用 NLB 应用程序的高可用性。
+
+
+  ### 模块 8&#58; 使用故障转移集群规划和实施高可用性基础结构
+  在本模块中，学生将能够使用 Windows Server 2012 中的故障转移集群功能来规划和实施高可用性服务器基础结构。
+  #### 课程
+  - 规划故障转移集群的基础结构
+  - 实施故障转移集群
+  - 规划和实施故障转移集群的更新
+  - 将故障转移集群与服务器虚拟化整合
+  - 规划多站台故障转移集群
+
+
+  #### 实验&#58; 使用故障转移集群规划和实施高可用性基础结构
+
+  学完本模块后，学生将能够&#58;
+  - 规划故障转移集群。
+  - 实施故障转移集群。
+  - 通过使用集群感知更新(CAU)规划和实施更新。
+  - 规划和实施 Hyper-V 虚拟机的故障转移集群。
+
+
+  ### 模块 9&#58; 规划和实施业务持续性策略
+  在本模块中，学生将能够在 Windows Server 2012 环境中规划和实施业务持续性策略。
+  #### 课程
+  - 业务持续性规划概述
+  - 规划和实施备份策略
+  - 规划和实施恢复
+  - 规划和实施虚拟机的备份和恢复
+
+
+  #### 实验&#58; 使用 DPM 实施虚拟机备份策略
+
+  学完本模块后，学生将能够&#58;
+  - 描述实施商务续航力策略的高等级要求和策略。
+  - 规划各种 Windows 角色的备份策略。
+  - 规划和实施服务器和数据的恢复。
+  - 规划和实施虚拟机备份和恢复策略。
+
+
+  ### 模块 10&#58; 规划和实施公钥基础结构
+  在本模块中，学生将能够规划和实施 PKI 部署，以及规划和实施凭证管理解决方案。
+  #### 课程
+  - 规划和实施证书颁发机构单位的部署
+  - 规划和实施证书模板
+  - 规划和实施凭证发布和撤销
+  - 规划和实施密钥保存和恢复
+
+
+  #### 实验&#58; 规划和实施 Active Directory 凭证服务基础结构
+
+  学完本模块后，学生将能够&#58;
+  - 在AD CS 中规划和实施 CA 部署阶层。
+  - 设计和实施用于配置和维护证书模板的策略。
+  - 设计并实施用于发布和撤销凭证的策略。
+  - 规划并实施私钥和凭证恢复。
+
+
+  ### 模块 11&#58; 规划和实施识别身分同盟基础结构
+  在该模块中，学生将能够规划和实施 AD FS 服务器部署并声明感知应用程序访问。
+  #### 课程
+  - 规划和实施 AD FS 服务器基础结构
+  - 规划和实施 AD FS 声明提供者和信赖凭证者
+  - 规划和实施 AD FS 声明和声明规则
+  - 规划和实施 Web 应用程序 Proxy
+
+
+  #### 实验&#58; 规划和实施 AD FS 基础结构
+
+  学完本模块后，学生将能够&#58;
+  - 规划和实施 AD FS 服务器基础结构。
+  - 规划和实施 AD FS 提供者和信赖凭证。
+  - 规划和实施 AD FS 宣告和宣告规则。
+  - 使用 AD FS 整合规划和实施 Web 应用程序 Proxy。
+
+
+  ### 模块 12&#58; 规划和实施用户和设备的数据存取
+  在该模块中，学生将能够规划和实施动态访问控制(DAC)、Workplace Join 和工作文件夹。
+  #### 课程
+  - 规划和实施DAC
+  - 规划 Workplace Join
+  - 规划工作文件夹
+
+
+  #### 实验&#58; 实施 DAC 和拒绝存取时的协助
+
+  #### 实验&#58; 实施工作文件夹
+
+  学完本模块后，学生将能够&#58;
+  - 规划和实施 DAC。
+  - 描述和实施加入工作场所。
+  - 规划工作文件夹部署。
+
+
+  ### 模块 13&#58; 规划和实施信息版权管理基础架构
+  在本模块中，学生将能够规划和实施 AD RMS 部署，规划和管理 AD RMS 模版和存取，以及规划和实施对AD RMS 服务的外部访问。
+  #### 课程
+  - AD RMS 概述
+  - 规划和实施 AD RMS 集群
+  - 规划和实施AD RMS 模版和政策
+  - 规划和实施对 AD RMS 服务的外部访问
+  - 规划和实施有动态访问控制的 AD RMS 整合
+
+
+  #### 实验&#58; 规划和实施 AD RMS 基础结构
+
+  学完本模块后，学生将能够&#58;
+  - 描述什么是 AD RMS，以及 AD RMS 解决的商务案例。
+  - 规划、实施和管理 AD RMS 集群。
+  - 规划和实施 AD RMS 模版和策略。
+  - 规划和实施对 AD RMS 服务的外部访问。
+  - 规划 AD RMS 和 DAC 的整合。
+

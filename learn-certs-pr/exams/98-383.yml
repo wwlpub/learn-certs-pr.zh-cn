@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using HTML and CSS
+metadata:
+  title: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+  description: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+uid: exam.98-383
+displayName: 98-383
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试的考生应该能够识别和书写语法正确的 HTML和 CSS、使用 HTML元素构造数据，并使用 CSS创建和应用样式。
+
+  考生应具有至少 100小时的 HTML和 CSS教学或实践经验，熟悉其特色和功能，并了解如何编写、调试和维护格式良好的 HTML和 CSS代码。
+subTitle: 本考试的考生应该能够识别和书写语法正确的 HTML和 CSS、使用 HTML元素构造数据，并使用 CSS创建和应用样式。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyQ
+practiceTestUrl: https://www.mindhub.com/mta-98-383-introduction-to-programming-using-html-and-css-microsoft-official-practice-test/p/MU-98-383?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- 了解 HTML基础知识(10-15%)
+- 了解 CSS基础知识(15-20%)
+- 使用 HTML构建文档(30-35%)
+- 使用 HTML呈现多媒体(10-15%)
+- 使用 CSS设计网页(20-25%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-html-and-css
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

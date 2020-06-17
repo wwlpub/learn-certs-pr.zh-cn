@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Installing and Configuring Windows Server® 2012
+metadata:
+  title: 'Course 20410-D: Installing and Configuring Windows Server® 2012'
+  description: 'Course 20410-D: Installing and Configuring Windows Server® 2012'
+uid: course.20410
+courseNumber: '20410-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 安装和配置 Windows Server 2012。
+- skill: 描述 AD DS。
+- skill: 管理 Active Directory 对象。
+- skill: 自动执行 Active Directory 管理。
+- skill: 实施 IPv4。
+- skill: 实施动态主机配置协议(DHCP)。
+- skill: 实施域名系统(DNS)。
+- skill: 实施 IPv6。
+- skill: 实施本地存储。
+- skill: 实施文件和打印服务。
+- skill: 实施组策略
+- skill: 通过使用组策略对象(GPO)保护 Windows 服务器。
+- skill: 通过使用 Hyper-V 实施服务器虚拟化。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-410
+summary: |-
+  在为期五天的 Microsoft 官方课程中，获得实际操作指导并练习安装和配置 Windows Server 2012，包括 Windows Server 2012 R2。本课程是三门课程系列中的第一部分，提供在现有企业环境中实施核心 Windows Server 2012 基础结构所需的技能和知识。  
+
+  这三门课程共同涵盖在 Windows Server 2012 服务器环境下实施、管理、维护和配置及基础结构。尽管这些课程的技能和工作有所变化，但本课程着重于核心服务的初始实施和配置，例如网络、存储、Active Directory 网域服务(AD DS)、组策略、文件和打印服务和 Hyper-V。  
+
+  本课程直接对应于 Microsoft Certified Solutions Associate (MCSA) Exam [410&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/exam-70-410.aspx) 且为其实际备考首选。该考试是 MCSA&#58; Windows Server 2012 认证要求的三项考试中的第一项。  
+
+  本课程中的实验室基于 Windows Server 2012 R2 和 Windows 8.1。
+
+  #### 受众概况
+  本课程适用于具有一定 Windows 操作系统知识和工作经验的信息技术(IT)专业人员，并且他们希望在现有 Windows 服务器环境中获得安装和执行 Windows Server 2012 或 Windows Server 2012 R2 服务器的初始配置所需的技能和知识。通常，对参加本课程感兴趣的考生包括&#58;
+  - 对于 Windows Server 管理较陌生的Windows Server 管理员以及希望了解有关 Windows Server 2012 和 Windows Server 2012 R2 的相关技术。
+  - 具备其他非 Microsoft 技术经验的 IT 专业人员，他们符合课程的先决条件，并希望在 Windows Server 2012 和 Windows Server 2012 R2 上进行交叉训练。
+  - 希望接受 Microsoft 认证解决方案助理师(MCSA) [410&#58; 安装和配置 Windows Server 2012](https://www.microsoft.com/learning/exam-70-410.aspx)测验 的IT专业人员。
+  - 想要在数据中心，桌面基础架构，讯息传送，共同作业和通讯中参加 Microsoft 认证解决方案专家(MCSE)测验的IT专业人员，在为 Microsoft 认证解决方案助理师(MCSA)测验做准备时，也有兴趣参加此课程。这些是他们各自专业的先决条件。
+prerequisitesSection: |-
+  本课程要求学生满足以下先决条件，包括&#58;
+  - 了解网络基础知识。
+  - 了解基本的 AD DS 概念。
+  - 认识和理解安全最佳做法。
+  - 掌握服务器硬件的基本知识。
+  - 具有使用和配置 Windows 客户端操作系统(例如Windows 7 或 Windows 8)的经验。 
+
+  此外，学生将从以前的 Windows Server 操作系统经验中受益。 
+
+  通过具有与课程相同的知识或参加课程可以满足上述所有先决条件 [10967A&#58; Windows Server Infrastructure 的基础知识](https://www.microsoft.com/learning/course.aspx?ID=10967A&Locale=en-us&mc=US)，因为此课程建立在该课程涵盖的知识和技能的基础上。
+outlineSection: |-
+  ### 模块 1&#58; 部署和管理Windows Server 2012
+  本模块向学生介绍 Windows Server 2012 版本和新的 Windows Server 2012 管理工具。本课程还涵盖如何安装 Windows Server 2012，如何执行部署后任务以及如何执行基本管理工作。
+  #### 课程
+  - Windows Server 2012 概述
+  - 安装 Windows Server 2012
+  - Windows Server 2012的安装后配置
+  - Windows Server 2012 管理概述
+  - Windows PowerShell 简介
+
+
+  #### 实验 &#58; 部署和管理 Windows Server 2012
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows Server 2012
+  - 安装 Windows Server 2012
+  - 执行 Windows Server 2012 的安装后配置
+  - 描述 Windows Server 2012 中可用的管理工具
+  - 使用 Windows PowerShell 执行基本管理工作
+
+
+  ### 模块 2&#58; Active Directory 网域服务简介
+  此模块涵盖 Active Directory 网域服务(AD DS)的结构及其各种组件，例如树系，网域和组织单位(OU)。除了 Windows Server 2012 提供的用于在服务器上安装 AD DS 的选项之外，本文还概述了域控制器。
+  #### 课程
+  - AD DS 概述
+  - 域控制器概述
+  - 安装域控制器
+
+
+  #### 实验 &#58; 安装域控制器
+  学完本模块后，学生将能够&#58;
+  - 描述AD DS 的结构。
+  - 描述域控制器的用途。
+  - 安装域控制器。
+
+
+  ### 模块 3&#58; 管理 Active Directory 网域服务对象
+  本模块介绍如何管理用户帐户和计算机帐户，包括如何管理员工使用的各种消费类装置。该模块还涵盖如何通过管理群组来管理企业网络，以及如何将管理工作委派给指定的使用者或群组。
+  #### 课程
+  - 管理用户帐户
+  - 管理群组
+  - 管理计算机帐户
+  - 委派管理
+
+
+  #### 实验 &#58; 管理 Active Directory 网域服务对象
+  学完本模块后，学生将能够&#58;
+  - 使用图形工具管理用户帐户
+  - 使用图形工具管理组帐户
+  - 管理计算机帐户。
+  - 委派执行 AD DS 管理的权限
+
+
+  ### 模块 4&#58; 自动执行 Active Directory 网域服务管理
+  本模块描述如何使用命令行工具和 Windows PowerShell 以自动执行 AD DS管理。讨论各种命令行工具和 Windows PowerShell 命令，然后描述瞭如何使用这些工具和命令来单独地和批量修改对象。
+  #### 课程
+  - 使用命令行工具进行AD Ds管理
+  - 使用 Windows PowerShell 进行 AD DS 管理
+  - 使用 Windows PowerShell 执行批量作业
+
+
+  #### 实验 &#58; 使用 Windows PowerShell 自动化 AD DS 管理
+  学完本模块后，学生将能够&#58;
+  - 使用命令行工具进行 AD DS 管理
+  - 使用 Windows PowerShell cmdlet 进行AD DS 管理
+  - 使用 Windows PowerShell 执行批量作业
+
+
+  ### 模块 5&#58; 实施 IPv4
+  本模块讨论使用 IPv4，这是因特网和局域网络上使用的网络协议。在本模块中，学生将学习如何实施 IPv4 寻址配置以及如何对网络通讯进行疑难解答。本模块还涵盖如何确定和疑难解答与网络相关的问题。
+  #### 课程
+  - TCP / IP 概述
+  - 了解 IPv4 寻址
+  - 子域划分和超级网域化
+  - 对IPv4进行配置和故障排除
+
+
+  #### 实验 &#58; 实施 IPv4
+  学完本模块后，学生将能够&#58;
+  - 描述 TCP / IP 通讯协议套件
+  - 描述 IPv4 寻址
+  - 确定进行超级网域化或子域划分所必需的子网掩码
+  - 配置 Ipv4 并对 IPv4 通讯进行疑难解答
+
+
+  ### 模块 6&#58; 实施动态主机配置协议
+  本模块通过部署、配置和疑难解答动态主机配置协议(DHCP)服务器角色涵盖 Windows Server 型的网络基础结构进行支持和疑难解答。
+  #### 课程
+  - DHCP 服务器角色概述
+  - 配置 DHCP 范围
+  - 管理 DHCP 数据库
+  - 保护和监视 DHCP
+
+
+  #### 实验 &#58; 实施DHCP
+  学完本模块后，学生将能够&#58;
+  - 说明 DHCP 服务器角色
+  - 配置 DHCP 范围
+  - 管理 DHCP 数据库
+  - 保护和监视 DHCP 服务器角色
+
+
+  ### 模块 7&#58; 实施 DNS
+  本模块描述 Windows 操作系统客户端和 Windows Server 服务器的名称解析。还涵盖安装和配置 DNS 服务器服务及其组件。
+  #### 课程
+  - Windows 客户端和服务器的名称解析
+  - 安装DNS服务器
+  - 管理DNS区域
+
+
+  #### 实验 &#58; 实施 DNS
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows 操作系统客户端和 Windows Server 服务器的名称解析。
+  - 安装和管理DNS 服务器。
+  - 管理DNS区域。
+
+
+  ### 模块 8&#58; 实施 IPv6
+  本模块讨论 IPv6 的功能和优点，IPv6如何影响  IPv4 网络以及如何通过使用各种转换技术将 IPv6 整合到 IPv4 网络中。
+  #### 课程
+  - IPv6 概述
+  - IPv6 寻址
+  - 与 IPv4 共存
+  - IPv6 转换技术
+
+
+  #### 实验 &#58; 实施 IPv6
+  学完本模块后，学生将能够&#58;
+  - 描述 IPv6 的功能和优点
+  - 描述 IPv6 寻址
+  - 描述IPv6与IPv4共存
+  - 描述 IPv6 转换技术
+
+
+  ### 模块 9&#58; 实施本地存储
+  本模块介绍几种不同的存储技术。它讨论如何在 Windows Server 2012 中实施存储解决方案以及如何使用新的存储空间功能，该功能使您可以将磁盘组合到可以配置为自动管理的集区中。
+  #### 课程
+  - 存储概述
+  - 管理磁盘和磁盘区
+  - 实施存储空间
+
+
+  #### 实验 &#58; 实施本地存储
+  学完本模块后，学生将能够&#58;
+  - 描述各种存储技术
+  - 说明如何管理磁盘和磁盘区
+  - 说明如何实施存储空间
+
+
+  ### 模块 10&#58; 实施文件和打印服务
+  本模块讨论如何使用 Windows Server 2012提供档案和打印资源。描述如何保护文件和文件夹的安全，如何通过使用卷影副本保护文件和文件夹的先前版本以及如何通过实现新的工作文件夹角色服务使工作人员远程访问公司档案。还介绍有助于管理网络打印环境的新网络打印功能。
+  #### 课程
+  - 保护文件和文件夹
+  - 使用卷影副本保护共享文件和文件夹
+  - 配置工作文件夹
+  - 配置网络打印
+
+
+  #### 实验 &#58; 实施文件和打印服务
+  学完本模块后，学生将能够&#58;
+  - 保护共享文件和文件夹
+  - 使用卷影副本保护共享文件和活页夹
+  - 配置工作文件夹角色服务
+  - 配置网络打印
+
+
+  ### 模块 11&#58; 实施组策略
+  本模块提供组策略的概述，并提供有关如何实施组策略的详细信息。
+  #### 课程
+  - 组策略概述
+  - 组策略处理
+  - 为管理范本实施集中存放区
+
+
+  #### 实验 &#58; 实施组策略
+  学完本模块后，学生将能够&#58;
+  - 建立和管理组策略对象(GPO)
+  - 描述组策略处理
+  - 为管理模板实施集中存放区
+
+
+  ### 模块 12&#58; 使用组策略对象保护 Windows 服务器的安全
+  本模块介绍 Windows Server 2012 操作系统的安全性。本模块涵盖如何识别安全性威胁，规划降低安全性威胁的策略以及保护 Windows Server 2012 基础结构的方法。
+  #### 课程
+  - Windows 操作系统安全性概述
+  - 配置安全性配置
+  - 限制软件
+  - 使用高级安全性配置 Windows Firewall
+
+
+  #### 实验 &#58; 提高服务器资源的安全性
+
+  #### 实验 &#58; 配置 AppLocker 和 Windows 防火墙
+  学完本模块后，学生将能够&#58;
+  - 描述 WindowsServer 操作系统的安全性
+  - 使用组策略配置安全配置
+  - 提高服务器资源的安全性
+  - 限制未经授权的软件在服务器和客户端上运行
+  - 配置具有高级安全性的 Windows Firewall
+
+
+  ### 模块 13&#58; 使用 Hyper-V 实施服务器虚拟化
+  本模块介绍 Windows 上可用的虚拟化技术，特别着重于 Windows Server 2012 和 Windows Server 2012 R2 中的 Hyper-V 角色。本模块涵盖 Hyper-V 角色的组件，配置和部署角色，除了以本模块及如何配置和管理 Hyper-V 实施的关键组件(例如存储和联网)。
+  #### 课程
+  - 虚拟化技术概述
+  - 实施 Hyper-V
+  - 管理虚拟机存储
+  - 管理虚拟网络
+
+
+  #### 实验 &#58; 使用 Hyper-V 实施服务器虚拟化
+  学完本模块后，学生将能够&#58;
+  - 描述虚拟化技术
+  - 实施 Hyper-V
+  - 管理虚拟机存储
+  - 管理虚拟网络
+
