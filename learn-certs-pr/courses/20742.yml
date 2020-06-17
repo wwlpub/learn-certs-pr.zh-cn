@@ -1,0 +1,322 @@
+### YamlMime:Course
+title: Identity with Windows Server 2016
+metadata:
+  title: 'Course 20742-B: Identity with Windows Server 2016'
+  description: 'Course 20742-B: Identity with Windows Server 2016'
+uid: course.20742
+courseNumber: '20742-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 安装和配置域控制器。
+- skill: 使用图形工具和 Windows PowerShell 在 AD DS 中管理对象。
+- skill: 在复杂的环境中实施 AD DS。
+- skill: 实施和管理 Active Directory 权限管理服务（AD RMS）。
+- skill: 实施 AD DS 站点，并配置和管理复制。
+- skill: 实施和管理组策略对象（GPO）。
+- skill: 通过使用 GPO 管理用户设置。
+- skill: 保护 AD DS 和用户帐户。
+- skill: 使用 AD CS 实施和管理证书颁发机构（CA）层次结构。
+- skill: 部署和管理证书。
+- skill: 实施和管理 AD FS。
+- skill: 在 AD DS 和 Azure AD 之间实现同步。
+- skill: 监视、故障排除并建立 AD DS 服务的业务连续性。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-742
+summary: |-
+  这个为期五天的讲师指导课程教授 IT 专业人员如何在分布式环境中部署和配置 Active Directory 域服务（AD DS），如何实施组策略，如何执行备份和还原以及如何使用 Windows Server 2016 监视和解决 Active Directory 的问题。此外，本课程还教学生如何部署其他 Active Directory 服务器角色，例如 Active Directory 联合身份验证服务（AD FS）和 Active Directory 证书服务（AD CS）。
+
+  #### 受众概况
+  本课程主要面向拥有一些 AD DS 知识和经验并且旨在开发有关 Windows Server 2016 身份和访问技术的知识的现职 IT 专业人员。受众通常包括&#58; 
+  - 希望获得 Windows Server 2012 或 Windows Server 2016 进行身份和访问技术培训的 AD DS 管理员。
+  - 具有一般 AD DS 经验和知识的系统或基础结构管理员，他们希望获得 Windows Server 2012 或 Windows Server 2016 核心和高级身份和访问技术的交叉培训。
+
+  除了准备为 70-742 考试备考的 IT 专业人员之外，本课程的次要受众还包括希望巩固其 AD DS 和相关技术知识的 IT 专业人员。
+prerequisitesSection: |-
+  在参加本课程之前，学生必须具备&#58;
+  - 了解 Windows Server 2012 或 Windows Server 2016 的 AD DS 概念和技术并有一些经验。
+  - 使用和配置 Windows Server 2012 或 Windows Server 2016 的经验
+  - 有核心网络技术（例如 IP 寻址、名称解析和动态主机配置协议（DHCP））的经验并对其有所了解。
+  - 具有使用 Microsoft Hyper-V 和基本服务器虚拟化概念的经验并对其有所了解。
+  - 了解基本的安全最佳做法。
+  - 具有 Windows 客户端操作系统（例如 Windows 7，Windows 8，Windows 8.1 或 Windows 10）的动手工作经验。
+  - 有 Windows PowerShell 命令行界面的基本经验。
+outlineSection: |-
+  ### 模块 1&#58; 安装和配置域控制器
+  本模块描述 AD DS 的功能以及如何安装域控制器（DC）。它还涵盖了部署 DC 的注意事项。
+  #### 课程
+  - 概述 AD DS
+  - 概述 AD DS 域控制器
+  - 部署域控制器
+
+
+  #### 实验&#58; 部署和管理 AD DS
+  - 部署 AD DS
+  - 通过执行域控制器克隆来部署域控制器
+  - 管理 AD DS
+
+  学完本模块后，学生将能够&#58;
+  - 描述 AD DS 及其主要组件。
+  - 描述域控制器的目的和角色。
+  - 描述部署域控制器的注意事项。
+
+
+  ### 模块 2&#58; 管理 AD DS 中的对象
+  本模块描述如何使用各种技术管理 AD DS 中的对象。这包括创建和配置用户、组和计算机对象。
+  #### 课程
+  - 管理用户帐户
+  - 管理在AD DS 中的组
+  - 管理 AD DS 中的计算机对象
+  - 使用 Windows PowerShell 进行 AD DS 管理
+  - 实施和管理 OU
+
+
+  #### 实验&#58; 管理 AD DS 对象
+  - 创建和管理 AD DS 中的组
+  - 创建和配置 AD DS 中的用户帐户
+  - 管理 AD DS 中的计算机对象
+
+
+  #### 实验&#58; 管理 AD DS
+  - 委托 OU 的管理
+  - 使用 Windows PowerShell 创建和修改 AD DS 对象
+
+  学完本模块后，学生将能够&#58;
+  - 管理 AD DS 中的用户帐户。
+  - 管理 AD DS 中的组。
+  - 管理 AD DS 中的计算机对象。
+  - 使用 Windows PowerShell 进行 AD DS 管理。
+  - 实施和管理 OU。
+  - 管理 AD DS。
+
+
+  ### 模块 3&#58; 高级 AD DS 基础结构管理
+  本模块描述如何规划和实施包含多个域和林的 AD DS 部署。该模块概述了高级 AD DS 部署中的组件，实现分布式 AD DS 环境的过程以及配置 AD DS 信任的过程。
+  #### 课程
+  - 概述高级 AD DS 部署
+  - 部署分布式 AD DS 环境
+  - 配置 AD DS 信任
+
+
+  #### 实验&#58; AD DS 中的域和信任管理
+  - 实施林信任
+  - 在 AD DS 中实现子域
+
+  学完本模块后，学生将能够&#58;
+  - 描述高级 AD DS 部署的组件。
+  - 部署分布式 AD DS 环境。
+  - 配置 AD DS 信任。
+
+
+  ### 模块 4&#58; 实施和管理 AD DS 站点以及复制
+  本模块描述如何规划和实施包含多个位置的 AD DS 部署。该模块说明了复制在 Windows Server 2016 AD DS 环境中的工作方式。
+  #### 课程
+  - 概述 AD DS 复制
+  - 配置 AD DS 站点
+  - 配置和监视 AD DS 复制
+
+
+  #### 实验&#58; 实现 AD DS 站点和复制
+  - 修改默认站点
+  - 创建其他站点和子网
+  - 配置 AD DS 复制
+  - 监视 AD DS 复制并对其进行故障排除
+
+  学完本模块后，学生将能够&#58;
+  - 描述 AD DS 复制的工作方式。
+  - 配置 AD DS 站点以帮助优化身份验证和复制流量。
+  - 配置和监视 AD DS 复制。
+
+
+  ### 模块 5&#58; 实施组策略
+  本模块描述如何实现 GPO 基础结构。该模块概述了组成组策略框架的组件和技术。
+  #### 课程
+  - 介绍群组策略
+  - 实施和管理 GPO
+  - 组策略范围和组策略处理
+  - 对 GPO 的应用程序进行故障排除
+
+
+  #### 实验&#58; 实现组策略基础结构
+  - 创建和配置 GPO
+  - 管理 GPO 范围
+
+
+  #### 实验&#58; 组策略基础结构故障排除
+  - 验证 GPO 应用程序
+  - 对 GPO 进行故障排除
+
+  学完本模块后，学生将能够&#58;
+  - 说明什么是组策略。
+  - 实施和管理 GPO。
+  - 描述组策略范围和组策略处理。
+  - 对 GPO 应用程序进行故障排除。
+
+
+  ### 模块 6&#58; 使用组策略管理用户设置
+  本模块描述如何配置组策略设置和组策略首选项。这包括实施管理模板、配置文件夹重定向和脚本以及配置组策略首选项。
+  #### 课程
+  - 实施管理模板
+  - 配置文件夹重定向、软件安装和脚本
+  - 配置组策略首选项
+
+
+  #### 实验&#58; 使用 GPO 管理用户设置
+  - 使用管理模板来管理用户设置
+  - 使用组策略首选项实施设置
+  - 配置文件夹重定向
+  - 规划组策略（可选）
+
+  学完本模块后，学生将能够&#58;
+  - 实施管理模板。
+  - 配置文件夹重定向、软件安装和脚本。
+  - 配置组策略首选项。
+
+
+  ### 模块 7&#58; 保护 Active Directory 域服务
+  本模块介绍如何配置域控制器安全性、帐户安全性、密码安全性和组托管的服务账户（GMSA）。
+  #### 课程
+  - 保护域控制器
+  - 实施账户安全
+  - 实施审核认证
+  - 配置托管的服务帐户
+
+
+  #### 实验&#58; 保护 AD DS
+  - 为帐户、密码和管理组实施安全策略
+  - 部署和配置 RODC
+  - 创建和关联 MSA 组
+
+  学完本模块后，学生将能够&#58;
+  - 保护域控制器。
+  - 实施账户安全性。
+  - 实施审核身份验证。
+  - 配置托管的服务帐户（MSA）。
+
+
+  ### 模块 8&#58; 部署和管理 AD CS
+  本模块描述如何实现 AD CS 部署。这包括对 CA 的部署、管理和故障排除。
+  #### 课程
+  - 部署 CA
+  - 管理 CA
+  - 对 CA 进行故障排除和维护
+
+
+  #### 实验&#58; 部署和配置两层 CA 层次结构
+  - 部署脱机根 CA
+  - 部署企业下属 CA
+
+  学完本模块后，学生将能够&#58;
+  - 部署 CA。
+  - 管理 CA。
+  - 对 CA 进行故障排除和维护。
+
+
+  ### 模块 9&#58; 部署和管理证书
+  本模块描述如何在 AD DS 环境中部署和管理证书。这涉及部署和管理证书模板、管理证书吊销和恢复、在业务环境中使用证书以及实现智能卡。
+  #### 课程
+  - 部署和管理证书模板
+  - 管理证书的部署、吊销和恢复
+  - 在业务环境中使用证书
+  - 实施和管理智能卡
+
+
+  #### 实验&#58; 部署和使用证书
+  - 配置证书模板
+  - 注册和使用证书
+  - 配置和实施密钥恢复
+
+  学完本模块后，学生将能够&#58;
+  - 部署和管理证书模板。
+  - 管理证书的部署、吊销和恢复。
+  - 在业务环境中使用证书。
+  - 实施和管理智能卡
+
+
+  ### 模块 10&#58; 实施和管理 AD FS
+  本模块介绍 AD FS 以及如何在单一机构方案和合作伙伴机构方案中配置 AD FS。
+  #### 课程
+  - AD FS 概述
+  - AD FS 要求和规划
+  - 部署和配置 AD FS
+  - Web Application Proxy 概述
+
+
+  #### 实验&#58; 实施 AD FS
+  - 配置 AD FS 前提条件
+  - 安装和配置 AD FS
+  - 为 AD 配置内部应用程序
+  - 为联合的业务伙伴配置 AD FS
+
+  学完本模块后，学生将能够&#58;
+  - 描述 AD FS。
+  - 说明如何部署 AD FS。
+  - 说明如何为单个组织机构实施 AD FS。
+  - 说明如何将 AD FS 扩展到外部客户端。
+  - 实施单点登录（SSO）以支持在线服务。
+
+
+  ### 模块 11&#58; 实施和管理 AD RMS
+  本模块描述如何实施 AD RMS 部署。该模块概述了AD RMS，说明如何部署和管理 AD RMS 基础结构，并说明如何配置 AD RMS 内容保护。
+  #### 课程
+  - AD RMS 概述
+  - 部署和管理 AD RMS 基础架构
+  - 配置 AD RMS 内容保护
+
+
+  #### 实验&#58; 实现 AD RMS 基础结构
+  - 安装和配置 AD RMS
+  - 配置 AD RMS 模板
+  - 在客户端上使用 AD RMS
+
+  学完本模块后，学生将能够&#58;
+  - 描述 AD RMS。
+  - 部署和管理 AD RMS 基础结构。
+  - 配置 AD RMS 内容保护。
+
+
+  ### 模块 12&#58; 使用 Microsoft Azure AD 实现 AD DS 同步
+  本模块介绍如何规划和配置 Microsoft Azure Active Directory（Azure AD）与本地 AD DS 之间的目录同步。这些模块描述了各种同步方案，例如 Azure AD 同步，AD FS 和 Azure AD 以及 Azure AD Connect。
+  #### 课程
+  - 规划和准备目录同步
+  - 使用 Azure AD Connect 实施目录同步
+  - 通过目录同步管理身份
+
+
+  #### 实验&#58; 配置目录同步
+  - 准备目录同步
+  - 配置目录同步
+  - 管理 Active Directory 用户和组并监视目录同步
+
+  学完本模块后，学生将能够&#58;
+  - 规划并准备目录同步。
+  - 通过使用 Microsoft Azure Active Directory Connect（Azure AD Connect）实现目录同步。
+  - 通过目录同步管理身份。
+
+
+  ### 模块 13&#58; 监视、管理和恢复 AD DS
+  本模块介绍如何监视、管理和维护 AD DS，以帮助实现 AD DS 的高可用性。
+  #### 课程
+  - 监控 AD DS
+  - 管理 Active Directory 数据库
+  - 适用于 AD DS 的 Active Directory 备份和恢复选项以及其他身份和访问解决方案
+
+
+  #### 实验&#58; 恢复AD DS 中的对象
+  - 备份和还原 AD DS
+  - 恢复 AD DS 中的对象
+
+  学完本模块后，学生将能够&#58;
+  - 监控 AD DS。
+  - 管理 Active Directory 数据库。
+  - 描述 AD DS 和其他身份访问解决方案的备份和恢复选项。
+

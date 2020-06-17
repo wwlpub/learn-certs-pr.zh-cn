@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: 'Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+metadata:
+  title: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+  description: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+uid: course.40032
+courseNumber: '40032-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解网络基础结构
+- skill: 了解网络硬件
+- skill: 了解通讯协议和服务
+- skill: 了解安全层
+- skill: 了解操作系统安全性
+- skill: 了解网络安全性
+- skill: 了解安全性软件
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-366
+summary: |-
+  为期五天的 训练 2 套件可帮助您为 Microsoft Technology Associate 测验 98-366 and 98-367 做好准备，并加深对这些主题的了解；网络基础结构、网络硬件、通讯协议和服务、安全层、操作系统安全性、网络安全性、安全软件。本课程利用与这些测验的 Microsoft Official Academic Course （MOAC）中相同的内容。
+
+  #### 受众概况
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技术认证测验套件，验证开始使用 Microsoft 技术建立职业所需的基本知识。本课程为未来的技术职业提供适当的切入点，并且具有一定的实际经验或训练，但不具有在职经验。
+prerequisitesSection: |-
+  本课程没有任何先决条件。
+outlineSection: |-
+  ### 模块 1&#58; 了解局域网络
+
+
+  ### 模块 2&#58; 使用 OSI 模型定义网络
+
+
+  ### 模块 3&#58; 了解有线和无线网络
+
+
+  ### 模块 4&#58; 了解因特网通讯协议
+
+
+  ### 模块 5&#58; 在命令行中实施 TCP / IP
+
+
+  ### 模块 6&#58; 使用网络服务
+
+
+  ### 模块 7&#58; 了解广域网
+
+
+  ### 模块 8&#58; 定义网络基础结构和网络安全性
+
+
+  ### 模块 9&#58; 了解安全层
+
+
+  ### 模块 10&#58; 验证、授权和会计
+
+
+  ### 模块 11&#58; 了解安全策略
+
+
+  ### 模块 12&#58; 了解网络安全性
+
+
+  ### 模块 13&#58; 保护服务器和客户端
+

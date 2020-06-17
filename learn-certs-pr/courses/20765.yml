@@ -1,0 +1,225 @@
+### YamlMime:Course
+title: Provisioning SQL Databases
+metadata:
+  title: 'Course 20765-C: Provisioning SQL Databases'
+  description: 'Course 20765-C: Provisioning SQL Databases'
+uid: course.20765
+courseNumber: '20765-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 配置数据库服务器
+- skill: 升级 SQL Server
+- skill: 配置 SQL Server
+- skill: 管理数据库和文件（共享）
+- skill: 在云端中配置，迁移和管理数据库
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-765
+summary: |-
+  本课程旨在教导学生如何在内部部署并在 SQL Azure 中配置 SQL Server 数据库。
+
+  #### 受众概况
+  本课程的主要对象是管理和维护 SQL Server 数据库的人员。这些个人将数据库管理和维护作为他们的主要职责范围，或者在数据库于其主要工作中扮演关键角色的环境中工作。
+
+  本课程的次要对象是开发可从 SQL Server 数据库提供内容的应用程序的个人。
+prerequisitesSection: "本课程要求您满足以下先决条件&#58;\n- Microsoft Windows 操作系统及其核心功能的基本知识。\n- Transact-SQL 的工作知识。 \n- 关系型数据库如何工作的知识。 \n- 有一些数据库设计经验"
+outlineSection: |-
+  ### 模块 1&#58; SQL Server 组件
+  本模块描述各种 SQL Server 组件和版本。
+  #### 课程
+  - SQL Server 平台简介
+  - SQL Server 结构概述
+  - SQL Server 服务和配置选项
+
+  完成本模块后，您将能够&#58; 
+  - 描述 SQL Server 组件和版本。
+  - 描述 SQL Server 结构和资源使用情况。
+  - 描述 SQL Server 服务以及如何管理这些服务的配置。
+
+
+  ### 模块 2&#58; 安装 SQL Server
+  本模块介绍安装 SQL Server 2016 的流程。
+  #### 课程
+  - SQL 安装服务器注意事项
+  - TempDB 文件
+  - 安装 SQL Server
+  - 自动化安装
+
+
+  #### 实验&#58; 安装 SQL Server
+  - 准备安装 SQL Server
+  - 安装 SQL Server 实例
+  - 执行安装后检查
+  - 自动化安装
+
+  完成本模块后，您将能够&#58; 
+  - 描述安装 SQL Server 时的考虑因素。
+  - 描述 TempDB 文件。
+  - 安装 SQL Server。
+  - 自动化 SQL Server 安装。
+
+
+  ### 模块 3&#58; 将 SQL Server 升级到 SQL Server 2017
+  本模块描述升级到 SQL Server 2017 的流程。
+  #### 课程
+  - 升级要求
+  - 升级 SQL Server 服务
+  - 并行升级&#58;迁移 SQL Server 数据和应用程序
+
+
+  #### 实验&#58; 升级 SQL Server
+  - 建立应用程序登入
+  - 还原 TSQL 数据库的备份
+  - 孤立用户和数据库兼容性等级
+
+  完成本模块后，您将能够&#58; 
+  - 描述 SQL Server 升级的要求。 
+  - 升级 SQL Server。
+  - 迁移 SQL Server 数据和应用程序。
+
+
+  ### 模块 4&#58; 使用数据库
+  本模块描述预安装的系统数据库，数据库的实体结构以及与它们相关的最常用配置选项。
+  #### 课程
+  - SQL Server 数据存储器简介
+  - 管理系统数据库的存储器
+  - 管理用户数据库的存储器
+  - 移动和复制数据库文件
+  - 缓冲区集区扩充
+
+
+  #### 实验&#58; 管理数据库存储器
+  - 配置 tempdb 存储器
+  - 建立数据库
+  - 附加数据库
+  - 启用缓冲池扩展
+
+  完成本模块后，您将能够&#58; 
+  - 描述使用 SQL Server 数据存储器
+  - 管理系统数据库的存储器。
+  - 管理用户数据库的存储器。
+  - 移动和复制数据库文件。
+  - 描述和使用缓冲区集区扩充。
+
+
+  ### 模块 5&#58; 执行数据库维护
+  本模块涵盖数据库维护计划。
+  #### 课程
+  - 确保数据库完整性
+  - 维护索引
+  - 自动化例行数据库维护
+
+
+  #### 实验&#58; 执行数据库维护
+  - 使用 DBCC CHECKDB 验证数据库完整性
+  - 重建索引
+  - 建立数据库维护计划
+
+  完成本模块后，您将能够&#58; 
+  - 确保数据库完整性。
+  - 维护索引。
+  - 自动化例行数据库维护。
+
+
+  ### 模块 6&#58; 数据库存储器选项
+  描述 SQL Server 存储器选项。
+  #### 课程
+  - SQL Server 存储器效能
+  - SMB 文件共享
+  - Microsoft Azure 中的 SQL Server 存储器
+  - 延伸数据库
+
+
+  #### 实验&#58; 实施延伸数据库
+  - 执行 Stretch Database Advisor
+  - 实施延伸数据库
+
+  完成本模块后，您将能够&#58; 
+  - 描述 SQL Server 存储器效能。
+  - 描述 SMB 文件共享。 
+  - 说明 Microsoft Azure 中的 SQL Server 存储器。
+  - 描述延伸数据库
+
+
+  ### 模块 7&#58; 规划在 Microsoft Azure 上部署 SQL Server
+  本模块描述如何规划在 Azure 上部署 SQL Server。
+  #### 课程
+  - Azure 中的 SQL Server 虚拟机
+  - Azure 存储
+  - Azure SQL 验证
+  - 部署 Azure SQL 数据库
+
+
+  #### 实验&#58; 规划和部署 Azure SQL 数据库
+  - 规划 Azure SQL 数据库、网络、效能层、安全性
+  - 配置 Azure SQL 数据库
+  - 连接到 Azure SQL 数据库
+
+  完成本模块后，您将能够&#58; 
+  - 描述 Azure 中的 SQL Server 虚拟机。
+  - 描述 Azure 存储器。 
+  - 说明 Azure SQL 验证，稽核和合规性。
+  - 部署 Azure SQL 数据库
+
+
+  ### 模块 8&#58; 将数据库迁移到 Azure SQL 数据库
+  本模块描述如何将数据库迁移到 Azure SQL 数据库。
+  #### 课程
+  - 数据库迁移测试工具
+  - 数据库迁移兼容性问题
+  - 将 SQL Server 数据库迁移到 Azure SQL 数据库。
+
+
+  #### 实验&#58; 将 SQL Server 数据库迁移到 Azure
+  - 执行迁移测试
+  - 将 SQL Server 数据库迁移到 Azure SQL 数据库。
+  - 测试已迁移的数据库
+
+  学完本模块后，学生将能够&#58;
+  - 描述各种数据库迁移测试工具。
+  - 说明数据库迁移兼容性问题。
+  - 将 SQL Server 数据库迁移到 Azure SQL 数据库。
+
+  ### 模块 9&#58; 在 Microsoft Azure 虚拟机上部署 SQL Server
+  本模块描述如何在 Microsoft Azure VMs上部署 SQL Server。
+  #### 课程
+  - 在 Azure VM 上部署 SQL Server
+  - 部署数据库到 Microsoft Azure VM 精灵
+
+
+  #### 实验&#58; 在 Azure 虚拟机上部署 SQL Server
+  - 配置 Azure VM
+  - 使用部署数据库到 Azure VM 精灵
+
+  学完本模块后，学生将能够&#58;
+  - 在Azure VM 上部署 SQL Server。
+  - 使用部署数据库到 Microsoft Azure VM 精灵
+  - 配置 SQL Server 连接
+
+
+  ### 模块 10&#58; 在云端中管理数据库
+  本模块描述如何在 Azure 上部署 SQL Server。
+  #### 课程
+  - 管理 Azure SQL 数据库安全性
+  - 配置Azure 存储器
+  - Azure 自动化
+
+
+  #### 实验&#58; 在云端中管理数据库
+  - 新增数据屏蔽
+  - 使用 Azure自动化停止虚拟机
+
+  学完本模块后，学生将能够&#58;
+  - 管理 Azure SQL 数据库安全性。
+  - 配置Azure 存储器
+  - 实施 Azure 自动化
+

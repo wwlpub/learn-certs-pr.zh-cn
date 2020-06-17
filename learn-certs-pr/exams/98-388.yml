@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Java
+metadata:
+  title: 'Exam 98-388: Introduction to Programming Using Java'
+  description: 'Exam 98-388: Introduction to Programming Using Java'
+uid: exam.98-388
+displayName: 98-388
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试的考生是使用 Java 6 Se 或更高版本的应用程序开发人员，软件开发人员的中学和大专学生，或入门级软件开发人员。
+
+  考生应具有至少 150 小时或者具有 Java 指导或实际操作经验，熟悉 Java 的特性和功能，并且懂得如何编写、调试和维护格式良好，有文档的 Java 代码。
+subTitle: 本考试的考生是使用 Java 6 Se 或更高版本的应用程序开发人员，软件开发人员的中学和大专学生，或入门级软件开发人员。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyR
+practiceTestUrl: https://www.mindhub.com/product-p/mu-98-388_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-388&examname=Introduction%20to%20Programming%20Using%20Java&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-388
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- 了解 Java 基础知识(15-20%)
+- 处理数据类型、变量和表达式(40-45%)
+- 实施流量控制(15-20%)
+- 执行面向对象的编程(10-15%)
+- 编译和调试代码(5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-java
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

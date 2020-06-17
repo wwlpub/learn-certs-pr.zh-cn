@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Exam 98-381: Introduction to Programming Using Python'
+  description: 'Exam 98-381: Introduction to Programming Using Python'
+uid: exam.98-381
+displayName: 98-381
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试的考生应该能够识别和编写语法正确的 Python代码，识别 Python支持的数据类型，并能够识别和编写将在逻辑上解决给定问题的 Python代码。
+
+  考生应该至少有使用 Python编程语言约100小时的指导和/或实践经验，熟悉其特色和功能，并了解如何编写、调试和维护格式良好记录良好的 Python代码。
+subTitle: 本考试的考生应该能够识别和编写语法正确的 Python代码，识别 Python支持的数据类型，并能够识别和编写将在逻辑上解决给定问题的 Python代码。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
+practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- 使用数据类型和运算符执行操作(20-25%)
+- 带有决策和循环的控制流(25-30%)
+- 执行输入和输出操作(20-25%)
+- 记录和构建编号(15-20%)
+- 执行故障排除和错误处理(5-10%)
+- 使用模块和工具执行操作(1-5%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.55264
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-python
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,284 @@
+### YamlMime:Course
+title: Networking with Windows Server 2016
+metadata:
+  title: 'Course 20741-B: Networking with Windows Server 2016'
+  description: 'Course 20741-B: Networking with Windows Server 2016'
+uid: course.20741
+courseNumber: '20741-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划和实施 IPv4 网络。
+- skill: 实施动态主机配置协议（DHCP）。
+- skill: 实施 IPv6。
+- skill: 实施域名系统（DNS）。
+- skill: 实施和管理 IP 地址管理（IPAM）。
+- skill: 规划远程访问。
+- skill: 实现 DirectAccess。
+- skill: 实施虚拟专用网络（VPN）。
+- skill: 实施分支机构网络。
+- skill: 配置高级网络功能。
+- skill: 实施软件定义的网络。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-741
+summary: |-
+  这个为期 5 天的基于课堂的课程提供了在大多数组织机构中部署和支持 Windows Server 2016 所需的基本网络技能。它涵盖 IP 基础知识、远程访问技术以及包括软件定义的网络在内的更多高级内容。
+
+  #### 受众概况
+  本课程适用于拥有一些网络知识和经验的现职 IT 专业人员，他们在寻找可以让他们深入了解 Windows Server 2016 核心和高级网络技术的一门课程。受众通常包括：
+  - 希望加强现有技能并了解 Windows Server 2016 中新的网络技术变化和功能的网络管理员。
+  - 具有一般网络知识的系统或基础结构管理员，他们希望获得 Windows Server 2016 核心和高级网络知识和技能。
+
+  本课程的主要受众是希望参加 MCSA 70-741&#58; Networking with Windows Server 2016 考试的 IT 专业人员。
+prerequisitesSection: |-
+  除专业经验外，参加此培训的学生应该已经具有以下技术知识&#58;
+  - 使用 Windows Server 2008 或 Windows Server 2012 的经验
+  - 在 Windows Server 基础结构企业环境中工作的经验
+  - 了解开放系统互连（OSI）模型
+  - 了解核心网络基础架构组件和技术，例如电缆，路由器，集线器和交换机
+  - 熟悉网络拓扑和体系结构，例如局域网（LAN），广域网（WAN）和无线网络
+  - 有关 TCP / IP 协议堆栈、寻址和名称解析的一些基本知识
+  - 具有 Hyper-V 和虚拟化的经验和知识
+  - 使用 Windows 客户端操作系统（例如 Windows 8.1 或 Windows 10）的动手经验
+
+  学生可以通过参加以下课程或具有等同于以下水平的知识和技能来满足先决条件&#58;
+  - [10967A&#58; Fundamentals of a Windows Server Infrastructure](https://www.microsoft.com/learning/course.aspx?cid=10967)
+outlineSection: |-
+  ### 模块 1&#58; 规划和实施 IPv4 网络
+  本模块还说明如何使用基本的联网工具和技术来配置基于 IPv4 的网络并对其进行故障排除。
+  #### 课程
+  - 规划 IPv4 寻址
+  - 配置 IPv4 主机
+  - 管理 IPv4 网络连接并对其进行故障排除
+
+
+  #### 实验&#58; 规划 IPv4 网络
+  - 规划 IPv4 地址分配
+
+
+  #### 实验&#58; 实施 IPv4 网络并对其进行故障排除
+  - 验证 IPv4
+  - 对 IPv4 进行故障排除
+
+  学完本模块后，学生将能够&#58;
+  - 规划 IPv4 寻址。
+  - 配置 IPv4 主机。
+  - 管理 IPv4 网络连接并对其进行故障排除
+
+
+  ### 模块 2&#58; 实施 DHCP
+  本模块说明如何规划和实施 DHCP 以支持 IPv4 基础结构。
+  #### 课程
+  - 概述 DHCP 服务器角色
+  - 部署 DHCP
+  - DHCP 管理和故障排除
+
+
+  #### 实验&#58; 实施 DHCP
+  - 规划 DHCP 服务器实施
+  - 实施 DHCP 的配置
+  - 验证 DHCP 的实施
+
+  学完本模块后，学生将能够&#58;
+  - 说明 DHCP 服务器角色。
+  - 部署 DHCP。
+  - 管理 DHCP 并对其进行故障排除。
+
+
+  ### 模块 3&#58; 实施 IPv6
+  本模块说明如何实施 IPv6，以及如何集成 IPv6 和 IPv4 网络。
+  #### 课程
+  - IPv6 寻址概述
+  - 配置 IPv6 主机
+  - 实现 IPv6 和 IPv4 共存
+  - 从 IPv4 过渡到 IPv6
+
+
+  #### 实验&#58; 配置和评估 IPv6 过渡技术
+  - 查看默认的 IPv6 配置
+  - 实施 DHCPv6
+  - 使用 ISATAP 配置网络集成
+  - 配置本机 IPv6 连接
+  - 配置 6to4 连接
+
+  学完本模块后，学生将能够&#58;
+  - 描述 IPv6 的功能和优势。
+  - 配置 IPv6 主机。
+  - 实现 IPv4 和 IPv6 网络之间的共存。
+  - 从 IPv4 网络过渡到 IPv6 网络。
+
+
+  ### 模块 4&#58; 实施 DNS
+  本模块说明如何在组织机构网络内安装、配置 DNS 和对 DNS 进行故障排除。
+  #### 课程
+  - 实施 DNS 服务器
+  - 在 DNS 中配置区域
+  - 在 DNS 区域之间配置名称解析
+  - 配置与 Active Directory 域服务（AD DS）的 DNS 集成
+  - 配置高级 DNS 设置
+
+
+  #### 实验&#58; 使用 DNS 规划和实施名称解析
+  - 规划 DNS 名称解析
+  - 实施 DNS 服务器和区域
+
+
+  #### 实验&#58; 将 DNS 与 Active Directory 集成
+  - 将 DNS 与 Active Directory 集成
+
+
+  #### 实验&#58; 配置高级 DNS 设置
+  - 配置 DNS 策略
+  - 验证 DNS 的实施
+  - DNS 故障排除
+
+  学完本模块后，学生将能够&#58;
+  - 实施 DNS 服务器。
+  - 在 DNS 中配置区域。
+  - 在 DNS 区域之间配置名称解析。
+  - 配置与 AD DS 的 DNS 集成。
+  - 配置高级 DNS 设置
+
+
+  ### 模块 5&#58; 实施和管理 IPAM
+  本模块说明如何在 Windows Server 2016 中实现和管理 IPAM 功能。本模块还说明如何使用 IPAM 管理诸如 DHCP 和 DNS 之类的服务。
+  #### 课程
+  - IPAM 概述
+  - 部署 IPAM
+  - 使用 IPAM 管理 IP 地址空间
+
+
+  #### 实验&#58; 实施 IPAM
+  - 安装 IPAM 服务器功能
+  - 配置 IPAM 服务器
+  - 使用 IPAM 管理 IP 地址空间
+
+  学完本模块后，学生将能够&#58;
+  - 描述 IPAM 的功能和组件。
+  - 部署 IPAM。
+  - 使用 IPAM 管理 IP 地址空间。
+
+
+  ### 模块 6&#58; Windows Server 2016 中的远程访问
+  本模块说明如何规划 Windows Server 2016 中的远程访问以及如何实施 Web Application Proxy。
+  #### 课程
+  - 概述远程访问
+  - 实施 Web Application Proxy
+
+
+  #### 实验&#58; 实施 Web Application Proxy
+  - 实施 Web Application Proxy
+  - 验证 Web Application Proxy 部署
+
+  学完本模块后，学生将能够&#58;
+  - 描述远程访问。
+  - 实施 Web Application Proxy。
+
+
+  ### 模块 7&#58; 实现 DirectAccess
+  本模块说明如何在 Windows Server 2016 中实施和管理 DirectAccess。
+  #### 课程
+  - DirectAccess 概述
+  - 使用入门向导实施 DirectAccess
+  - 实施和管理高级 DirectAccess 基础架构
+
+
+  #### 实验&#58; 使用入门向导实现 DirectAccess
+  - 验证 DirectAccess 部署的准备情况
+  - 配置 DirectAccess
+  - 验证 DirectAccess 部署
+
+
+  #### 实验&#58; 部署高级 DirectAccess 解决方案
+  - 为 DirectAccess 准备环境
+  - 实施高级 DirectAccess 基础架构
+  - 验证 DirectAccess 部署
+
+  学完本模块后，学生将能够&#58;
+  - 说明 DirectAccess 及其工作方式。
+  - 使用入门向导实施 DirectAccess。
+  - 实施和管理高级 DirectAccess 基础架构。
+
+
+  ### 模块 8&#58; 实施 VPN
+  本模块说明如何使用 VPN 在 Windows Server 2016 中实现和管理远程访问。
+  #### 课程
+  - 规划 VPN
+  - 实施 VPN
+
+
+  #### 实验&#58; 实施 VPN
+  - 实施 VPN
+  - 验证 VPN 部署
+  - 对 VPN 访问进行故障排除
+
+  学完本模块后，学生将能够&#58;
+  - 规划 VPN 解决方案。
+  - 实施 VPN。
+
+
+  ### 模块 9&#58; 为分支机构实施联网
+  本模块说明如何为分支机构实施网络服务。
+  #### 课程
+  - 分支机构的网络功能和注意事项
+  - 为分支机构实施分布式文件系统（DFS）
+  - 为分支机构实施 BranchCache
+
+
+  #### 实验&#58; 为分支机构实施 DFS
+  - 实施 DFS
+  - 验证部署
+
+
+  #### 实验&#58; 实施 BranchCache
+  - 实施 BranchCache
+  - 验证部署
+
+  学完本模块后，学生将能够&#58;
+  - 描述分支机构的网络功能和注意事项。
+  - 为分支机构实施 DFS。
+  - 为分支机构实施 BranchCache。
+
+
+  ### 模块 10&#58; 配置高级联网功能
+  本模块说明如何实施高级网络基础结构。
+  #### 课程
+  - 概述高性能网络功能
+  - 配置高级 Microsoft Hyper-V 网络功能
+
+
+  #### 实验&#58; 配置高级 Hyper-V 网络功能
+  - 创建和使用 Hyper-V 虚拟交换机
+  - 配置和使用虚拟交换机的高级功能
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows Server 2016 中的高性能网络增强功能。
+  - 配置高级的 Microsoft Hyper-V 网络功能。
+
+
+  ### 模块 11&#58; 实施软件定义的网络
+  本模块说明如何实现 SDN。
+  #### 课程
+  - SDN 概述。
+  - 实施网络虚拟化
+  - 实施 Network Controller
+
+
+  #### 实验&#58; 部署 Network Controller
+  - 准备部署 Network Controller
+  - 部署 Network Controller
+
+  学完本模块后，学生将能够&#58;
+  - 描述 SDN。
+  - 实施网络虚拟化。
+  - 实施 Network Controller。
+

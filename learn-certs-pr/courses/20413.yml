@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Designing and Implementing a Server Infrastructure
+metadata:
+  title: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+  description: 'Course 20413-C: Designing and Implementing a Server Infrastructure'
+uid: course.20413
+courseNumber: '20413-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划服务器升级和迁移。
+- skill: 规划并实施服务器部署策略。
+- skill: 使用 System Center 2012 R2 Virtual Machine Manager (VMM)规划和部署服务器。
+- skill: 设计和维护 IP 配置和地址管理解决方案。
+- skill: 设计和维护名称解析。
+- skill: 设计和实施 AD DS 林和域基础结构。
+- skill: 设计和实施 AD DS 组织单位(OU) 基础结构
+- skill: 设计和实施组策略对象(GPO)策略。
+- skill: 设计和实施 AD DS 物理拓扑。
+- skill: 规划和实施存储和文件服务。
+- skill: 设计和实施网络保护
+- skill: 设计和实施远程访问服务
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-413
+summary: |-
+  在为期五天的 Microsoft 官方课程中，获得实际操作指导并练习规划，设计和部署实体和逻辑 Windows Server® 2012 R2 企业基础结构本课程是两门课程系列中的第一部分，提供在企业环境中设计和实施 Windows Server 2012 R2 基础结构所需的技能和知识。这两门课程共同涵盖企业服务器基础结构的设计、规划、部署、保护、监视、自动化和虚拟化。本课程涵盖提供企业解决方案所需的知识和技能，在实体和虚拟环境中支持手动和自动服务器安装，包括支持文件和存储空间服务。您还将学习提供诸如 DHCP、IPAM、VPN 和 DirectAccess 之类的企业网络解决方案所需的技能。您还将学习设计和实施林和域基础结构(包括多域/多林和分公司案例)所需的技能。本课程直接对应于 Microsoft Certified Solutions Expert (MCSE)&#58; Exam 413&#58; Designing and Implementing and Server Infrastructure 且为其实际备考首选。该考试是 MCSE&#58; Server Infrastructure 认证要求的五项考试中的第四项。 
+
+  注意&#58; 本课程中的实验基于 Windows Server 2012 R2 和 System Center 2012 R2。本课程是为经验丰富的 IT 专业人员设计的，这些专业人员支持大中型企业，且具有管理 Windows Server 2012 R2 的经验并具有 MCSA&#58; Windows Server 2012 认证或同等技能。
+
+  #### 受众概况
+  本课程适用于负责规划、设计和部署实体和逻辑 Windows Server 2012 企业 Active Directory® 域服务(AD DS)基础结构(包括必需的网络服务)的 IT 专业人员。他们具有以前 Windows Server 操作系统的经验，并且拥有 Windows Server 2012 认证的 Microsoft Certified Solutions Associate (MCSA) 或同等技能。本课程也面向希望将考试 70-413&#58; Designing and Implementing a Server Infrastructure 作为单独或 Microsoft Certified Solutions Expert (MCSE)&#58; Server Infrastructure 认证要求的一部分的 IT 专业人士。
+prerequisitesSection: |-
+  本课程的应试者具有良好的 Windows 客户端和服务器操作系统知识，以及在企业/小型企业(SMB)环境中基本 AD DS 和网络经验以及应用程序配置经验。
+
+  除了专业经验之外，参加此培训的学生还应该具有以下技术知识&#58;
+  - 对传输控制通讯协议/因特网通讯协议(TCP/IP)的基本知识和网络概念有很好的了解。
+  - 对 Windows Server 2012 R2 和 Active Directory® 域服务(AD DS)都有很好的工作知识。例如，域用户帐户，域与本机用户帐户，用户配置文件和群组成员资格。
+  - 对脚本和批处理文件都有很好的了解。
+  - 对安全性概念(例如验证和授权)有充分的了解。
+  - 熟悉部署，封装和映像建立工具。
+  - 能够在团队/虚拟团队中工作。
+  - 能够产生良好的文件并具有适当的沟通技巧来建立提案和提出预算建议。
+  -  相当于 Windows 2012 R2 MCSA 的知识。
+
+  参加此训练的学生可以透过参加以下课程或获得同等的知识和技能来满足先决条件&#58;
+  - 20410D&#58; 安装和配置 Windows Server 2012
+  - 20411D&#58; 管理 Windows Server 2012
+  - 20412D&#58; 配置进阶 Windows Server 2012 服务
+
+  或
+
+  - 20417D&#58; 将您的技能升级到 MCSA Windows Server 2012
+outlineSection: |-
+  ### 模块 1&#58; 规划服务器升级和迁移
+  本模块说明如何规划服务器升级和迁移策略。
+  #### 课程
+  - 考虑升级和迁移
+  - 建立服务器升级和迁移规划
+  - 规划虚拟化
+
+
+  #### 实验&#58; 规划服务器升级和迁移
+
+  学完本模块后，学生将能够&#58;
+  - 描述执行服务器升级和迁移时要考虑的因素。
+  - 为服务器升级和迁移建立计划。
+  - 规划服务器虚拟化。
+
+
+  ### 模块 2&#58; 规划和实施服务器部署策略
+  本模块说明如何设计自动化服务器安装策略以及规划和实施服务器部署基础结构。
+  #### 课程
+  - 选择适当的服务器部署策略
+  - 实施自动化部署略
+
+
+  #### 实验&#58; 规划和实施服务器部署基础结构
+
+  学完本模块后，学生将能够&#58;
+  - 选择适当的服务器部署策略。
+  - 实施自动化部署策略。
+
+
+  ### 模块 3&#58; 使用 Virtual Machine Manager 规划和部署服务器
+  本模块说明如何规划和部署用于部署服务器的 Virtual Machine Manager(VMM)基础结构。
+  #### 课程
+  - System Center 2012 R2 Virtual Machine Manager 概述
+  - 实施 Virtual Machine Manager 链接库和配置文件
+  - 规划和部署 Virtual Machine Manager 服务
+
+
+  #### 实验&#58; 使用 Virtual Machine Manager 规划和部署虚拟机
+
+  学完本模块后，学生将能够&#58;
+  - 描述核心 VMM 体系结构和组件。
+  - 实施 VMM 链接库和配置文件。
+  - 规划和部署 VMM 服务。
+
+
+  ### 模块 4&#58; 设计和维护 IP 配置和地址管理解决方案
+  该模块说明如何设计和维护 IP 地址管理(IPAM)和动态主机配置协议(DHCP)解决方案。
+  #### 课程
+  - 设计 DHCP 服务器
+  - 规划 DHCP 范围
+  - 设计 IPAM 布建策略
+  - 使用 IPAM 管理服务器和地址空间
+
+
+  #### 实验&#58; 设计和维护 IP 配置和 IP 地址管理解决方案
+
+  学完本模块后，学生将能够&#58;
+  - 设计DHCP 服务器的实现。
+  - 规划 DHCP 范围配置和选项。
+  - 设计 IPAM 布建策略。
+  - 使用 IPAM 管理服务器和地址空间。
+
+
+  ### 模块 5&#58; 设计和实施名称解析
+  本模块说明如何设计名称解析策略。
+  #### 课程
+  - 设计 DNS 服务器实施策略
+  - 设计 DNS 命名空间
+  - 设计 DNS 区域
+  - 设计 DNS 区域复制和委托
+  - 优化 DNS 服务器
+  - 设计 DNS 以实施高可用性和安全性
+
+
+  #### 实验&#58; 设计和实施名称解析
+
+  学完本模块后，学生将能够&#58;
+  - 设计域名系统(DNS)服务器-实施策略。
+  - 设计一个DNS名称空间。
+  - 设计和实施 DNS 区域策略。
+  - 设计和配置 DNS 区域复制和委托。
+  - 优化 DNS 服务器配置。
+  - 设计 DNS 以实施高可用性和安全性。
+
+
+  ### 模块 6&#58; 设计和实施 Active Directory 域服务林和域基础结构
+  本模块说明如何设计和实施 AD DS 林和域基础结构。
+  #### 课程
+  - 设计 Active Directory 林
+  - 设计和实施 Active Directory 林信任
+  - 设计与 Windows Azure Active Directory 的 Active Directory 整合
+  - 设计和实施 Active Directory 域
+  - 在 Active Directory 环境中设计 DNS 命名空间
+  - 设计 Active Directory 域信任
+
+
+  #### 实验&#58; 设计和实施 Active Directory 域服务林基础结构
+
+  #### 实验&#58; 设计和实施 Active Directory 域基础结构
+
+  学完本模块后，学生将能够&#58;
+  - 设计 Active Directory 林。
+  - 设计和实施 Active Directory 林信任。
+  - 设计与 Windows Azure Active Directory 的 Active Directory 整合。
+  - 设计和实施 Active Directory 域。
+  - 在 Active Directory 环境中设计 DNS 命名空间。
+  - 设计和实施 Active Directory 域信任。
+
+
+  ### 模块 7&#58; 设计和实施 AD DS 组织单位基础结构
+  本模块说明如何设计和实施 OU 基础结构和 AD DS 权限模型。
+  #### 课程
+  - 规划 Active Directory 管理工作委托模型
+  - 设计 OU 结构
+  - 设计和实施 AD DS 群组策略
+
+
+  #### 实验&#58; 设计和实施 Active Directory OU 基础结构和委托模型
+
+  学完本模块后，学生将能够&#58;
+  - 规划 Active Directory 管理工作委托模型。
+  - 设计 OU 结构。
+  - 设计和实施 AD DS 群组策略。
+
+
+  ### 模块 8&#58; 设计和实施组策略对象策略
+  本模块说明如何设计和实施组策略对象(GPO)策略。
+  #### 课程
+  - 收集 GPO 设计所需的信息
+  - 设计和实施 GPO
+  - 设计 GPO 处理
+  - 规划组策略管理
+
+
+  #### 实验&#58; 设计和实施组策略对象策略
+
+  学完本模块后，学生将能够&#58;
+  - 收集和分析推动 GPO 设计所需的信息。
+  - 建立 GPO 设计并实施。
+  - 建立 GPO 处理设计。
+  - 规划 GPO 管理。
+
+
+  ### 模块 9&#58; 设计和实施 AD DS 物理拓扑
+  本模块说明如何设计 AD DS 网站拓扑和域控制器位置策略。
+  #### 课程
+  - 设计和实施 Active Directory 网站
+  - 设计 Active Directory 复制
+  - 设计域控制器的位置
+  - 域控制器的虚拟化考虑
+  - 设计高可用性域控制器
+
+
+  #### 实验&#58; 设计和实施 Active Directory 域服务物理拓扑
+
+  学完本模块后，学生将能够&#58;
+  - 设计和实施 Active Directory 网站。
+  - 设计和配置 Active Directory复制。
+  - 设计域控制器的位置。
+  - 规划域控制器角色的虚拟化。
+  - 设计域控制器部署以实施高可用性。
+
+
+  ### 模块 10&#58; 规划和实施存储和文件服务
+  本模块说明如何规划和实施存储和文件服务。
+  #### 课程
+  - 规划和实施 iSCSI SANs
+  - 规划和实施存储空间
+  - 优化分公司的文件服务
+
+
+  #### 实验&#58; 规划和实施存储
+
+  学完本模块后，学生将能够&#58;
+  - 规划和实施 Internet Small Computer System Interface(iSCSI)SAN。
+  - 规划和实施存储空间。
+  - 优化分公司的文件服务。
+
+
+  ### 模块 11&#58; 设计和实施网络保护
+  本模块说明如何设计和实施网络保护。
+  #### 课程
+  - 网络安全性设计概观
+  - 设计和实施 Windows Firewall 策略
+  - 设计和实施 NAP 基础结构
+
+
+  #### 实验&#58; 设计和实施网络保护
+
+  学完本模块后，学生将能够&#58;
+
+  - 描述网络安全性的设计程序。
+  - 设计和实施 Windows Firewall 策略。
+  - 设计和实施网络存取保护(NAP)。
+
+
+  ### 模块 12&#58; 设计和实施远程访问服务
+  本模块说明如何设计和实施远程访问服务。
+  #### 课程
+  - 规划和实施 DirectAccess
+  - 规划和实施 VPN
+  - 规划和实施 Web 应用程序 Proxy
+  - 规划一个复杂的远程接入基础设施
+
+
+  #### 实验&#58; 设计和实施网络存取服务
+
+  学完本模块后，学生将能够&#58;
+  - 规划和实施 DirectAccess。
+  - 规划和实施虚拟专用网(VPN)。
+  - 规划和实施 Web 应用程序 Proxy。
+  - 规划复杂的远程访问基础结构。
+

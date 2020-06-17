@@ -1,0 +1,104 @@
+### YamlMime:Course
+title: 'Mobility & Devices Fundamentals: MTA Exam 98-368'
+metadata:
+  title: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+  description: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+uid: course.40368
+courseNumber: '40368-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解设备配置
+- skill: 了解数据存取与管理
+- skill: 了解设备安全性
+- skill: 了解云端服务
+- skill: 了解企业移动性
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-368
+summary: |-
+  为期三天的 MTA 训练课程可帮助您为 Microsoft Technology Associate Exam 98-368 做好准备，并加深对这些主题的了解； 设备配置，数据存取和管理，设备安全性，云端服务和企业移动力。
+
+  #### 受众概况
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技术认证测验套件，验证开始使用 Microsoft 技术建立职业所需的基本知识。本课程为未来的技术职业提供适当的切入点，并且具有一定的实际经验或训练，但不具有在职经验。
+outlineSection: |-
+  ### 模块 1&#58; 了解设备配置
+  #### 课程
+  - 配置设备选项
+  - 配置组织配置
+  - 配置磁盘驱动器加密
+  - 配置更新
+
+  完成本模块后，您将能够&#58;
+  - 配置设备选项
+  - 配置桌面配置
+  - 配置磁盘驱动器加密
+  - 配置更新
+
+
+  ### 模块 2&#58; 了解数据存取和管理
+  #### 课程
+  - 了解云端储存服务
+  - 了解本地存储
+  - 了解文件系统
+  - 了解档案和打印共享
+  - 了解数据加密
+
+  完成本模块后，您将能够&#58;
+  - 了解云端储存服务
+  - 了解本地存储
+  - 了解文件系统
+  - 了解档案和打印共享
+  - 了解数据加密
+
+
+  ### 模块 3&#58; 了解设备安全性
+  #### 课程
+  - 了解因特网、内部网络和外部网络之间的差异
+  - 了解使用者验证
+  - 了解权限
+  - 了解恶意代码
+
+  完成本模块后，您将能够&#58;
+  - 了解因特网，内部网络和外部网络之间的差异
+  - 了解使用者验证
+  - 了解权限
+  - 了解恶意代码
+
+
+  ### 模块 4&#58; 了解云端服务
+  #### 课程
+  - 了解云端服务的类型
+  - 了解 Microsoft Intune
+  - 了解 Microsoft Intune 功能
+  - 了解 Microsoft Azure
+  - 了解虚拟机
+  - 了解灾害复原，高可用性，冗余和容错
+
+  完成本模块后，您将能够&#58;
+  - 了解云端服务的类型
+  - 了解 Microsoft Intune 和其功能
+  - 了解 Microsoft Azure
+  - 了解虚拟机
+  - 了解灾害复原，高可用性，冗余和容错
+
+
+  ### 模块 5&#58; 了解企业移动性
+  #### 课程
+  - 了解识别服务
+  - 了解商务资料存取
+  - 了解携带您自己的设备（BYOD）
+
+  完成本模块后，您将能够&#58;
+  - 了解识别服务
+  - 了解商务资料存取
+  - 了解携带您自己的设备（BYOD）
+

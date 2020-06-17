@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Developing Mobile Apps
+metadata:
+  title: 'Exam 70-357: Developing Mobile Apps'
+  description: 'Exam 70-357: Developing Mobile Apps'
+uid: exam.70-357
+displayName: 70-357
+summary: |-
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
+  </div>
+
+  本考试的考生是设计和开发要部署到 Windows Store 或适用于企业的 Windows Store 的 Windows 10 应用的经验丰富的开发人员。
+
+  除了具备 WPF 或 Silverlight for Windows Phone 经验之外，考生通常在使用 C# 和 XAML 开发 Windows 应用方面拥有两年以上的经验。考生还应具备模型-视图-视图模型 (MVVM) 设计模式和实体框架以及身份验证技术经验。强烈建议具备 Visual Studio 2015 经验。
+subTitle: 本考试的考生是设计和开发要部署到 Windows Store 或适用于企业的 Windows Store 的 Windows 10 应用的经验丰富的开发人员。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH
+practiceTestUrl: https://www.mindhub.com/70-357-developing-mobile-apps-microsoft-official/p/MU-70-357?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-357&examname=Developing%20Mobile%20Apps&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-357
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+- ru
+levels:
+- intermediate
+skills:
+- 为自适应 UI 开发 XAML 页面布局 (10-15%)
+- 实施页面导航和生命周期事件 (10-15%)
+- 实施数据访问和数据绑定 (20-25%)
+- 为自适应编码实施功能检测 (10-15%)
+- 管理用户输入和自定义用户交互 (10-15%)
+- 管理身份验证和身份管理 (10-15%)
+- 实施通知、后台任务和可重用的组件 (15-20%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mcsa-universal-windows-platform
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

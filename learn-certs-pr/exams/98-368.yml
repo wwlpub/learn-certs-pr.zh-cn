@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Mobility and Devices Fundamentals
+metadata:
+  title: 'Exam 98-368: Mobility and Devices Fundamentals'
+  description: 'Exam 98-368: Mobility and Devices Fundamentals'
+uid: exam.98-368
+displayName: 98-368
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试的考生具有Windows设备和移动性的基本知识。考生应具备一些关于Windows设备、基于Windows的网络、活动目录、反恶意软件产品、防火墙、网络拓扑和设备以及网络端口的实践经验。
+
+  <div style='font-weight&#58; bold;'><br/>截至2018年1月31日，考试更新有效。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试98-368变更文档。</div>
+subTitle: 本考试的考生具有Windows设备和移动性的基本知识。考生应具备一些关于Windows设备、基于Windows的网络、活动目录、反恶意软件产品、防火墙、网络拓扑和设备以及网络端口的实践经验。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy9
+practiceTestUrl: https://www.mindhub.com/MTA-98-368-Mobility-and-Devices-Fundamentals-p/mu-98-368_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+- tr
+levels:
+- beginner
+skills:
+- 了解设备配置(20-25%)
+- 了解数据访问和管理(20-25%)
+- 了解设备安全(20-25%)
+- 了解云服务(20-25%)
+- 了解企业流动性(20-25%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40368
+relatedCertifications:
+- related:
+    uid: certification.mta-mobility-and-device-fundamentals
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+
