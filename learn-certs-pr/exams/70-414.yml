@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Implementing an Advanced Server Infrastructure
+metadata:
+  title: 'Exam 70-414: Implementing an Advanced Server Infrastructure'
+  description: 'Exam 70-414: Implementing an Advanced Server Infrastructure'
+uid: exam.70-414
+displayName: 70-414
+summary: |-
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
+  </div>
+
+  本考试是一个包含两个考试的系列的第二部分，这些考试考察在企业级高度虚拟化环境中设计、实施和维护 Windows Server 2012 基础结构所需的技能和知识。通过这门考试能证实考生规划、配置和管理 Windows Server 2012 服务的能力，例如身份和访问、高可用性和服务器基础结构。通过这门考试及其他考试能确保考生具备在 Windows Server 2012 环境中设计、部署和维护服务和基础结构的必要技能和知识。
+
+  <div style='font-weight&#58; bold;'><br/>2014年4月之前，这个考试包括的内容覆盖 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcz">Windows Server 2012 R2</a>。</div>
+subTitle: 本考试是一个包含两个考试的系列的第二部分，这些考试考察在企业级高度虚拟化环境中设计、实施和维护 Windows Server 2012 基础结构所需的技能和知识。通过这门考试能证实考生规划、配置和管理 Windows Server 2012 服务的能力，例如身份和访问、高可用性和服务器基础结构。通过这门考试及其他考试能确保考生具备在 Windows Server 2012 环境中设计、部署和维护服务和基础结构的必要技能和知识。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54V
+practiceTestUrl: https://www.mindhub.com/70-414-Implementing-an-Advanced-Infrastructure-p/mu-70-414_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-414&examname=Implementing%20an%20Advanced%20Server%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-414
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 管理和维护服务器基础架构(25-30%)
+- 规划和实施高度可用的企业基础设施(25-30%)
+- 规划和实施服务器虚拟化基础架构(25-30%)
+- 设计和实施身份和访问解决方案(20-25%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20414
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

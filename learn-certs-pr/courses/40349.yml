@@ -1,0 +1,51 @@
+### YamlMime:Course
+title: 'Windows Operating System Fundamentals: MTA Exam 98-349'
+metadata:
+  title: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+  description: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+uid: course.40349
+courseNumber: '40349-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解操作系统配置
+- skill: 安装和升级客户端系统
+- skill: 管理应用程序
+- skill: 管理档案和文件夹
+- skill: 管理设备
+- skill: 了解操作系统维护
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-349
+summary: |-
+  为期三天的 MTA 训练课程可帮助您为 Microsoft Technology Associate Exam 98-349 做好准备，并加深对这些主题的了解；操作系统配置、安装和升级客户端系统，管理应用程序，管理档案和文件夹，管理设备以及操作系统维护。本课程利用与本测验的 Microsoft Official Academic Course （MOAC）中相同的内容。本课程已更新，以支持 Windows 10。
+
+  #### 受众概况
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技术认证测验套件，验证开始使用 Microsoft 技术建立职业所需的基本知识。本课程为未来的技术职业提供适当的切入点，并且具有一定的实际经验或训练，但不具有在职经验。
+prerequisitesSection: |-
+  本课程没有任何先决条件。
+outlineSection: |-
+  ### 模块 1&#58; 安装和升级客户端系统
+
+  ### 模块 2&#58; 了解操作系统配置
+
+  ### 模块 3&#58; 了解原生应用程序、工具、行动立以及远程管理和协助
+
+  ### 模块 4&#58; 管理应用程序，服务和磁盘
+
+  ### 模块 5&#58; 管理设备
+
+  ### 模块 6&#58; 了解档案和打印共享
+
+  ### 模块 7&#58; 维护、更新和保护 Windows 10
+
+  ### 模块 8&#58; 了解备份和复原方法
+

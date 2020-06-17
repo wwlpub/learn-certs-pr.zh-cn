@@ -1,0 +1,49 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals: MTA Exam 98-361'
+metadata:
+  title: 'Course 40361-A: Software Development Fundamentals: MTA Exam 98-361'
+  description: 'Course 40361-A: Software Development Fundamentals: MTA Exam 98-361'
+uid: course.40361
+courseNumber: '40361-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解核心程序设计
+- skill: 了解面向对象程序设计
+- skill: 了解一般软件开发
+- skill: 了解 Web 应用程序
+- skill: 了解传统型应用程序
+- skill: 了解数据库
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  为期三天的 MTA 训练课程可帮助您为 Microsoft Technology Associate Exam 98-361 做好准备，并加深对这些主题的了解；核心程序设计、面向对象程序设计、一般软件件开发，Web 应用程序，传统型应用程序和数据库。本课程利用与该测验的 Microsoft Official Academic Course （MOAC）中相同的内容。
+
+  #### 受众概况
+  Microsoft Technology Associate（MTA）是 Microsoft 最新的技术认证测验套件，验证开始使用 Microsoft 技术建立职业所需的基本知识。本课程为未来的技术职业提供适当的切入点，并且具有一定的实际经验或训练，但不具有在职经验。
+prerequisitesSection: |-
+  本课程没有任何先决条件。
+outlineSection: |-
+  ### 模块 1&#58; 面向对象程序设计简介
+
+
+  ### 模块 2&#58; 了解一般软件开发
+
+
+  ### 模块 3&#58; 了解 Web 应用程序
+
+
+  ### 模块 4&#58; 了解桌面应用程序
+
+
+  ### 模块 5&#58; 了解数据库
+

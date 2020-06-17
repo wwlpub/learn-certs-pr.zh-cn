@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: Designing Business Intelligence Solutions with Microsoft SQL Server 2014
+metadata:
+  title: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+  description: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+uid: course.20467
+courseNumber: '20467-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划 BI 解决方案。
+- skill: 规划 SQL Server BI 基础架构
+- skill: 设计数据仓库。
+- skill: 设计提取、转换和加载(ETL)解决方案。
+- skill: 设计分析数据模型。
+- skill: 规划 BI 交付解决方案。
+- skill: 设计一个 Reporting Services 解决方案。
+- skill: 设计一个基于 Microsoft Excel 的报告解决方案。
+- skill: 计划 SharePoint Server BI 解决方案。
+- skill: 监测和优化 BI 解决方案。
+- skill: 运行 BI 解决方案。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-467
+summary: |-
+  本培训课程教授数据库和商业智能(BI)专业人员如何规划和设计基于 Microsoft SQL Server 2014 和其他 Microsoft BI 技术的 BI 解决方案。
+
+  #### 受众概况
+  本课程不是为不熟悉 SQL Server 2014 Bi 技术的学生而设计的；它针对具有使用 SQL Server 数据库引擎、SQL Server Integration Services、SQL Server Analysis Services 和 SQL Server Reporting Services 实现解决方案的经验的 BI 专业人员。
+prerequisitesSection: |-
+  除了专业经验之外，参加此培训的学生还应该具有以下技术知识&#58;
+  - 对数据仓库的维建模(星型架构)有基本了解
+  - 基本的服务器硬件知识
+  - 创建包括控制流和数据流的 Integration Services 软件包的能力
+  - 使用 Analysis Services 创建基本的多维数据集的能力
+  - 使用 PowerPivot 和 Analysis Services 创建基本表格模型的能力
+  - 使用 Report Designer 创建 Reporting Services 报告的能力
+  - 在 SQL Server 数据库引擎、Analysis Services 和 Reporting Services 中实现身份验证和权限的能力
+  - 熟悉 SharePoint Server 和 Microsoft Office 应用程序——特别是 Excel
+outlineSection: |-
+  ### 模块 1&#58; 规划 BI 解决方案
+  该模块使学生能够计划 BI 解决方案的组件。
+  #### 课程
+  - BI 解决方案的要素
+  - 规划 BI 项目
+  - Microsoft BI 平台
+
+
+  #### 实验&#58; 规划 BI 解决方案
+  学完本模块后，您将能够&#58;
+  - 描述 BI 解决方案的组件。
+  - 确定 BI 解决方案的组件。
+  - 计划一个 BI 项目。
+
+
+  ### 模块 2&#58; 规划 SQL Server 商业智能基础结构
+  此模块描述在给定一组 BI 参数的情况下，如何使用、计划适当的 BI 基础结构。
+  #### 课程
+  - BI 基础结构的注意事项
+  - 规划数据仓库硬件
+
+
+  #### 实验&#58; 规划 BI 基础结构
+  学完本模块后，您将能够&#58;
+  - 描述 BI 基础架构的组件以及在何处使用它们。
+  - 规划数据仓库实施的硬件要求。
+
+
+  ### 模块 3&#58; 设计数据仓库
+  本模块描述了在给定一组用户需求的情况下如何设计数据仓库。
+  #### 课程
+  - 数据仓库设计概述
+  - 设计维度表
+  - 设计事实表
+
+
+  #### 实验&#58; 设计数据仓库逻辑架构
+  学完本模块后，您将能够&#58;
+  - 设计数据仓库。
+  - 设计维度表。
+  - 设计事实表。
+  - 为数据仓库设计逻辑架构。
+
+
+  ### 模块 4&#58; 设计 ETL 解决方案
+  本课描述如何设计提取、转换和加载(ETL)解决方案。
+  #### 课程
+  - ETL 概述
+  - 规划数据提取
+  - 规划数据转换
+  - 规划数据加载
+
+
+  #### 实验&#58; 设计 ETL 解决方案
+  学完本模块后，您将能够&#58; 
+  - 描述 ETL 解决方案的组件。
+  - 设计 ETL 解决方案。
+
+
+  ### 模块 5&#58; 设计分析数据模型
+  本模块描述如何为特定的 BI 方案设计分析数据模型。
+  #### 课程
+  - 分析数据模型简介
+  - 设计分析数据模型
+
+
+  #### 实验&#58; 设计分析数据模型
+
+  #### 实验&#58; 设计维度和层次结构
+  学完本模块后，您将能够&#58;
+  - 描述分析数据模型的功能。
+  - 设计分析数据模型。
+
+
+  ### 模块 6&#58; 规划 BI 交付解决方案
+  本模块描述如何为给定方案选择适当的交付解决方案。
+  #### 课程
+  - BI 交付注意事项
+  - 常见的报告方案
+  - 选择报告工具
+
+
+  #### 实验&#58; 规划 BI 交付解决方案
+  学完本模块后，您将能够&#58;
+  - 描述 BI 交付解决方案的组件。
+  - 描述一些常见的报告场景。
+  - 为给定方案选择适当的交付解决方案。
+
+
+  ### 模块 7&#58; 设计 Reporting Services 解决方案
+  本模块描述如何设计 Reporting Services 解决方案。
+  #### 课程
+  - 规划报告解决方案
+  - 设计报告
+  - 规划报告一致性
+
+
+  #### 实验&#58; 设计 Reporting Services 解决方案
+  学完本模块后，您将能够&#58;
+  - 规划 Reporting Services 解决方案。
+  - 为 Reporting Services 解决方案设计报告。
+  - 规划报告的一致性
+
+
+  ### 模块 8&#58; 设计基于 Excel 的报告解决方案
+  在本模块中，学生将学习如何使用 Excel 设计报告解决方案。
+  #### 课程
+  - 使用 Excel 进行数据报告和分析
+  - Excel 中的 PowerPivot
+  - Excel 中的 Power View
+
+
+  #### 实验&#58; 设计和 Excel 报告解决方案
+  学完本模块后，您将能够&#58;
+  - 描述 Excel 报告解决方案的主要功能。
+  - 在 Excel 中使用 PowerPivot 创建报告。
+  - 在 Excel 中使用 Power View 创建报告。
+
+
+  ### 模块 9&#58; 规划 SharePoint Server BI 解决方案
+  本模块介绍如何将 SharePoint Server 用作 BI 解决方案。
+  #### 课程
+  - SharePoint Server 作为 BI 平台简介
+  - 规划 SharePoint Server BI 解决方案的安全性
+  - 规划 Reporting Services 配置
+  - 规划 PowerPivot 配置
+  - 规划 PerformancePoint Services
+
+
+  #### 实验&#58; 实施 SharePoint Server BI 解决方案
+
+  #### 实验&#58; 实现 PerformancePoint Services
+  学完本模块后，您将能够&#58;
+  - 描述 SharePoint Server BI 解决方案的组件。
+  - 规划 SharePoint Server BI 解决方案的安全性。
+  - 规划 SharePoint Server BI 解决方案的报告解决方案。
+  - 描述 PerformancePoint 解决方案的组件。
+  - 实施 PerformancePoint Services。
+
+
+  ### 模块 10&#58; 监控和优化 BI 解决方案
+  在本模块结束时，您将能够优化和监控 BI 解决方案。
+  #### 课程
+  - BI 监控概述
+  - 监控和优化数据仓库
+  - 监控和分析 Analysis Services
+  - 监控和优化 Reporting Services
+
+
+  #### 实验&#58; 监控和优化 BI 解决方案
+  学完本模块后，您将能够&#58;
+  - 描述用于监视和优化 BI 解决方案的选项。
+  - 能够监控和优化 BI 解决方案。
+
+
+  ### 模块 11&#58; 运行 BI 解决方案
+  在本模块结束时，您将能够计划 BI 解决方案的管理和维护操作。
+  #### 课程
+  - BI 操作概述
+  - ETL 操作
+  - 数据仓库操作
+  - Analysis Services 操作
+  - Reporting Services 操作
+
+
+  #### 实验&#58; 运行 BI 解决方案
+  学完本模块后，您将能够&#58;
+  - 描述要在 BI 解决方案中管理的组件。
+  - 能够管理 BI 解决方案的组件。
+

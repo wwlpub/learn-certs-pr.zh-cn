@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: HTML5 Application Development Fundamentals
+metadata:
+  title: 'Exam 98-375: HTML5 Application Development Fundamentals'
+  description: 'Exam 98-375: HTML5 Application Development Fundamentals'
+uid: exam.98-375
+displayName: 98-375
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试面向希望证明自身在开发将在支持触控的现代设备(电脑、平板电脑和手机)上运行的 HTML5 客户端应用程序方面的核心技能的考生。尽管 HTML 常被视为一种 Web 技术，用于在浏览器中呈现内容以生成 UI，但本考试主要关注使用 HTML5、CSS3 和 JavaScript 开发客户端应用程序的技能。参加这门考试之前，考生应充分掌握备考指南中所列主题的基础知识，包括 CSS 和 JavaScript。建议考生通过参加相关培训课程或学习 MSDN 和 Microsoft Visual Studio 中的教程与示例来熟悉相关概念，积累相关技术的一些实践经验。
+subTitle: 本考试面向希望证明自身在开发将在支持触控的现代设备(电脑、平板电脑和手机)上运行的 HTML5 客户端应用程序方面的核心技能的考生。尽管 HTML 常被视为一种 Web 技术，用于在浏览器中呈现内容以生成 UI，但本考试主要关注使用 HTML5、CSS3 和 JavaScript 开发客户端应用程序的技能。参加这门考试之前，考生应充分掌握备考指南中所列主题的基础知识，包括 CSS 和 JavaScript。建议考生通过参加相关培训课程或学习 MSDN 和 Microsoft Visual Studio 中的教程与示例来熟悉相关概念，积累相关技术的一些实践经验。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJs
+practiceTestUrl: https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 管理应用程序生命周期(20-25%)
+- 使用HTML5构建用户界面(UI)(25-30%)
+- 使用层叠样式表(CSS)格式化用户界面(20-25%)
+- 使用JavaScript编码(30-35%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.40375
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-html5-application-development-fundamentals
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

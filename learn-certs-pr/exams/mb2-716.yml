@@ -1,0 +1,50 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Customization and Configuration
+metadata:
+  title: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+  description: 'Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration'
+uid: exam.mb-2-716
+displayName: MB2-716
+summary: |-
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
+  </div>
+
+  希望考取 Microsoft Dynamics 365 定制和配置认证的考生应该参加本考试。这些受众通常包括开发人员、实施顾问、技术支持人员和系统管理员。他们评估客户的业务需求，并配置和自定义应用程序。
+
+  <div style='font-weight&#58; bold;'><br/>2020年2月4日，此考试的内容进行了更新。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试MB2-716变更文档。</div>
+subTitle: 希望考取 Microsoft Dynamics 365 定制和配置认证的考生应该参加本考试。这些受众通常包括开发人员、实施顾问、技术支持人员和系统管理员。他们评估客户的业务需求，并配置和自定义应用程序。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
+locales:
+- en
+- ja
+levels:
+- beginner
+skills:
+- 配置 Microsoft Dynamics 365 (20-25%)
+- 实施 Microsoft Dynamics 365 实体、实体关系和字段 (20-25%)
+- 创建和管理 Microsoft Dynamics 365 解决方案、窗体、视图和可视化效果 (25-30%)
+- 实施业务规则、工作流和业务流程 (20-25%)
+roles:
+- business-analyst
+products:
+- dynamics
+relatedCertifications:
+- related:
+    uid: certification.mcse-business-applications
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

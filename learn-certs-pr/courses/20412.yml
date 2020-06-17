@@ -1,0 +1,262 @@
+### YamlMime:Course
+title: Configuring Advanced Windows Server® 2012 Services
+metadata:
+  title: 'Course 20412-D: Configuring Advanced Windows Server® 2012 Services'
+  description: 'Course 20412-D: Configuring Advanced Windows Server® 2012 Services'
+uid: course.20412
+courseNumber: '20412-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用 Windows Server 2012 配置动态主机配置协议(DHCP)和域名系统(DNS)的高级功能，并配置 IP 地址管理(IPAM)。
+- skill: 配置和管理 iSCSI，BranchCache 和 FSRM。
+- skill: 配置 DAC 以管理和审计对共享文件的存取
+- skill: 规划和实施包括多个网域和树系的 AD DS 部署
+- skill: 规划并实施包含位置的 AD DS 部署。
+- skill: 实施和配置 Active Directory 凭证服务(AD CS)部署。
+- skill: 实施 AD RMS 部署。
+- skill: 实施 AD FS 部署。
+- skill: 通过实施网络负载平衡(NLB)，提供网页应用程序的高可用性和负载平衡。
+- skill: 通过实施 NLB，实施并验证网页应用程序的高可用性和负载平衡。
+- skill: 通过实施故障转移集群，提供网络服务和应用程序的高可用性。
+- skill: 实施故障转移集群，以及配置及验证高可用性网络服务。
+- skill: 在故障转移集群中部署和管理 Hyper-V 虚拟机。
+- skill: 根据业务和技术要求实施备份和灾难恢复解决方案。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-412
+summary: |-
+  在为期五天的 Microsoft 官方课程中，获得实际操作指导并练习配置高级 Windows Server 2012(包括 Windows Server 2012 R2)服务本课程是三门课程系列中的第三部分，提供在现有企业环境中实施核心 Windows Server 2012 基础结构所需的技能和知识。 
+
+  这三门课程共同涵盖在 Windows Server 2012 服务器环境下实施、管理、维护和配置及基础结构。尽管这些课程的技能和工作有所变化，但本课程着重于部署，管理和维护 Windows Server 2012 基础结构所需的服务的高级配置，例如高级网络服务，Active Directory 网域服务(AD DS)，Active Directory Rights Management Services(AD RMS)，Active Directory 同盟服务(AD FS) ，网络负载平衡，故障转移集群，业务持续性和灾难恢复服务以及诸如动态访问控制(DAC)之类的存取和信息提供与保护技术，以及与 AD FS 和 Workplace Join 整合的Web 应用程序 Proxy。
+
+  本课程直接对应于 Microsoft Certified Solutions Associate (MCSA)&#58; Exam [412&#58; Configuring Advanced Windows Server 2012 Services](https://www.microsoft.com/learning/course.aspx?cid=20412) 且为其实际备考首选。该考试是 MCSA&#58; Windows Server 2012 认证要求的三项考试中的第三项。 
+
+  注意&#58; 本课程中的实验基于 Windows Server 2012 R2 和 Windows 8.1。
+
+  #### 受众概况
+  本课程适用于具有实施、管理和维护 Windows Server 2012 或 Windows Server 2012 R2 环境的实施经验的信息技术(IT)专业人员，他们希望获得在 Windows Server 2012 环境中执行高级管理和服务提供所必需的技能和知识。通常有兴趣参加此课程的考生将是&#58;
+  - 经验丰富的 Windows Server 管理员，具有 Windows Server 2008 或Windows Server 2012 企业环境中工作的真实经验。
+  - 希望参加测验的 IT 专业人员[412&#58; 配置高级 Windows Server 2012](https://www.microsoft.com/learning/exam-70-412.aspx)服务。
+  - 希望参加有关数据中心，桌面基础结构，消息，协作和通讯的Microsoft Certified Solutions Expert(MCSE)测验的 IT 专业人员也有兴趣参加此课程，因为他们准备 MCSA 测验，这是他们个别专业的先决条件。
+prerequisitesSection: |-
+  参加本课程之前，学生必须具备&#58;
+  - 在企业环境中每天使用 Windows Server 2008 或 Windows Server 2012 服务器的经验。
+
+  具备与课程相当的知识或参加课程可以满足课程的先决条件 [20410C&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20410C&Locale=en-us)和 [20411C&#58; Administering Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20411C)，因为本课程将根据该课程涵盖的知识和技能而建置。
+outlineSection: |-
+  ### 模块 1&#58; 实施高级网络服务
+  在本模阻中，学生将能够配置动态主机配置协议(DHCP)和域名系统(DNS)的功能，并配置 IP 地址管理(IPAM)。
+  #### 课程
+  - 配置高级 DHCP 功能
+  - 配置高级DNS配置
+  - 实施 IPAM
+  - 使用 IPAM 管理 IP 地址空间
+
+
+  #### 实验&#58; 实施高级网络服务
+  学完本模块后，学生将能够&#58;
+  - 使用 Windows Server 2012 在 DHCP 中配置高级功能。
+  - 在 Windows Server 2012 中配置高级 DNS 配置。
+  - 在 Windows Server 2012 中实施 IP 地址管理。
+
+
+  ### 模块 2&#58;  实施高级文件服务
+  在该模块中，学生将能够配置文件案服务以满足高级业务需求。
+  #### 课程
+  - 配置 iSCSI 存储
+  - 配置 BranchCache
+  - 优化存储设备使用方式
+
+
+  #### 实验&#58; 实施高级文件服务
+
+  #### 实验&#58; 实施 BranchCache
+  学完本模块后，学生将能够&#58;
+  - 了解如何配置和管理iSCSI。
+  - 使用 Windows Server 2012 实施 BranchCache。
+  - 实施优化存储利用率的Windows Server 2012功能。
+
+
+  ### 模块 3&#58; 实施动态访问控制
+  在本模块中，学生将能够配置动态访问控制(DAC)来管理和审计对共享的文件的存取。
+  #### 课程
+  - DAC 概述
+  - 实施 DAC 组件
+  - 实施用于访问控制的DAC
+  - 实施拒绝存取时的协助
+  - 实施和管理工作文件夹
+
+
+  #### 实验&#58; 实施保护数据存取
+  学完本模块后，学生将能够&#58;
+  - 描述DAC。
+  - 实施和配置 DAC 的组件。
+  - 在文件服务器上实施 DAC。
+  - 描述并实施拒绝存取时的协助。
+  - 实施工作文件夹与 DAC 的整合。
+
+
+  ### 模块 4&#58; 实施分布式 Active Directory 网域服务部署
+  在本模块中，学生将能够规划和实施包括多个网域和树系的 Active Directory 网域服务(AD DS)部署。
+  #### 课程
+  - 分布式 AD DS 部署概述
+  - 部署分布式AD DS环境
+  - 配置 AD DS 信任
+
+
+  #### 实验&#58; 实施分布式 AD DS 部署
+  学完本模块后，学生将能够&#58;
+  - 描述高度复杂的 AD DS 部署的组件。
+  - 实施复杂的 AD DS 部署。
+  - 配置 AD DS 信任。
+
+
+  ### 模块 5&#58; 实施 Active Directory 网域服务网站和复写
+  在本模块中，学生将能够规划和实施包含多个位置的 AD DS 部署。
+  #### 课程
+  - AD DS 复写概述
+  - 配置 AD DS 网站
+  - 配置和监视 AD DS 复写
+
+
+  #### 实验&#58; 实施 AD DS 网站和复写
+  学完本模块后，学生将能够&#58;
+  - 描述在 Windows Server 2012 AD DS 环境中复写如何工作。
+  - 配置 AD DS 网站以优化 AD DS 网络流量。
+  - 配置和监视 AD DS 复写。
+
+
+  ### 模块 6&#58; 实施 AD CS
+  在本模块中，学生将能够实施 Active Directory 凭证服务(AD CS)部署。
+  #### 课程
+  - 在业务环境中使用凭证
+  - PKI 概述
+  - 部署 CA
+  - 部署和管理证书模板
+  - 实施凭证发布和撤
+  - 管理凭证复原
+
+
+  #### 实验&#58; 部署和配置 CA 阶层
+
+  #### 实验&#58; 部署和管理凭证
+  学完本模块后，学生将能够&#58;
+  - 在业务环境中描述和使用凭证。
+  - 描述公钥基础结构(PKI)的组件和概念，并描述用于实施证书颁发机构单位基础结构的选项。
+  - 规划和实施 AD CS 证书颁发机构单位基础结构。
+  - 使用 AD CS 证书颁发机构单位规划和实施 证书模板部署。
+  - 规划并实施凭证发布和撤销。
+  - 配置和管理保存密钥和复原。
+
+
+  ### 模块 7&#58; 实施 Active Directory 版权管理服务
+  在本模块中，学生将能够实施 AD RMS 部署。
+  #### 课程
+  - AD RMS 概述
+  - 部署和管理 AD RMS 基础结构
+  - 配置 AD RMS 内容保护
+  - 配置对 AD RMS 的外部存取
+
+
+  #### 实验&#58; 实施 AD RMS
+  学完本模块后，学生将能够&#58;
+  - 描述什么是AD RMS，以及如何将其用于实施内容保护。
+  - 部署和管理 AD RMS 基础结构。
+  - 使用AD RMS 配置内容保护。
+  - 使组织外部的用户能够使用 AD RMS 存取保护的内容。
+
+
+  ### 模块 8&#58; 实施和管理 AD FS
+  在本模块中，学生将能够实施  Active Directory Federation Service(AD FS)部署。
+  #### 课程
+  - AD FS 概述
+  - 部署 AD FS
+  - 为单一组织实施 AD FS
+  - 在企业对企业同盟案例中部署 AD FS
+  - 将 AD FS 延伸到外部客户端
+
+
+  #### 实验&#58; 实施 AD FS
+
+  #### 实验&#58; 为外部合作伙伴和使用者实施 AD FS
+  学完本模块后，学生将能够&#58;
+  - 描述身分识别同盟业务案例以及如何使用 AD FS 解决案例。
+  - 配置 AD FS 先决条件并部署 AD FS 服务。
+  - 实施 AD FS 以在单一组织中启用SSO。
+  - 实施AD FS 以在同盟合作伙伴之间启用SSO。
+  - 实施 Web 应用程序 Proxy 并描述与 AD FS 整合 Workplace Join 。
+
+
+  ### 模块 9&#58; 实施网络负载平衡
+  在本模阻中，学生将可以通过实施网络负载平衡(NLB)为网页式应用程序提供高可用性和负载平衡。
+  #### 课程
+  - NLB 概述
+  - 配置 NLB 丛集
+  - 规划 NLB 实施
+
+
+  #### 实验&#58; 实施 NLB
+  学完本模块后，学生将能够&#58;
+  - 描述 NLB 的工作原理。
+  - 配置 NLB 丛集。
+  - 规划 NLB 实施
+
+
+  ### 模块 10&#58; 实组故障转移集群
+  在该模块中，学生将能够通过实施故障转移集群来为网络服务和应用程序提供高可用性。
+  #### 课程
+  - 故障转移集群概述
+  - 实施故障转移集群
+  - 在故障转移集群上配置高可用性应用程序和服务
+  - 维护故障转移集群
+  - 实施多网站故障转移集群
+
+
+  #### 实验&#58; 实施故障转移集群
+  学完本模块后，学生将能够&#58;
+  - 说明 Windows Server 2012 中的故障转移集群功能。
+  - 描述如何实施故障转移集群。
+  - 说明如何在故障转移集群上配置高可用性应用程序和服务。
+  - 说明如何维护故障转移集群以及如何使用新的维护功能。
+  - 描述如何实施多网站故障转移集群。
+
+
+  ### 模块 11&#58; 使用 Hyper-V 实施故障转移集群
+  在该模块中，学生将能够在故障转移集群中部署和管理 Hyper-V 虚拟机。
+  #### 课程
+  - 将 Hyper-V 与故障转移集群整合在一起的概述
+  - 在故障转移集群上实施 Hyper-V 虚拟机
+  - 实施 Hyper-V 虚拟机移动
+
+
+  #### 实验&#58; 使用 Hyper-V 实施故障转移集群
+  学完本模块后，学生将能够&#58;
+  - 说明使虚拟机高可用性的选项。
+  - 描述如何在主机上部署的故障转移集群中实施虚拟机。
+  - 说明用于移动虚拟机或其存储空间的选项。
+  - 说明 Microsoft System Center 2012- Virtual Machine Manager(VMM)2012 高等级概述。
+
+
+  ### 模块 12&#58; 实施业务持续性和灾难恢复
+  在该模块中，学生将能够根据业务和技术需要实施备份和灾难恢复解决方案
+  #### 课程
+  - 数据保护概述
+  - 实施 Windows Server 备份
+  - 实施服务器和数据恢复
+
+
+  #### 实验&#58; 实施 Windows Server 备份与还原
+  学完本模块后，学生将能够&#58;
+  - 描述实施灾难恢复解决方案时必须包括的考虑。
+  - 规划和实施 Windows Server 2012 的备份解决方案。
+  - 规划和实施服务器和数据恢复。
+

@@ -1,0 +1,308 @@
+### YamlMime:Course
+title: Securing Windows Server 2016
+metadata:
+  title: 'Course 20744-C: Securing Windows Server 2016'
+  description: 'Course 20744-C: Securing Windows Server 2016'
+uid: course.20744
+courseNumber: '20744-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 保护 Windows Server。
+- skill: 保护凭据并实现特权访问工作站。
+- skill: 通过“恰到好处的管理”来限制管理员权限。
+- skill: 管理特权访问。
+- skill: 缓解恶意软件和威胁。
+- skill: 使用高级审核和日志分析来分析活动。
+- skill: 部署和配置 Advanced Threat Analytics 和 Microsoft Operations Management Suite。
+- skill: 配置 Guarded Fabric 虚拟机（VM）。
+- skill: 使用安全合规性工具包（SCT）和容器可以提高安全性。
+- skill: 规划和保护数据。
+- skill: 优化和保护文件服务。
+- skill: 使用防火墙和加密来保护网络流量。
+- skill: 通过使用 DNSSEC 和 Message Analyzer 来保护网络流量。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-744
+summary: "这门为期五天的讲师指导课程教授 IT 专业人员如何增强他们管理的 IT 基础结构的安全性。本课程首先强调假定已经发生网络入侵事件的重要性，然后教您如何保护管理凭据和权限，以帮助确保管理员仅在需要时才能执行他们需要执行的任务。\n\n本课程说明如何使用 Windows Server 2016 中的审核和高级威胁分析功能来识别安全问题。您还将学习如何缓解恶意软件威胁，保护虚拟化平台以及使用 Nano 服务器和容器等部署选项来增强安全性。本课程还介绍如何通过使用加密和动态访问控制来帮助保护对文件的访问，以及如何增强网络的安全性。\n\n#### 受众概况\n本课程面向需要安全管理 Windows Server 2016 网络的 IT 专业人员。这些专业人员通常使用配置为基于 Windows Server 域环境的网络，并具有对 Internet 和云服务的受管访问。 \n\n希望获得 70-744&#58; Securing Windows Server 考试认证的学生也将从此课程中受益。"
+prerequisitesSection: |-
+  学生应具有至少两年的 IT 领域经验，并应具有&#58;
+  - 已经完成了课程 740、741 和 742，或同等水平课程。
+  - 对网络基础知识（包括 TCP / IP，用户数据报协议（UDP）和域名系统（DNS））有扎实的实践了解。
+  - 对 Active Directory 域服务（AD DS）原理有扎实的实践了解。
+  - 对 Microsoft Hyper-V 虚拟化基础知识有扎实的实践了解。
+  - 了解 Windows Server 安全原则。
+outlineSection: |-
+  ### 模块 1&#58; 攻击，入侵检测和 Sysinternals 工具
+  该模块构成了该课程的框架，以便学生思考基础结构主要基于 Microsoft 产品的环境中的安全性。该模块首先向学生讲授“假设入侵”理念，并让他们了解可能发生的不同类型的攻击，包括攻击时间表和媒介。此外，它还使学生思考关键资源，检测到事件时如何应对以及组织机构的直接需求和立法要求如何决定其安全策略。
+  #### 课程
+  - 了解攻击
+  - 检测安全漏洞
+  - 使用 Sysinternals 工具检查活动
+
+
+  #### 实验&#58; 基本的入侵检测和事件响应策略
+  - 确定攻击类型
+  - 探索 Sysinternals 工具
+
+  学完本模块后，学生将能够&#58;
+  - 描述可能发生的攻击类型。
+  - 说明如何检测安全漏洞。
+  - 说明如何使用 Sysinternals 工具套件检查活动。
+
+
+  ### 模块 2&#58; 保护凭据和特权访问
+  此模块涵盖用户帐户和权限、计算器和服务账户、凭据、特权访问工作站和本地管理员密码解决方案。在本模块中，学生将学习有关配置用户权限和安全的选项、通过使用 Credential Guard 保护凭据、实施特权访问工作站以及管理和部署本地管理员密码解决方案以管理本地管理员帐户密码的知识。
+  #### 课程
+  - 了解用户权限
+  - 计算器和服务账户
+  - 保护凭证
+  - 特权访问工作站和跳转服务器
+  - 本地管理员密码解决方案
+
+
+  #### 实验&#58; 实现用户权限、安全选项和群组托管服务账户
+  - 配置用户权限和帐户安全性选项
+  - 委派特权
+  - 创建群组托管服务账户
+  - 查找有问题的账户
+
+
+  #### 实验&#58; 配置和部署 LAP
+  - 安装和配置 LAP
+  - 部署和测试 LAP
+
+  学完本模块后，学生将能够&#58;
+  - 配置用户权限。
+  - 实施计算器和服务账户。
+  - 保护凭据。
+  - 描述如何配置特权访问工作站和跳转服务器。
+  - 配置本地管理员密码解决方案（LAPS）。
+
+
+  ### 模块 3&#58; 通过 Just Enough Administration 限制管理员权限
+  本模块说明如何部署和配置 Just Enough Administration（JEA），这是一项管理技术，允许学生通过 Windows PowerShell 远程会话应用基于角色的访问控制（RBAC）原则。
+  #### 课程
+  - 了解 JEA
+  - 验证和部署 JEA
+
+
+  #### 实验&#58; 使用 JEA 限制管理员权限
+  - 创建角色能力文件
+  - 创建会话配置文件
+  - 创建 JEA 端点
+  - 连接和测试 JEA 端点
+  - 将 JEA 配置部署到另一台计算器
+
+  学完本模块后，学生将能够&#58;
+  - 了解 JEA。
+  - 验证并部署 JEA。
+
+
+  ### 模块 4&#58; 特权访问管理和管理林
+  本模块说明增强安全管理环境（ESAE）林、Microsoft Identity Manager（MIM）和实时（JIT）管理或特权访问管理（PAM）的概念。
+  #### 课程
+  - ESAE 林
+  - Microsoft Identity Manager 概述
+  - JIT 管理和 PAM 概述
+
+
+  #### 实验&#58; 使用 PAM 限制管理员权限
+  - 分层的安全性方法
+  - 配置信任关系和影子主体
+  - 请求特权访问
+  - 管理 PAM 角色
+
+  学完本模块后，学生将能够&#58;
+  - 描述 ESAE 林。
+  - 描述 MIM。
+  - 了解 JIT 管理和 PAM。
+
+
+  ### 模块 5&#58; 缓解恶意软件和威胁
+  本模块说明如何使用 Windows Defender、Windows AppLocker、Microsoft Device Guard、Windows Defender Application Guard 和 Windows Defender Exploit Guard 之类的工具。
+  #### 课程
+  - 配置和管理 Windows Defender
+  - 限制软件
+  - 配置和使用 Device Guard 功能
+
+
+  #### 实验&#58; 使用 Windows Defender、AppLocker 和 Device Guard 规则保护应用程序的安全
+  - 配置 Windows Defender
+  - 配置 AppLocker
+  - 配置 Device Guard
+
+  学完本模块后，学生将能够&#58;
+  - 配置和管理 Windows Defender。
+  - 使用软件限制策略和 AppLocker。
+  - 配置和使用 Device Guard 功能。
+
+
+  ### 模块 6&#58; 使用高级审核和日志分析功能来分析活动
+  本模块概述了审核，然后详细介绍如何配置高级审核以及 Windows PowerShell 审核和日志记录。
+  #### 课程
+  - 审核概述
+  - 高级审核
+  - Windows PowerShell 审核和日志记录
+
+
+  #### 实验&#58; 配置高级审核
+  - 配置文件系统访问审核
+  - 审核域登录
+  - 管理高级审核策略配置
+  - Windows PowerShell 日志记录和审核
+
+  学完本模块后，学生将能够&#58;
+  - 描述审核。
+  - 了解高级审核。
+  - 配置 Windows PowerShell 审核和日志记录。
+
+
+  ### 模块 7&#58; 部署和配置 Advanced Threat Analytics 和 Microsoft Operations Management Suite
+  本模块说明了Microsoft Advanced Threat Analytics 工具和 Microsoft Operations Management 套件（OMS）。它还说明如何使用它们来监视和分析 Windows Server 部署的安全性。您还将了解 Microsoft Azure Security Center，它使您可以管理和监视本地和云中工作负载的安全性配置。
+  #### 课程
+  - 部署和配置 ATA
+  - 部署和配置 Microsoft Operations Management Suite
+  - 部署和配置 Azure Security Center
+
+
+  #### 实验&#58; 部署 ATA、Microsoft Operations Management Suite 和 Azure Security Center
+  - 准备和部署 ATA
+  - 准备和部署 Microsoft Operations Management Suite
+  - 部署和配置 Azure Security Center
+
+  学完本模块后，学生将能够&#58;
+  - 部署和配置 ATA。
+  - 部署和配置 Microsoft Operations Management Suite。
+  - 部署和配置 Azure Security Center。
+
+
+  ### 模块 8&#58; 安全虚拟化基础架构
+  本模块说明如何配置 Guarded Fabric Vm，包括对受保护和加密支持的虚拟机的要求。
+  #### 课程
+  - 受保护结构
+  - 受屏蔽和加密支持的虚拟机
+
+
+  #### 实验&#58; 具有管理员信任的证明的受保护结构和受保护的虚拟机
+  - 部署具有管理员信任的证明的受保护结构
+  - 部署受保护的虚拟机
+
+  学完本模块后，学生将能够&#58;
+  - 配置受保护的结构。
+  - 描述受保护和加密支持的虚拟机。
+
+
+  ### 模块 9&#58; 保护应用程序开发和服务器工作负载基础结构的安全
+  本模块介绍了 SCT，它是一组免费的、可下载的工具，可用于创建和应用安全性设置。您还将了解如何通过缩小应用程序的大小和范围提高平台安全性以及通过容器化工作负载来改善计算资源。
+  #### 课程
+  - 使用 SCT
+  - 了解容器
+
+
+  #### 实验&#58; 使用 SCT
+  - 配置 Windows Server 2016 的安全性基准
+  - 部署 Windows Server 2016 的安全性基准
+
+
+  #### 实验&#58; 部署和配置容器
+  - 部署和管理 Windows 容器
+
+  学完本模块后，学生将能够&#58;
+  - 安装 SCT，并创建和部署安全性基准。
+  - 在 Windows Server 2016 中配置 Windows 和 Hyper-V 容器。
+
+
+  ### 模块 10&#58; 规划和保护数据
+  本模块说明如何配置加密文件系统（EFS）和 BitLocker 驱动器加密以保护静态数据。您还将学习有关使用 Azure 信息保护将保护扩展到云中的知识。
+  #### 课程
+  - 规划和实施加密
+  - 规划和实施 BitLocker
+  - 使用 Azure 信息保护保护数据
+
+
+  #### 实验&#58; 使用加密和 BitLocker 保护数据
+  - 加密和恢复对加密文件的访问
+  - 使用 BitLocker 保护数据
+
+  学完本模块后，学生将能够&#58;
+  - 规划并实施加密。
+  - 规划和实施 BitLocker。
+  - 规划和实施 Azure 信息保护。
+
+
+  ### 模块 11&#58; 优化和保护文件服务
+  本模块说明如何通过配置文件服务器资源管理器（FSRM）和分布式文件系统（DFS）来优化文件服务。学生还将学习如何通过配置动态访问控制（DAC）来管理对共享文件的访问。
+  #### 课程
+  - 文件服务器资源管理器
+  - 实施分类和文件管理任务
+  - 动态访问控制
+
+
+  #### 实验&#58; 配额和文件筛选
+  - 配置文件服务器资源管理器配额
+  - 配置文件筛选和存储报告
+
+
+  #### 实验&#58; 实现动态访问控制
+  - 为实施动态访问控制做准备
+  - 实施动态访问控制
+  - 验证和修复动态访问控制
+
+  学完本模块后，学生将能够&#58;
+  - 描述文件服务器资源管理器。
+  - 实施分类和文件管理任务。
+  - 实施动态访问控制。
+
+
+  ### 模块 12&#58; 使用防火墙和加密保护网络流量
+  本模块说明如何将 Windows Firewall 用作组织保护策略的重要组成部分。它解释如何使用 Internet 协议安全性（IPsec）来加密网络流量并在网络上建立安全区域。您还将了解有关 Datacenter Firewall 功能的信息，它可用于帮助保护本地虚拟环境。
+  #### 课程
+  - 了解与网络相关的安全威胁
+  - 了解具有高级安全性的 Windows Firewall
+  - 配置 IPsec
+  - Datacenter Firewall
+
+
+  #### 实验&#58; 使用高级安全性配置 Windows Firewall
+  - 创建和测试入站规则
+  - 创建和测试出站规则
+  - 创建和测试连接安全性规则
+
+  学完本模块后，学生将能够&#58;
+  - 描述与网络相关的安全威胁以及如何缓解这些威胁。
+  - 使用高级安全性配置 Windows Firewall。
+  - 配置 IPsec。
+  - 描述 Datacenter Firewall。
+
+
+  ### 模块 13&#58; 保护网络流量
+  本模块探讨了部分 Windows Server 2016 技术，可用于帮助缓解网络安全威胁。它说明如何配置 DNSSEC 来帮助保护网络流量，以及如何使用 Microsoft Message Analyzer 监视网络流量。该模块还描述如何保护服务器消息块（SMB）流量。
+  #### 课程
+  - 配置高级 DNS 设置
+  - 使用 Message Analyzer 检查网络流量
+  - 保护和分析 SMB 流量
+
+
+  #### 实验&#58; 保护 DNS 的安全
+  - 配置和测试 DNSSEC
+  - 配置 DNS 策略和 RRL
+
+
+  #### 实验&#58; Microsoft Message Analyzer 和 SMB 加密
+  - 安装和使用 Message Analyzer
+  - 在 SMB 共享上配置和验证 SMB 加密
+
+  学完本模块后，学生将能够&#58;
+  - 配置高级 DNS 设置。
+  - 使用 Message Analyzer。
+  - 安全的 SMB 流量。
+

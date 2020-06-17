@@ -1,0 +1,242 @@
+### YamlMime:Course
+title: Implementing Data Models and Reports with SQL Server 2014
+metadata:
+  title: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+  description: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+uid: course.20466
+courseNumber: '20466-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 BI 解决方案的组件、体系结构和性质。
+- skill: 使用 Analysis Services 创建一个多维数据库。
+- skill: 在多维数据集中实现尺寸。
+- skill: 在多维数据集中实施度量和度量值组。
+- skill: 使用 MDX 语法。
+- skill: 自定义多维数据集。
+- skill: 在 SQL Server Analysis Services 中实现表格数据模型。
+- skill: 使用 DAX 增强表格模型。
+- skill: 创建Reporting Services报表。
+- skill: 使用图表和参数增强报告。
+- skill: 管理报告的执行和发送。
+- skill: 使用 PerformancePoint Services 在 SharePoint Server 中实施仪表板。
+- skill: 使用 Data Mining 进行预测分析。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-466
+summary: |-
+  这个为期五天的讲师指导课程的重点是创建托管企业 BI 解决方案。它描述如何实现多维和表格数据模型，使用 Microsoft® SQL Server® Reporting Services 交付报表，使用 Microsoft SharePoint Server PerformancePoint Services 创建仪表板以及使用数据挖掘获得对业务的深入了解。
+
+  注意&#58; 本课程是为有兴趣学习 SQL Server 2012 或 SQL Server 2014 的客户设计的。它涵盖了 SQL Server 2014 中的新功能，还涵盖了整个 SQL Server 数据平台的重要功能。
+
+  #### 受众概况
+  本课程适用于需要履行商业智能开发人员角色以创建分析和报告解决方案的数据库专业人员。主要职责包括&#58;
+  - 实施分析数据模型，例如 OLAP 多维数据集。
+  - 实施报告，并管理报告的交付。
+  - 创建业务绩效仪表板。
+  - 支持数据挖掘和预测分析。
+prerequisitesSection: |-
+  本课程要求您满足以下先决条件&#58;
+  - 至少2年使用关系型数据库的经验，包括&#58; 
+    - 设计规范化的数据库。 
+    - 创建表和关系。 
+    - 使用Transact-SQL进行查询。 
+    - 数据仓库架构拓扑(包括星型和雪花型架构)的一些基本知识。 
+    - 对基本编程结构有一定的了解(例如循环和分支)。
+    需要了解关键业务优先事项(如收入、盈利能力和财务会计)。
+outlineSection: |-
+  ### 模块 1&#58; 商业智能和数据建模简介
+  作为 SQL Server 数据库专业人员，可能需要您参与甚至负责一个旨在实施有效的企业 BI 解决方案的项目。因此，重要的是，你必须对构成 BI 解决方案的各种要素，BI 项目中通常涉及的业务和 IT 人员以及可用于实施解决方案的 Microsoft 产品有充分的了解。
+  #### 课程
+  - 商业智能简介
+  - Microsoft Enterprise BI 平台
+
+
+  #### 实验&#58; 探索 BI 解决方案
+  学完本模块后，您将能够&#58;
+  - 描述典型的 BI 解决方案的元素。 
+  - 为 BI 解决方案选择适当的 Microsoft 技术。
+  - 描述计划 BI 项目的主要注意事项。
+
+
+  ### 模块 2&#58; 创建多维数据库
+  该模块介绍了多维数据库，并介绍了在线分析处理(OLAP)多维数据集的核心组件。
+  #### 课程
+  - 多维分析简介
+  - 创建数据源和数据源视图
+  - 创建一个多维数据集
+  - 多维数据集安全性概述
+
+
+  #### 实验&#58; 创建多维数据库
+  学完本模块后，您将能够&#58;
+  - 描述多维数据库的注意事项。 
+  - 创建数据源和数据源视图。
+  - 创建一个多维数据集。
+  - 在多维数据库中实现安全性。
+
+
+  ### 模块 3&#58; 使用多维数据集和维度
+  本模块描述如何在 Analysis Services 多维数据模型中创建和配置维度和维度层次结构。
+  #### 课程
+  - 配置维度
+  - 定义属性层次结构
+  - 排序和分组层次结构
+
+
+  #### 实验&#58; 使用多维数据集和维度
+  学完本模块后，您将能够&#58;
+  - 配置维度。 
+  - 定义属性层次结构。
+  - 排序和分组属性。
+
+
+  ### 模块 4&#58; 使用度量值和度量值组
+  本模块描述了度量值和度量值组。它还说明如何使用它们来定义事实表并将维度与度量值相关联。
+  #### 课程
+  - 使用度量值
+  - 使用度量值组
+
+
+  #### 实验&#58; 配置度量和度量值组
+  学完本模块后，您将能够&#58;
+  - 配置度量值
+  - 配置度量值组。
+
+
+  ### 模块 5&#58; MDX 简介
+  本模块描述了 MDX 的基础知识，并解释如何构建计算，例如，计算所得成员和命名集。
+  #### 课程
+  - MDX 基础知识
+  - 将计算添加到多维数据集
+  - 使用 MDX 查询多维数据集
+
+
+  #### 实验&#58; 使用 MDX
+  学完本模块后，您将能够&#58;
+  - 描述 MDX。
+  - 将计算添加到多维数据集。
+  - 描述如何在客户端应用程序中使用 MDX。
+
+
+  ### 模块 6&#58; 自定义多维数据集功能
+  本模块描述如何使用关键绩效指标(KPI)、动作、透视图和转换来增强多维数据集。
+  #### 课程
+  - 实施关键绩效指标
+  - 实施动作
+  - 实施透视图
+  - 实施转换
+
+
+  #### 实验&#58; 自定义多维数据集
+  学完本模块后，您将能够&#58;
+  - 实施关键绩效指标。
+  - 实施操作。 
+  - 实施透视图。
+  - 实施转换。
+
+
+  ### 模块 7&#58; 实现 Analysis Services 表格数据模型
+  本模块描述 Analysis Services 表格数据模型，并说明如何为 Visual Studio 商业智能(BI)外接程序使用 SQL Server 数据工具开发表格数据模型。
+  #### 课程
+  - 表格数据模型简介
+  - 创建表格数据模型
+  - 在企业级 BI 解决方案中使用 Analysis Services 表格数据模型
+
+
+  #### 实验&#58; 实现 Analysis Services 表格数据模型
+  学完本模块后，您将能够&#58;
+  - 描述 Analysis Services 表格数据模型项目。 
+  - 实施 Analysis Services 表格数据模型。
+  - 使用 Analysis Services 表格数据模型。
+
+
+  ### 模块 8&#58; 数据分析表达式(DAX)简介
+  本模块说明了 DAX 语言的基础知识。它还说明如何使用 DAX 创建计算的列和度量值，以及如何在表格数据模型中使用它们。
+  #### 课程
+  - DAX 基础知识
+  - 使用 DAX 在表格数据模型中创建计算的列和度量值
+
+
+  #### 实验&#58; 使用 DAX 创建计算的列和度量值
+  学完本模块后，您将能够&#58;
+  - 描述 DAX 的基本原理。
+  - 使用 DAX 创建计算的列和度量值。
+
+
+  ### 模块 9&#58; 使用 SQL Server Reporting Services 实施报告
+  本模块介绍了 Microsoft SQL Server Reporting Services，并讨论了专业 BI 开发人员可以用来创建和发布报告的工具和技术。
+  #### 课程
+  - Reporting Services 简介
+  - 使用 Report Designer 创建报告
+  - 在报告中分组和汇总数据。
+  - 使用图形显示数据
+  - 使用参数过滤报告
+
+
+  #### 实验&#58; 使用 Report Designer 创建报告
+  学完本模块后，您将能够&#58;
+  - 描述 Reporting Services 的主要功能。 
+  - 使用 Report Designer 创建报告。
+  - 在报告中分组和汇总数据。
+  - 发布和查看报告。
+
+
+  ### 模块 10&#58; 自动执行和交付报告
+  本模块描述如何应用安全性和报告执行设置，以及如何创建订阅以交付报告。
+  #### 课程
+  - 管理报告安全
+  - 管理报告执行
+  - 使用订阅和数据警报交付报告
+  - 报告服务故障排除
+
+
+  #### 实验&#58; 实施报告订阅
+  学完本模块后，您将能够&#58;
+  - 配置报告服务器的安全设置。 
+  - 配置报告执行设置以优化性能。 
+  - 使用订阅和警报自动执行报告和数据交付。
+  - 解决报告问题。
+
+
+  ### 模块 11&#58; 通过 SharePoint PerformancePoint Services 交付 BI
+  本模块介绍 Microsoft SharePoint Server 作为 BI 平台，然后重点介绍使用 PerformancePoint Services 构建 BI 仪表板和记分卡。
+  #### 课程
+  - SharePoint Server 作为 BI 平台简介
+  - 规划 SharePoint Server BI 解决方案的安全性
+  - 规划 PerformancePoint Services
+
+
+  #### 实验&#58; 实现 PerformancePoint Services
+  学完本模块后，您将能够&#58;
+  - 描述 SharePoint Server 作为BI平台。
+  - 使用 PerformancePoint Services 交付 BI 功能。
+  - 配置 PerformancePoint Data Sources。
+  - 创建报告、记分卡和仪表板。
+
+
+  ### 模块 12&#58; 使用数据挖掘执行预测分析
+  本模块介绍数据挖掘，描述如何创建数据挖掘解决方案，如何验证数据挖掘模型，如何使用 Microsoft Excel 的数据挖掘加载程序以及如何将数据挖掘结果合并到 Reporting Services 报告中。
+  #### 课程
+  - 数据挖掘概述
+  - 使用 Excel 的数据挖掘加载程序
+  - 创建自定义数据挖掘解决方案
+  - 验证数据挖掘模型
+  - 连接并使用数据挖掘数据
+
+
+  #### 实验&#58; 使用数据挖掘支持营销活动
+  学完本模块后，您将能够&#58;
+  - 描述关键的数据挖掘概念，并使用 Excel 的数据挖掘加载程序。
+  - 创建数据挖掘解决方案。
+  - 验证数据挖掘模型。
+  - 在报告中使用数据挖掘数据。
+

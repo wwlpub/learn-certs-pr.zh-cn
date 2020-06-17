@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Windows Operating System Fundamentals
+metadata:
+  title: 'Exam 98-349: Windows Operating System Fundamentals'
+  description: 'Exam 98-349: Windows Operating System Fundamentals'
+uid: exam.98-349
+displayName: 98-349
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试的考生应该具备 Windows 10 环境中基本的 Windows 操作系统概念方面的知识。
+
+  <div style='font-weight&#58; bold;'><br/>截至 2016 年 8 月 31 日，此考试涉及 Windows 10 的更新，包括删除 Windows 10 不支持的任何工具。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试98-349变更文档。</div>
+subTitle: 本考试的考生应该具备 Windows 10 环境中基本的 Windows 操作系统概念方面的知识。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-349&examname=Windows%20Operating%20System%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-349
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 了解操作系统配置(15-20%)
+- 安装和升级客户端系统(15-20%)
+- 管理应用程序(15-20%)
+- 管理文件和文件夹(15-20%)
+- 管理设备(15-20%)
+- 了解操作系统维护(15-20%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40349
+relatedCertifications:
+- related:
+    uid: certification.mta-windows-operating-system-fundamentals
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+

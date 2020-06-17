@@ -1,0 +1,295 @@
+### YamlMime:Course
+title: Administering Windows Server® 2012
+metadata:
+  title: 'Course 20411-D: Administering Windows Server® 2012'
+  description: 'Course 20411-D: Administering Windows Server® 2012'
+uid: course.20411
+courseNumber: '20411-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 配置域名系统并排除故障
+- skill: 维护 Active Directory 域服务
+- skill: 管理用户和服务账户
+- skill: 实施组策略基础结构
+- skill: 使用组策略管理用户桌面
+- skill: 安装和配置网络策略服务器并对其进行故障排除
+- skill: 实施网络存取保护
+- skill: 实施远程访问
+- skill: 优化文件服务
+- skill: 配置加密和高级审计
+- skill: 部署和维护服务器映像
+- skill: 实施更新管理
+- skill: 监视 Windows Server 2012
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-411
+summary: |-
+  在为期五天的 Microsoft 官方课程中，获得实际操作指导并练习管理 Windows Server 2012，包括 Windows Server 2012 R2本课程是三门课程系列中的第二部分，提供在现有企业环境中实现核心 Windows Server 2012 基础结构所需的技能和知识。 
+
+  这三门课程共同涵盖在 Windows Server 2012 服务器环境下实施、管理、维护和配置及基础结构。尽管这些课程的技能和活动有所交叉，但本课程着重于维护 Windows Server 2012 基础结构所需的管理工作，例如配置名称解析并对其进行故障排除，使用 Active Directory 域服务(AD DS)和组策略进行用户和群组管理，实施远程访问解决方案(例如 DirectAccess、VPN和 WEB 应用程序 PROXY)，实施网络策略和网络存取保护，数据安全性，服务器映像的部署和维护，以及 Windows Server 2012 环境的更新管理和监视。 
+
+  本课程直接对应于 Microsoft Certified Solutions Associate (MCSA)&#58; Exam [411&#58; Administering Windows Server 2012](https://www.microsoft.com/learning/exam-70-411.aspx) 且为其实际备考首选。该考试是 [MCSA&#58; Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx) 认证要求的三项考试中的第二项。 
+
+  本课程中的实验室基于 Windows Server 2012 R2 和 Windows 8.1。
+
+  #### 受众概况
+  本课程适用于具有在 Windows Server 2008或Windows Server 2012 环境中工作经验的信息技术(IT)专业人员，他们希望获得能够管理和维护 Windows Server 2012 和 Windows Server 2012 R2 环境所需的核心基础结构所需的技能和知识。学生的主要重点是扩大 Windows Server 2012 服务和基础架构的初始部署，并提供管理和维护网域型的 Windows Server 2012 环境所需的技能，提供用户和群组管理，网络存取和数据安全等领域的技能 。通常有兴趣参加此课程的应试者将是
+  - 具有与 Windows Server 2008 或 Windows Server 2012 合作经验的 Windows Server 管理员，他们希望获得在 Windows Server 2012 或 Windows Server 2012 R2 环境中执行日常管理和维护工作所需的技能。
+  - 希望参加[411，管理 Windows Server 2012](https://www.microsoft.com/learning/exam-70-411.aspx)测验的 IT 专业人员
+  - 希望在数据中心，桌面基础结构，传讯，共同作业和通讯中参加  Microsoft Certified Solutions Expert(MCSE)测验的 IT 专业人员，在准备 Microsoft Certified Solutions Associate 测验时，也有兴趣参加此课程，这是他们各自专业的先决条件。
+prerequisitesSection: |-
+  参加本课程之前，学生必须具备&#58;
+  - 有关核心 Windows Server 服务(包括 Active Directory 域服务(AD DS)，网络服务和 Microsoft Hyper-V)的初始实施和配置的知识和技能。 
+
+  透过具备等同于或参加课程 [20410D&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/course.aspx?ID=20410D)，因为本课程将根据该课程涵盖的知识和技能建置。
+outlineSection: |-
+  ### 模块 1&#58; 配置域名系统并对其进行故障排除
+  本模块说明如何配置 DNS 和对 DNS 进行故障排除，包括 DNS 复制和缓存。
+  #### 课程
+  - 配置 DNS 服务器角色
+  - 配置DNS区域
+  - 配置 DNS区域传送
+  - 管理 DNS 并对其进行故障排除
+
+
+  #### 实验&#58; 配置 DNS 并对其进行故障排除
+
+  学完本模块后，学生将能够&#58;
+
+  - 安装和配置 DNS 服务器角色
+  - 建立和配置 DNS 区域
+  - 配置DNS 区域传送
+  - 管理 DNS 并对其进行故障排除
+
+
+  ### 模块 2&#58; 维护 Active Directory 域服务
+  本模块说明如何实施虚拟化域控制器和只读域控制器(RODC)。还说明如何执行通用 AD DS 管理工作务和管理 AD DS 数据库。
+  #### 课程
+  - AD DS 概述
+  - 实施虚拟化域控制器
+  - 实施 RODC
+  - 管理 AD DS
+  - 管理 AD DS 数据库
+
+
+  #### 实验&#58; 维护 AD DS
+
+  学完本模块后，学生将能够&#58;
+  - 实施虚拟化域控制器
+  - 实施 RODC
+  - 管理 AD DS
+  - 管理 AD DS 数据库
+
+
+  ### 模块 3&#58; 管理用户和服务账户
+  本模块说明如何建立，配置和自动建立用户帐户。本模块还说明如何配置用户对象的帐户相关属性。本模块进一步说明如何建立和管理托管服务账户。
+  #### 课程
+  - 配置密码原则和用户帐户锁定配置
+  - 配置托管服务账户
+
+
+  #### 实验&#58; 管理用户和服务账户
+
+  学完本模块后，学生将能够&#58;
+  - 配置密码策略和用户帐户锁定配置
+  - 配置托管服务账户
+
+
+  ### 模块 4&#58; 实施组策略基础结构
+  本模块说明如何实施GPO基础结构。本模块还教导如何执行通用 GPO 管理工作以及如何使用 Windows PowerShell 管理GPO。本模块还着重于对 GPO 应用程序进行故障排除。
+  #### 课程
+  - 介绍组策略
+  - 实施和管理 GPO
+  - 组策略范围和组策略处理
+  - 对 GPO 的应用程序进行故障排除
+
+
+  #### 实验&#58; 实施组策略基础结构
+
+  学完本模块后，学生将能够&#58;
+
+  - 说明什么是组策略
+  - 实施和管理组策略对象(GPO)
+  - 管理组策略范围和组策略处理
+  - 排除GPO应用的故障
+
+
+  ### 模块 5&#58; 使用组策略管理用户桌面
+  本模块说明透过管理模板，文件夹重新导向，组策略喜好配置在整个组织中如何使用组策略对象(GPO)来实施桌面环境，以及在适用的情况下使用软件部署来安装和更新应用程序。重要的是要知道如何使用这些各种 GPO 功能，以便您可以正确配置用户计算机配置。
+  #### 课程
+  - 实施管理模板
+  - 配置文件夹重新导向和脚本
+  - 配置组策略喜好配置
+  - 使用组策略管理软件
+
+
+  #### 实验&#58;  使用组策略管理用户桌面
+
+  学完本模块后，学生将能够&#58;
+  - 使用 GPO 配置文件夹重新导向和脚本
+  - 描述和实施管理模板
+  - 配置 GPO 喜好配置
+  - 使用 GPO 部署软件
+
+
+  ### 模块 6&#58; 安装，配置网络策略服务器角色并对其进行故障排除
+  本模块说明如何安装和配置 NPS，RADIUS 客户端和服务器。本模块还描述 NPS 验证方法。本模块介绍 NPS 验证方法以及如何监视 NPS 和对 NPS 进行故障排除。
+  #### 课程
+  - 安装和配置网络策略服务器
+  - 配置 RADIUS 客户端和服务器
+  - NPS 验证方法
+  - 监视网络策略服务器并对其进行故障排除
+
+
+  #### 实验&#58; 安装和配置网络策略服务器
+
+  学完本模块后，学生将能够&#58;
+  - 安装和配置网络策略服务器(NPS)
+  - 使用远程验证拨号用户服务(RADIUS)通讯协议配置客户端和服务器
+  - 说明 NPS 验证方法
+  - 监视 NPS 并对其进行故障排除
+
+
+  ### 模块 7&#58; 实施网络存取保护
+  本模块说明如何配置和监控 NAP 并对其进行故障排除还说明 NAP 如何帮助保护您的网络和各种 NAP 强制流程。
+  #### 课程
+  - 网络存取保护概述
+  - NAP 强制流程概述
+  - 配置 NAP
+  - 为 NAP 配置 IPSec 强制
+  - NAP 监视和故障排除
+
+
+  #### 实验&#58; 实施网络存取保护
+
+  学完本模块后，学生将能够&#58;
+  - 描述 NAP 如何帮助保护您的网络
+  - 描述各种 NAP 强制流程
+  - 配置 NAP
+  - 监视NAP并对其进行故障排除
+
+
+  ### 模块 8&#58; 实施远程访问
+  在本模块中，您将学习如何在 Windows Server 2012 中实施和管理远程访问。您还将学习如何使用入门向导来实施 DirectAccess，实施和管理高级 DirectAccess 基础结构以及实施 VPN。
+  #### 课程
+  - 远程访问概述
+  - 使用入门向导实施 DirectAccess
+  - 实施和管理高级 DirectAccess 基础结构
+  - 实施VPN
+  - 实施 Web 应用程序 Proxy
+
+
+  #### 实验&#58; 使用入门向导实施  DirectAccess
+
+  #### 实验&#58; 部署高级 DirectAccess 解决方案
+
+  #### 实验&#58; 实施 VPN
+
+  #### 实验&#58; 实施 Web 应用程序 Proxy
+
+  学完本模块后，学生将能够&#58;
+  - 在 Windows Server 2012 操作系统中安装和管理远程访问角色
+  - 使用入门向导实施 DirectAccess
+  - 实施和管理高级 DirectAccess 基础结构
+  - 实施 VPN 存取
+  - 实施 Web 应用程序 Proxy
+
+
+  ### 模块 9&#58; 优化文件服务
+  此模块描述 FSRM，配置配额，文件筛选和存储设备报告以及实施分类管理和文件管理任务。描述 DFS 的组件。我还将说明如何配置 DFS 命名空间和 DFS 复制。
+  #### 课程
+  - FSRM 概述
+  - 使用 FSRM 管理配额，文件检测和存储设备报告
+  - 实施分类和文件管理任务
+  - DFS 概述
+  - 配置 DFS 命名空间
+  - 配置 DFS 复制并对其进行故障排除
+
+
+  #### 实验&#58; 使用文件服务器资源管理员配置配额和文件检测
+
+  #### 实验&#58; 实施分布式文件系统
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows Server 2012 操作系统中的文件服务器资源管理员(FSRM)
+  - 使用FSRM 管理配额，文件检测和存储设备报告
+  - 实施分类和文件管理任务
+  - 描述分布式文件系统(DFS)
+  - 配置 DFS 命名空间
+  - 配置 DFS 复制并对其进行故障排除
+
+
+  ### 模块 10&#58; 配置加密和高级审计
+  本模块说明如何使用 EFS 加密文件和配置高级审计功能。
+  #### 课程
+  - 使用 BitLocker 加密磁盘驱动器
+  - 使用 EFS 加密文件
+  - 配置高级审计功能
+
+
+  #### 实验&#58; 配置加密和高级稽核功能
+
+  学完本模块后，学生将能够&#58;
+  - 使用 BitLocker 磁盘驱动器加密来保护数据
+  - 使用加密文件系统(EFS)加密文件
+  - 配置高级审计功能
+
+
+  ### 模块 11&#58; 部署和维护服务器映像
+  本模块说明如何使用 Windows 部署服务建立和管理服务器映像
+  #### 课程
+  - Windows 部署服务概述
+  - 管理映像
+  - 使用 Windows 部署服务实施部署
+  - 管理 Windows 部署服务
+
+
+  #### 实验&#58; 使用 Windows 部署服务部署 Windows Server 2012
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows 部署服务(Windows DS)的重要特征和功能
+  - 使用Windows 评估和部意象具包(Windows ADK)工具管理映像
+  - 在 Windows Server 2012 中配置 Windows 部署服务
+  - 使用 Windows 部署服务执行部署
+
+
+  ### 模块 12&#58; 实施更新管理
+  本模块说明如何使用 Windows Server Update Services(WSUS)将更新部署到 Windows 服务器和客户端。
+  #### 课程
+  - WSUS 概述
+  - 使用WSUS 部署更新
+
+
+  #### 实验&#58; 实施更新管理
+
+  学完本模块后，学生将能够&#58;
+  - 描述 WSUS 的角色
+  - 描述 WSUS 更新管理流程
+  - 使用 WSUS 部署更新
+
+
+  ### 模块 13&#58; 监视 Windows Server 2012
+  本模块说明 Windows Server 2012 中可用的监控工具。本模块还说明如何使用性能监视器和监视事件。
+  #### 课程
+  - 监控工具
+  - 使用性能监视器
+  - 监视事件记录文件
+
+
+  #### 实验&#58;监视 Windows Server 2012
+
+  学完本模块后，学生将能够&#58;
+
+  - 描述 Windows Server 2012 操作系统的监视工具
+  - 使用性能监视器检视和分析其服务器上执行的程序效能统计
+  - 监视事件记录文件以检视和解释记录事件
+

@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Networking Fundamentals
+metadata:
+  title: 'Exam 98-366: Networking Fundamentals'
+  description: 'Exam 98-366: Networking Fundamentals'
+uid: exam.98-366
+displayName: 98-366
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  本考试的考生熟悉一般的网络的概念和技术。考生应具有Windows Server，基于Windows的网络，网络管理工具，DNS，TCP / IP，名称解析过程以及网络协议和拓扑的一些实际操作经验。
+
+  <div style='font-weight&#58; bold;'><br/>截至2018年1月31日，考试更新有效。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试98-366变更文档。</div>
+subTitle: 本考试的考生熟悉一般的网络的概念和技术。考生应具有Windows Server，基于Windows的网络，网络管理工具，DNS，TCP / IP，名称解析过程以及网络协议和拓扑的一些实际操作经验。
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJr
+practiceTestUrl: https://www.mindhub.com/MTA-98-366-Networking-Fundamentals-p/mu-98-366_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-366&examname=Networking%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-366
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 了解网络基础架构(30-35%)
+- 了解网络硬件(20-25%)
+- 了解协议和服务(45-50%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.40032
+- uid: course.40366
+relatedCertifications:
+- related:
+    uid: certification.mta-networking-fundamentals
+resources:
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看和管理您的预约、证书和成绩单。
+  href: ../certification-exam-policies.md
+
