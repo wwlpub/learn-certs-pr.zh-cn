@@ -8,10 +8,10 @@ courseNumber: 'MS-100T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 设计、配置和管理Microsoft 365租户
-- skill: Office 365产品功能
-- skill: 配置Office 365
-- skill: 管理Office 365 ProPlus部署
+- skill: 设计、配置和管理 Microsoft 365 租户
+- skill: Office 365 产品功能
+- skill: 配置 Office 365
+- skill: 管理 Office 365 ProPlus 部署
 - skill: 规划和实现身份同步
 - skill: 实现应用和外部访问
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
@@ -28,107 +28,280 @@ products:
 exams:
 - uid: exam.ms-100
 summary: |-
-  本课程涵盖Microsoft 365企业管理的三个核心要素：Microsoft 365租户和服务管理、Office 365管理和Microsoft 365身份管理。
-  在Microsoft 365租户和服务管理中，您将检查设计Microsoft 365租户时必须规划的所有关键组件。完成此规划阶段后，您将学习如何配置Microsoft 365租户，包括您的组织配置文件、租户订阅选项、组件服务、用户帐户和许可证以及安全组。最后，您将学习如何管理您的租户，其中包括租户角色的配置，以及管理租户的运行状况和服务。
-  现在您的Microsoft 365租户已牢固就位，您将检查Office 365管理的关键组件。首先概述Office 365产品功能，包括Exchange Online、SharePoint Online、Microsoft Teams、其他产品资源和设备管理。然后，您将过渡到配置Office 365，主要关注配置Office客户端到Office 365的连接。最后，您将研究如何管理Office 365 ProPlus部署，从用户驱动的客户端安装到集中的Office 365 ProPlus部署。您将通过学习如何配置Office Telemetry和Microsoft Analytics来结束本节。
-  本课程的最后部分将深入研究Microsoft 365身份同步，重点是Azure活动目录连接。您将学习如何计划和实现Azure AD Connect，如何管理同步身份，以及如何使用多因素身份验证和自助服务密码管理功能在Microsoft 365中实现密码管理。本节最后全面介绍了应用程序和外部访问的实现。您将学习如何在Azure Active Directory中添加和管理应用程序，包括如何配置多租户应用程序。然后，您将研究如何配置Azure AD应用程序代理，包括如何安装和注册连接器以及如何发布用于远程访问的本地应用f程序。最后，您将研究如何为外部访问设计和管理解决方案。这包括Azure AD B2B协作的许可指南、创建协作用户和B2B协作疑难解答。
-  
+  本课程涵盖 Microsoft 365 企业管理的三个核心要素：Microsoft 365 租户和服务管理、Office 365 管理和 Microsoft 365 身份管理。
+  在 Microsoft 365 租户和服务管理中，您将检查设计 Microsoft 365 租户时必须规划的所有关键组件。完成此规划阶段后，您将学习如何配置 Microsoft 365 租户，包括您的组织配置文件、租户订阅选项、组件服务、用户帐户和许可证以及安全组。最后，您将学习如何管理您的租户，其中包括租户角色的配置，以及管理租户的运行状况和服务。
+
+  现在您的 Microsoft 365 租户已牢固就位，您将检查 Office 365 管理的关键组件。首先概述 Office 365 产品功能，包括 Exchange Online、SharePoint Online、Microsoft Teams、Microsoft Power Platform、其他产品资源以及设备管理。然后，您将过渡到配置 Office 365，主要关注 Office 客户端连接的配置。最后，您将研究如何管理 Microsoft 365 企业版应用程序（以前的 Office 365 ProPlus）的部署，从用户驱动的客户端安装到集中部署。您将通过学习如何配置 Office Telemetry 和 Microsoft Analytics 来结束本节。
+
+  本课程的最后部分将深入研究 Microsoft 365 身份同步，重点是Azure活动目录连接。您将学习如何计划和实现 Azure AD Connect，如何管理同步身份，以及如何使用多因素身份验证和自助服务密码管理功能在 Microsoft 365 中实现密码管理。本节最后全面介绍了应用程序和外部访问的实现。您将学习如何在 Azure Active Directory 中添加和管理应用程序，包括如何配置多租户应用程序。然后，您将研究如何配置 Azure AD 应用程序代理，包括如何安装和注册连接器以及如何发布用于远程访问的本地应用f程序。最后，您将研究如何为外部访问设计和管理解决方案。这包括 Azure AD B2B 协作的许可指南、创建协作用户和 B2B 协作疑难解答。
+
   #### 受众概况
-  本课程专为有志成为Microsoft 365企业管理员并已完成Microsoft 365基于角色的管理员证书路径之一的人员设计。
+  本课程专为有志成为 Microsoft 365 Enterprise Admin 并已完成 Microsoft 365 基于角色的管理员证书路径之一的人员设计。
 prerequisitesSection: |-
   - 完成了基于角色的管理员课程，如消息传递、团队协作、安全和合规性或协作。
-  - 熟练理解DNS并对Microsoft 365服务有了基本功能体验。
-  - 熟练理解一般IT实践。
+  - 熟练理解 DNS 并对 Microsoft 365 服务有了基本功能体验。
+  - 熟练理解一般 IT实践。
 outlineSection: |-
-  ### 模块 1&#58; 设计您的Microsoft 365租户
+  ### 模块 1&#58; 设计您的 Microsoft 365 租户
+  本模块着重于规划您的 Microsoft 365 体验。这包括规划正确的 Microsoft 365 订阅、在本地基础架构中规划 Microsoft 365、规划最适合您的组织要求的身份和身份验证解决方案、规划您的服务设置、规划混合环境，以及规划向 Microsoft 365 的迁移。
   #### 课程
-  - 在本地基础架构中规划Microsoft 365
+  - 规划您的 Microsoft 365 体验
+  - 在本地基础架构中规划 Microsoft 365
   - 规划您的身份和身份验证解决方案
   - 规划您的服务设置
   - 规划您的混合环境
-  - 规划到Office 365的迁移
-  
-  ### 模块 2&#58; 配置您的Microsoft 365租户
-  #### 课程
-  - 规划您的Microsoft 365体验
-  - 配置您的Microsoft 365体验
-  - 管理Microsoft 365中的用户帐户和许可
-  - 管理Microsoft 365中的安全组
-  - 实现您的域名服务
-  - 利用FastTrack和合作伙伴服务
-  
-  ### 模块 3&#58; 实验室 1 - 配置您的Microsoft 365租户
-  ### 实验室 &#58; 配置您的Microsoft 365租户
-  - 练习 1 - 设置Microsoft 365试用租户
-  
-  ### 模块 4&#58; 管理您的Microsoft 365租户
-  #### 课程
-  - 配置租户角色
-  - 管理租户健康和服务
-  
-  ### 模块 5&#58; 实验室 2 - 配置您的Microsoft 365租户
-  #### 实验室 &#58; 管理您的Microsoft 365租户
-  - 练习 1 - 管理行政委派
-  - 练习 2 - 配置Office 365消息加密 (OME)
-  - 练习 3 - 监视和排除Office 365故障
+  - 规划到 Office 365 的迁移
 
-  ### 模块 6&#58; Office 365概述
+
+  #### 实验&#58; 过渡到 Microsoft 365
+  - 过渡到 Microsoft 365
+
+  学完本模块后，学生将能够&#58;
+  - 确定哪种 Microsoft 365 订阅服务最符合您组织的要求
+  - 了解如何最好地使用 Microsoft 365 组件服务来满足您的组织需求
+  - 规划 Microsoft 365 租户
+  - 确定成功将现有数据迁移到 Microsoft 365 所需的步骤
+  - 为您的组织准备 Microsoft 365
+  - 估计网络带宽
+  - 使用 Microsoft 提供的工具测试现有网络
+  - 描述集成到 Microsoft 365 的最佳实践
+  - 确定实施 Microsoft 365 服务的不同部署策略
+  - 描述使用或不使用现代身份验证时的身份验证行为
+  - 解释 Microsoft 365 部署中的多因素身份验证
+  - 为目录同步和 Azure AD Connect 传递身份验证创建计划
+  - 描述实施 ADFS 时的问题、益处和最佳实践
+  - 规划 Azure AD 无缝单一登录
+  - 规划电子邮件向 Office 365 的迁移
+  - 规划文件存储和协作要求
+  - 规划 Microsoft Teams 环境
+  - 使用 Azure AD Connect 规划用户和组同步
+  - 为业务环境规划混合 Exchange、SharePoint 和 Skype
+  - 使用部署计划清单规划部署
+  - 分析您的活动目录并使用 ID Fix 工具规划任何必要的清理
+  - 确定用于移动邮件、日历和联系人信息的迁移策略
+  - 描述在规划迁移策略时要考虑的性能和网络问题
+
+
+  ### 模块 2&#58; 配置您的 Microsoft 365 租户
+  虽然模块1侧重于规划您的 Microsoft 365 租户，但此模块将转换为配置您的租户。这包括配置您的 Microsoft 365 体验，包括您的组织配置文件、租户订阅、服务和加载项以及租户配置。然后，您将学习如何管理 Microsoft 365 用户帐户和许可证、安全组和域服务。最后，您将研究如何利用 FastTrack 和合作伙伴服务。
   #### 课程
-  - Exchange Online概述
-  - SharePoint Online概述
-  - Teams概述
+  - 配置您的 Microsoft 365 体验
+  - 管理 Microsoft 365 中的用户帐户和许可
+  - 管理 Microsoft 365 中的安全组
+  - 实现您的域名服务
+  - 利用 FastTrack 和合作伙伴服务
+
+
+  #### 实验&#58; 配置您的 Microsoft 365 租户
+  - 初始化 Microsoft 365 租户
+  - 管理用户和组
+  - 添加客户域
+
+  学完本模块后，学生将能够&#58;
+  - 完成公司的组织配置文件
+  - 为您的公司维持最低订阅要求
+  - 管理您的服务和插件
+  - 描述 Microsoft 365 中的用户身份
+  - 从 Microsoft 365 管理中心和 Windows PowerShell 中创建用户帐户
+  - 管理用户账户和许可证
+  - 恢复已删除的用户账户
+  - 描述 Microsoft 365 中提供的各种类型的组
+  - 从 Microsoft 365 管理中心和使用 Windows PowerShell 创建和管理组
+  - 实现域服务
+  - 为客户域规划 DNS
+  - 为客户域确认 DNS 要求
+  - 向 Microsoft 365 添加客户域
+  - 描述 FastTrack for Microsoft 365 如何帮助客户部署 Microsoft 365
+  - 请合作伙伴协助您完成 FastTrack 流程
+
+
+  ### 模块 3&#58; 管理您的 Microsoft 365 租户
+  在前面的模块中，您学习了如何规划和配置 Microsoft 365 租户。在本模块中，您将学习如何在实现租户后管理租户，从而在部署过程中迈出下一步。这包括配置您的 Microsoft 365 管理员角色、管理租户运行状况和服务，以及管理 Microsoft 365 企业版应用程序（以前的 Office 365 ProPlus）的用户驱动的集中部署。
+  #### 课程
+  - 配置 Microsoft 365 管理员角色
+  - 管理租户健康和服务
+  - 管理用户驱动的客户端安装
+  - 为企业部署管理中心化的 Microsoft 365 应用程序
+
+
+  #### 实验&#58; 管理您的 Microsoft 365 租户
+  - 管理管理委派
+  - 监视 Microsoft 365 并对其进行故障排除
+  - 安装 Microsoft 365 企业版应用程序
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Microsoft 365 中的主要管理角色
+  - 确定主要管理角色的关键职责
+  - 配置租户角色
+  - 在 Microsoft 365 管理中心监视组织的 Microsoft 365 服务运行状况
+  - 制定事件响应计划以处理 Microsoft 365 服务中的事件
+  - 请求 Microsoft 的帮助以解决技术、售前、计费和订阅支持问题
+  - 描述 Microsoft 365 企业版应用程序点击运行技术的工作原理
+  - 描述用于企业授权和激活过程的 Microsoft 365 应用程序
+  - 规划可能适用于您的组织的更新分支
+  - 规划将更新分支应用于用户的方法
+  - 确定阻碍成功安装 Microsoft 365 企业版应用程序的典型障碍
+  - 确定如何防止用户安装 Microsoft 365 企业版应用程序
+  - 使用 Office 部署工具安装和配置 Microsoft 365 企业版应用程序
+  - 使用组策略部署 Microsoft 365 企业版应用程序
+  - 描述如何管理 Microsoft 365 企业版应用程序的更新
+
+
+  ### 模块 4&#58; Office 365 概述
+  此模块检查主要 Microsoft 365 服务的基本特性和功能，包括Exchange Online、SharePoint Online、Teams、Power Apps、Power Automate、Power BI 和 Power Virtual Agents。本模块还向您介绍其他 Microsoft 365 资源，并介绍使用 Microsoft Intune 进行设备管理、安全基线和条件访问。
+  #### 课程
+  - Exchange Online 概述
+  - SharePoint Online 概述
+  - Teams 概述
+  - Power 平台概述
+  - Power 应用概述
+  - Power Automate 概述
+  - Power BI 概述
+  - Power Virtual Agents 概述
   - 额外资源概述
   - 设备管理概述
 
 
-  ### 模块 7;实验室 3 - Office 365概述
-  ### 实验室 &#58; Office 365概述
-  - 练习 1 - Exchange Online概述
-  - 练习 2 - SharePoint Online概述
-  - 练习 3 - Teams概述
+  #### 实验&#58; Office 365 功能回顾
+  - 回顾 Exchange Online 的主要特性
+  - 回顾 SharePoint Online 的主要特性
+  - 在 SharePoint 创建工单系统
+  - 回顾 Microsoft Teams 的主要特性
+  - 探索 Power Platform 管理中心
+  - 从 SharePoint 数据源创建 Power 应用程序
+  - 从零开始创建 Power 应用程序
+  - 使用 Power Automate 创建工作流
+  - 使用 Power Automate 创建DLP策略
+  - 建立 Power BI 报告和控制面板
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Exchange Online 中最常见的收件人类型
+  - 管理 Exchange Online 中的反恶意软件和反垃圾邮件策略
+  - 规划您所在组织的与公司和用户电子邮件相关的灾难恢复需求
+  - 确定有助于您管理组织电子邮件生命周期的保留标记和策略
+  - 描述迁移和共存策略并了解它们之间的差异
+  - 为您的组织选择正确的邮件迁移策略
+  - 确定要在 Office 365 迁移中更改域的 DNS MX 记录的时间
+  - 描述在混合 Exchange 环境中将邮箱迁移到 Office 365 的不同方法
+  - 确定组织应在 SharePoint Online 中使用的权限级别
+  - 描述 SharePoint Online 中静态数据和传输数据的加密级别
+  - 描述用于维护和恢复内网中内容的 SharePoint 联机选项
+  - 描述在 SharePoint Online 中提供反恶意软件保护的不同选项
+  - 描述基本的 Teams 功能和支持其目标的基础设施
+  - 描述 Teams与Office 365 中的其他协作应用程序的区别
+  - 管理 Office 365 管理中心和 PowerShell 中的用户许可证，以提供Teams访问权限
+  - 描述通过访问 Microsoft Teams 中的 Guess 所提供的功能
+  - 描述 Microsoft Teams 中提供的音频会议功能
+  - 管理音频会议的用户设置
+  - 实现 Microsoft Teams 中的的电话系统
+  - 确定构成 Power Platform 产品系列的组件
+  - 描述 Power Platform 管理中心的基本功能
+  - 描述什么是 Power 应用程序，包括它们的业务影响和主要组件
+  - 描述 Power 应用程序如何连接到数据源
+  - 创建基本的 Power 应用程序
+  - 测试和监视 Power 应用程序
+  - 运行 Power 应用程序
+  - 描述 Power 应用程序的安全结构
+  - 使用 Power Automate 构建和运行基本工作流
+  - 管理 Power Automate
+  - 建立和共享 Power BI 报告和控制面板
+  - 管理 Power BI
+  - 解释什么是 Power Virtual Agents，以及它们如何让团队能够轻松创建强大的机器人
+  - 描述 Power Virtual Agents 的关键特性
+  - 描述设备管理如何使组织能够保护其资源和数据的安全性
+  - 描述组织如何使用 Microsoft Intune 保护专有数据
+  - 管理安全基线以保护设备
+  - 使用条件访问管理设备和应用程序
 
 
-  ### 模块 8&#58; 配置Office 365
+  ### 模块 5&#58; 配置 Microsoft 365 客户端
+  本模块向您介绍 Microsoft 365 客户端，包括移动客户端和脱机工作的客户端。此模块还将检查如何配置 Office 客户端到 Microsoft 365 的连接，包括自动客户端配置、自动客户端配置所需的 DNS 记录、配置 Outlook 客户端、配置 MFA 以及客户端连接故障排除。
   #### 课程
-  - Office 365客户端概述
-  - 配置Office Client到Office 365的连接
+  - Microsoft 365 客户端概述
+  - 配置 Office 客户端到 Microsoft 365 的连接
+
+  学完本模块后，学生将能够&#58;
+  - 确定 Microsoft 365 支持的客户端软件包
+  - 确定 Microsoft 365 支持的移动客户端
+  - 确定每个移动客户端平台可用的 Microsoft 365 功能
+  - 比较 Office Online、Microsoft 365 企业版应用程序和 Office 2016 Professional Plus
+  - 使用 Office Online 应用程序
+  - 描述 Outlook 如何利用自动发现(Autodiscover)功能最初将 Outlook 客户端连接到 Exchange Online
+  - 确定 Outlook 使用自动发现功能在 Office 365 中定位服务所需的 DNS 记录
+  - 描述使 Outlook 能够连接到 Office 365 的连接协议
+  - 描述 MFA 如何通过添加额外的用户验证层来提高安全性
 
 
-  ### 模块 9&#58; 管理Office 365 ProPlus部署
+  ### 模块 6&#58; 捕获用户驱动的数据
+  本模块研究如何使用 Office 遥测和工作区分析捕获用户驱动的数据。
   #### 课程
-  - 管理用户驱动的客户端安装
-  - 管理中心化的Office 365 ProPlus部署
-  - 配置Office Telemetry
-  - 配置Microsoft Analytics
+  - 配置 Office Telemetry
+  - 配置工作区分析
+
+  学完本模块后，学生将能够&#58;
+  - 确定 Office 遥测控制面板的五个组件
+  - 描述关闭部署时可能遇到的典型部署需求和问题
+  - 描述 Office 遥测代理收集的数据类型
+  - 安装和配置 Office 遥测
+  - 描述工作场所分析如何帮助组织
+  - 描述组织如何使用工作场所分析
+  - 配置工作区分析
+  - 在 Workplace Analytics 中注册设备
+  - 使用 Workplace Analytics 评估准备情况
 
 
-  ### 模块 10&#58; 实验室 4 - 管理Office 365 ProPlus安装
-
-  ### 实验室 &#58; 管理Office 365 ProPlus安装
-  - 练习 1 - 准备Office 365 ProPlus托管安装
-  - 练习 2 - 管理中心化的Office 365 ProPlus安装
-  - 练习 3 - 部署和配置Office Telemetry组件
-
-
-  ### 模块 11&#58; 规划和实现身份同步
+  ### 模块 7&#58; 规划和实现身份同步
+  本模块将深入研究 Microsoft 365 Identity 同步，重点是 Azure AD Connect。您将学习如何规划和实现 Azure AD Connect，如何管理已同步身份，以及如何使用多因素身份验证和自助服务密码管理功能在 Microsoft 365 中实现密码管理。
   #### 课程
   - 身份同步简介
-  - 规划Azure AD Connect
-  - 实现Azure AD Connect
+  - 规划 Azure AD Connect
+  - 实现 Azure AD Connect
   - 管理已同步的身份
-  - Microsoft 365中的密码管理
+  - Microsoft 365 中的密码管理
 
 
-  ### 模块 12&#58; 实验室 5 - 实现身份同步
+  #### 实验&#58; 管理身份
+  - 准备身份同步
+  - 实现身份同步
+  - 实施密码管理
 
-  #### 实验室 &#58; 实现身份同步
-  - 练习 1 - 为您的组织设置身份同步
-  - 练习 2 - 实现身份同步
+  学完本模块后，学生将能够&#58;
+  - 描述 Microsoft 365 身份认证选项
+  - 解释目录同步
+  - 概述 Azure AD Connect
+  - 规划目录同步，以将本地活动目录对象同步到 Azure AD
+  - 规划 Azure AD Connect 的实施
+  - 规划多林场景中的 Azure AD Connect
+  - 配置 Azure AD Connect 先决条件
+  - 设置 Azure AD Connect
+  - 描述 Azure AD Connect 运行状况
+  - 执行任务，以确保用户高效同步并成功部署 Azure AD Connect
+  - 使用目录同步管理组
+  - 使用 Azure AD Connect 同步安全组将 Azure AD Connect 中的控制权委派给其他用户
+  - 使用各种故障排除任务和工具排除目录同步故障
+  - 描述 Microsoft 365 中可用的密码管理功能
 
 
-  ### 模块 13&#58; 实现应用程序和外部访问
+  ### 模块 8&#58; 实现应用程序和外部访问
+  本模块概述如何实现应用程序和外部访问。您将学习如何在 Azure Active Directory 中添加和管理应用程序，包括如何配置多租户应用程序。然后，您将研究如何配置 Azure AD 应用程序代理，包括如何安装和注册连接器以及如何发布用于远程访问的本地应用f程序。最后，您将研究如何为外部访问设计和管理解决方案。这包括 Azure AD B2B 协作的许可指南、创建协作用户和 B2B协作疑难解答。
   #### 课程
-  - 在Azure AD中实现应用程序
-  - 配置Azure AD应用程序代理
-  - 设计外部访问解决方案
+  - 在 Azure AD 中实现应用程序
+  - 配置 Azure AD 应用程序代理
+  - 外部访问解决方案
+
+  学完本模块后，学生将能够&#58;
+  - 在 Azure AD 租户中注册应用程序或服务
+  - 在 Azure AD 许可框架中更新应用程序
+  - 修改单租户应用程序的配置，使其成为多租户应用程序
+  - 从 Azure AD 租户中删除应用程序注册
+  - 描述 Azure AD 应用程序代理的优点及其工作原理
+  - 确定 Azure AD 应用程序代理先决条件
+  - 安装并注册连接器并验证其安装是否正确
+  - 发布本地应用程序以进行远程访问，并测试已发布的应用程序以验证其功能
+  - 使用 Azure AD B2B 协作管理外部访问。
+  - 解释 Microsoft 365 外部访问和 Azure AD B2B 协作之间的区别
+  - 解释协作用户的属性。
+  - 演示 Azure B2B 协作
+  - 使用 Microsoft Teams 管理外部访问和来宾访问
+  - 管理客户密码箱请求
 

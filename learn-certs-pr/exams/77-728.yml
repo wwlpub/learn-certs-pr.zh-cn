@@ -1,28 +1,26 @@
 ### YamlMime:Examination
 title: 'Excel 2016 Expert: Interpreting Data for Insights'
 metadata:
-  title: '考试 77-728: Excel 2016 Expert: Interpreting Data for Insights'
-  description: '考试 77-728: Excel 2016 Expert: Interpreting Data for Insights'
+  title: 'Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights'
+  description: 'Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights'
 uid: exam.77-728
 displayName: 77-728
-summary: >
+summary: |+
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+
   Excel 2016 考试的专家级考生应透彻了解 Excel 环境，并有能力指导他人正确使用程序的各种功能。
 
+  他们能够创建、管理和分发适合多种专门用途和场合的专业电子表格。他们还能够自定义 Excel 环境来满足项目需求和提高生产力。专家级工作簿示例包括自定义业务模板、多轴财务图表、摊销表格以及库存计划。考生的角色包括会计师、财务分析师、数据分析师、商业银行家等。
 
-  他们能够创建、管理和分发适合多种专门用途和场合的专业电子表格。他们还能够自定义 Excel 环境来满足项目需求和提高生产力。专家级工作簿示例包括自定义业务模板、多轴财务图表、摊销表格以及清单计划。考生的角色包括会计师、财务分析师、数据分析师、商业银行家等。
-
-
-  微软办公专家（MOS）2016认证考试引入了一种新的实践式考试形式，改进了对考生的 MOS 2016 课题的知识、技能和能力的考察&#58;
-
+  Microsoft Office Specialist (MOS) 2016认证考试引入了一种新的实践式考试形式，改进了对考生的 MOS 2016 课题的知识、技能和能力的考察&#58;
   - MOS 2016 考试任务说明通常不像以前的版本一样包括命令名称。例如，避免使用函数名称并用描述符取代。这意味着考生必须了解程序功能的目的和常用用法，才能成功完成每个课题中的任务。
-
   - MOS 2016 考试格式合并了多个课题。
 subTitle: Excel 2016 考试的专家级考生应透彻了解 Excel 环境，并有能力指导他人正确使用程序的各种功能。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Aw
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -56,7 +54,8 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
+

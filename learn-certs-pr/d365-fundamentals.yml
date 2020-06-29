@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   证明您了解 Microsoft Dynamics 365；人工智能；混合现实；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
 subTitle: '证明您了解 Microsoft Dynamics 365；人工智能（AI）；混合现实（MR）；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。'
@@ -31,7 +31,7 @@ exams:
 - uid: exam.mb-901
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Dynamics 365 Fundamentals。'
+  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Fundamentals。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
