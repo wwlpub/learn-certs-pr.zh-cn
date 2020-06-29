@@ -46,7 +46,7 @@ ms.author: micsullivan
 
 [**了解详情**](/learn/certifications/certification-exam-policies)
 
-## 常见问题解答
+## <a name="frequently-asked-questions"></a>常见问题解答
 
 **问题.什么是考试重播？**
 
