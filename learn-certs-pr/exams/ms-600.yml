@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
 
   参加此考试的考生是Microsoft 365 Developer，他们设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案针对使用Microsoft 365平台的组织生产力和协作需求进行了优化。
 
@@ -22,7 +22,6 @@ locales:
 levels:
 - intermediate
 skills:
-- '注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。'
 - 实施 Microsoft Identity (20-25%)
 - 使用Microsoft Graph构建应用(20-25%)
 - 扩展和自定义SharePoint(20-25%)
@@ -43,7 +42,7 @@ relatedCertifications:
     uid: certification.m365-developer-associate
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Developer Associate.'
+  description: '发现培训资源以获得Microsoft Certified: Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

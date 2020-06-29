@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Azure AI Fundamentals
+metadata:
+  title: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+  description: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+uid: course.ai-900t00
+courseNumber: 'AI-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述人工智能工作负荷和注意事项
+- skill: 描述 Azure 上机器学习的基本原理
+- skill: 描述 Azure 上的计算机视觉工作负荷的功能
+- skill: 描述Azure上自然语言处理（NLP）工作负荷的特性
+- skill: 描述 Azure 上的对话式 AI 工作负荷的功能
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+exams:
+- uid: exam.ai-900
+summary: |-
+  本课程介绍与人工智能（AI）相关的基本概念，以及 Microsoft Azure 中可用于创建人工智能解决方案的服务。这门课程的目的不是教学生成为专业的数据科学家或软件开发人员，而是培养他们对通用人工智能工作负荷的认识，以及识别支持它们的 Azure 服务的能力。本课程是一个混合的学习体验，结合了教师指导的培训和微软学习平台(https://azure.com/learn)上的在线材料。本课程的实践练习以学习单元为基础，鼓励学生以学习内容为参考材料，强化课堂所学内容，更深入地探索主题。
+
+  #### 受众概况
+  Azure 人工智能基础课程是为有兴趣了解人工智能（AI）解决方案的类型，以及用于创建这些解决方案的 Microsoft Azure 服务的任何人士设计的。在上这门课之前，您无须具备任何使用 Microsoft Azure 的经验，但是必须对计算机技术和互联网有基本的了解。本课程所涉及的一些概念需要对数学有基本的理解，例如解释图表的能力。本课程包括实际操作，涉及到处理数据和运行代码，因此，有关基本编程原理的知识将很有帮助。
+prerequisitesSection: |-
+  熟悉电脑和网络浏览器的使用。
+outlineSection: |-
+  ### 模块 1&#58; AI 简介
+  在本模块中，您将了解人工智能（AI）的常见用途，以及与人工智能相关联的不同类型的工作负荷。然后，您将探索负责任的人工智能开发的注意事项和原理。
+  #### 课程
+  - Azure 中的人工智能
+  - 负责任的人工智能
+  
+  学完本模块后，您将能够&#58;
+  - 描述人工智能工作负荷和注意事项
+
+
+  ### 模块 2&#58; 机器学习
+  机器学习是现代人工智能解决方案的基础。在本模块中，您将了解一些基本的机器学习概念，以及如何使用 Azure 机器学习服务创建和发布机器学习模型。
+  #### 课程
+  - 机器学习简介
+  - Azure 机器学习
+  
+  学完本模块后，您将能够&#58;
+  - 描述 Azure 上机器学习的基本原理
+  
+
+  ### 模块 3&#58; 计算机视觉
+  计算机视觉是人工智能的一个领域，它通过图像、视频文件和相机来处理对世界的视觉理解。在本模块中，您将探索多种计算机视觉技术和服务。
+  #### 课程
+  - 计算机视觉概念
+  - Azure 中的计算机视觉
+  
+  学完本模块后，您将能够&#58;
+  - 描述 Azure 上的计算机视觉工作负荷的功能
+
+
+  ### 模块 4&#58; 自然语言处理
+  本模块描述了能够处理书面和口头语言的人工智能解决方案的场景。您将了解 Azure 服务，这些服务可用于构建分析文本、识别和合成语音、在语言之间转换和解释命令的解决方案。
+  
+  
+  学完本模块后，您将能够&#58;
+  - 描述Azure上自然语言处理（NLP）工作负荷的特性
+
+
+  ### 模块 5&#58; 会话人工智能
+  会话人工智能使用户能够通过电子邮件、网络聊天界面、社交媒体和其他通信渠道与人工智能代理（即*机器人*）进行对话。本模块描述了使用机器人的一些基本原理，并为您提供了创建一个机器人的机会，该机器人可以智能地响应用户的问题。
+  #### 课程
+  - 会话机器人概念
+  - Azure 中的会话机器人
+
+  学完本模块后，您将能够&#58;
+  - 描述 Azure 上的对话式 AI 工作负荷的功能
