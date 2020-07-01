@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本考试面向执行安装、维护和配置任务的数据库专业人员。其他职责包括设置数据库系统、确保那些系统高效地运作以及定期存储、备份数据并防止数据未经授权的访问。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
 locales:
 - en
 - zh-cn

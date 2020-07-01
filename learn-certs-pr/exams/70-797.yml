@@ -20,7 +20,7 @@ summary: |-
 subTitle: 这门考试考察考生在构建可靠的身份、内容保护(数据丢失防护)、移动设备管理策略、使用 Hyper-V 虚拟化、使用公司门户和 Windows 应用商店管理应用程序方面具备的基本知识和技能。将考察考生对 Windows 10 安全和集成 Azure 功能的了解程度。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
 locales:
 - en
 levels:

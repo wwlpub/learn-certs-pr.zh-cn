@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本考试面向商业智能 (BI) 架构师，他们负责 BI 基础结构的整体设计以及它如何与正在使用的其他数据系统相关联。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
 locales:
 - en
 - zh-cn
