@@ -14,7 +14,6 @@ summary: |-
 subTitle: Microsoft SharePoint 2013 考试的考生应对 SharePoint 环境有透彻的认识，应能执行所有网站级任务。他们应该了解 SharePoint 2013 的主要网站、库和列表功能，并能展示自身正确应用这些功能的能力。考生应能优化和自定义 SharePoint 网站，从而提供结构、解决问题、促进协作、提高生产力。应用示例包括管理列表权限、在快速启动中添加内容、创建工作组网站和修改库视图。考生的角色包括技术支持人员、项目经理、团队主管、部门主管等。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-419&examname=Microsoft%20SharePoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-419
 locales:
 - en
 levels:
