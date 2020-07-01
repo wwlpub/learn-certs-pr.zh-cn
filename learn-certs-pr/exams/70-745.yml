@@ -18,7 +18,7 @@ summary: |-
 subTitle: 本考试的考生是IT专业人员，他们负责使用 Windows Server 2016 和 Microsoft System Center 2016 虚拟机管理器(SCVMM)实施软件定义数据中心(SDDC)。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
 locales:
 - en
 levels:

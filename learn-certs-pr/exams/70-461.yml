@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本考试面向具有两年或以上经验、希望检验其编写查询的技能和知识的 SQL Server 数据库管理员、系统工程师和开发人员。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
 locales:
 - en
 - zh-cn
