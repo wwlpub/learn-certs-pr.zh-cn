@@ -14,7 +14,7 @@ summary: |-
 subTitle: 本考试的考生应该很好地了解如何使用Power BI来执行数据分析。考生应该精通使用Microsoft Power BI Desktop来连接数据源和数据转换、建模和可视化数据，以及使用 Power BI 服务配置控制面板。考生还应精通实现与Microsoft SQL Azure和SQL Server 分析服务(SSAS)的直接连接，并在Microsoft Excel中执行数据分析。考生可能会包括BI专业人员，数据分析师以及负责使用 Power BI 创建报告的其他角色。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
 locales:
 - en
 levels:

@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本考试面向关注创建 BI 解决方案的商业智能 (BI) 开发人员，这些解决方案要求实施多维数据模型、实施和维护 OLAP 多维数据集以及创建在业务决策中使用的信息显示。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
 locales:
 - en
 - zh-cn

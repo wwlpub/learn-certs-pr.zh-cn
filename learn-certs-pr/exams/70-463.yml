@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本考试主要面向创建商业智能 (BI) 解决方案以及其职责包括数据清理、提取转换加载和数据仓库实施的 ETL 和数据仓库开发人员。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
 locales:
 - en
 - zh-cn

@@ -16,7 +16,7 @@ summary: |-
 subTitle: 本考试的考生是向大型组织销售许可解决方案的销售专家。此类别中的组织机构通常具有 250 个或更多设备或用户。考生应具有至少6个月销售Microsoft许可解决方案的经验，以及对所有Microsoft企业许可解决方案(包括企业协议，企业订购协议，云解决方案提供商(CSP)，MPSA，OEM，开放和开放价值)有基本了解。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=70-705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
 locales:
 - en
 - zh-cn
