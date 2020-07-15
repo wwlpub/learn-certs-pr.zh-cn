@@ -1,9 +1,11 @@
 - name: Microsoft 认证
   href: index.yml
-- name: 优惠
+- name: Offers
   href: deals.md
 - name: 批量许可
   href: volume-licensing-program.md
+- name: Microsoft Learning Partners
+  href: partners.md
 - name: 已经停用的认证、考试和课程
   expanded: false
   items:
@@ -13,13 +15,19 @@
     href: retired-certification-exams.md 
   - name: 已停用课程
     href: retired-courses.md
-- name: 成为 Microsoft Certified Trainer
+- name: 成为 Microsoft 认证讲师
   href: mct-certification.md
 - name: 关于 Microsoft 认证考试
   href: certification-exams.md
+- name: Microsoft考试和认证徽章
+  href: badges.md
 - name: 关于在线考试
   href: online-exams.md
 - name: 考试政策和常见问题
   href: certification-exam-policies.md
 - name: 认证帮助
   href: help.md
+- name: Microsoft 认证计划常见问题 
+  href: microsoft-certification-program-faqs.md
+- name: 迁移 Microsoft Learning...
+  href: learnfaq.md

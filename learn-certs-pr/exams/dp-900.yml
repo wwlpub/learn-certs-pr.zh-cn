@@ -9,6 +9,7 @@ summary: "<div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的�
 subTitle: '证明您可以描述以下内容：核心数据概念；如何在 Azure 上使用关系数据；如何在 Azure 上使用非关系数据以及 Azure 上的分析工作负荷。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
 locales:
 - en
 levels:
@@ -23,6 +24,8 @@ roles:
 - database-administrator
 products:
 - azure
+paths:
+- uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals
