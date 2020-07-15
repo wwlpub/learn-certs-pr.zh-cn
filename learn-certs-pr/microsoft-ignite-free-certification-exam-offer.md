@@ -23,28 +23,36 @@ ms.author: micsullivan
 
 ## <a name="how-to-claim-your-free-exam"></a> 您如何申领免费考试
 
-以下是有关如何取得免费考试的分步说明。请注意，如果您是该活动的团体注册者，请确保您的活动注册个人资料完整。如果您是 Microsoft Ignite 2019 出席者，请前往活动注册个人资料，前往 [https://register.ignite.microsoft.com](https://register.ignite.microsoft.com) 或者请前往 [ https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/)城市名称，例如 [https://reigster.msignite-the-tour.microsoft.com/london](https://reigster.msignite-the-tour.microsoft.com/london)如果您是 MS Ignite The Tour London 的出席者。
+以下是有关如何取得免费考试的分步说明。
 
-**步骤 1：** 选择任何一项 [符合优惠条件的考试](#eligible-exams-for-this-offer) ，然后单击“安排考试”按钮以开始在线注册流程。  
-![安排考试](images/step-1-2x.png)
+**步骤 1：** 选择任一[符合资格的考试](#eligible-exams-for-this-offer)并单击“安排考试”按钮开始在线注册过程。  
+![安排考试](images/step1.png)
 
 **步骤 2：** 登录访问您已有的 Microsoft 认证个人资料或使用 Microsoft 账户建立一个。  
 ![使用 Microsoft 账户登录](images/step-2-2x.png)
 
 **步骤 3：** 一旦登录，请确认认证个人资料中的详细信息正确无误。  
-![在 Microsoft 认证个人资料中确认详细信息](images/step-3-2x.png)
+![在 Microsoft 认证个人资料中确认详细信息](images/step3.png)
 
 **步骤 4：** 单击认证档案页面底部的“保存并继续”按钮，转到“考试折扣”页面。  
 ![单击认证个人资料页面底部的保存并继续按钮](images/step-4-2x.png)
 
-**步骤 5：** 在“考试折扣”页面上，选择您已经参加的活动，然后单击“验证帐户”按钮。  
-![单击考试折扣页面中的验证帐户按钮](images/step-5-2x.png)
+**步骤 5：** 在“考试折扣”页面上，输入用于注册活动的电子邮件(例如 alias@company.com 或 alias@outlook.com)。  
+![输入用于注册活动的电子邮件](images/step5-1-enter-email.png)
 
-**步骤 6：** 验证帐户时，您必须使用与活动注册时的社交帐户进行身份验证(注意：如果您在注册活动时使用Microsoft帐户，则必须使用相同的Microsoft帐户登录访问认证档案以安排考试。如果这导致有两个认证个人资料，[联络 Microsoft 认证支持论坛](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) 以便完成您认证考试后，合并您的个人资料)。  
-![使用相同的社交账户认证以验证账户](images/step-6-2x.png)
+**步骤 6：** 如果您有资格取得考试折扣，您所输入的电邮地址将收到一封确认电子邮件。您必须输入在该电子邮件中收到的密码才能继续。如果您没有收到电子邮件，则可以重新发送代码。  
+![输入收到电子邮件中的密码](images/step6-enter-passcode.png)
 
-**步骤 7：** 请按照以下屏幕上的步骤进行操作，并提供所需的详细信息以安排考试时间。在结帐期间，请确认应付的总金额为 $0.00并提交订单。  
-![提供安排考试所需的详细信息](images/step-7-2x.png)
+**步骤 7：** 输入正确的密码后，系统会要求您关联您的账户。您必须同意关联您的账户才能取得折扣。  
+![链接账户以取得折扣](images/step7-linkmodal.png)
+
+下次登录时，如果您有资格取得其中一个账户的考试折扣，则折扣将自动显示。要移除账户，请转到[认证仪表板](https://aka.ms/certdashboard) ，然后单击“编辑您的认证数据”。
+
+**步骤 8：** 您会在顶部看到折扣弹出。选择您要申请的折扣，然后单击安排考试按钮以继续并结账。  
+![选择折扣，然后单击安排考试按钮以继续](images/step8-coupon.png)
+
+**步骤 9：** 按照以下屏幕上的步骤进行操作，并提供安排考试所需的详细信息。在结账过程中，验证应付款总额为 $0.00 并提交订单。  
+![连结账户以取得折扣](images/step9.png)
 
 **认证支持：**
 
