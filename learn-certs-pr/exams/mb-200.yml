@@ -7,8 +7,8 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的内容于2020年5月1日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年7月1日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
   本考试的考生是对企业已授权产品的特性和功能有访问权限的功能顾问。作为功能顾问，考生了解各个版本的捆绑特性，但并非主要使用这些捆绑产品进行工作。
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试的内容于2020年5月1日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 此考试的内容于2020年7月1日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 执行发现、规划和分析(5-10%)
 - 管理用户体验设计(20-25%)
 - 管理实体和数据(15-20%)

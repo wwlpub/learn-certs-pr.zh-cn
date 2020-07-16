@@ -8,10 +8,10 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div><strong>此考试的内容于 2020 年 5 月 28 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
+  <div><strong>此考试的内容于2020年5月28日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
-  参加该考试的考生应具有有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。
+  参加该考试的考生应具有有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。
 
   Azure Fundamentals 考试提供了证明了解云端概念、核心 Azure 服务、Azure 定价、SLA 和生命周期，以及具有云安全性、隐私权、合规性和信任方面的基础。
 
@@ -23,12 +23,12 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
-- providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer  
 locales:
 - en
 - ja
@@ -37,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- 此考试的内容于 2020 年 5 月 28 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 此考试的内容于2020年5月28日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 描述云端概念 (15-20%)
 - 描述核心 Azure 服务 (30-35%)
 - 描述安全性、隐私权、合规性和信任 (25-30%)
@@ -50,7 +50,10 @@ courses:
 - uid: course.az-900t01
 - uid: course.az-900t00
 paths:
-- uid: learn.cloud-foundations
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals

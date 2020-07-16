@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Analyzing Data with Power BI
+title: Analyzing Data with Microsoft Power BI
 metadata:
-  title: 'Course DA-100T00-A: Analyzing Data with Power BI'
-  description: 'Course DA-100T00-A: Analyzing Data with Power BI'
+  title: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
+  description: 'Course DA-100T00-A: Analyzing Data with Microsoft Power BI'
 uid: course.da-100t00
 courseNumber: 'DA-100T00-A'
 hoursToComplete: 120
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.da-100
 summary: |-
-  本课程将讨论与使用 Power BI 建模，可视化和分析数据的业务和技术要求相一致的各种方法和最佳实践。本课程还将展示如何访问和处理来自一系列数据源的数据，包括关系数据和非关系数据。本课程还将探讨如何在 Power BI 范围内（包括数据集和组）实施适当的安全标准和策略。本课程还将讨论如何管理和部署用于共享和内容分发的报告和控制面板。最后，本课程将展示如何在 Power BI 服务中构建分页的报表，并将其发布到工作区以包含在 Power BI 中。
+  本课程将于 2020 年 7 月 24 日发布。本课程将讨论与使用 Power BI 建模，可视化和分析数据的业务和技术要求相一致的各种方法和最佳实践。本课程还将展示如何访问和处理来自一系列数据源的数据，包括关系数据和非关系数据。本课程还将探讨如何在 Power BI 范围内（包括数据集和组）实施适当的安全标准和策略。本课程还将讨论如何管理和部署用于共享和内容分发的报告和控制面板。最后，本课程将展示如何在 Power BI 服务中构建分页的报表，并将其发布到工作区以包含在 Power BI 中。
 
   #### 受众概况
   本课程的受众是想要学习如何使用 Power BI 准确执行数据分析的数据专业人员和商业智能专业人员。本课程还面向那些开发报告的人员，这些报告可以视觉效果来自云端和内部部署中的数据平台技术的数据。
@@ -40,7 +40,7 @@ outlineSection: |-
   - 识别数据分析师的任务
 
 
-  #### 实验室 &#58; 入门
+  #### 实验室&#58;入门
   - 入门
 
   学完本模块后，学生将能够&#58;
@@ -58,7 +58,7 @@ outlineSection: |-
   - 数据分析
 
 
-  #### 实验室 &#58; 在 Power BI Desktop 中准备数据
+  #### 实验室&#58; 在 Power BI Desktop 中准备数据
   - 准备数据
 
   学完本模块后，学生将能够&#58;
@@ -79,7 +79,7 @@ outlineSection: |-
   - 配置数据加载和解决错误
 
 
-  #### 实验室 &#58; 在 Power BI Desktop 中加载数据
+  #### 实验室&#58; 在 Power BI Desktop 中加载数据
   - 加载数据中
 
   学完本模块后，学生将能够&#58;
@@ -97,7 +97,7 @@ outlineSection: |-
   - 模型性能
 
 
-  #### 实验室 &#58; Power BI Desktop中的数据建模
+  #### 实验室&#58; Power BI Desktop中的数据建模
   - 创建模型关系
   - 配置表
   - 查看模型接口
@@ -119,7 +119,7 @@ outlineSection: |-
   - 问答注意事项
 
 
-  #### 实验室 &#58; 高级数据建模
+  #### 实验室&#58; 高级数据建模
   - 建立一对多关系
   - 加强行级安全性
 
@@ -139,11 +139,11 @@ outlineSection: |-
   - 时间智能功能
 
 
-  #### 实验室 &#58; 在 Power BI 中使用 DAX - 第 1 部分
+  #### 实验室&#58; 在 Power BI 中使用 DAX - 第 1 部分
   - 创建计算表
   - 建立量值
 
-  #### 实验室 &#58; 在 Power BI 中使用 DAX - 第 2 部分
+  #### 实验室&#58; 在 Power BI 中使用 DAX - 第 2 部分
   - 使用筛选器内容
   - 使用时间智能
   - 发布 Power BI Desktop 文件
@@ -178,7 +178,7 @@ outlineSection: |-
   - 完善报告
 
 
-  #### 实验室 &#58; 在 Power BI Desktop 中设计报告 - 第1部分
+  #### 实验室&#58; 在 Power BI Desktop 中设计报告 - 第1部分
   - 创建报告
   - 登录到 Power BI 服务
 
@@ -197,7 +197,7 @@ outlineSection: |-
   - 改善报告
 
 
-  #### 实验室 &#58; 在 Power BI Desktop 中设计报告 - 第 2 部分
+  #### 实验室&#58; 在 Power BI Desktop 中设计报告 - 第 2 部分
   - 配置同步交叉分析筛选器
   - 配置钻研
   - 添加条件式格式设置
@@ -219,7 +219,7 @@ outlineSection: |-
   - 控制面板增强
 
 
-  #### 实验室 &#58; 建立 Power BI 控制面板。
+  #### 实验室&#58; 建立 Power BI 控制面板。
   - 创建控制面板
   - 刷新数据集
   - 查看控制面板
@@ -241,7 +241,7 @@ outlineSection: |-
   - 高级分析
 
 
-  #### 实验室 &#58; Power BI Desktop 中的数据分析
+  #### 实验室&#58; Power BI Desktop 中的数据分析
   - 创建报告
   - 创建散点图
   - 建立预测
@@ -266,7 +266,7 @@ outlineSection: |-
   - 共享和分发内容
 
 
-  #### 实验室 &#58; 发布和共享Power BI内容
+  #### 实验室&#58; 发布和共享Power BI内容
   - 配置数据集安全
   - 共享控制面板
   - 发布 APP
@@ -288,7 +288,7 @@ outlineSection: |-
   - 完善和发布报告
 
 
-  #### 实验室 &#58; 创建分页报告
+  #### 实验室&#58; 创建分页报告
   - 入门
   - 编制报告
 
