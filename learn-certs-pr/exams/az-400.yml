@@ -6,14 +6,16 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年6月15日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年6月15日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
-  本考试的考生是将人员、过程和技术相结合以便持续提供满足最终用户需求和商业目标的 DevOps 专业人士。通过优化实务、改进沟通和协作并建立自动化，DevOps 专业人士可以简化交付过程。他们为允许持续集成、测试、持续交付以及监控和反馈的应用代码和基础架构设计并实施策略。
+  参加该考试的考生应具有与人员，流程和技术一起工作的主题专业知识，以不断交付业务价值。
 
-  考生必须精通敏捷 (Agile) 实务。他们必须熟悉 Azure 管理和 Azure 开发，并且至少是这些领域其中之一的专家。Azure DevOps 专业人士必须能够通过使用 Azure 技术设计和实施 DevOps 实务，以便实现版本控制、合规性、架构即代码、配置管理、版本构建、发布和测试。
-subTitle: '此考试评估您设计DevOps策略并实施以下各项的能力：DevOps开发流程；依赖关系管理；应用程序基础架构；以及持续集成、交付和反馈。'
+  担任此角色的职责包括设计和实施协作、代码、基础结构、源代码控制、安全性、合规性、持续整合、测试、交付、监视和反馈的策略。
+
+  他们必须熟悉  Azure  管理和 Azure 开发，并且至少精通其中一个领域。
+subTitle: '这项考试衡量您完成以下技术任务的能力：制定规范策略；制定站点可靠性工程(SRE)策略；制定安全和合规计划；管理源代码控制；促进沟通与协作；定义并实施持续整合；并定义并实施持续的交付和发布管理策略。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,14 +28,14 @@ locales:
 levels:
 - advanced
 skills:
-- 考试内容将于2020年6月15日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 设计 DevOps 策略(20-25%)
-- 实现 DevOps 开发过程(20-25%)
-- 实施持续集成(10-15%)
-- 实施连续交付(10-15%)
-- 实施依赖管理(5-10%)
-- 实施应用基础设施(15-20%)
-- 实施持续反馈(10-15%)
+- 此考试的内容于2020年6月15日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 制定规范策略 (5-10%)
+- 制定站点可靠性设计(SRE)策略(5-10%)
+- 制定安全和合规计划(10-15%)
+- 管理源代码管理 (10-15%)
+- 促进沟通与协作(10-15%)
+- 定义并实施持续整合 (20-25%)
+- 定义并实施持续的交付和发布管理策略(10-15%)
 roles:
 - devops-engineer
 products:

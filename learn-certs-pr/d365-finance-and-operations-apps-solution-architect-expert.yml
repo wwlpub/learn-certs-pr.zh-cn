@@ -2,14 +2,14 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: Microsoft Dynamics 365中财务和运营应用程序的解决方案架构师是受信任的顾问，他们与组织和实施团队成员进行磋商，以将业务需求精简为定义明确且具有成本效益的解决方案。
+  description: Microsoft Dynamics 365 中财务和运营应用程序的解决方案架构师是受信任的顾问，他们了解业务推荐的实践，软件功能和实施交付，因此他们可以带领实施团队成员实施可以实现预定义实施目标的 Dynamics 解决方案。
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
-  Microsoft Dynamics 365中财务和运营应用程序的解决方案架构师是受信任的顾问，他们与组织和实施团队成员进行磋商，以将业务需求精简为定义明确且具有成本效益的解决方案。
-subTitle: Microsoft Dynamics 365中财务和运营应用程序的解决方案架构师是受信任的顾问，他们与组织和实施团队成员进行磋商，以将业务需求精简为定义明确且具有成本效益的解决方案。
+  Microsoft Dynamics 365 中财务和运营应用程序的解决方案架构师是受信任的顾问，他们了解业务推荐的实践，软件功能和实施交付，因此他们可以带领实施团队成员实施可以实现预定义实施目标的 Dynamics 解决方案。
+subTitle: Microsoft Dynamics 365 中财务和运营应用程序的解决方案架构师是受信任的顾问，他们了解业务推荐的实践，软件功能和实施交付，因此他们可以带领实施团队成员实施可以实现预定义实施目标的 Dynamics 解决方案。
 levels:
 - advanced
 skills:
@@ -17,6 +17,7 @@ skills:
 - 设计解决方案组件
 - 定义解决方案测试和管理策略
 roles:
+- functional-consultant
 - solution-architect
 type: role-based
 products:

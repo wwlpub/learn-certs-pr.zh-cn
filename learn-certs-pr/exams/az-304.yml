@@ -6,35 +6,42 @@ metadata:
 uid: exam.az-304
 displayName: AZ-304
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
 
-  该考试的考生是 Azure Solution 架构师，他们提供咨询，并将业务需求转换成安全、可扩展和可靠的解决方案。
+  参加该考试的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。
 
-  考生应该具有跨 IT 操作的资深经验和知识，包括网络、虚拟化、标识、安全性、业务连续性、灾难恢复、数据平台、预算和治理。这个角色需要管理每个区域中的决策如何影响整体解决方案。
+  Azure 解决方案架构师的职责包括为利益相关者提供建议，并将业务需求转换为安全、可扩充且可靠的云端解决方案。
 
-  考生必须具有 Azure 管理方面的专家级技能，并且具有 Azure 开发流程和 DevOps 流程的相关经验。
+  Azure 解决方案架构师与云端管理员，云端 DBA 和客户端合作以实施解决方案。
 
-  <div style='font-weight&#58; bold;'><br/>注意：此项考试将于2020年6月29日左右推出。</div>
+  参加该考试的考生应具有 IT 运营的高级经验和知识，包括网络、虚拟化、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应具有 Azure 管理方面的专家级技能，并具有 Azure 开发和 DevOps 流程的经验。
+
+  <div style='font-weight&#58; bold;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></div>
 subTitle: '这项考试衡量您完成以下技术任务的能力：设计监控；设计身份和安全性；设计数据存储；设计业务连续性；和设计基础架构。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 levels:
 - advanced
 skills:
-- 设计监控(10 -15%)
-- 设计身份和安全性(25 -30%)
-- 设计数据存储(15 -20%)
+- 设计监控(10-15%)
+- 设计身份和安全性(25-30%)
+- 设计数据存储(15-20%)
 - 设计业务连续性 (10-15%)
 - 设计 基础结构 (25-30%)
 roles:
 - solution-architect
 products:
 - azure
+exams:
+- uid: exam.az-303
+courses:
+- uid: course.az-304t00
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.azure-solutions-architect
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

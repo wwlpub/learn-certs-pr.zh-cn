@@ -6,7 +6,7 @@ metadata:
 uid: exam.98-365
 displayName: 98-365
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
 
   本考试的考生熟悉Windows Server管理的概念和技术。考生应具有一些Windows Server、基于Windows的网络、活动目录、帐户管理以及系统恢复工具和概念方面的实践经验。
 
@@ -14,7 +14,11 @@ summary: |-
 subTitle: 本考试的考生熟悉Windows Server管理的概念和技术。考生应具有一些Windows Server、基于Windows的网络、活动目录、帐户管理以及系统恢复工具和概念方面的实践经验。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjL
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-365&examname=Windows%20Server%20Administration%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-365
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -31,12 +35,12 @@ locales:
 levels:
 - beginner
 skills:
-- 了解服务器安装(10-15%)
-- 了解服务器角色 (25-30%)
-- 了解活动目录(20-25%)
-- 了解存储 (10-15%)
-- 了解服务器性能管理 (10-15%)
-- 了解服务器维护 (15-20%)
+- 了解服务器安装(10–15%)
+- 了解服务器角色 (25–30%)
+- 了解活动目录(20–25%)
+- 了解存储 (10–15%)
+- 了解服务器性能管理 (10–15%)
+- 了解服务器维护 (15–20%)
 roles:
 - administrator
 products:

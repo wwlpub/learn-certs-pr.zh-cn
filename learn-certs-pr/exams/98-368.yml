@@ -6,7 +6,7 @@ metadata:
 uid: exam.98-368
 displayName: 98-368
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
 
   本考试的考生具有Windows设备和移动性的基本知识。考生应具备一些关于Windows设备、基于Windows的网络、活动目录、反恶意软件产品、防火墙、网络拓扑和设备以及网络端口的实践经验。
 
@@ -15,7 +15,11 @@ subTitle: 本考试的考生具有Windows设备和移动性的基本知识。考
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy9
 practiceTestUrl: https://www.mindhub.com/MTA-98-368-Mobility-and-Devices-Fundamentals-p/mu-98-368_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn

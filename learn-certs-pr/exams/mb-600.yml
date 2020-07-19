@@ -6,7 +6,10 @@ metadata:
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于2020年7月30日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  </div>
 
   Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
 
@@ -22,6 +25,7 @@ locales:
 levels:
 - advanced
 skills:
+- 考试内容将于2020年7月30日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
 - 执行解决方案构想和需求分析(30-35%)
 - 架构解决方案(45-50%)
 - 实施解决方案(20-25%)
@@ -39,7 +43,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
+  description: 发现培训资源以获得Microsoft认证：Dynamics 365 + Power Platform Solution Architect Expert.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -6,7 +6,7 @@ metadata:
 uid: exam.98-381
 displayName: 98-381
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
 
   本考试的考生应该能够识别和编写语法正确的 Python代码，识别 Python支持的数据类型，并能够识别和编写将在逻辑上解决给定问题的 Python代码。
 
@@ -15,7 +15,11 @@ subTitle: 本考试的考生应该能够识别和编写语法正确的 Python代
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
 practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja

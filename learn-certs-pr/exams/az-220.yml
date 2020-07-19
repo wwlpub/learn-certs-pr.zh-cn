@@ -7,8 +7,8 @@ uid: exam.az-220
 displayName: AZ-220
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的内容于 2020 年 5 月 28 日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于2020年7月21日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
   </div>
 
   参加该考试的考生应具有主题知识，可以开发 Azure IoT 解决方案的云端和边缘组件。
@@ -30,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试的内容于 2020 年 5 月 28 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 考试内容将于2020年7月21日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
 - 实施物联网解决方案基础架构(15-20%)
 - 设置和管理设备(20-25%)
 - 实施边缘(15-20%)

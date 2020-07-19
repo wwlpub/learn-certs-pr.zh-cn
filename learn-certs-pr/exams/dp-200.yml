@@ -5,7 +5,17 @@ metadata:
   description: 'Exam DP-200: Implementing an Azure Data Solution'
 uid: exam.dp-200
 displayName: DP-200
-summary: "<div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>\r\n  \r\n此考试的考生是 Microsoft Azure 数据工程师，他们与业务利益相关者合作，以识别和满足数据要求，实现使用 Azure 数据服务的数据解决方案。\r\n\r\n Azure 数据工程师负责与数据相关的实施任务，包括配置数据存储服务、提取流和批量数据、转换数据，实施安全要求，实施数据保留策略，识别性能瓶颈以及访问外部数据源。\r\n\r\n参加该考试的考生必须能够实施使用以下Azure服务的数据解决方案：Azure Cosmos DB，Azure SQL数据库，Azure Synapse Analytics(以前称为Azure SQL DW)，Azure Data Lake Storage，Azure数据工厂，Azure流分析，Azure数据块和Azure Blob存储。"
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于2020年7月31日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  </div>
+
+  此考试的考生是 Microsoft Azure 数据工程师，他们与业务利益相关者合作，以识别和满足数据要求，实现使用 Azure 数据服务的数据解决方案。
+
+  Azure 数据工程师负责与数据相关的实施任务，包括配置数据存储服务、提取流和批量数据、转换数据，实施安全要求，实施数据保留策略，识别性能瓶颈以及访问外部数据源。
+
+  参加该考试的考生必须能够实施使用以下Azure服务的数据解决方案：Azure Cosmos DB，Azure SQL数据库，Azure Synapse Analytics(以前称为Azure SQL DW)，Azure Data Lake Storage，Azure数据工厂，Azure流分析，Azure数据块和Azure Blob存储。
 subTitle: '该考试衡量您完成以下技术任务的能力：实施数据存储解决方案；管理和开发数据处理；并监控和优化数据解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
@@ -19,6 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 考试内容将于2020年7月31日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
 - 实施数据存储解决方案(40-45%)
 - 管理和开发数据处理(25-30%)
 - 监控和优化数据解决方案(30-35%)
