@@ -12,9 +12,8 @@ summary: |-
 subTitle: 考试的典型候选人是需要创建或维护基本 Access 数据库的用户支持专业人员、培训师、教师、教授、数据库用户或数据库创建者。用户可以创建，修改和扩展基本数据库对象的功能，包括表，查询，表单和报表。用户还可以构建和修改数据库实体之间的基本关系，并可以在基本的 Access 功能和用法中指导其他人。Access 2010 用户通常可以有效地创建、修改和定制对象。该考生能够独立地在数据库项目上工作，并且经常可以回答其他人关于数据库的问题。考生应该知道并演示如何创建或修改简单的 Access 数据库并使用模板来创建基本对象。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
 locales:
-- en
 - zh-cn
 - zh-tw
 - de
@@ -22,6 +21,7 @@ locales:
 - ja
 - ko
 - nl
+- ar-sa
 - pt-br
 levels:
 - beginner

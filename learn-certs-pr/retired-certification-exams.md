@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # 计划停用的考试
 
-查看将于未来 12 个月内停用的考试(按技术排列)。(下面的信息随时可能更改。)
+查看将于未来 12 个月内停用的考试(按技术排列）。(下面的信息随时可能更改。）
 
 | 2021年1月31日停用 | |
 | --- | --- |
@@ -73,25 +73,26 @@ ms.author: micsullivan
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
-| 2020年6月30日停用 | |
-| --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
-
 ## 最近停用的考试
 
 用于参考，去年内停用的考试将包括一个链接，该链接可在为期12个月内链接到他们的考试详细页面。
 
-| ITPro/Developer| | |
+|基於角色| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019年6月30日
-| AZ-200 | Microsoft Azure Developer Core Solutions (2018年9月24日发布)| 2019年1月3日
-| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018年9月24日发布)| 2019年1月3日
-| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日发布)| 2019年3月31日
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018年9月24日发布）| 2019年1月3日
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018年9月24日发布）| 2019年1月3日
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日发布）| 2019年3月31日
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019年6月30日
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019年9月30日
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 2019年9月30日
+
+<br/>
+
+| ITPro/Developer| | |
+| --- | --- | --- |
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 2017年12月31日
 | 70-247 | Configuring and Deploying a Private Cloud | 2017年12月31日
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 2019年3月31日
@@ -130,6 +131,7 @@ ms.author: micsullivan
 | [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019年7月31日
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 2017年12月31日
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 2018年7月31日
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 2020年6月30日
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019年9月30日
 | [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019年8月7日
 
@@ -251,14 +253,14 @@ ms.author: micsullivan
 | 70-444 | TS: Bing Maps Platform, Application Development | 2011年12月31日
 | 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 2011年6月30日
 | 70-446 | PRO: Designing a Business Intelligence Solution by Using Microsoft SQL Server 2005 | 2011年6月30日
-| 70-447 | UPGRADE: MCDBA Skills to MCITP Database Administrator by Using Microsoft SQL Server 2005 | 2011年6月30日
+| 70-447 | 升级: MCDBA Skills to MCITP Database Administrator by Using Microsoft SQL Server 2005 | 2011年6月30日
 | 70-448 | Microsoft SQL Server 2008, Business Intelligence ‒ Development and Maintenance | 2016年7月31日
 | 70-450 | PRO: Designing, Optimizing, and Maintaining a Database Administrative Solution Using Microsoft SQL Server 2008 | 2015年7月31日
 | 70-451 | PRO: Designing Database Solutions and Data Access Using Microsoft SQL Server 2008 | 2015年7月31日
 | 70-452 | PRO: Microsoft SQL Server 2008, Designing a Business Intelligence Solution | 2013年7月31日
-| 70-453 | Upgrade: Transition Your MCITP SQL Server 2005 DBA to MCITP SQL Server 2008 | 2012年7月31日
-| 70-454 | Upgrade: Transition Your MCITP SQL Server 2005 DBD to MCITP SQL Server 2008 DBD | 2012年7月31日
-| 70-455 | Upgrade: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 2012年7月31日
+| 70-453 | 升级: Transition Your MCITP SQL Server 2005 DBA to MCITP SQL Server 2008 | 2012年7月31日
+| 70-454 | 升级: Transition Your MCITP SQL Server 2005 DBD to MCITP SQL Server 2008 DBD | 2012年7月31日
+| 70-455 | 升级: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 2012年7月31日
 | 70-457 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012，第1部分 | 2016年7月31日
 | 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012，第2部分 | 2016年7月31日
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016年1月31日
@@ -288,8 +290,8 @@ ms.author: micsullivan
 | 70-515 | TS: Web Applications Development with Microsoft .NET Framework 4 | 2016年7月31日
 | 70-516 | TS: Accessing Data with Microsoft .NET Framework 4 | 2016年7月31日
 | 70-517 | Recertification for MCSD: SharePoint Applications | 2017年3月31日
-| 70-521 | Upgrade: Transition your MCPD .NET Framework 3.5 Windows Developer Skills to MCPD .NET Framework 4 Windows Applications Developer | 2014年7月31日
-| 70-523 | Upgrade: Transition your MCPD .NET Framework 3.5 Web Developer Skills to MCPD .NET Framework 4 Web Developer | 2014年7月31日
+| 70-521 | 升级: Transition your MCPD .NET Framework 3.5 Windows Developer Skills to MCPD .NET Framework 4 Windows Applications Developer | 2014年7月31日
+| 70-523 | 升级: Transition your MCPD .NET Framework 3.5 Web Developer Skills to MCPD .NET Framework 4 Web Developer | 2014年7月31日
 | 70-526 | TS: Microsoft .NET Framework 2.0 – Windows-Based Client Development | 2011年6月30日
 | 70-528 | TS: Microsoft .NET Framework 2.0 – Web-Based Client Development | 2011年6月30日
 | 70-529 | TS: Microsoft .NET Framework 2.0 – Distributed Application Development | 2011年6月30日
@@ -302,24 +304,24 @@ ms.author: micsullivan
 | 70-547 | PRO: Designing and Developing Web-Based Applications by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-548 | PRO: Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-549 | PRO: Designing and Developing Enterprise Applications by Using the Microsoft .NET Framework | 2011年6月30日
-| 70-551 | UPGRADE: MCAD Skills to MCPD Web Developer by Using the Microsoft .NET Framework | 2011年6月30日
-| 70-552 | UPGRADE: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 2011年6月30日
-| 70-553 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 第1部分| 2011年6月30日
-| 70-554 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 第1部分| 2011年6月30日
+| 70-551 | 升级: MCAD Skills to MCPD Web Developer by Using the Microsoft .NET Framework | 2011年6月30日
+| 70-552 | 升级: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 2011年6月30日
+| 70-553 | 升级: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 第1部分| 2011年6月30日
+| 70-554 | 升级: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 第1部分| 2011年6月30日
 | 70-555 | TS: Microsoft Office Groove 2007, Configuring | 2011年6月30日
 | 70-556 | TS: Microsoft Office PerformancePoint Server 2007, Applications | 2011年6月30日
 | 70-557 | TS: Microsoft Forefront Client and Server, Configuring | 2011年6月30日
-| 70-558 | UPGRADE: MCAD Skills to MCTS Windows Applications by Using the Microsoft .NET Framework | 2011年6月30日
-| 70-559 | UPGRADE: MCAD Skills to MCTS Web Applications by Using the Microsoft .NET Framework | 2011年6月30日
+| 70-558 | 升级: MCAD Skills to MCTS Windows Applications by Using the Microsoft .NET Framework | 2011年6月30日
+| 70-559 | 升级: MCAD Skills to MCTS Web Applications by Using the Microsoft .NET Framework | 2011年6月30日
 | 70-561 | TS: Microsoft .NET Framework 3.5, ADO.NET Application Development | 2013年7月31日
 | 70-562 | TS: Microsoft .NET Framework 3.5, ASP.NET Application Development | 2013年7月31日
 | 70-563 | Pro: Designing and Developing Windows Applications Using the Microsoft .NET Framework 3.5 | 2013年7月31日
 | 70-564 | PRO: Designing and Developing ASP.NET Applications Using the Microsoft .NET Framework 3.5 | 2013年7月31日
 | 70-565 | PRO: Designing and Developing Enterprise Applications Using the Microsoft .NET Framework 3.5 | 2013年7月31日
-| 70-566 | UPGRADE: Transition your MCPD Windows Developer Skills to MCPD Windows Developer 3.5 | 2012年7月31日
-| 70-567 | UPGRADE: Transition your MCPD Web Developer Skills to MCPD ASP.NET Developer 3.5 | 2012年7月31日
-| 70-568 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 1 | 2012年7月31日
-| 70-569 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 2 | 2012年7月31日
+| 70-566 | 升级: Transition your MCPD Windows Developer Skills to MCPD Windows Developer 3.5 | 2012年7月31日
+| 70-567 | 升级: Transition your MCPD Web Developer Skills to MCPD ASP.NET Developer 3.5 | 2012年7月31日
+| 70-568 | 升级: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 1 | 2012年7月31日
+| 70-569 | 升级: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 2 | 2012年7月31日
 | 70-571 | TS: Microsoft Windows Embedded CE 6.0 Application Development | 2013年7月31日
 | 70-573 | TS: Microsoft SharePoint 2010, Application Development | 2016年7月31日
 | 70-576 | PRO: Designing and Developing Microsoft SharePoint 2010 Applications | 2016年7月31日
@@ -411,11 +413,11 @@ ms.author: micsullivan
 | 74-924 | Microsoft Office Communications Server 2007 R2 – U.C.Voice Specialization | 2010年10月31日
 | 77-891 | Office 365| 2014年12月31日
 | 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 2011年9月30日
-| 88-961 | MCM: SharePoint Server 2010: 第1周| 2013年8月25日
-| 88-962 | MCM: SharePoint Server 2010: 第2周| 2013年8月25日
-| 88-963 | MCM: SharePoint Server 2010: 第3周| 2013年8月25日
-| 88-972 | MCM: SharePoint Server 2010: Lab Exam | 2013年8月25日
-| 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 2013年8月25日
+| 88-961 | MCM：SharePoint Server 2010: 第1周| 2013年8月25日
+| 88-962 | MCM：SharePoint Server 2010: 第2周| 2013年8月25日
+| 88-963 | MCM：SharePoint Server 2010: 第3周| 2013年8月25日
+| 88-972 | MCM：SharePoint Server 2010: Lab Exam | 2013年8月25日
+| 88-973 | MCM：SharePoint Server 2010, Knowledge Upgrade Exam | 2013年8月25日
 | 88-965 | Windows Server 2008 R2: Directory Knowledge Exam | 2014年1月1日
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014年1月1日
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014年1月1日
@@ -568,5 +570,5 @@ ms.author: micsullivan
 | MB7-846 | NAV 2009 Relationship Management | 2014年6月30日
 | MB7-848 | NAV 2009 Service Management | 2014年6月30日
 | MB7-849 | NAV 2009 Manufacturing | 2014年6月30日
-| MB7-849 | NAV 2009-Produktion(丹麦语)| 2014年6月30日
-| MB7-849 | NAV 2009-Produktion(德语)| 2014年6月30日
+| MB7-849 | NAV 2009-Produktion(丹麦语）| 2014年6月30日
+| MB7-849 | NAV 2009-Produktion(德语）| 2014年6月30日

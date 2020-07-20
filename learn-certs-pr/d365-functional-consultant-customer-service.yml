@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: '面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。'
+  description: 面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
 subTitle: 面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
@@ -30,10 +30,7 @@ products:
 - dynamics
 - dynamics-customer-service
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 - uid: course.mb-230t01
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -46,14 +43,14 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
+- uid: learn-dynamics.create-forms
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
 - uid: exam.mb-200
 - uid: exam.mb-230
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Customer Service Functional Consultant Associate.
+  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

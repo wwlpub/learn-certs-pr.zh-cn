@@ -6,19 +6,13 @@ metadata:
 uid: exam.77-422
 displayName: 77-422
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-
-  MOS 2013 Microsoft PowerPoint 学习指南发布时间：2013 年 10 月
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
 
   学习如何使用 PowerPoint 展示您的专业知识。使用此一体化学习指南，练习并准备 2013 PowerPoint Microsoft Specialist(MOS)考试。找到完整，客观的客观考试报道，以及易于遵循的程序和插图，以审查基本技能。另外，亲自动手练习，应用你学到的东西。该指南包括可下载的练习文件。
-
-  在 Microsoft Press Store 购买此书
-
-  本考试面向使用 Office 构建安全、灵活的应用程序的 IT 专业人员。
 subTitle: '本考试面向使用 Office 构建安全、灵活的应用程序的 IT 专业人员。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
 locales:
 - en
 - zh-cn
@@ -34,6 +28,7 @@ locales:
 - pl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:

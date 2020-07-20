@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 Marketing Functional Consultants 实施的解决方案可吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递并提供营销洞察。'
+  description: Microsoft Dynamics 365 Marketing Functional Consultants 实施的解决方案可吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递并提供营销洞察。
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   Microsoft Dynamics 365 Marketing Functional Consultants 实施的解决方案可吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递并提供营销洞察。
 subTitle: Microsoft Dynamics 365 Marketing Functional Consultants 实施的解决方案可吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递并提供营销洞察。
@@ -37,6 +37,13 @@ courses:
 - uid: course.mb-200t00
 - uid: course.mb-220t00
 paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.get-started-portals
+- uid: learn-dynamics.work-with-portals
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
 - uid: learn-dynamics.manage-events-dynamics-marketing
@@ -47,7 +54,7 @@ exams:
 - uid: exam.mb-220
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Marketing Functional Consultant Associate。
+  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Administering Relational Databases on Microsoft Azure
+metadata:
+  title: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+  description: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+uid: course.dp-300t00
+courseNumber: 'DP-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 计划、部署和配置 Azure SQL 产品
+- skill: 监视数据库效能并调整数据库和查询以获得最佳效能
+- skill: 规划并实施高可用性解决方案
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+exams:
+- uid: exam.dp-300
+summary: |-
+  本课程向学生提供知识和技能，以管理用于云端、内部和混合关系数据库的 SQL Server 数据库基础结构，并与 Microsoft PaaS 关系数据库产品一起使用。此外，它对开发从基于 SQL 的关系数据库传递内容的应用程序的个人有用。
+
+  #### 受众概况
+  本课程的读者是管理数据和数据库的数据专业人员，他们想要学习有关管理 Microsoft Azure 上可用的数据平台技术的知识。对于需要了解哪些技术可用于 Azure 数据平台以及如何通过应用程序使用这些技术的数据架构师和应用程序开发人员来说，本课程也很有价值。
+prerequisitesSection: |-
+  除了专业经验外，参加此培训的学生还应具有与以下课程相当的技术知识&#58;
+  - Azure Fundamentals
+  - Azure Data Fundamentals
+outlineSection: |-
+  ### 模块 1&#58; Azure数据库管理员的角色
+  本模块探讨Azure中数据库管理员的角色。它还提供了一些与总体内容相关的基础信息。其中包括对各种基于 SQL Server 的选项(VM，受控实例和 Azure SQL 数据库中的 SQL Server）的回顾。学生将了解为什么在 Azure 中使用 SQL 数据库时兼容性级别是至关重要的概念。除了基于 SQL Server 的数据库平台外，还向学生介绍了Azure上可用的其他数据库平台，特别是 PostgreSQL和 MySQL 
+  #### 课程
+  - Azure 资料平台角色
+  - Azure 数据库平台和选项
+  - SQL Server 兼容性级别
+  - Azure 预览功能
+
+
+  #### 实验 &#58; 使用 Azure 入口和 SQL Server Management Studio
+  - 在 Azure 虚拟机上提供 SQL Server
+  - 连接到 SQL Server 并还原备份
+
+  完成本单元后，学生将&#58;
+  - 了解适合其他数据平台角色的 Azure 数据库管理员角色
+  - 能够描述基于 SQL Server 的数据库操作之间的关键区别
+  - 能够描述版本和兼容性级别之间的差异
+  - 了解如何启用和禁用预览功能 
+
+
+  ### 模块 2&#58; 规划和实施资料平台资源 
+  本模块介绍了在 Azure 中部署数据平台资源的方法。您将了解有关将现有 SQL 数据库升级和迁移到 Azure 的选项。您将学习如何设置 Azure 资源以在虚拟机，受控实例，Azure SQL 数据库以及 PostgreSQL 或 MySQL 上受控 SQL Server。您将学习如何根据特定需求(包括高可用性和灾难恢复(HADR）需求）确定最佳选择。他们将学习计算资源需求并为他们的部署建立模板。
+  #### 课程
+  - 使用 IaaS 部署 SQL Server
+  - 使用 PaaS 部署 SQL Server
+  - 在 Azure 上部署开源数据库解决方案
+
+  #### 实验 &#58; 部署 Azure SQL 数据库
+  - 使用 ARM 模板部署 VM
+  - 在建立数据库之前配置所需的资源
+  - 部署Azure SQL數據庫
+  - 在 Azure Data Studio 中注册 Azure SQL 数据库实例并验证连接
+  - 使用客户端工具部署 PostgreSQL 或 MySQL 以验证连接性
+
+  完成本单元后，学生将&#58;
+  - 使用手动方法部署资源
+  - 根据需求推荐合适的数据库
+  - 配置数据库资源
+  - 评估并实施将数据库移至 Azure 的策略
+
+
+  ### 模块 3&#58; 实施一个安全环境
+  本模块探讨保护 SQL Server 数据库以及 Azure SQL 数据库的做法。这包括对各种基于 SQL Server 的选项以及用于保护 Azure SQL 数据库以及驻留在 Azure SQL 数据库中的数据库的各种 Azure 选项的回顾。 学生将了解为什么在使用数据库时安全性至关重要。 除了基于 SQL Server 的数据库平台外，还将向学生介绍Azure上可用的其他数据库平台，尤其是用于 MariaDB / MySQL / PostgreSQL 的 Azure 数据库。
+  #### 课程
+  - 配置数据库身份验证
+  - 配置数据库授权
+  - 为静态数据实施安全性
+  - 为运输中的数据实施安全性
+  - 实施敏感数据的合规控制
+
+  #### 实验 &#58; 实施一个安全环境
+  - 使用 Azure 入口配置基于服务器的防火墙规则
+  - 授权使用 Azure Active Directory 存取 Azure SQL 数据库
+  - 启用高级数据安全性和数据分类
+  - 管理对数据库对象的存取
+
+  完成本单元后，学生将&#58;
+  - 了解 Windows、SQL Server 和 Azure Active Directory 身份验证之间的区别
+  - 描述和配置静态数据加密解决方案以及传输中的数据加密
+  - 实施资料存储解决方案
+
+
+  ### 模块 4&#58; 监控和优化运营资源
+  本模块将教您有关使用IaaS或PaaS服务建立的数据库的资源优化的信息。该模块还涵盖监视服务器和硬件资源。它将使您熟悉可用于监视效能和建立基准的各种工具。您将学习如何解释最关键资源的效能指标。您还将学习如何使用 Azure SQL Database Intelligent Insights 对数据库效能进行故障排除。
+  #### 课程
+  - 基准和效能监测
+  - 效能问题的主要原因
+  - 配置资源以获得最佳效能
+  - 用户数据库配置
+  - 与效能相关的维护任务
+
+  #### 实验 &#58; 监视及优化资源
+  - 隔离CPU问题
+  - 使用查询存储观察阻塞问题
+  - 检测并纠正碎片问题
+
+  完成本单元后，学生将&#58;
+  - 监控活动并与基线进行比较
+  - 定义与效能相关的维护任务
+  - 确定效能问题的主要原因
+  - 配置资源以获得最佳效能
+  - 配置用户数据库以获得最佳效能
+
+
+  ### 模块 5&#58; 优化查询效能
+  查询执行计划可能是数据库效能最重要的方面。改进不良计划无疑是一个这样领域&#58;只需少量的努力就可以带来巨大的改进。虽然硬件问题可能会限制查询效能，但改善硬件通常最多只能将效能提高 10-20％。更常见的是，数据库管理员会遇到未经优化的查询，统计信息陈旧或丢失，索引丢失或数据库设计选择不当，导致数据库引擎完成比返回给定查询结果所需的更多工作。改进计划有时可以使效能提高 100-200％ 甚至更多，这意味着在改进具有更好索引或统计信息的计划后，查询的运行速度可以提高两倍或三倍！此模块提供有关如何分析单个查询效能以及确定可以在何处进行改进的详细信息。
+  #### 课程
+  - 了解 SQL Server 查询计划
+  - 探索基于效能的数据库设计
+  - 评估效能改进
+
+  #### 实验 &#58; 查询效能故障排除
+  - 确定数据库设计 AdventureWorks2017 的问题
+  - 在 AdventureWorks2017 中隔离效能不佳的查询中的问题区域
+  - 使用查询存储来检测和处理 AdventureWorks2017 中的回归
+  - 使用查询提示影响 AdventureWorks2017 中的效能
+
+  完成本单元后，学生将&#58;
+  - 分析查询计划并确定问题区域
+  - 评估潜在的查询改进
+  - 查看表和索引设计
+  - 确定查询或设计更改是否有积极作用
+
+
+  ### 模块 6&#58; 任务自动化
+  在许多环境中，数据库管理员的共同目标是使许多重复性任务自动化。这可以像使用脚本来自动执行备份过程一样简单，也可以像构建全自动警报系统一样复杂。该模块提供了任务自动化的详细信息，以简化 DBA 的工作。方法包括安排用于常规维护作业的任务，以及多实例管理和配置任务成功或失败或未完成的通知。
+  #### 课程
+  - 设置自动部署
+  - 定义计划任务
+  - 配置扩展事件
+  - 使用自动化方法管理 Azure PaaS 资源
+
+  #### 实验 &#58; 任务自动化
+  - 从 GitHub 上的 Quickstart 模板部署 Azure 模板
+  - 根据效能指标配置通知
+  - 部署Azure Automation Runbook(或弹性作业）以在Azure SQL数据库上重建索引 
+
+  完成本单元后，学生将&#58;
+  - 使用自动部署脚本部署资源
+  - 建立排定的工作
+  - 建立通知和警报
+  - 为 PaaS 服务配置自动化
+
+
+  ### 模块 7&#58; 及实施高可用性及灾难复原环境
+  当业务需要时，数据必须可用。这意味着受控数据的解决方案在设计时必须考虑可用性和可恢复性。假设您在一家同时在商店和在线销售小部件的公司工作。您的主应用程序对订单使用高度交易的数据库。如果受控事务数据库的服务器或平台由于某种原因而使其不可用或不可存取，该怎么办？这会对业务产生什么影响？如果部署了正确的解决方案，数据库将在合理的时间范围内以最小的努力上线，从而使业务继续进行，几乎没有影响。该模块及其相关实验室涵盖了配置、测试和管理Azure中针对基础结构即服务(IaaS）和平台即服务(PaaS）的高可用性和灾难恢复(HADR）解决方案部署。该模块不仅涵盖基本要求，而且还包括实现 HADR 的各种选项。
+  #### 课程
+  - 高可用性和灾害复原策略
+  - 用于 HADR 的 IaaS 平台和数据库工具
+  - 用于 HADR 的 PaaS 平台和数据库工具
+  - 数据库备份和恢复
+
+  #### 实验 &#58; 规划及实施高可用性及灾难复原环境
+  - 建立一个一律开启的可用性群组
+  - 为 Azure SQL 数据库启用地理复制
+  - 备份到 URL 并从 URL 还原
+
+  完成本单元后，学生将了解&#58;
+  - 恢复时间和恢复点目标之间的差异
+  - 适用于 IaaS 和 PaaS 的 HADR 选项
+  - 规划和配置 HADR 解决方案的注意事项，包括如何备份和还原 FI
+  - 构成 HADR 策略的因素
+  - 如何通过动手实验室配置高可用性解决方案
