@@ -21,11 +21,11 @@ ms.author: micsullivan
 
 如果您亲自参加了 Microsoft Ignite 2019 或 Microsoft Ignite The Tour 2019-2020 活动，则可能有资格获得一次免费的 Microsoft 基础知识、角色型或专业认证考试。免费的考试优惠可从您参加的活动开始之日起兑换，有效期至 2021 年 1 月 31 日。如果您未在该时间范围内安排参加符合条件的考试，则将无法兑换您的优惠。  
 
-## <a name="how-to-claim-your-free-exam"></a> 您如何申领免费考试
+## <a name="how-to-claim-your-free-exam"></a> 如何取得您的免费考试
 
 以下是有关如何取得免费考试的分步说明。
 
-**步骤 1：** 选择任一[符合资格的考试](#eligible-exams-for-this-offer)并单击“安排考试”按钮开始在线注册过程。  
+**步骤 1：** 选择任何一项 [符合优惠条件的考试](#eligible-exams-for-this-offer) ，然后单击“安排考试”按钮以开始在线注册流程。  
 ![安排考试](images/step1.png)
 
 **步骤 2：** 登录访问您已有的 Microsoft 认证个人资料或使用 Microsoft 账户建立一个。  
@@ -37,7 +37,7 @@ ms.author: micsullivan
 **步骤 4：** 单击认证档案页面底部的“保存并继续”按钮，转到“考试折扣”页面。  
 ![单击认证个人资料页面底部的保存并继续按钮](images/step-4-2x.png)
 
-**步骤 5：** 在“考试折扣”页面上，输入用于注册活动的电子邮件(例如 alias@company.com 或 alias@outlook.com)。  
+**步骤 5：** 在“考试折扣”页面上，输入用于注册活动的电子邮件(例如alias@company.com或alias@outlook.com)。  
 ![输入用于注册活动的电子邮件](images/step5-1-enter-email.png)
 
 **步骤 6：** 如果您有资格取得考试折扣，您所输入的电邮地址将收到一封确认电子邮件。您必须输入在该电子邮件中收到的密码才能继续。如果您没有收到电子邮件，则可以重新发送代码。  
@@ -64,8 +64,8 @@ ms.author: micsullivan
 
 | 按照产品 | 考试 |
 | --- | --- |
-| Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-103: Microsoft Azure Administrator](/learn/certifications/exams/az-103)<br/>[AZ-104: Microsoft Azure Administrator (新版本)](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-203: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-203)<br/>[AZ-204: Developing Solutions for Microsoft Azure (新版本)](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-300: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-300)<br/>[AZ-301: Microsoft Azure Architect Design](/learn/certifications/exams/az-301)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
-| Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
+| Azure | [AI-100: Designing and Implementing an Azure AI Solution](/learn/certifications/exams/ai-100)<br/>[AI-900: Microsoft Azure AI Fundamentals](/learn/certifications/exams/ai-900)<br/>[AZ-103: Microsoft Azure Administrator](/learn/certifications/exams/az-103)<br/>[AZ-104: Microsoft Azure Administrator (新版本)](/learn/certifications/exams/az-104)<br/>[AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](/learn/certifications/exams/az-120)<br/>[AZ-203: Developing Solutions for Microsoft Azure](/learn/certifications/exams/az-203)<br/>[AZ-204: Developing Solutions for Microsoft Azure (新版本)](/learn/certifications/exams/az-204)<br/>[AZ-220: Microsoft Azure IoT Developer](/learn/certifications/exams/az-220)<br/>[AZ-300: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-300)<br/>[AZ-301: Microsoft Azure Architect Design](/learn/certifications/exams/az-301)<br/>[AZ-303: Microsoft Azure Architect Technologies](/learn/certifications/exams/az-303)<br/>[AZ-304: Microsoft Azure Architect Design](/learn/certifications/exams/az-304)<br/>[AZ-400: Designing and Implementing Microsoft DevOps Solutions](/learn/certifications/exams/az-400)<br/>[AZ-500: Microsoft Azure Security Technologies](/learn/certifications/exams/az-500)<br/>[AZ-900: Microsoft Azure Fundamentals](/learn/certifications/exams/az-900)<br/>[DA-100: Analyzing Data with Microsoft Power BI](/learn/certifications/exams/da-100)<br/>[DP-100: Designing and Implementing a Data Science Solution on Azure](/learn/certifications/exams/dp-100)<br/>[DP-200: Implementing an Azure Data Solution](/learn/certifications/exams/dp-200)<br/>[DP-201: Designing an Azure Data Solution](/learn/certifications/exams/dp-201)<br/>[DP-300: Administering Relational Databases on Microsoft Azure](/learn/certifications/exams/dp-300)<br/>[DP-900: Microsoft Azure Data Fundamentals](/learn/certifications/exams/dp-900) |
+| Dynamics 365 and Power Platform | [MB-200: Microsoft Power Platform + Dynamics 365 Core](/learn/certifications/exams/mb-200)<br/>[MB-210: Microsoft Dynamics 365 Sales](/learn/certifications/exams/mb-210)<br/>[MB-220: Microsoft Dynamics 365 Marketing](/learn/certifications/exams/mb-220)<br/>[MB-230: Microsoft Dynamics 365 Customer Service](/learn/certifications/exams/mb-230)<br/>[MB-240: Microsoft Dynamics 365 Field Service](/learn/certifications/exams/mb-240)<br/>[MB-300: Microsoft Dynamics 365: Core Finance and Operations](/learn/certifications/exams/mb-300)<br/>[MB-310: Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb-310)<br/>[MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing](/learn/certifications/exams/mb-320)<br/>[MB-330: Microsoft Dynamics 365 Supply Chain Management](/learn/certifications/exams/mb-330)<br/>[MB-400: Microsoft Power Apps + Dynamics 365 Developer](/learn/certifications/exams/mb-400)<br/>[MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer](/learn/certifications/exams/mb-500)<br/>[MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect](/learn/certifications/exams/mb-600)<br/>[MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect](/learn/certifications/exams/mb-700)<br/>[MB-901: Microsoft Dynamics 365 Fundamentals](/learn/certifications/exams/mb-901)<br/>[PL-100: Microsoft Power Platform App Maker](/learn/certifications/exams/pl-100)<br/>[PL-900: Microsoft Power Platform Fundamentals](/learn/certifications/exams/pl-900) |
 | Microsoft 365 | [MD-100: Windows 10](/learn/certifications/exams/md-100)<br/>[MD-101: Managing Modern Desktops](/learn/certifications/exams/md-101)<br/>[MS-100: Microsoft 365 Identity and Services](/learn/certifications/exams/ms-100)<br/>[MS-101: Microsoft 365 Mobility and Security](/learn/certifications/exams/ms-101)<br/>[MS-200: Planning and Configuring a Messaging Platform](/learn/certifications/exams/ms-200)<br/>[MS-201: Implementing a Hybrid and Secure Messaging Platform](/learn/certifications/exams/ms-201)<br/>[MS-203: Microsoft 365 Messaging](/learn/certifications/exams/ms-203)<br/>[MS-300: Deploying Microsoft 365 Teamwork](/learn/certifications/exams/ms-300)<br/>[MS-301: Deploying SharePoint Server Hybrid](/learn/certifications/exams/ms-301)<br/>[MS-500: Microsoft 365 Security Administration](/learn/certifications/exams/ms-500)<br/>[MS-600: Building Applications and Solutions with Microsoft 365 Core Services](/learn/certifications/exams/ms-600)<br/>[MS-700: Managing Microsoft Teams](/learn/certifications/exams/ms-700)<br/>[MS-900: Microsoft 365 Fundamentals](/learn/certifications/exams/ms-900) |
 
 ## FAQ
@@ -86,7 +86,7 @@ ms.author: micsullivan
 
 **问题：如果我报名参加了一项我符合条件的活动，但该活动已被取消，我是否仍可以要求此优惠？**
 
-**答：** 不可以。认证考试优惠是对现场体验的延伸，如果活动被取消，则无法获得认证考试优惠。不过，我们鼓励您继续学习 [Microsoft Learn](https://docs.microsoft.com/learn/) 上的免费交互式培训 !
+**答：** 不可以。认证考试优惠是对现场体验的延伸，如果活动被取消，则无法获得认证考试优惠。不过，我们鼓励您继续学习 [Microsoft Learn](https://docs.microsoft.com/learn/) 上的免费交互式培训 ！
 
 **问题：为什么此优惠的条款和条件规定以色列、德国或瑞典的居民没有资格？**
 
@@ -106,7 +106,7 @@ ms.author: micsullivan
 
 **答：** 如需了解安排免费考试的指南，请访问[https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
 
-**问题：在验证我的考试优惠资格时，我遇到一个错误，指出我不符合条件，因为我是政府官员，但我不是。我该怎么做?**
+**问题：在验证我的考试优惠资格时，我遇到一个错误，指出我不符合条件，因为我是政府官员，但我不是。我该怎么办？**
 
 **答：** 如果您被误认为政府官员，则需要在活动登记档案中更新“政府”字段，并等到活动结束后才能查看资格。您也可以联系 [Microsoft认证支持论坛](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) ([https://aka.ms/CertificationSupport](https://aka.ms/CertificationSupport)) 以获得帮助。
 
@@ -142,14 +142,14 @@ ms.author: micsullivan
 ## <a name="terms-and-conditions"></a> 条款与条件
 
 - 本考试优惠适用于已参加 Microsoft Ignite 2019 或 Microsoft Ignite The Tour 2019-2020 活动的合格个人。
-- 该考试优惠可以兑换为一(1)次 Microsoft 认证考试，在经过授权的 Pearson Vue 测试中心或通过 Pearson Vue 在线代理站点参加此考试。
-- 此考试优惠是针对特定考试的，并且只能用于选定的 Microsoft考试。
+- 该考试优惠可以兑换为一(1)次Microsoft认证考试，在经过授权的Pearson Vue测试中心或通过Pearson Vue在线代理站点参加此考试。
+- 此考试优惠是针对特定考试的，并且只能用于选定的Microsoft考试。
 - 本考试优惠的有效期从您收到考试优惠活动的第一天开始，直到 2021 年 1 月 31 日为止。
 - 本考试优惠使您可以在优惠到期日之前注册并参加一(1)项考试。
 - 此考试优惠的有效期在任何情况下都不能延长。
-- 此考试优惠不适用于以下任何一种情况，也不能由以下人员兑换：1)政府官员；或2)香港，台湾，瑞士，以色列，德国或瑞典的居民。  *此优惠不适用于政府官员或居民，如**所述，因为它超出了Microsoft政策和当地法律允许的限制。
+- 此考试优惠不适用于以下任何一种情况，也不能由以下人员兑换：1)政府官员；或2)香港，台湾，瑞士，以色列，德国或瑞典的居民。 *此优惠不适用于政府官员或居民，如**所述，因为它超出了Microsoft政策和当地法律允许的限制。
 - 此考试优惠只能兑换一次。 
 - 此考试优惠无法兑换或交换为现金、积分或退款。
 - 此考试优惠不可转让，如果您以任何方式更改、修改或转让，则该优惠无效。
 
-有关更多的信息，请参阅完整的[Microsoft 使用条款](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1).
+有关更多的信息，请参阅完整的[Microsoft使用条款](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1).

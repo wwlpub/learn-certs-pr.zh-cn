@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>此考试的内容于2020年6月15日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
@@ -28,14 +28,14 @@ locales:
 levels:
 - advanced
 skills:
-- 此考试的内容于2020年6月15日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- '此考试的内容于2020年6月15日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。'
 - 制定规范策略 (5-10%)
-- 制定站点可靠性设计(SRE)策略(5-10%)
-- 制定安全和合规计划(10-15%)
+- 制定站点可靠性设计(SRE)策略 (5-10%)
+- 制定安全和合规计划 (10-15%)
 - 管理源代码管理 (10-15%)
-- 促进沟通与协作(10-15%)
+- 促进沟通与协作 (10-15%)
 - 定义并实施持续整合 (20-25%)
-- 定义并实施持续的交付和发布管理策略(10-15%)
+- 定义并实施持续的交付和发布管理策略 (10-15%)
 roles:
 - devops-engineer
 products:
@@ -45,11 +45,12 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
-- uid: learn.azdo.capture-feedback-monitoring
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
 courses:
 - uid: course.az-400t00
 relatedCertifications:

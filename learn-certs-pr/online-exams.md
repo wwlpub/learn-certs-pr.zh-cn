@@ -14,31 +14,69 @@ ms.author: micsullivan
 您可以在 Pearson VUE 在线参加任何基于角色或基础知识的 Microsoft 认证考试，并可在您的家中或办公室舒适地进行。在线监考考试由监考者通过网络摄像头和麦克风监控考试体验，从而维护考试结果的完整性。如果您对通过 Pearson VUE 参加在线监考考试感兴趣，并希望在注册前更好地了解考试期间可能发生的情况，则此页包含重要的详细信息。观看 Pearson VUE 的[YouTube 视频](https://youtu.be/Gm1PqdbwBP0)，了解更多关于在线监考考试的信息。(本节不涉及 Certiport 提供的考试。)
 
 
-## <a name="take-a-system-test"></a> 进行系统检测
+## <a name="take-a-system-test"></a> 即刻进行系统检测
 
-现在进行系统测试，看看您的计算机和位置是否与在线考试软件兼容，然后再安排考试。
+在要测试的同一台计算机和同一位置上，运行[系统测试](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)，以验证您的计算机，位置和互联网连接与Pearson VUE OnVUE软件和测试准则兼容。
 
 [即刻进行系统检测](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)
 
 大多数国家当前都提供在线考试。请注意，接待员支持、监考者支持和监考软件目前仅限有限的语种。您将在考试注册流程中选择此语言；它可能与您参加考试的语言不同。不论考试的语言是什么，大多数考生都只能选择使用英语接待员支持、监考者支持和监考软件参加在线考试。
 
-**警告!在您注册在线考试之前：**
+### 警告！在您注册在线考试之前：
 
-1. **请在您即将进行考试的同一台电脑上和同一个地点完成所要求的[系统检测](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。**  
-2. **确认您的 ID 符合要求(阅读[要求](https://home.pearsonvue.com/Policies/1S/English))并且您在Microsoft认证资料上的姓名与您将用于输入考试预约的身份信息中的姓名完全匹配。**  
-3. **查看以下的技术、系统、环境和考试规程要求。**
+1. 请在您即将进行考试的同一台电脑上和同一个地点完成所要求的[系统检测](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。
+2. 确认您的ID符合Pearson VUE [ID政策](https://home.pearsonvue.com/Policies/1S/English)并且您在Microsoft认证资料上的姓名与您将出示以进入考试的、由政府颁发的身份证上的姓名完全匹配。如果您需要更改Microsoft认证个人资料的姓名，请联系[认证支持](https://aka.ms/mcpforum)，论坛版主会协助您。
+3. 更新您在Microsoft认证个人资料中的手机号码(包括国家代码)，以防Pearson VUE在考试期间需要联系您。如果你在考试掉线，这是Pearson VUE联系您的唯一途径。
+4. 阅读保密协议([NDA](/learn/certifications/certification-exam-policies#non-disclosure-agreement))。在考试开始时，您必须阅读并同意NDA和Microsoft认证考试的一般使用条款。你只有5分钟的时间阅读保密协议。考试前要仔细阅读保密协议，以确保你完全理解要求，并能在规定的时间内同意这些要求。如果您在规定的时间内不同意保密协议，您将不能参加考试。
+5. 查看以下的技术、系统、环境和检测协议要求。
+6. 设置对计算机的本地管理员访问权限。
+
+### Microsoft Windows
+<div>
+<table style="border:0px;">
+    <tbody>
+        <tr>
+            <td>
+<ul>
+<li>右键点击“开始”按钮</li>
+<li>选择计算机管理>本地用户和组>用户>右键点击管理员</li>
+<li>选择设置密码>右键点击管理员>创建用户名/密码</li>
+<li>取消选择帐户被禁用>取消选择用户必须在下次启动时更改密码</li>
+<li>选择确定</li></ul>
+            </td>
+        </tr>
+        <tr><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+如果您在Microsoft计算机上设置本地管理员权限方面需要帮助，请访问 [Microsoft支持](https://support.microsoft.com/allproducts)并选择设备产品类别。
+<br/>
+
+### Apple Mac
+<div>
+<table style="border:0px;">
+    <tbody>
+        <tr>
+            <td>
+<ul>
+<li>从Apple菜单或Applications文件夹启动系统首选项</li>
+<li>选择用户和组</li>
+<li>选择锁的图标并输入您的密码。选择“确定</li>
+<li>选择位于用户帐户列表下方的加号(+)按钮</li>
+<li>从帐户类型的下拉菜单中选择管理员</li>
+<li>输入请求的信息：新帐户持有人的全名、帐户名、密码和密码提示</li>
+<li>选择创建用户</li></ul>
+            </td>
+        </tr>
+        <tr><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+访问[Apple支持](https://support.apple.com/)以获取在Apple计算机上设置本地管理员权限的帮助。
 
 ## 系统要求
-
-在线考试可能会因代理服务器、网络数据包检查/过滤或严格的网络安全配置而中断。
-
-登录到考试工作站的 Windows 用户帐户必须具有本地管理权限。
-
-部分防病毒软件可能导致性能问题。请在参加考试时禁用防病毒扫描。
-
-您可能需要保证安全软件不会阻止 JavaScript、Adobe Air 应用程序或 Adobe Flash Player 扩展的执行。
-
-您可能需要配置 Internet 安全和防病毒软件，对 Pearson Secure Browser 可执行文件进行例外处理。
 
 ### 最低要求
 
@@ -60,7 +98,7 @@ ms.author: micsullivan
         </tr>
         <tr>
             <td>
-                <p><strong>防火墙</strong></p></td><td><p>请勿在配置有公司防火墙(包括 VPN)的环境中参加考试，或提醒网络管理员注意网络配置要求。</p>
+                <p><strong>防火墙</strong></p></td><td><p>请勿在配置有公司防火墙(包括 VPN)的环境中参加考试或提醒网络管理员注意网络配置要求。</p>
             </td>
         </tr>
         <tr>
@@ -68,9 +106,9 @@ ms.author: micsullivan
                 <p><strong>显示</strong></p>
             </td>
             <td>
-                <p>最低分辨率：<strong>1024 x 768</strong><strong>，16 位彩色。</strong>
+                <p>最低分辨率：<strong>1024 x 768</strong><strong>，16位彩色。</strong>
                 <br/>
-                注意: 除非具有实体键盘并且还满足前面提到的操作系统要求，否则严禁使用所有平板电脑。</p>
+                注意：除非具有实体键盘并且还满足前面提到的操作系统要求，否则严禁使用所有平板电脑。</p>
             </td>
         </tr>
         <tr>
@@ -78,7 +116,7 @@ ms.author: micsullivan
                 <p><strong>互联网浏览器</strong></p>
             </td>
             <td>
-                <p>使用最新版本的 Microsoft <strong>Edge</strong>、<strong>Safari</strong>、<strong>Chrome</strong> 和 <strong>Firefox</strong> 进行网络注册，或下载安全浏览器或 <strong>Internet Explorer 11</strong>。</p>
+                <p>使用最新版本的Microsoft <strong>Edge</strong>、<strong>Safari</strong>、<strong>Chrome</strong> 和 <strong>Firefox</strong> 进行网络注册，或下载安全浏览器或 <strong>Internet Explorer 11</strong>。</p>
             </td>
         </tr>
         <tr>
@@ -96,9 +134,9 @@ ms.author: micsullivan
                 <p><strong>网络摄像头</strong></p>
             </td>
             <td>
-                <p>网络摄像头的分辨率必须强<strong>大至少为 640x480 @ 10 fps</strong>。<br/>
+                <p>网络摄像头的分辨率必须强<strong>大至少为 640x480 @ 10 fps强大</strong>。<br/>
                                 网络摄像头可以是内置摄像头，也可以是连接到电脑的外置摄像头。</p>
-                <p>Mac 用户可能需要在其“系统偏好设置：安全性和隐私”设置中为麦克风和摄像头允许OnVUE。</p>
+                <p>Mac用户可能需要在其“系统偏好设置：安全性和隐私”设置中为麦克风和摄像头允许OnVUE。</p>
             </td>
         </tr>
         <tr>
@@ -106,7 +144,7 @@ ms.author: micsullivan
                 <p><strong>声音和麦克风</strong></p>
             </td>
             <td>
-                <p>在Windows中确保音频和麦克风未设为 “静音”。</p><p class="">Mac用户可能需要在麦克风，摄像头，自动化和输入监控的 “系统偏好设置：安全和隐私：隐私” 设置中允许OnVUE。</p>
+                <p>在Windows中确保音频和麦克风未设为 “静音”。</p><p class="">Mac用户可能需要在麦克风，摄像头，自动化和输入监控的 “系统偏好设置：安全和隐私：麦克风，摄像头，自动化和输入监控的“隐私”设置。</p>
             </td>
         </tr>
         <tr>
@@ -114,12 +152,12 @@ ms.author: micsullivan
                 <p><strong>浏览器设置</strong></p>
             </td>
             <td>
-                <p><strong>必须启用互联网 Cookies。<br/>必须禁用任何弹出窗口阻止设置。</strong></p>
+                <p><strong>必须禁用任何弹出窗口阻止设置。<br/>必须禁用任何弹出窗口阻止设置。</strong></p>
             </td>
         </tr>
         <tr>
             <td>
-                <p><strong>工作计算机</strong></p>
+                <p><strong>Work Computer</strong></p>
             </td>
             <td>
                 <p>我们建议在个人计算机上进行测试，因为工作计算机可能会禁用 OnVUE 软件。</p>
@@ -145,9 +183,19 @@ ms.author: micsullivan
 </table>
 </div>
 
-[阅读网络管理员级故障排除要求](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements)
+### 其他说明和提示：
 
-在注册和购买考试之前，请在您请在您即将进行考试的同一台电脑上和同一个地点完成所要求的[统检测](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。
+- 在注册和购买考试之前，请在您请在您即将进行考试的同一台电脑上和同一个地点完成所要求的[系统检测](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。
+- 在线考试可能会因代理服务器、网络数据包检查/过滤或严格的网络安全配置而中断。
+- 登录到考试工作站的 Windows 用户帐户**必须具有本地管理权限**.
+- 部分防病毒软件可能导致性能问题。请在参加考试时禁用防病毒扫描。
+- 您可能需要保证安全软件不会阻止 JavaScript、Adobe Air 应用程序或 Adobe Flash Player 扩展的执行。
+- 在个人电脑上而不是在工作电脑上测试，因为工作电脑上安装了阻止OnVUE软件启动的软件。
+- 如果可能的话，使用台式电脑而不是笔记本电脑。
+- 您可能需要配置互联网安全和防病毒软件，将 Pearson Secure Browser 可执行文件设为例外。
+- 参加在线监考考试时，如果可能，使用有线互联网连接。
+- 不要连接在移动热点上；这是明确禁止的。
+- [阅读网络管理员级故障排除要求](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements)。
 
 ## 参与国家/地区
 
@@ -182,7 +230,7 @@ ms.author: micsullivan
   - 外国人居留证(绿卡、永久居留证明、签证)。
   - 政府颁发的当地语言身份证(非罗马字符) — _仅接受考生参加考试时所在国家/地区颁发的身份证_
 - 网络摄像头会拍摄一张您和您的身份证件照片。
-- 身份证件上的姓名必须与您的 Microsoft 认证和 Pearson VUE 个人资料中的姓名相符。
+您参加考试时出示的政府颁发的ID上的姓名必须与您的Microsoft认证个人资料上的姓名完全匹配。在考试日期之前，如果您需要更改Microsoft认证个人资料的姓名，请联系[认证支持](https://aka.ms/mcpforum)，论坛版主会协助您。
 - 不满 18 岁的未成年人可以出示有效学生证来证明身份。考生的监护人也必须出示有效身份证件，并在签到流程中作出口头同意。
 
 ### 考试区域扫描：
@@ -224,7 +272,8 @@ ms.author: micsullivan
 
 ### 其他重要信息
 
-- 与任何其他 Microsoft 认证考试一样，您必须阅读并同意我们的[保密协议](/learn/certifications/certification-exam-policies#non-disclosure-agreement)(NDA)中规定的条款，并且您必须遵守考生行为要求。包括但不限于以下内容：
+- 与任何其他 Microsoft 认证考试一样，您必须阅读并同意我们的[保密协议](/learn/certifications/certification-exam-policies#non-disclosure-agreement)(NDA)。您将仅有5分钟的时间阅读保密协议，因此我们建议您在考试前阅读，以确保您完全理解要求，并能在规定的时间内同意这些要求。如果您在规定的时间内不同意保密协议，您将不能参加考试。
+- 您还必须遵守对考生的行为要求。包括但不限于以下内容：
   - 您不得以任何方式复制或记录考试的问题或答案。
   - 你不能与他人分享或讨论在考试中看到的问题或答案。
 - 如果您不遵守[考生规则协议](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf)或被怀疑欺骗或篡改 Pearson VUE 或其转包商的软件，或者如果在考试期间在您坐的房间里侦测到您以外的人，监考者将立即终止考试，并将违规情况以及音频和/或视讯证据报告给 Pearson VUE 和 Microsoft。您的考试将立即作废，Microsoft 可能采取其他措施，例如收回您的证书，禁止您参加未来的所有 Microsoft 认证计划。
@@ -232,44 +281,45 @@ ms.author: micsullivan
 ## 注册在线考试
 
 - 在大多数国家中，通过 Pearson VUE 进行的在线考试适用于角色型或基础知识考试。如果您所在的国家可以提供在线考试，则可以使用您所在国家的考试中心所使用的相同语言进行在线考试。请注意，接待员支持、监考者支持和监考软件目前仅限有限的语种。您将在考试注册流程中选择此语言；它可能与您参加考试的语言不同。不论考试的语言是什么，大多数考生都只能选择使用英语接待员支持、监考者支持和监考软件参加在线考试。
-- 如要注册，请从[考试列表](/learn/certifications/browse/) 中选择您希望参加的 Microsoft 考试，然后选择 **安排考试** 按钮。如果在您的国家提供有在线考试，您可以在考试注册过程中选择该选项。您还将选择接待员、监查员和监考软件的语言。
+- 为了注册，请先使用与您的Microsoft认证个人资料关联的电子邮件登录到您的Microsoft[认证控制面板](https://aka.ms/certdashboard)。选择**安排考试**按钮，然后从[考试名单](/learn/certifications/browse/)中选择您希望参加的Microsoft考试。如果在您的国家提供有在线考试，您可以在考试注册过程中选择该选项。您还将选择接待员、监查员和监考软件的语言。
 
 ## 启动考试和考生签到流程
 
 启动和签到流程大约应占用 15 分钟的时间。
 
 - 在开始考试之前，请查看 OnVUE[常见问题](https://home.pearsonvue.com/microsoft/onvue)有关疑难解答的提示。
-- 确保您的手机靠近您，屏幕可见，以防考试监考员需要联系您。
+- **在考试当天，请对您再次运行将在考试期间使用的设备和网络[系统检测](/learn/certifications/online-exams#take-a-system-test)。** 网络带宽可以随时间变化。
+- 以管理员身份登录到您的计算机，以便确定是否有后台进程正在运行并停止它们。
 - 关闭浏览器弹出窗口阻止程序。
-- 务必确保您拥有电脑的管理员权限，以便下载软件。
+- 确保您的手机在考试区外，但在可以看见屏幕的范围内，以防考试监考员需要联系您。
+  - 确保更新您在Microsoft认证个人资料中的手机号码(包括国家代码)，以防Pearson VUE在考试期间需要联系您。
 
 要开始考试并与接待员连线：
 
-1. 使用与您的 Microsoft 认证个人资料关联的电子邮件登录到您的[认证控制面板](https://aka.ms/certdashboard)。
-2. 在右侧的 **预约** 部分中，选择 **开始预先安排好的在线监考考试**。
-3. 在 **已购买的在线考试** 下选择考试。
-4. 选择 **开始考试** 并继续进行自助签到过程，等待监考员与您连接。(注意: 您必须选择“开始考试”才能启动考试；否则，考试将不会启动。)
+1. 使用与您的 Microsoft 认证个人资料关联的电子邮件登录到您的[认证控制面板](https://aka.ms/certdashboard)。(如果在此步骤中无法首先访问Microsoft认证控制面板，请使用匿名或私密浏览器重试。如果仍然无法访问认证控制面板，请通过[认证支持](https://aka.ms/mcpforum) 提交问题， 提交和论坛版主
+将提供帮助。)
+2. 我们建议提前 15 分钟登录，以启动签到过程。到达预约时间之后，您将必须在 15 分钟内开始考试。
+3. 在右侧的**预约**部分中，选择**开始预先安排好的在线监考考试**。
+4. 在**已购买的在线考试**下选择考试。
+5. 选择**开始考试**并继续进行自助签到过程，等待监考员与您连接。(注意：您必须选择“开始考试”才能启动考试；否则，考试将不会启动。)
 
-**注** 在完成自助签到手续后，您可能等待30分钟，直到与迎宾员(需要重新确认身份或房间要求)或监考员连接。
+**注**在完成自助签到手续后，您可能等待30分钟，直到与迎宾员(需要重新确认身份或房间要求)或监考员连接。
 
-如果您在 **预定考试时间后 30 分钟** 未连接到监考员，请联系[Pearson VUE](https://home.pearsonvue.com/contact)。
+如果您在**预定考试时间**后30分钟未连接到监考员，连接中断。你可以在原定考试预约后24到30小时内重新安排考试。只需使用与您的Microsoft认证个人资料关联的电子邮件登录到您的[认证控制面板](https://www.microsoft.com/learning/dashboard.aspx)，以重新安排考试。我们建议您尽可能自助，但也可以联系Pearson VUE[支持](https://home.pearsonvue.com/microsoft/contact)，帮您重新安排考试。请耐心等待，由于新冠疫情(COVID-19)影响，回复比正常慢(最长5天)。
 
 - 身份验证和房间扫描是由迎宾员在自助签到完成后进行的。如果在迎宾员检查这些工件的过程中没有发现任何问题或担忧，那么您将被放入监考员队列中。一旦监考员有空，您就可以开始考试了。如果迎宾员对所提供的工件有疑问，迎宾员将与您一起解决这些问题。
-
-这个过程完成后，考试将开始。除非出现问题，否则监考员在考试期间不会与您联系。
-
-如果在考试过程中出现技术问题，监考员将首先尝试通过聊天与您联系。如果这不起作用，监考员将通过电话与您联系。
-
-如果在考试之后出现问题，请联系[Pearson VUE](https://home.pearsonvue.com/contact)考试支持。请留好监考员提供给您的意外事故报告号码。
+- 这个过程完成后，考试将开始。除非出现问题，否则监考员在考试期间不会与您联系。
+- 如果在考试过程中出现技术问题，监考员将首先尝试通过聊天与您联系。如果这不起作用，监考员将通过电话与您联系。
+- 如果在考试之后出现问题，请联系[Pearson VUE](https://home.pearsonvue.com/contact)考试支持。请留好监考员提供给您的意外事故报告号码。
 
 ### 获取分数报告，然后删除监考软件
 
-可以从您的 [认证控制面板](https://aka.ms/certdashboard)获取分数报告。
+可以从您的 [认证控制面板](https://aka.ms/certdashboard) 获取分数报告。
 
 1. 登录到您的 [认证控制面板](https://aka.ms/certdashboard)。
 2. 选择 **查看我的分数报告**。在这里，您可以保存并打印分数报告。
 3. 您的考试结果(通过或未通过)将转发给 Microsoft 进行处理。(如果您在完成考试48小时后仍未看到成绩，请联系 [认证支持](https://aka.ms/mcpforum)，论坛版主将提供协助。)
-4. 当考试结束时，应删除所有可执行文件和辅助文件，包括 **Pearson VUE 安全浏览器** 图标。要从桌面上删除此图标，请右键选择图标，选择 **删除**，然后选择 **是**。
+4. 当考试结束时，应删除所有可执行文件和辅助文件，包括**Pearson VUE 安全浏览器**图标。要从桌面上删除此图标，请右键选择图标，选择 **删除**，然后选择 **是**。
 5. [**删除 Pearson VUE 安全浏览器的可执行文件**](https://windows.microsoft.com/en-us/windows7/uninstall-or-change-a-program)。
 
 ## 常见问题解答
@@ -283,10 +333,10 @@ ms.author: micsullivan
 不。如果您的系统未通过 [系统测试](/learn/certifications/online-exams#take-a-system-test)，则您不应注册参加在线考试；如果您无法拍摄身份证的清晰照片，则您也不应安排在线考试。
 
 ### 如何注册在线考试？
-如要注册，请从[考试列表](/learn/certifications/browse/) 中选择您希望参加的考试，然后选择**安排考试**按钮。如果在您的国家提供有在线考试，您可以在考试注册过程中选择该选项。
+为了注册，请先使用与您的Microsoft认证个人资料关联的电子邮件登录到您的Microsoft[认证控制面板](https://aka.ms/certdashboard)。选择**安排考试**按钮，然后从[考试名单](/learn/certifications/browse/)中选择您希望参加的Microsoft考试。如果在您的国家提供有在线考试，您可以在考试注册过程中选择该选项。您还将选择接待员、监查员和监考软件的语言。
 
 ### 如果不在考试中心考试，那岂不是更容易作弊？在线考试是否安全？
-无论考试方式如何，我们会竭力保证考试的真实性。当您参加在线考试时，您必须首先安装一个安全的浏览器，在整个测试过程中执行严格的保护。此外，Pearson VUE 监考员通过网络摄像头和麦克风在整个考试过程中对您进行监考。如果怀疑存在作弊行为，我们还会检查考试过程的视频。我们非常擅长检测作弊行为，所以我们不建议这样做 - 我们会收回作弊者的证件，取消他们的认证，并禁止他们以后参加考试。
+无论考试方式如何，我们会竭力保证考试的真实性。当您参加在线考试时，您必须首先安装一个安全的浏览器，在整个测试过程中执行严格的保护。此外，Pearson VUE监考员通过网络摄像头和麦克风在整个考试过程中对您进行监考。如果怀疑存在作弊行为，我们还会检查考试过程的视频。我们非常擅长检测作弊行为，所以我们不建议这样做 - 我们会收回作弊者的证件，取消他们的认证，并禁止他们以后参加考试。
 
 ### 如果我要参加多个认证考试，是否需要选择一种单一的考试交付方式？
 不需要，您可以混合搭配考试方式(在线或亲临考试中心)。
@@ -304,21 +354,21 @@ ms.author: micsullivan
 是。如果您所在的国家可以提供在线考试，则可以使用您所在国家的考试中心所使用的相同语言进行在线考试。请注意，接待员支持、监考者支持和监考软件目前仅限有限的语种。您将在考试注册流程中选择此语言；它可能与您参加考试的语言不同。不论考试的语言是什么，大多数考生都只能选择使用英语接待员支持、监考者支持和监考软件参加在线考试。
 
 ### 如果我在在线考试开始之前、期间或之后遇到技术问题，我该联系谁？
-有关注册问题，请使用注册期间提供的 Pearson VUE 客户服务链接。如果在考试进行期间遇到技术问题，考试监考员将帮助您尝试解决问题。如有必要，监考员会提供一个意外事故报告号码作为参考，以便您在后续联系[Pearson VUE 客户服务](https://www.pearsonvue.com/microsoft/contact)。
+有关注册问题，请使用注册期间提供的 Pearson VUE 客户服务链接。如果在考试进行期间遇到技术问题，考试监考员将帮助您尝试解决问题。如有必要，监考员会提供一个意外事故报告号码作为参考，以便您在后续联系[Pearson VUE客户服务](https://www.pearsonvue.com/microsoft/contact)。
 
 ### 签到过程中需要提供哪些类型的身份证明？
-请查看当前的 [ID政策](https://home.pearsonvue.com/Policies/1S/English)，了解可接受的身份证清单。**您的 Microsoft 认证个人资料上的姓名必须与您将要用于参加考试的、由政府颁发的身份证上显示的姓名完全匹配。**如果您正在更新或续签您的身份证明，请注意，在线考试不接受合法姓名更改表格(包括身份证更新表格)。
+请查看当前的 [ID政策](https://home.pearsonvue.com/Policies/1S/English)，了解可接受的身份证清单。**您的 Microsoft 认证个人资料上的姓名必须与您将要用于参加考试的、由政府颁发的身份证上显示的姓名完全匹配。** 如果您正在更新或续签您的身份证明，请注意，在线考试不接受合法姓名更改表格(包括身份证更新表格)。
 
 ### 我应如何更改我在 Microsoft 认证个人资料上的合法姓名？
-**您在 Microsoft 认证个人资料上的姓名必须与您将要用于参加考试签到的、由政府颁发的身份证上显示的姓名完全匹配。** 如果您需要更改姓名，请联系 [认证支持](https://aka.ms/mcpforum)，论坛版主会协助您。
+您在 Microsoft 认证个人资料上的姓名必须与您将要用于参加考试签到的、由政府颁发的身份证上显示的姓名完全匹配。如果您需要更改姓名，请联系 [认证支持](https://aka.ms/mcpforum)，论坛版主会协助您。
 
 ### 我预约了一个在线考试。我该如何开始？
 我们建议提前 15 分钟登录，以启动签到过程。到达预约时间之后，您将必须在 15 分钟内开始考试。
 
 1. 使用与您的 Microsoft 认证个人资料关联的电子邮件登录到您的[认证控制面板](https://aka.ms/certdashboard)。
-2. 在右侧的 **预约** 部分中，选择 **开始预先安排好的在线监考考试**。
-3. 在 **已购买的在线考试** 下选择考试。
-4. 选择 **开始考试** 并继续进行自助签到过程，等待监考员与您连接。(注意: 您必须选择“开始考试”才能启动考试；否则，考试将不会启动。)
+2. 在右侧的**预约**部分中，选择**开始预先安排好的在线监考考试**。
+3. 在**已购买的在线考试**下选择考试。
+4. 选择**开始考试**并继续进行自助签到过程，等待监考员与您连接。(注意：您必须选择“开始考试”才能启动考试；否则，考试将不会启动。)
 
 ### 我能在何处找到考试政策列表？
-请参阅适用于所有 Microsoft 认证考試的[考试原则和常见问题](/learn/certifications/certification-exam-policies)。
+请参阅适用于所有 Microsoft 认证考試的[考試原则和常见问题](/learn/certifications/certification-exam-policies)。

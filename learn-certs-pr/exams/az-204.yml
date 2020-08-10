@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
-  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>此考试的内容于2020年5月18日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
@@ -38,7 +38,7 @@ skills:
 - 开发 Azure 计算解决方案(25-30%)
 - 开发 Azure 存储 (10-15%)
 - 实现 Azure 安全性 (15-20%)
-- 监控、故障排除并优化 Azure 解决方案 (10-15%)
+- 监控、排除故障和优化 Azure 解决方案 (10-15%)
 - 连接并使用 Azure 服务和第三方服务(25-30%)
 roles:
 - developer
@@ -71,8 +71,8 @@ products:
 - azure-traffic-manager
 - azure-virtual-machines
 courses:
-- uid: course.az-020t00
 - uid: course.az-204t00
+- uid: course.az-020t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together

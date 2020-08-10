@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # 计划停用的考试
 
-查看将于未来 12 个月内停用的考试(按技术排列）。(下面的信息随时可能更改。）
+查看将于未来 12 个月内停用的考试(按技术排列)。(下面的信息随时可能更改。)
 
 | 2021年1月31日停用 | |
 | --- | --- |
@@ -82,9 +82,9 @@ ms.author: micsullivan
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019年5月1日
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019年6月30日
-| AZ-200 | Microsoft Azure Developer Core Solutions (2018年9月24日发布）| 2019年1月3日
-| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018年9月24日发布）| 2019年1月3日
-| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日发布）| 2019年3月31日
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018年9月24日发布)| 2019年1月3日
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018年9月24日发布)| 2019年1月3日
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日发布)| 2019年3月31日
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019年6月30日
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019年9月30日
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 2019年9月30日
@@ -239,7 +239,7 @@ ms.author: micsullivan
 | 70-384 | Recertification for MCSE: Communication | 2017年3月31日
 | 70-385 | Recertification for MCSE: Messaging | 2017年3月31日
 | 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 2013年7月31日
-| 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 2013年7月31日
+| 70-401 | TS：Microsoft System Center Configuration Manager 2007, Configuring | 2013年7月31日
 | 70-403 | TS: System Center Virtual Machine Manager 2008, Configuring | 2011年9月30日
 | 70-415 | Implementing a Desktop Infrastructure | 2016年1月31日
 | 70-416 | Implementing Desktop Application Environments | 2016年1月31日
@@ -570,5 +570,5 @@ ms.author: micsullivan
 | MB7-846 | NAV 2009 Relationship Management | 2014年6月30日
 | MB7-848 | NAV 2009 Service Management | 2014年6月30日
 | MB7-849 | NAV 2009 Manufacturing | 2014年6月30日
-| MB7-849 | NAV 2009-Produktion(丹麦语）| 2014年6月30日
-| MB7-849 | NAV 2009-Produktion(德语）| 2014年6月30日
+| MB7-849 | NAV 2009-Produktion(丹麦语)| 2014年6月30日
+| MB7-849 | NAV 2009-Produktion(德语)| 2014年6月30日

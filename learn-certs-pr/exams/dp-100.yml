@@ -7,7 +7,7 @@ uid: exam.dp-100
 displayName: DP-100
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>此考试的内容于2020年5月22日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
@@ -25,10 +25,10 @@ levels:
 - intermediate
 skills:
 - 此考试的内容于2020年5月22日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
-- 设置 Azure 机器学习工作区(30-35%)
-- 进行实验和训练模型(25-30%)
-- 优化和管理模型(20-25%)
-- 部署和使用模型(20-25%)
+- 设置 Azure 机器学习工作区 (30-35%)
+- 进行实验和训练模型 (25-30%)
+- 优化和管理模型 (20-25%)
+- 部署和使用模型 (20-25%)
 roles:
 - data-scientist
 products:
@@ -46,6 +46,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
+- title: 认证之旅
+  description: 探索获得 Azure Data Scientist Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

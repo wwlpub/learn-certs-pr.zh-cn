@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+metadata:
+  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+uid: exam.mb-800
+displayName: MB-800
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  Dynamics 365 Business Central核心应用功能顾问实施和配置Business Central应用程序，包括设置核心应用程序的功能，以及将数据迁移至Business Central。通过与实施团队合作，顾问负责配置用户界面，为企业提供可管理性和易导航性。他们配置角色中心，包括改编见解、提示、动作磁贴、报告、图表，以及使用Power Platform组件扩展Business Central。
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; ‘此考试将于2020年9月推出。</div>
+subTitle: '此考试将于2020年9月推出。此考试衡量您完成以下任务的能力：设置 Business Central、配置财务、配置销售和采购、设置操作以及使用 Power Platform 组件。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 尚未提供
+roles:
+- functional-consultant
+products:
+- business-central
+- power-platform
+relatedCertifications:
+- related:
+    uid: certification.d365-business-central-functional-consultant-associate
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
+

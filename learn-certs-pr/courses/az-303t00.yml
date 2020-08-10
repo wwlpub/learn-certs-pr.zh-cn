@@ -8,13 +8,13 @@ courseNumber: 'AZ-303T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 使用 Azure Active Directory 以及用户和组的安全身份。
+- skill: 使用 Azure Active Directory 以及用户和组的安全身份
 - skill: 实施跨内部和基于云端的功能的身份解决方案
-- skill: 应用监视解决方案以收集、合并和分析来自不同来源的资料。
-- skill: 管理订阅、账户、Azure 策略和基于角色的访问控制。
-- skill: 使用资源管理器、Azure 门户、Cloud Shell 和 CLI 管理Azure。
-- skill: 配置站点间连接解决方案，例如 VNet Peering 和虚拟网络网关。
-- skill: 管理 Azure 应用服务，Azure 容器实例和 Kubernetes。
+- skill: 应用监视解决方案以收集、合并和分析来自不同来源的资料
+- skill: 管理订阅、账户、Azure 策略和基于角色的访问控制
+- skill: 使用资源管理器、Azure 门户、Cloud Shell 和 CLI 管理Azure
+- skill: 配置站点间连接解决方案，例如 VNet Peering 和虚拟网络网关
+- skill: 管理 Azure 应用服务，Azure 容器实例和 Kubernetes
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -30,12 +30,12 @@ summary: |-
   本课程教 Solutions Architects 如何将业务需求转换为安全、可扩充和可靠的解决方案。课程包括虚拟化、自动化、网络、存储、身份、安全性、数据平台和应用程序基础结构。本课程概述了这些领域的决策对整体解决方法的影响方式。
 
   #### 受众概况
-  本课程面向具有设计和实施在 Microsoft Azure 上运行的解决方案的专业知识的 IT Professionals。应试者应具备跨 IT 运营各个方面的高级经验和知识，包括网络，虚拟化，身份，安全性，业务连续性，灾难恢复，数据管理，预算和治理。Azure解决方案架构师使用 Azure 门户，并且随着他们变得更加熟练，他们使用命令行界面。考生必须具有 Azure 管理方面的专家级技能，并且具有 Azure 开发流程和 DevOps 流程的相关经验。没有项目符号或列表。
+  本课程面向具有设计和实施在 Microsoft Azure 上运行的解决方案的专业知识的 IT Professionals。应试者应具备跨 IT 运营各个方面的高级经验和知识，包括网络，虚拟化，身份，安全性，业务连续性，灾难恢复，数据管理，预算和治理。Azure解决方案架构师使用 Azure 门户，并且随着他们变得更加熟练，他们使用命令行界面。考生必须具有 Azure 管理方面的专家级技能，并且具有 Azure 开发流程和 DevOps 流程的相关经验。
 prerequisitesSection: |-
   成功的 Azure Solution Architects 从在操作系统，虚拟化，云端基础结构，存储结构和网络方面的经验开始担任这一角色。
   - 了解本地虚拟化技术，包括&#58; VM、虚拟网络和虚拟硬盘。
-  - 了解网络设定，包括 TCP/IP、域名系统(DNS）、虚拟专用网(VPN）、防火墙和加密技术。
-  - 了解 Active Directory 概念，包括网域、树系、域控制器、复写、Kerberos 通讯协议和轻量型目录存取通讯协议(LDAP）。
+  - 了解网络设定，包括 TCP/IP、域名系统（DNS）、虚拟专用网（VPN）、防火墙和加密技术。
+  - 了解 Active Directory 概念，包括网域、树系、域控制器、复写、Kerberos 通讯协议和轻量型目录存取通讯协议（LDAP）。
   - 了解恢复和灾害复原，包括备份和还原操作。
 outlineSection: |-
   ### 模块 1&#58; 为 Windows 和 Linux 实施 VM
@@ -44,13 +44,13 @@ outlineSection: |-
   - 选择虚拟机大小
   - 配置高可用性
   - 实施 Azure 专用主机
-  - 部署与配置规模集
-  - 为VM配置Azure磁盘加密
+  - 部署和配置比例集。
+  - 配置Azure磁盘加密
 
   学完本模块后，学生将能够&#58;
-  - 规划虚拟机实施。
-  - 建立虚拟机。
-  - 配置虚拟机可用性，包括扩展集。
+  - 规划虚拟机实施
+  - 建立虚拟机
+  - 配置虚拟机可用性，包括扩展集
   - 了解Azure中VM的高可用性选项
 
 
@@ -65,8 +65,8 @@ outlineSection: |-
   - 建立并执行自动化运行手册
 
   学完本模块后，学生将能够&#58;
-  - 利用 Azure 资源管理员组织资源。
-  - 使用 ARM 模板部署资源。
+  - 利用 Azure 资源管理员组织资源
+  - 使用 ARM 模板部署资源
   - 建立并执行自动化运行手册
   - 从 VHD 部署 Azure VM
   - 了解 Azure 加密技术
@@ -130,7 +130,7 @@ outlineSection: |-
   - 用戶和群组
   - 网域和自定义网域
   - Azure AD 身份保护
-  - 实施条件式存取
+  - 实施条件访问
   - 为 MFA 配置诈骗警示
   - 实施旁路选项
   - 配置可信 IP
@@ -140,7 +140,7 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 了解多个 AAD 组织如何互动
   - 将来宾使用者添加到 Azure AD
-  - 配置位置条件设定
+  - 配置位置条件配置
   - 配置 Azure MFA 设置
   - 实施条件存取Azure MFA
 
@@ -149,8 +149,8 @@ outlineSection: |-
   在本模块中，您将了解管理订阅和账户，实施 Azure 原则以及使用角色型的访问控制。
   #### 课程
   - 建立管理组、订阅和资源组
-  - 角色型访问控制(RBAC）概述
-  - 角色型访问控制(RBAC）角色
+  - 角色型访问控制（RBAC）概述
+  - 基于角色的访问控制（RBAC）角色
   - Azure AD 访问审查
   - 实施和配置 Azure 策略
   - Azure 蓝图
@@ -173,14 +173,14 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 实施 Azure AD 无缝单一登录
   - 执行 Azure AD Connect 安装
-  - 实施 Azure AD Connect Connect Health
+  - 实施 Azure AD Connect Health
 
 
   ### 模块 9&#58; 在 Azure 上管理工作负荷
   在本模块中，您将学习如何使用Azure Migrate迁移工作负荷，执行基于VMware代理的无代理迁移以及执行Azure备份和 Azure 网站恢复。
   #### 课程
   - 使用Azure Migrate迁移工作负荷
-  - VMware-无代理迁移
+  - Vmware-无代理迁移
   - VMware-基于代理的迁移
   - 实施 Azure 备份
   - Azure 至 Azure 网站恢复
@@ -204,7 +204,7 @@ outlineSection: |-
   - 记录分析
   - 网络查看器
   - 描述 Azure 服务健康情况
-  - 监视 Azure ATP
+  - 监控 Azure 成本
   - Azure Application Insights
   - Azure 中的统一监控
 
@@ -272,3 +272,4 @@ outlineSection: |-
   - 建立 Azure SQL 数据库单个数据库
   - 建立 Azure SQL 数据库受控实例
   - 推荐Azure SQL数据库中使用的高可用性体系结构模型
+

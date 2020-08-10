@@ -7,8 +7,8 @@ uid: exam.mb-901
 displayName: MB-901
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年7月10日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年7月10日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
   此考试将涵盖采用 Dynamics 365 的配置和优点。
@@ -29,8 +29,8 @@ providers:
 levels:
 - beginner
 skills:
-- 考试内容将于2020年7月10日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 确定用于 Dynamics 365 的 Microsoft 平台组件(30-35%)
+- 此考试的内容于2020年7月10日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 确定用于 Dynamics 365 的 Microsoft 平台组件 (30-35%)
 - 描述 Dynamics 365 中的人工智能和混合实境 (10-15%)
 - 描述模型驱动式应用程序 (25-30%)
 - 描述 Finance and Operations 应用程序 (25-30%)
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Fundamentals。'
+  description: 发现培训资源以获得Microsoft Certified：Dynamics 365 Fundamentals。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

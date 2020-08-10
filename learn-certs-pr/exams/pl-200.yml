@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Functional Consultant (beta)'
+metadata:
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+uid: exam.pl-200
+displayName: PL-200
+summary: |-
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+
+  Power Platform功能顾问负责执行发现、捕获需求、吸引主题专家和利益相关者、转换需求以及配置Power Platform解决方案和应用程序。
+
+  功能顾问实施解决方案的组件，包括应用程序增强、自定义用户体验、系统集成、数据转换、自定义流程自动化和自定义可视化。
+
+  <div style='font-weight&#58; bold;'><br/>注意&#58; ‘此考试将于2020年10月推出。</div>
+subTitle: '此考试将于2020年10月推出。此项考试衡量您完成以下技术任务的能力：配置公共数据服务；构建Power应用程序；使用Power Automate创建自动化；配置Power虚拟代理；使用Power BI创建可视化。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 配置公共数据服务
+- 构建Power应用程序
+- 使用Power Automate创建自动化
+- 配置Power虚拟代理
+- 使用Power BI创建虚拟化
+roles:
+- business-analyst
+- developer
+- functional-consultant
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- dynamics-virtual-agent
+relatedCertifications:
+- related:
+    uid: certification.power-platform-functional-consultant-associate
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
+
