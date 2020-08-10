@@ -1,0 +1,290 @@
+### YamlMime:Course
+title: Windows Server 2019 Administration
+metadata:
+  title: 'Course WS-011T00-A: Windows Server 2019 Administration'
+  description: 'Course WS-011T00-A: Windows Server 2019 Administration'
+uid: course.ws-011t00
+courseNumber: 'WS-011T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用Windows Server 2019中的管理技术和工具
+- skill: 实施身份服务
+- skill: 管理网络基础设施服务
+- skill: 配置文件服务器和存储
+- skill: 使用Hyper-V虚拟化和容器管理虚拟机
+- skill: 实施高可用性和灾难恢复解决方案
+- skill: 应用安全功能来保护关键资源
+- skill: 配置远程桌面服务
+- skill: 配置基于虚拟机的桌面基础结构部署
+- skill: 实施远程访问和web服务
+- skill: 实施服务监控和性能监控，并应用故障排除
+- skill: 执行与AD DS和存储相关的升级和迁移
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  这门为期五天的讲师指导课程主要是为有一定Windows Server经验的IT专业人士设计的。它是为那些负责使用Windows Server 2019管理身份、网络、存储和计算的专业人士设计的，他们需要了解适用于Windows Server 2019的场景、要求和选项。本课程向IT专业人士传授在大多数组织中部署和支持Windows Server 2019所需的基本管理技能。
+
+  #### 受众概况
+  本课程面向具有一定Windows Server使用经验的信息技术(IT)专业人士，他们正在寻找一个为期五天的课程，涵盖Windows Server 2019的核心管理组件和技术。本课程还帮助以前的Windows Server版本的服务器管理员更新他们与Windows Server 2019相关的知识和技能。
+  此外，本课程还可以帮助个人寻找备考材料，以便通过与Windows Server相关的考试。本课程也面向希望从服务台角色过渡到服务器维护的个人。
+prerequisitesSection: |-
+  - 了解 Windows Server 2012 或 Windows Server 2016 的 Active Directory Domain Services (AD DS) 概念和技术并有一些经验。
+  - 了解 Windows Server 2012 或 Windows Server 2016 的 Active Directory Domain Services (AD DS) 概念和技术并有一些经验。
+  - 有核心网络技术（例如 IP 寻址、名称解析和动态主机配置协议（DHCP））的经验并对其有所了解。
+  - 具有使用 Microsoft Hyper-V 和基本服务器虚拟化概念的经验并对其有所了解。
+  - 了解基本的安全最佳做法。
+  - 有实际操作Windows客户端操作系统（如Windows 8、Windows 8.1或Windows 10）的经验。
+  - 使用Windows PowerShell的基本经验。
+outlineSection: |-
+  ### 模块 1&#58;Windows Server管理概述
+  本模块介绍如何区分不同的Windows Server 2019版本和部署、维护和激活技术。该模块还介绍了Windows Server Core，并将其与桌面体验版本进行了比较。本模块介绍用于管理Windows Server的工具和概念，如Windows管理中心、PowerShell和权限委派。
+  #### 课程
+  - Windows Server 2019 导论
+  - Windows Server Core概述
+  - Windows Server管理原理和工具概述
+
+
+  #### 实验&#58;部署和配置Windows Server
+  - 部署和配置Server Core
+  - 实施和使用远程服务器管理
+
+  学完本模块后，学生将能够&#58;
+  - 描述Windows Server以及部署、维护和激活技术。
+  - 描述Windows Server Core，其细节以及管理它的方法。
+
+
+  ### 模块 2&#58;Windows Server中的身份服务
+  此模块介绍身份服务并描述Windows Server环境中的Active Directory域服务(AD DS)。该模块描述如何在AD DS中部署域控制器，以及Azure Active Directory(AD)以及将Azure AD与AD DS集成的好处。本模块还介绍组策略基础知识以及如何在域环境中配置组策略对象(GPO)。最后，模块描述了Active Directory证书服务和证书使用的角色。
+  #### 课程
+  - AD DS 概述
+  - 部署Windows Server域控制器
+  - Azure AD概述
+  - 实施组策略
+  - Active Directory 证书服务概述
+
+
+  #### 实验&#58;实施身份服务和组策略
+  - 在Server Core上部署新的域控制器
+  - 配置组策略
+  - 部署和使用证书服务
+  - 说明组策略基本原理并在域环境中配置组策略对象(GPO)
+  - 描述Active Directory证书服务和证书使用的角色
+
+  学完本模块后，学生将能够&#58;
+  - 描述Windows Server环境下的AD DS。
+  - 在AD DS中部署域控制器。
+  - 描述Azure AD以及将Azure AD与AD DS集成的好处。
+
+
+  ### 模块 3&#58;Windows Server中的网络基础设施服务
+  本模块描述如何在Windows Server中实施核心网络基础设施服务。本模块包括如何部署、配置和管理DNS和IPAM。本模块还描述了如何使用远程访问服务。
+  #### 课程
+  - 部署和管理DHCP
+  - 部署和管理DNS服务
+  - 部署和管理IPAM
+  - Windows Server中的远程访问服务
+
+
+  #### 实验&#58;在Windows Server中实施和配置网络基础设施服务
+  - 部署和配置 DHCP
+  - 部署和配置 DNS
+  - 实施 Web Application Proxy
+
+  学完本模块后，学生将能够&#58;
+  - 描述、部署和配置DHCP服务。
+  - 部署、配置和管理DNS。
+  - 部署、配置和管理IPAM。
+
+
+  ### 模块 4&#58;Windows Server中的文件服务器和存储管理
+  本模块介绍如何在Windows Server中配置文件服务器和存储。本模块介绍文件共享和存储空间技术的部署。本模块介绍如何在Windows Server中实施重复数据删除、基于iSCSI的存储，最后介绍如何部署DFS。
+  #### 课程
+  - Windows Server中的卷和文件系统
+  - 在Windows服务器上实施共享
+  - 在Windows服务器上实施存储空间
+  - 实施 Data Deduplication
+  - 实施iSCSI
+  - 部署分布式文件系统
+
+
+  #### 实验&#58;在Windows服务器上实施存储解决方案
+  - 实施 Data Deduplication
+  - 配置 iSCSI 存储
+  - 配置冗余存储空间
+  - 实施存储空间直通
+
+  学完本模块后，学生将能够&#58;
+  - 在Windows服务器上实施共享。
+  - 部署存储空间技术。
+  - 实施重复数据删除功能。
+  - 实施基于iSCSI的存储。
+  - 部署和管理分布式文件系统(DFS)。
+
+
+  ### 模块 5&#58;Windows Server中的Hyper-V虚拟化和容器
+  本模块介绍如何实施和配置Hyper-V虚拟机和容器。该模块介绍了Windows Server中Hyper-V的主要功能，介绍了VM设置，以及如何在Hyper-V中配置VM。该模块还介绍了虚拟化中使用的安全技术，如屏蔽虚拟机、主机守护服务、管理员可信和TPM可信证明以及KPS。
+  #### 课程
+  - Windows Server中的Hyper-V
+  - 配置虚拟机
+  - 在Windows Server中保护虚拟化
+  - Windows Server中的容器
+  - Kubernetes概述
+
+
+  #### 实验&#58;在Windows Server中实施和配置虚拟化
+  - 创建和配置虚拟机
+  - 安装和配置容器
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Windows Server 中 Hyper-V 的主要功能。
+  - 描述虚拟机设置，并在 Hyper-V 中部署和配置虚拟机。
+  - 说明如何使用虚拟化安全技术。
+  - 在 Windows Server 中描述和部署容器。
+  - 说明如何在Windows上使用Kubernetes。
+
+
+  ### 模块 6&#58;Windows Server中的高可用性
+  本模块介绍Windows Server中当前的高可用性技术。本模块介绍故障转移群集及其实施注意事项，以及如何创建和配置故障转移群集。本模块还介绍了使用 Hyper-V 虚拟机实现高可用性的扩展群集和选项。
+  #### 课程
+  - 规划故障转移群集实施
+  - 创建和配置故障转移群集
+  - 扩展群集概述
+  - 通过Hyper-V虚拟机实现高可用性和灾难恢复解决方案
+
+
+  #### 实验室&#58;实现故障转移群集
+  - 配置存储和创建群集
+  - 部署和配置高可用性文档服务器
+  - 验证高可用性文档服务器的部署
+
+  学完本模块后，学生将能够&#58;
+  - 描述故障转移群集及其实施注意事项。
+  - 创建和配置故障转移群集。
+  - 描述扩展群集。
+  - 描述通过Hyper-V虚拟机实现高可用性的选项。
+
+
+  ### 模块 7&#58;Windows Server中的灾难恢复
+  本模块介绍Windows Server中的灾难恢复技术以及如何实施这些技术。本模块介绍如何配置和使用Hyper-V副本，并介绍Azure站点恢复本模块还介绍了如何实施Windows服务器备份，并描述了Azure备份服务。
+  #### 课程
+  - Hyper-V副本
+  - Windows Server中的备份和恢复基础结构
+
+
+  #### 实验&#58;实施Hyper-V副本和Windows Server备份
+  - 配置 Hyper-V 复本
+  - 使用Windows Server backup实施备份和还原
+
+  学完本模块后，学生将能够&#58;
+  - 描述并实施Hyper-V副本。
+  - 描述Azure站点恢复。
+  - 描述和实施Windows Server备份。
+  - 描述Azure备份服务。
+
+
+  ### 模块 8&#58;Windows Server安全性
+  本模块介绍Windows Server安全功能以及如何实施这些功能。该模块介绍了Windows服务器中使用的凭据，并解释了如何实施特权访问保护。除了描述加强Windows服务器安全性的方法和技术外，该模块还解释了如何配置刚好足够的管理(JEA)和如何保护SMB流量。最后，该模块介绍了Windows Update、其部署和管理选项。
+  #### 课程
+  - 凭据和特权访问保护
+  - 加强Windows Server
+  - Windows Server中的刚好足够的管理(JEA)
+  - 保护和分析 SMB 流量
+  - Windows Server更新管理
+
+
+  #### 实验&#58;配置Windows Server中的安全性
+  - 配置Windows Defender凭据保护
+  - 查找有问题的账户
+  - 实施 LAPS
+
+  学完本模块后，学生将能够&#58;
+  - 描述Windows Server中使用的凭据。
+  - 解释如何实施特权访问保护。
+  - 描述在Windows服务器中加强安全性的方法和技术。
+  - 描述和配置刚好足够的管理(JEA)。
+  - 在Windows服务器中保护SMB流量。
+  - 描述Windows Update及其部署和管理选项。
+
+
+  ### 模块 9&#58; Windows Server中的远程桌面服务(RDS)
+  本模块介绍Windows Server中的关键远程桌面协议(RDP)和虚拟桌面基础结构(VDI)特性。本模块介绍了如何部署基于会话的桌面，并描述了个人桌面和虚拟桌面池。
+  #### 课程
+  - 远程桌面服务(RDS)概述。
+  - 配置基于会话的桌面部署。
+  - 个人桌面和虚拟桌面池概述。
+
+
+  #### 实验&#58; 在Windows服务器上实施远程桌面服务
+  - 实施 RDS
+  - 配置会话集设置和使用远程桌面连接(RDC)
+  - 配置虚拟桌面模板
+
+  学完本模块后，学生将能够&#58;
+  - 描述Windows Server中的远程桌面服务(RDS)。
+  - 描述和部署基于会话的桌面。
+  - 描述个人桌面和虚拟桌面池。
+
+
+  ### 模块 10&#58;Windows服务器中的远程访问和web服务
+  本模块描述如何实施虚拟专用网络(VPN)、网络策略服务器(NPS)和Microsoft Internet信息服务(IIS)。该模块描述了始终在线的VPN功能，以及如何在Windows Server中配置NPS和Web服务器(IIS)。
+  #### 课程
+  - 实施 VPN
+  - 实施始终在线的VPN
+  - 实施 NPS
+  - 在Windows Server中实现Web服务器
+
+
+  #### 实验&#58;部署网络负载
+  - 在Windows服务器上实施VPN
+  - 部署和配置Web Server
+
+  学完本模块后，学生将能够&#58;
+  - 描述Windows Server中的VPN选项。
+  - 描述始终在线的VPN功能。
+  - 描述和配置NPS。
+  - 描述和配置W网络服务器(IIS)。
+
+
+  ### 模块 11&#58;Windows服务器中的服务器与性能监控
+  本模块介绍如何在Windows Server上实施服务和性能监视，以及应用故障排除。本模块重点介绍监视工具，并介绍如何监视性能，包括事件日志记录以及如何执行事件日志监视以进行故障排除。
+  #### 课程
+  - Windows Server 监视工具概述
+  -使用性能监视器
+  - 监视事件日志以进行故障排除
+
+
+  #### 实验&#58;监视和故障排除 Windows Server 
+  - 建立绩效基准
+  - 确定性能问题的根源
+  - 确定性能问题的根源
+
+  确定性能问题的根源
+  - 描述Windows Server中的监视工具。
+  - 描述性能监视并在Windows Server中使用。
+  - 描述事件日志并执行事件日志监视以进行故障排除。
+
+
+  ### 模块 12&#58;Windows Server上的升级和迁移
+  本模块介绍如何为AD DS、存储和Windows Server执行升级和迁移。本模块介绍用于AD DS迁移的工具。本模块还介绍了存储迁移服务，最后介绍了Windows Server迁移工具和使用场景。
+  #### 课程
+  - AD DS迁移
+  - 存储迁移服务
+  - Windows Server迁移工具
+
+
+  #### 实验&#58;迁移服务器负载
+  - 实施存储迁移服务
+
+  学完本模块后，学生将能够&#58;
+  - 描述用于AD DS迁移的工具。
+  - 描述存储迁移服务。
+  - 描述Windows Server迁移工具及其使用场景。
+

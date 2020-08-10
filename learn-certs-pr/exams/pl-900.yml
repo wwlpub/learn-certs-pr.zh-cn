@@ -6,33 +6,33 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年7月13日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>此考试的内容于2020年7月13日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
-  此考试的考生希望通过了解 Power Platform 的功能，使用 Power Automate 自动化基本业务流程，使用 Power BI 执行基本数据分析以产生业务见解，通过创建简单的 Power Apps canvas 应用程序来更有效地行动来提高生产力的用户体验，无需使用代码即可创建功能强大的聊天机器人。
-subTitle: 该考试将衡量您了解Power Platform商业价值；了解Power Platform核心组件；展示Power BI的业务价值；以及展示Microsoft Automate的商业价值的能力。
+  本考试的考生希望通过了解Power平台的功能、使用Power Automate自动化基本业务流程、使用Power BI执行基本数据分析、通过创建简单的Power应用程序体验来更有效地执行操作，以及通过使用Power虚拟代理创建功能强大的聊天机器人来提高生产率。
+subTitle: 本考试衡量您描述Power Platform业务价值的能力；确定Power Platform的核心组件；演示Power BI的功能；描述Power Apps的功能；演示Power Automated的功能；以及演示Power虚拟代理的业务价值。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?locale=zh-cn&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer   
+- providerType: pearson-vue
+  examUrl: 'https://examregistration.microsoft.com/?locale=zh-cn&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 levels:
 - beginner
 skills:
-- 考试内容将于2020年7月13日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 描述 Power Platform 的业务价值 (20-25%)
+- 此考试的内容于2020年7月13日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 描述 Power Platform 的业务价值 (15-20%)
 - 识别 Power Platform 的核心组件 (15-20%)
-- 描述 Power BI 的业务价值 (10-15%)
-- 描述 Power Apps 的业务价值 (15-20%)
-- 描述 Power Automate 的业务价值 (15-20%)
+- 演示Power BI的功能 (15-20%)
+- 描述Power Apps的功能 (15-20%)
+- 演示Power Automate的功能 (15-20%)
 - 展示 Power Virtual Agents 的业务价值 (10-15%)
 roles:
 - developer
@@ -47,7 +47,7 @@ relatedCertifications:
     uid: certification.power-platform-fundamentals
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft认证：Power Platform Fundamentals.' 
+  description: '发现培训资源以获得 Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

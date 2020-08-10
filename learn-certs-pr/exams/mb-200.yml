@@ -7,7 +7,7 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>此考试的内容于2020年7月1日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
@@ -28,12 +28,12 @@ levels:
 - intermediate
 skills:
 - 此考试的内容于2020年7月1日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
-- 执行发现、规划和分析(5-10%)
-- 管理用户体验设计(20-25%)
-- 管理实体和数据(15-20%)
-- 实施安全性(5-10%)
-- 实施整合(15-20%)
-- 执行解决方案部署和测试(25-30%)
+- 执行发现、规划和分析 (5-10%)
+- 管理用户体验设计 (20-25%)
+- 管理实体和数据 (15-20%)
+- 实施安全性 (5-10%)
+- 实施整合 (15-20%)
+- 执行解决方案部署和测试 (25-30%)
 roles:
 - functional-consultant
 products:
@@ -55,8 +55,8 @@ paths:
 - uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.get-started-portals
-- uid: learn-dynamics.work-with-portals
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-sales

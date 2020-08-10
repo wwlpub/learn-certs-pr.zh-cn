@@ -7,7 +7,7 @@ uid: exam.mb-230
 displayName: MB-230
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>此考试的内容于2020年7月1日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
 
@@ -22,6 +22,7 @@ summary: |-
 subTitle: '本测试衡量您完成以下技术任务的能力：执行配置；管理案例和知识库；管理队列、权利和 SLA；并配置 Forms Pro。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
+practiceTestUrl: https://in.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
@@ -29,10 +30,10 @@ levels:
 - intermediate
 skills:
 - 此考试的内容于2020年7月1日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
-- 执行配置(25-30%)
+- 执行配置 (25-30%)
 - 管理案例和知识库 (30-35%)
-- 管理队列，权利和SLA(25-30%)
-- 配置 Forms Pro(15-20%)
+- 管理队列，权利和SLA (25-30%)
+- 配置 Forms Pro (15-20%)
 roles:
 - functional-consultant
 products:
@@ -52,7 +53,7 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
+  description: 发现培训资源以获得Microsoft Certified：Dynamics 365 Customer Service Functional Consultant Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

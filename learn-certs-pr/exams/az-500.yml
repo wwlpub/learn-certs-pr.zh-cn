@@ -7,7 +7,7 @@ uid: exam.az-500
 displayName: AZ-500
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
   <div style='font-weight&#58; bold;'>考试内容将于2020年7月29日更新。请下载下面的考试技能大纲，以了解将会发生的变化。<br/><br/></div>
   </div>
 
@@ -35,11 +35,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于 2020 年 7 月 29 日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 管理身份和访问(20-25%)
-- 实施平台保护(35-40%)
-- 管理安全运行(15-20%)
-- 安全数据和应用(30-35%)
+- 考试内容将于2020年7月29日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 管理身份和访问 (20-25%)
+- 实施恶意软件防护 (35-40%)
+- 管理安全运行 (15-20%)
+- 安全数据和应用 (30-35%)
 roles:
 - security-engineer
 products:
@@ -62,6 +62,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-security-engineer
 resources:
+- title: 认证之旅
+  description: 探索获得 Azure Security Engineer Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -5,11 +5,15 @@ metadata:
   description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
 uid: exam.dp-900
 displayName: DP-900
-summary: "<div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>\r\n\r\n参加该考试的考生应具有核心数据概念的基本知识，以及如何使用Microsoft Azure数据服务实施这些知识。\r\n\r\n该考试适用于开始使用云端中的数据的考生。\r\n\r\n考生应该熟悉关系型和非关系型数据的概念，以及不同类型的数据工作负荷，例如事务性或分析性。\r\n\r\nAzure Data Fundamentals 可用于为其他基于 Azure 角色的认证做准备，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但这不是其中任何一个的先决条件。  \r\n\r\n<div style='font-weight&#58; bold;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">详细了解测试考试的价值和重要性。</a></div>"
+summary: "<div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>\r\n\r\n参加该考试的考生应具有核心数据概念的基本知识，以及如何使用Microsoft Azure数据服务实施这些知识。\r\n\r\n该考试适用于开始使用云端中的数据的考生。\r\n\r\n考生应该熟悉关系型和非关系型数据的概念，以及不同类型的数据工作负荷，例如事务性或分析性。\r\n\r\nAzure Data Fundamentals 可用于为其他基于 Azure 角色的认证做准备，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但这不是其中任何一个的先决条件。  \r\n\r\n<div style='font-weight&#58; bold;'><br/>测试考试不会立即获得评分，因为我们正在收集有关问题和考试质量的数据。<a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">详细了解测试考试的价值和重要性。</a></div>"
 subTitle: '证明您可以描述以下内容：核心数据概念；如何在 Azure 上使用关系数据；如何在 Azure 上使用非关系数据以及 Azure 上的分析工作负荷。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -26,10 +30,16 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals
 resources:
+- title: 认证之旅
+  description: 探索Azure Data Fundamentals 的步骤以及助您备考的可用资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
 
   参加此考试的考生是数据库管理员和数据管理专家，他们管理在 Microsoft SQL Server 和 Microsoft Azure 数据服务之上构建的本地和云关系数据库。
 
@@ -24,13 +24,13 @@ locales:
 levels:
 - intermediate
 skills:
-- 规划和实施数据平台资源(15-20%)
-- 实施安全的环境(15-20%)
-- 监控和优化运营资源(15-20%)
-- 优化查询性能(5-10%)
-- 执行任务自动化(10-15%)
-- 规划和实施高可用性和灾难恢复(HADR)环境(15-20%)
-- 使用 T-SQL 执行管理(10-15%)
+- 规划和实施数据平台资源 (15-20%)
+- 实施安全的环境 (15-20%)
+- 监控和优化运营资源 (15-20%)
+- 优化查询性能 (5-10%)
+- 执行任务自动化 (10-15%)
+- 规划和实施高可用性和灾难恢复(HADR)环境 (15-20%)
+- 使用 T-SQL 执行管理 (10-15%)
 roles:
 - database-administrator
 products:
@@ -48,6 +48,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
+- title: 认证之旅
+  description: 探索获得 Azure Database Administrator Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

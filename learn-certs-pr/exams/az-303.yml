@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
 
   参加该考试的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。
 
@@ -27,21 +27,35 @@ levels:
 - advanced
 skills:
 - 实施和监控 Azure 基础结构(50-55%)
-- 实施管理和保护解决方案(25-30%)
-- 为应用程序实施解决方案(10-15%)
+- 实施管理和保护解决方案(25 -30%)
+- 为应用程序实施解决方案(10 -15%)
 - 实施和管理数据平台(10-15%)
 roles:
 - solution-architect
 products:
 - azure
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
 exams:
 - uid: exam.az-304
 courses:
 - uid: course.az-303t00
+- uid: course.az-030t00
 relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
+- title: 认证之旅
+  description: 探索获得 Azure Solutions Architect Expert 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

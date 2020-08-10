@@ -1,32 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: 'Microsoft 365 Messaging Administrators 在混合和云端企业环境中部署、配置、管理、疑难解答和监控收件人、权限、邮件保护、邮件流和公用文件夹。'
-uid: certification.m365-messaging-administrator
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+  description: 此认证将于2020年9月提供。Dynamics 365 Business Central功能顾问负责为中小企业实施核心应用设置。
+uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
-  Microsoft 365 Messaging Administrators 在混合和云端企业环境中部署、配置、管理、疑难解答和监控收件人、权限、邮件保护、邮件流和公用文件夹。
-subTitle: Microsoft 365 Messaging Administrators 在混合和云端企业环境中部署、配置、管理、疑难解答和监控收件人、权限、邮件保护、邮件流和公用文件夹。
+  Dynamics 365 Business Central功能顾问负责为中小企业实施核心应用设置。
+
+  <div><br/><strong>注意：此认证将于2020年9月提供。</strong></div>
+subTitle: 此认证将于2020年9月提供。Dynamics 365 Business Central功能顾问负责为中小企业实施核心应用设置。
 levels:
 - intermediate
 skills:
-- 管理组织设置和资源
-- 规划和管理邮件架构
-- 规划和实施混合配置和迁移
-- 保护消息传递环境
+- 尚未提供
 roles:
-- administrator
+- functional-consultant
 type: role-based
 products:
-- m365
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
-courses:
-- uid: course.ms-203t00
+- dynamics-business-central
+- power-platform
 exams:
-- uid: exam.ms-203
+- uid: exam.mb-800
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
