@@ -18,7 +18,7 @@ skills:
 - 监控和优化数据解决方案
 - 设计 Azure 数据存储解决方案
 - 设计数据处理解决方案
-- 数据安全性和合规性设计
+- 设计数据安全性和合规性
 roles:
 - data-engineer
 type: role-based
@@ -53,6 +53,9 @@ resources:
 - title: Azure 认证海报
   description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索获得 Azure Data Engineer Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -47,7 +47,7 @@ resources:
   description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 认证之旅
-  description: 探索获得 Azure IoT Developer 专业认证的步骤以及可用来帮助您进行准备的资源。
+  description: 探索Azure IoT Developer Specialty 的步骤以及助您备考的可用资源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
