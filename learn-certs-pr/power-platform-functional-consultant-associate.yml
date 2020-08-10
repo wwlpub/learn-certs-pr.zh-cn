@@ -33,7 +33,7 @@ products:
 - ai-builder
 - power-platform
 - office-teams
-- power-virtual-agents
+- dynamics-virtual-agent
 exams:
 - uid: exam.pl-200
 resources:
