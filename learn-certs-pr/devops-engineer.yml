@@ -8,18 +8,22 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
-  Azure DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。
+  DevOps Engineer Expert 认证的应试者应具有与人员，流程和技术一起工作的主题专业知识，以不断交付业务价值。
+
+  担任此角色的职责包括设计和实施协作、代码、基础结构、源代码控制、安全性、合规性、持续整合、测试、交付、监视和反馈的策略。
+
+  本认证的应试者必须熟悉 Azure 管理和 Azure 开发，并且至少精通其中一个领域。
 subTitle: Azure DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。
 levels:
 - advanced
 skills:
-- 设计 DevOps 策略
-- 实现 DevOps 开发过程
-- 实施持续集成
-- 实施连续交付
-- 实施依赖管理
-- 实施应用基础设施
-- 实施持续反馈
+- 制定规范策略
+- 制定站点可靠性设计（SRE）策略
+- 制定安全和合规计划
+- 管理源代码管理
+- 促进沟通与协作
+- 定义并实施持续整合
+- 定义并实施持续的交付和发布管理策略
 roles:
 - devops-engineer
 type: role-based
@@ -30,10 +34,12 @@ products:
 - azure-container-instances
 - azure-automation
 paths:
-- uid: learn.azdo.evolve-your-devops-practices
-- uid: learn.azdo.build-applications-with-azure-devops
-- uid: learn.azdo.deploy-applications-with-azure-devops
-- uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
 courses:
 - uid: course.az-400t00
 prerequisites:

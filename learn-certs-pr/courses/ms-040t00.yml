@@ -1,0 +1,121 @@
+### YamlMime:Course
+title: Manage SharePoint and OneDrive in Microsoft 365
+metadata:
+  title: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+  description: 'Course MS-040T00-A: Manage SharePoint and OneDrive in Microsoft 365'
+uid: course.ms-040t00
+courseNumber: 'MS-040T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 配置SharePoint站点
+- skill: 管理站点存储极限
+- skill: 部署OneDrive同步客户端
+- skill: 使用组策略控制OneDrive同步客户端设置
+- skill: 在Microsoft SharePoint和OneDrive中管理外部数据共享
+- skill: 配置用户配置文件属性
+- skill: 管理受众
+- skill: 使用App Catalog管理自定义应用程序
+- skill: 创建和管理术语组、术语集和术语
+- skill: 描述现代和经典搜索体验之间的区别
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- m365
+summary: |-
+  对于每个组织而言，内容是最关键的数字资产。在本课程中，您将学习如何规划、配置和管理 SharePoint 站点和 OneDrive，以支持改变内容生命周期的现代内容服务。具体来说，本课程将讨论现代 SharePoint 网站结构，例如 SharePoint 中心网站。它提供了在组织内采用和部署 OneDrive 的最佳实践。它还包括在 Microsoft 365 中的 SharePoint 和OneDrive 中的共享、安全和监视。此外，您还将学习如何使用适当的权限设置管理用户配置文件和应用程序。我们还将讨论如何规划和配置托管元数据、业务连接性服务和搜索，以便在 Microsoft 365中 查找、使用和管理内容。
+
+  #### 受众概况
+  本课程面向在其组织中部署和管理Microsoft SharePoint和OneDrive的IT专业人员。本课程的学生对 Microsoft SharePoint 和 OneDrive 感兴趣。
+prerequisitesSection: |-
+  学员应在具备以下技能的情况下开始本课程&#58;
+  - 熟练理解对Microsoft 365服务有了基本功能体验。
+  - 精通一般IT实务，包括使用PowerShell。
+  - 对Active Directory和Azure AD有基本的了解。
+  - 对移动设备管理和其他操作系统（Android和macOS）有基本的了解。
+outlineSection: |-
+  ### 模块 1&#58;规划和配置 SharePoint 站点
+  本模块的内容都是涉及规划、配置和管理SharePoint网站。它讨论了SharePoint管理员如何使用SharePoint管理中心来管理组织中SharePoint网站的生命周期。
+  #### 课程
+  - Microsoft 365中的SharePoint概述
+  - 配置SharePoint站点
+  - 管理SharePoint站点
+
+  学完本模块后，学生将能够&#58;
+  - 建立SharePoint站点
+  - 管理SharePoint站点存储极限
+  - 建立和管理SharePoint中心网站
+  - 描述如何使用SharePoint管理中心管理SharePoint网站
+
+
+  ### 模块 2&#58;配置和管理OneDrive
+  本模块说明如何规划OneDrive的部署，讨论基于不同场景部署OneDrive的不同方法。它还介绍了在OneDrive中管理内容的功能。
+  #### 课程
+  - Microsoft 365中的OneDrive概述
+  - 部署OneDrive
+  - 管理OneDrive
+
+  学完本模块后，学生将能够&#58;
+  - 管理用户存储极限
+  - 在OneDrive中配置数据保留
+  - 使用组策略控制OneDrive同步客户端设置
+  - 描述部署OneDrive的不同方法
+  - 描述如何使用OneDrive管理中心管理OneDrive
+
+
+  ### 模块 3&#58;SharePoint 和 OneDrive 中的共享和安全性
+  本模块重点介绍Microsoft SharePoint和OneDrive中的共享、安全和监视。具体来说，我们将讨论在SharePoint和OneDrive中规划和管理外部共享以及访问控制。它还讨论了如何使用Microsoft 365管理中心来监视Microsoft SharePoint和OneDrive中的活动。
+  #### 课程
+  - 管理SharePoint站点权限
+  - 管理SharePoint和OneDrive中的共享
+  - 管理SharePoint和OneDrive中的安全性
+
+  学完本模块后，学生将能够&#58;
+  - 描述Microsoft SharePoint和OneDrive中的外部共享
+  - 描述用于管理对Microsoft SharePoint和OneDrive的设备访问的选项
+  - 查看衡量SharePoint和OneDrive使用情况的Microsoft 365报告
+
+
+  ### 模块 4&#58;管理用户配置文件和应用程序
+  本模块介绍Microsoft SharePoint中的用户配置文件和自定义。它讨论了在Microsoft SharePoint中管理用户配置文件。它还描述了如何使用应用程序目录使自定义业务应用程序可用于Microsoft 365中的SharePoint。
+  #### 课程
+  - 管理用户档案
+  - 管理应用程序
+
+  学完本模块后，学生将能够&#58;
+  - 描述如何配置用户配置文件属性
+  - 描述如何管理受众
+  - 描述如何使用应用程序目录管理自定义应用程序
+
+
+  ### 模块 5&#58;规划和配置托管元数据和业务连接服务
+  本模块介绍托管元数据和业务连接服务。它介绍了托管元数据的概念以及导入术语集的过程。它还描述了如何管理业务连接服务和创建外部列表。
+  #### 课程
+  - 规划和配置托管元数据
+  - 规划和配置业务连接服务
+
+  学完本模块后，学生将能够&#58;
+  - 描述托管元数据的功能
+  - 创建和管理术语组、术语集和术语
+  - 解释BDC模型的关键组件
+  - 描述BCS的高级体系结构
+  - 说明安全存储服务的目的
+
+
+  ### 模块 6&#58;规划和配置搜索
+  本模块介绍SharePoint搜索服务。它提供了有关规划和配置SharePoint搜索的详细信息，包括传统和现代搜索体验之间的区别。它还讨论了如何使用不同的设置自定义搜索体验。
+  #### 课程
+  - 规划搜索
+  - 配置搜索
+
+  学完本模块后，学生将能够&#58;
+  - 描述现代和经典搜索体验之间的区别
+  - 描述如何管理搜索架构
+  - 说明查询规则的使用和部署
+  - 说明结果源的使用和部署
+

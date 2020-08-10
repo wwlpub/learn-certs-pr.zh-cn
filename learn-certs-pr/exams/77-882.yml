@@ -12,20 +12,20 @@ summary: |-
 subTitle: 核心级 Microsoft Office Excel 2010 用户应该能够在功能和功能级别上导航 Microsoft Office Excel 2010 软件。他们应该熟悉并知道如何使用 Microsoft Office Excel 2010 至少80%的功能。核心级用户应该能够使用 Microsoft Office Excel 2010 来创建和编辑具有专业外观的电子表格，以用于各种目的和情况。用户将包括来自各种职业，学生和个人生活领域的各种工作角色的人员。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-882&examname=Excel%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-882
 locales:
-- en
 - zh-cn
 - zh-tw
 - de
 - es
 - fr
-- it
 - ja
 - ko
 - nl
-- pt-br
 - ru
+- ar-sa
+- it
+- pt-br
 levels:
 - beginner
 skills:

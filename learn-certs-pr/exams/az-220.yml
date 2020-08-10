@@ -8,7 +8,7 @@ displayName: AZ-220
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的内容于 2020 年 5 月 28 日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div style='font-weight&#58; bold;'>考试内容将于2020年7月21日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
   </div>
 
   参加该考试的考生应具有主题知识，可以开发 Azure IoT 解决方案的云端和边缘组件。
@@ -21,6 +21,7 @@ summary: |-
 subTitle: '这项考试衡量您实施 IoT 解决方案基础架构的能力；供应和管理设备；在 Azure IoT Edge 设备上实施解决方案;处理和管理数据；监控，故障排除和优化 IoT 解决方案;并实施安全性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
 locales:
 - en
@@ -30,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试的内容于 2020 年 5 月 28 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 考试内容将于2020年7月21日更新。请下载下面的考试技能大纲，以了解将会发生的变化
 - 实施物联网解决方案基础架构(15-20%)
 - 设置和管理设备(20-25%)
 - 实施边缘(15-20%)
@@ -55,7 +56,7 @@ relatedCertifications:
     uid: certification.azure-iot-developer-specialty
 resources:
 - title: 认证之旅
-  description: 探索获得 Azure IoT Developer 专业认证的步骤以及可用来帮助您进行准备的资源。
+  description: 探索Azure IoT Developer Specialty 的步骤以及助您备考的可用资源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

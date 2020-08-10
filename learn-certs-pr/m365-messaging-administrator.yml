@@ -22,9 +22,9 @@ roles:
 type: role-based
 products:
 - m365
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
 courses:
 - uid: course.ms-203t00
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
 exams:
 - uid: exam.ms-203
 resources:

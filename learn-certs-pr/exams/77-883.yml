@@ -14,20 +14,20 @@ summary: |-
 subTitle: 考试的典型候选人是需要在功能和功能级别导航 PowerPoint 2010 的学生，办公室工作人员或讲师。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
 locales:
-- en
 - zh-cn
 - zh-tw
 - de
 - es
 - fr
-- it
 - ja
 - ko
 - nl
-- pt-br
 - ru
+- ar-sa
+- it
+- pt-br
 levels:
 - beginner
 skills:

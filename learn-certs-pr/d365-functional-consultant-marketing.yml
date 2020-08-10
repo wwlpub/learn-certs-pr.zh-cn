@@ -37,6 +37,13 @@ courses:
 - uid: course.mb-200t00
 - uid: course.mb-220t00
 paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
 - uid: learn-dynamics.manage-events-dynamics-marketing
@@ -47,7 +54,7 @@ exams:
 - uid: exam.mb-220
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft Certified：Dynamics 365 Marketing Functional Consultant Associate。
+  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -15,9 +15,9 @@ levels:
 skills:
 - 描述 Power Platform 的业务价值
 - 识别 Power Platform 的核心组件
-- 描述 Power BI 的业务价值
-- 描述 Power Apps 的业务价值
-- 描述 Power Automate 的业务价值
+- 演示Power BI的功能
+- 描述Power Apps的功能
+- 演示Power Automate的功能
 - 展示 Power Virtual Agents 的业务价值
 roles:
 - business-user

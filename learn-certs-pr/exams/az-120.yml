@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div><div style='font-weight&#58; bold;'>- ‘此考试的内容于 2020 年 5 月 20 日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div><div style='font-weight&#58; bold;'>- ‘考试内容将于 2020 年 7 月 21 日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
   </div>
 
   本考试的考生应该是对 SAP 系统环境和行业标准具有丰富经验和知识的建筑师或工程师。这些标准是针对 Microsoft Azure 上 SAP 解决方案的长期运行而制定的。
@@ -53,6 +53,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty
 resources:
+- title: 认证之旅
+  description: 探索Azure for SAP Workloads Specialty认证的步骤以及助您备考的可用资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

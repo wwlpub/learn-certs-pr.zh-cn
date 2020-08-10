@@ -25,23 +25,30 @@ levels:
 - intermediate
 skills:
 - 此考试的内容于2020年5月22日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
-- 设置 Azure 机器学习工作区(30 -35%)
-- 进行实验和训练模型(25 -30%)
-- 优化和管理模型(20 -25%)
-- 部署和使用模型(20 -25%)
+- 设置 Azure 机器学习工作区 (30-35%)
+- 进行实验和训练模型 (25-30%)
+- 优化和管理模型 (20-25%)
+- 部署和使用模型 (20-25%)
 roles:
 - data-scientist
 products:
 - azure
 - azure-data-science-vm
+- azure-machine-learning
+- azure-machine-learning-service
+- azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
 paths:
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
+- title: 认证之旅
+  description: 探索获得 Azure Data Scientist Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

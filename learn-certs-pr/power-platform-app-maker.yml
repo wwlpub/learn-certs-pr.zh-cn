@@ -2,16 +2,14 @@
 title: 'Microsoft Certified: Power Platform App Maker Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform App Maker Associate'
-  description: 该认证将在 2020 年 7 月 17 日或前后推出。该应用程序制造商为自己和他们的团队构建了解决方案，以简化，自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
+  description: 该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
 
   该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
-
-  <div><strong><br/>Note&#58; 该认证将于 2020 年 7 月左右推出。</strong></div>
-subTitle: 该认证将于 2020 年 7 月左右推出。该应用程序制造商为自己和他们的团队构建了解决方案，以简化，自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
+subTitle: 该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
 levels:
 - intermediate
 skills:
@@ -60,6 +58,18 @@ products:
 - power-apps
 - power-virtual-agents
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-bizapps.understand-advanced-topics
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.ui-controls-canvas-app-powerapps
+- uid: learn-bizapps.create-business-process-flow
 exams:
 - uid: exam.pl-100
 resources:

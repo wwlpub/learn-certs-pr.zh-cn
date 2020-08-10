@@ -24,13 +24,13 @@ locales:
 levels:
 - intermediate
 skills:
-- 规划和实施数据平台资源(15-20%)
-- 实施安全的环境(15-20%)
-- 监控和优化运营资源(15-20%)
-- 优化查询性能(5-10%)
-- 执行任务自动化(10-15%)
-- 规划和实施高可用性和灾难恢复(HADR)环境(15-20%)
-- 使用 T-SQL 执行管理(10-15%)
+- 规划和实施数据平台资源 (15-20%)
+- 实施安全的环境 (15-20%)
+- 监控和优化运营资源 (15-20%)
+- 优化查询性能 (5-10%)
+- 执行任务自动化 (10-15%)
+- 规划和实施高可用性和灾难恢复(HADR)环境 (15-20%)
+- 使用 T-SQL 执行管理 (10-15%)
 roles:
 - database-administrator
 products:
@@ -42,10 +42,15 @@ products:
 - azure-storage
 - azure-virtual-machines
 - sql-server
+courses:
+- uid: course.dp-300t00
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
+- title: 认证之旅
+  description: 探索获得 Azure Database Administrator Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

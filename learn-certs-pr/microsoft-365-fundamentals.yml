@@ -6,17 +6,17 @@ metadata:
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
-  证明您了解 Microsoft 365 中可用的选项以及采用云服务，软件即服务（SaaS）云模型和实施 Microsoft 365 云服务的好处。
+  ‘证明您了解 Microsoft 365 中可用的选项以及采用云服务，软件即服务（SaaS）云模型和实施 Microsoft 365 云服务的好处。’
 subTitle: 证明您了解 Microsoft 365 中可用的选项以及采用云服务，软件即服务（SaaS）云模型和实施 Microsoft 365 云服务的好处。
 levels:
 - beginner
 skills:
 - 描述云的概念
 - 描述核心 Microsoft 365 服务与概念
-- 描述 Microsoft 365 中的安全性、合规性、隐私权和信任选项
-- 描述 Microsoft 365 定价和支持选项
+- 说明Microsoft 365中的安全性、合规性、隐私性和信任
+- 描述 Microsoft 365 定价和支持
 roles:
 - business-user
 - administrator
@@ -34,7 +34,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified：Fundamentals.'
+  description: 发现培训资源以获得Microsoft Certified：Fundamentals.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

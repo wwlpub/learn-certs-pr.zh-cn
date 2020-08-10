@@ -1,0 +1,203 @@
+### YamlMime:Course
+title: SharePoint Hybrid Deployment and Migration
+metadata:
+  title: 'Course MS-050T00-A: SharePoint Hybrid Deployment and Migration'
+  description: 'Course MS-050T00-A: SharePoint Hybrid Deployment and Migration'
+uid: course.ms-050t00
+courseNumber: 'MS-050T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 SharePoint 2019 中的 MinRole 功能
+- skill: 描述如何安装和配置 SharePoint 2019
+- skill: 描述如何实施 SharePoint 的高可用性
+- skill: 配置BDC服务应用实例
+- skill: 配置Secure Store Service应用程序
+- skill: 描述如何在SharePoint 2019中配置我的网站
+- skill: 描述可用的SharePoint混合方案
+- skill: 描述SharePoint混合配置的要求
+- skill: 规划SharePoint服务器混合模式
+- skill: 规划内容迁移过程
+- skill: 描述迁移过程中可利用的资源和工具
+- skill: 使用SharePoint迁移评估工具(SMAT)访问要迁移的数据
+- skill: 使用SharePoint迁移工具(SPMT)将内容迁移到云
+- skill: 管理和监控迁移过程
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- m365
+summary: |-
+  业务环境已经发生了变化。人们希望在没有合作障碍的情况下进行交流。企业需要既经济又灵活的解决方案。企业开始配置混合环境，并将内容迁移到云作为解决方案。在本课程中，您将学习如何部署和配置SharePoint Server 2019，该服务器旨在满足现代工作方式的需求。您还将学习如何配置和管理各种Sharepoint服务应用程序以便为混合部署做好准备。然后，您将学习如何规划和实施SharePoint混合场景，以提供无缝的用户体验。最终，您将学习如何设计内容迁移过程以及在Microsoft 365中将内容迁移到SharePoint和OneDrive时要使用的可用资源和工具。
+
+  #### 受众概况
+  本课程专为部署和管理SharePoint本地环境并对部署混合方案和将内容迁移到Microsoft 365感兴趣的IT专业人员而设计。
+prerequisitesSection: |-
+  - 使用Windows PowerShell的经验
+  - 对SQL Server管理的基本了解
+  - 对网络，包括DNS的基本了解
+  - Windows服务器管理的应用知识
+  - 对Active Directory和Azure AD有基本的了解
+  - 对移动设备管理和其他操作系统（Android和macOS）有基本的了解
+outlineSection: |-
+  ### 模块 1&#58;SharePoint基础结构
+  本模块介绍基本的SharePoint基础架构。它描述了SharePoint场中的组件。它还讨论如何安装和配置SharePoint场。
+  #### 课程
+  - 规划 SharePoint 场
+  - SharePoint 2019
+  - 安装和管理SharePoint场。
+
+  学完本模块后，学生将能够&#58;
+  - 描述SharePoint 2019中的MinRole功能
+  - 描述如何安装和配置SharePoint 2019
+  - 描述如何实施SharePoint的高可用性
+  - 规划备份和还原
+
+
+  ### 模块 2&#58;SharePoint身份验证和安全性
+  本模块介绍SharePoint身份验证和安全性。它介绍了在SharePoint 2019中的不同身份验证方法。
+  #### 课程
+  - 规划身份验证
+  - 配置联合身份验证
+
+  学完本模块后，学生将能够&#58;
+  - 描述SharePoint 2019中的身份验证基础架构
+  - 描述NTLM和Kerberos身份验证
+  - 描述服务器到服务器的身份验证
+  - 解释联邦身份背后的概念。
+
+
+  ### 模块 3&#58;SharePoint内容管理
+  本模块介绍SharePoin内容管理。它讨论了SharePoint中的内容结构。它还提供了有关SharePoint中授权和内容访问的详细信息。
+  #### 课程
+  - SharePoint内容结构概述
+  - 管理对内容的访问
+  - 管理网站集
+
+  学完本模块后，学生将能够&#58;
+  - 解释网站集的概念
+  - 描述如何创建网站集
+  - 描述如何在SharePoint 2019中规划授权
+  - 描述如何在SharePoint 2019中管理权限等级
+  - 描述如何在SharePoint 2019中管理SharePoint组
+
+
+  ### 模块 4&#58;SharePoint服务应用
+  本模块主要介绍SharePoint service应用程序和工作流。它描述了如何配置和管理BCS服务应用程序和用户配置文件服务应用程序。具体来说，我们将讨论如何导入和导出BDC模型以及如何将用户属性导入到SharePoint。
+  #### 课程
+  - SharePoint Service应用程序和工作流
+  - 规划和配置 Business Connectivity Service (BCS) 和 Secure Store
+  - 规划和配置用户配置文件
+
+  学完本模块后，学生将能够&#58;
+  - 解释BDC模型的关键组件
+  - 描述BCS的高级体系结构
+  - 配置BDC服务应用实例
+  - 配置Secure Store Service应用程序
+  - 说明安全存储服务的目的
+  - 管理BDC服务应用实例的权限
+  - 描述如何配置用户配置文件属性
+  - 描述如何在SharePoint 2019中管理受众
+  - 描述如何在SharePoint 2019中配置我的网站
+  - 描述如何配置用户配置文件服务应用程序
+  - 描述如何规划SharePoint Active Directory导入和同步
+
+
+  ### 模块 5&#58;计划和配置托管元数据
+  本模块介绍一些综合功能，如托管元数据服务、内容类型和术语集，这些功能允许您创建和传播信息体系结构。它介绍了内容类型的用途以及托管元数据服务背后的概念，包括分类法、术语集和企业关键字。
+  #### 课程
+  - 管理内容类型
+  - 托管元数据
+  - 配置托管元数据服务
+
+  学完本模块后，学生将能够&#58;
+  - 说明内容类型的功能和用法
+  - 描述托管元数据服务的功能
+  - 说明如何跨网站集创建和发布内容类型
+  - 确定托管元数据服务的功能
+  - 创建和管理术语组、术语集和术语
+  - 为托管导航配置术语集和术语
+
+
+  ### 模块 6&#58;规划和配置搜索
+  本模块介绍企业搜索服务应用。它提供了有关规划和配置内容源、爬网计划和爬网规则的详细信息。它还讨论了如何配置一系列搜索组件的搜索管理，如查询规则、结果类型和显示模板。
+  #### 课程
+  - 规划企业搜索
+  - 配置企业搜索
+  - 管理企业搜索
+
+  学完本模块后，学生将能够&#58;
+  - 描述搜索组件的功能
+  - 说明如何规划和配置搜索拓扑
+  - 描述如何规划和配置内容源
+  - 描述如何规划和配置爬网计划
+  - 描述如何规划和配置爬网规则
+  - 描述如何管理搜索架构
+  - 描述如何配置搜索中心
+  - 说明查询规则的使用和部署
+  - 说明结果源的使用和部署
+
+
+  ### 模块 7&#58;SharePoint混合方案概述
+  本模块介绍SharePoint服务器混合模式的规划。它概述了SharePoint混合方案以及配置要求。
+  #### 课程
+  - SharePoint混合方案概述
+  - 规划SharePoint服务器混合配置
+
+  学完本模块后，学生将能够&#58;
+  - 描述可用的SharePoint混合方案
+  - 描述SharePoint混合配置的要求
+  - 规划SharePoint服务器混合模式
+
+
+  ### 模块 8&#58;实施SharePoint混合方案
+  本模块的重点是实施SharePoint混合方案。具体来说，它讨论了混合配置路线图，包括混合基础结构和混合选择器的配置。它还介绍本地数据网关，以支持在SharePoint Server 2019中使用Microsoft 365功能。
+  #### 课程
+  - 实施SharePoint混合方案
+  - 配置本地数据网关
+
+  学完本模块后，学生将能够&#58;
+  - 配置SharePoint混合方案
+  - 配置本地数据网关
+
+
+  ### 模块 9&#58;实施SharePoint混合搜索
+  本模块的重点是介绍SharePoint混合搜索。它介绍不同类型的混合搜索，包括云混合搜索和混合联合搜索。它解释了如何设置混合搜索和配置搜索结果。
+  #### 课程
+  - SharePoint混合搜索概述
+  - 配置SharePoint混合搜索
+
+  学完本模块后，学生将能够&#58;
+  - 描述云混合搜索和混合联合搜索的区别
+  - 评估不同类型的混合搜索
+  - 配置云混合搜索
+  - 配置混合搜索结果
+
+
+  ### 模块 10&#58;迁移简介
+  本模块介绍如何规划向云的迁移过程。它概述了迁移过程中可利用的资源和工具。
+  #### 课程
+  - 迁移概述
+  - 利用 FastTrack 和合作伙伴服务
+
+  学完本模块后，学生将能够&#58;
+  - 规划内容迁移过程
+  - 描述迁移过程中可利用的资源和工具
+
+
+  ### 模块 11&#58;迁移到SharePoint Online
+  本模块的重点是使用SharePoint迁移工具(SPMT)将内容迁移到云。具体来说，它将讨论SPMT的要求和局限性。它介绍了针对不同的数据源（如文件共享和SharePoint内容）的各种迁移方法。
+  #### 课程
+  - 为迁移做准备
+  - 将内容迁移到云
+  - 管理和监控迁移过程
+
+  学完本模块后，学生将能够&#58;
+  - 使用SharePoint迁移评估工具(SMAT)访问要迁移的数据
+  - 使用SharePoint迁移工具(SPMT)将内容迁移到云
+  - 管理和监控迁移过程
+
