@@ -7,8 +7,8 @@ uid: exam.mb-901
 displayName: MB-901
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的内容于2020年7月10日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>此考试的内容于 2020 年 7 月 10 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
   此考试将涵盖采用 Dynamics 365 的配置和优点。
@@ -21,6 +21,12 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
 - en
+- es
+- de
+- zh-cn
+- fr
+- ko
+- ja
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
@@ -31,13 +37,13 @@ levels:
 skills:
 - 此考试的内容于2020年7月10日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 确定用于 Dynamics 365 的 Microsoft 平台组件 (30-35%)
-- 描述 Dynamics 365 中的人工智能和混合实境 (10-15%)
+- 描述 Dynamics 365 中的人工智能和混合现实 (10-15%)
 - 描述模型驱动式应用程序 (25-30%)
 - 描述 Finance and Operations 应用程序 (25-30%)
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 courses:
 - uid: course.mb-901t00
 paths:

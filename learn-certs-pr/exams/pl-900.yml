@@ -6,17 +6,23 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的内容于2020年7月13日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>此考试的内容于 2020 年 07 月 13 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
-  本考试的考生希望通过了解Power平台的功能、使用Power Automate自动化基本业务流程、使用Power BI执行基本数据分析、通过创建简单的Power应用程序体验来更有效地执行操作，以及通过使用Power虚拟代理创建功能强大的聊天机器人来提高生产率。
+  本考试的考生希望通过了解Power平台的功能、使用Power Automate将基本业务流程自动化、使用Power BI执行基本数据分析、通过创建简单的Power应用程序体验来更有效地执行操作，以及通过使用Power虚拟代理创建功能强大的聊天机器人来提高生产率。
 subTitle: 本考试衡量您描述Power Platform业务价值的能力；确定Power Platform的核心组件；演示Power BI的功能；描述Power Apps的功能；演示Power Automated的功能；以及演示Power虚拟代理的业务价值。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
+- es
+- de
+- zh-cn
+- fr
+- ko
+- ja
 providers:
 - providerType: pearson-vue
   examUrl: 'https://examregistration.microsoft.com/?locale=zh-cn&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
@@ -27,7 +33,7 @@ providers:
 levels:
 - beginner
 skills:
-- 此考试的内容于2020年7月13日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 此考试的内容于 2020 年 07 月 13 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 描述 Power Platform 的业务价值 (15-20%)
 - 识别 Power Platform 的核心组件 (15-20%)
 - 演示Power BI的功能 (15-20%)
@@ -47,16 +53,16 @@ relatedCertifications:
     uid: certification.power-platform-fundamentals
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得 Microsoft Certified: Power Platform Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
-  description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

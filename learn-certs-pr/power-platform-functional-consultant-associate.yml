@@ -2,24 +2,24 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: 此认证将于2020年10月推出。Power Platform功能顾问必须具备Power Platform方面的广泛的应用知识，包括对能力、边界和约束的实际理解。
+  description: 此认证将于2020年9月提供。Power Platform功能顾问必须具备Power Platform方面的广泛的应用知识，包括对能力、边界和约束的实际理解。
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
 
   Power Platform功能顾问必须具备Power Platform方面的广泛的应用知识，包括对能力、边界和约束的实际理解。他们应该具有使用Power Platform制作工具创建使用Power Platform和Microsoft 365的解决方案的经验。通过认证的功能顾问应精通数据建模、用户体验设计、需求分析和流程分析。
 
-  <div><br/><strong>注意：此认证将于2020年10月推出。</strong></div>
-subTitle: 此认证将于2020年10月推出。Power Platform功能顾问必须具备Power Platform方面的广泛的应用知识，包括对能力、边界和约束的实际理解。
+  <div><br/><strong>注意&#58;此认证将于2020年9月提供。</strong></div>
+subTitle: 此认证将于2020年9月提供。Power Platform功能顾问必须具备Power Platform方面的广泛的应用知识，包括对能力、边界和约束的实际理解。
 levels:
 - intermediate
 skills:
 - 配置公共数据服务
-- 构建Power应用程序
-- 使用Power Automate创建自动化
-- 配置Power虚拟代理
-- 使用Power BI创建虚拟化
+- 使用Power Apps创建应用
+- 建立和管理Power Automate
+- 实施Power Virtual Agents聊天机器人
+- 将Power Apps与其他应用程序和服务整合
 roles:
 - business-analyst
 - developer
@@ -33,23 +33,27 @@ products:
 - ai-builder
 - power-platform
 - office-teams
-- dynamics-virtual-agent
+- power-virtual-agents
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4D1eL
 exams:
 - uid: exam.pl-200
 resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 认证海报
-  description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: deals.md
-- title: 认证支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
-  href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: help.md
 

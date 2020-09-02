@@ -7,32 +7,33 @@ uid: exam.mb-210
 displayName: MB-210
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的内容于2020年7月1日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div> <strong>考试内容将于2020年10月2日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
   </div>
 
   本考试的考生是具备销售专门知识的 Dynamics 365 功能顾问。考生负责实施支持销售生命周期的解决方案，以便有效和高效的地实现收入目标、销售策略以及公司目标。
 
-  考生负责配置并扩展线索、联系人、账户和机会的核心功能，并支持实体在公司内将这些销售过程匹配到位。他们确定机会使用Power Apps为所有设备开发统一的体验，使用Power Automate进行应用程序集成，业务流程流以及其他自动化工具，以构建支持并加速“通往现金之旅”的应用程序。
+  考生负责配置并扩展线索、联系人、账户和机会的核心功能，并支持实体在公司内将这些销售过程匹配到位。他们确定使用Power Apps为所有设备开发统一体验，使用Power Automate进行应用程序集成，业务流程工作流以及其他自动化工具的机会，以构建支持并加速“通往现金之旅”的应用程序。
 
   考生必须具备扎实的业务知识，并最好在销售领域有亲身经历，曾承担一个或多个销售职能。
 subTitle: '此考试衡量您完成以下技术任务的能力：执行配置，管理核心销售实体，以及管理销售实体。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
+practiceTestUrl: https://in.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 此考试的内容于2020年7月1日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 考试内容将于2020年10月2日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
 - 执行配置(40-45%)
 - 管理核心销售实体(20-25%)
 - 管理销售实体(35-40%)
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 exams:
 - uid: exam.mb-200
@@ -47,16 +48,16 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-sales
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
-  description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
 
   该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
 subTitle: 该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
@@ -15,7 +15,7 @@ levels:
 skills:
 - 设计解决方案
 - 创造解决方案。
-- 分析数据
+- 分析及可视化数据
 - 实施和管理解决方案
 roles:
 - business-analyst
@@ -28,7 +28,7 @@ roles:
 - technology-manager
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - office
 - office-access
 - office-excel
@@ -52,7 +52,6 @@ products:
 - power-platform
 - ai-builder
 - common-data-service
-- forms-pro
 - power-automate
 - power-bi
 - power-apps
@@ -73,19 +72,25 @@ paths:
 exams:
 - uid: exam.pl-100
 resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 认证海报
-  description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 认证学习路径
+  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: deals.md
-- title: 认证支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
-  href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: help.md
 

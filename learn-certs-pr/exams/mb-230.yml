@@ -7,8 +7,8 @@ uid: exam.mb-230
 displayName: MB-230
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的内容于2020年7月1日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div> <strong>考试内容将于2020年10月2日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
   </div>
 
   本考试的考生是具备客户服务专门知识的 Dynamics 365 职能顾问。考生负责实施专注于服务、质量、可靠性、效率和客户满意度的全渠道解决方案。
@@ -29,15 +29,15 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试的内容于2020年7月1日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
-- 执行配置 (25-30%)
+- 考试内容将于2020年10月2日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 执行配置(25-30%)
 - 管理案例和知识库 (30-35%)
-- 管理队列，权利和SLA (25-30%)
-- 配置 Forms Pro (15-20%)
+- 管理队列，权利和SLA(25-30%)
+- 配置 Forms Pro(15-20%)
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-customer-service
 exams:
 - uid: exam.mb-200
@@ -47,22 +47,22 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-dynamics.create-forms
+- uid: learn-dynamics.create-surveys
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft Certified：Dynamics 365 Customer Service Functional Consultant Associate.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
-  description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

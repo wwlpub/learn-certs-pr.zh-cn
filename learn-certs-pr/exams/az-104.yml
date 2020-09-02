@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   参加该考试的考生应具有主题知识，可以实施、管理和监控组织的 Microsoft Azure 环境。
 
@@ -26,14 +26,17 @@ providers:
   examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
+- zh-cn
+- ko
+- ja
 levels:
 - intermediate
 skills:
-- 管理 Azure 身份和治理(15-20%)
+- 管理 Azure 身份和治理 (15-20%)
 - 实施和管理存储 (10-15%)
-- 部署和管理 Azure 计算资源(25-30%)
+- 部署和管理 Azure 计算资源 (25-30%)
 - 配置和管理虚拟网络 (30-35%)
-- 监视和备份 Azure 资源(10-15%)
+- 监视和备份 Azure 资源 (10-15%)
 roles:
 - administrator
 products:
@@ -62,7 +65,7 @@ resources:
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

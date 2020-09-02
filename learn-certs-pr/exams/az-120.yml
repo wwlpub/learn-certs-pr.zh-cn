@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div><div style='font-weight&#58; bold;'>- ‘考试内容将于 2020 年 7 月 21 日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>该考试的内容已于2020年7月21日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
   本考试的考生应该是对 SAP 系统环境和行业标准具有丰富经验和知识的建筑师或工程师。这些标准是针对 Microsoft Azure 上 SAP 解决方案的长期运行而制定的。
@@ -16,7 +16,7 @@ summary: |-
 
   Azure for SAP 工作负载的架构师或工程师与云管理员、云数据库管理员和客户合作实施解决方案。
 
-  参加本考试的考生应具有 SAP 应用程序方面的丰富经验和知识：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 应用程序和数据库的操作系统服务器、Azure 门户、ARM 模板、操作系统、虚拟化、云基础设施、存储结构、高可用性设计、灾难恢复设计、数据保护概念和网络。
+  参加本考试的考生应具有 SAP 应用程序方面的丰富经验和知识&#58; SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 应用程序和数据库的操作系统服务器、Azure 门户、ARM 模板、操作系统、虚拟化、云基础设施、存储结构、高可用性设计、灾难恢复设计、数据保护概念和网络。
 
   对于本考试，强烈建议除 SAP HANA 和 Linux 认证外，还应获得 Azure 管理员助理或 Azure 解决方案架构师专家认证。
 subTitle: '本考试衡量您完成以下技术任务的能力：将SAP工作负载迁移到Azure；设计支持SAP工作负载的Azure解决方案；构建和部署Azure SAP工作负载；验证用于SAP工作负载的Azure基础架构；以及操作Azure SAP体系结构。'
@@ -31,12 +31,12 @@ locales:
 levels:
 - advanced
 skills:
-- 考试内容将于2020年7月21日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 将SAP工作负载迁移到Azure(10-15%)
+- 此考试的内容于2020年7月21日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 将SAP工作负载迁移到Azure (10-15%)
 - 设计Azure解决方案以支持SAP Workloads (20-25%)
-- 构建和部署Azure for SAP Workloads(35-40%)
-- 验证 Azure 基础架构是否适用于 SAP Workloads(10-15%)
-- 操作Azure SAP体系结构(10-15%)
+- 构建和部署Azure for SAP Workloads (35-40%)
+- 验证 Azure 基础架构是否适用于 SAP Workloads (10-15%)
+- 操作Azure SAP体系结构 (10-15%)
 roles:
 - solution-architect
 - devops-engineer
@@ -63,7 +63,7 @@ resources:
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

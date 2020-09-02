@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Microsoft Azure Data Fundamentals
+metadata:
+  title: 'Course DP-900T00-A: Microsoft Azure Data Fundamentals'
+  description: 'Course DP-900T00-A: Microsoft Azure Data Fundamentals'
+uid: course.dp-900t00
+courseNumber: 'DP-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述Azure 中的核心数据概念
+- skill: 解释Azure中关系型数据的概念
+- skill: 解释Azure中非关系型数据的概念
+- skill: 识别Azure中现代数据仓库的组件
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- data-engineer
+- database-administrator
+products:
+- azure
+exams:
+- uid: exam.dp-900
+summary: |-
+  在本课程中，学生将学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能，并在Microsoft Azure中建立有关云端数据服务的基础知识。学生将确定并描述核心资料概念，例如关系型，非关系型，大数据和分析，并探索如何使用Microsoft Azure实施该技术。他们将探索数据世界中的角色，任务和责任。这些学生将探索关系型数据产品，供应和部署关系型数据库，以及使用Microsoft Azure通过云端数据解决方案查询关系型数据。他们将使用Microsoft Azure探索非关系型数据产品，供应和部署非关系型数据库以及非关系型数据存储。学生将探索可用于在Azure中构建数据分析解决方案的处理选项。他们将探索Azure Synapse Analytics，Azure Databricks和Azure HDInsight。学生将学习什么是Power BI，包括其构建模块以及它们如何协同工作。
+
+  #### 受众概况
+  本课程的读者是想要学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能并在Microsoft Azure中建立其云数据服务基础知识的个人。
+outlineSection: |-
+  ### 模块 1&#58;探索核心资料概念
+  学生将学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能，并在Microsoft Azure中建立有关云端数据服务的基础知识。学生将确定并描述核心资料概念，例如关系型，非关系型，大数据和分析，并探索如何使用Azure实施该技术。学生将探索数据世界中的角色，任务和责任。
+  #### 课程
+  - 探索核心资料概念
+  - 探索资料世界中的角色和责任
+  - 描述关系型数据的概念
+  - 探索非关系型数据的概念
+  - 探索资料分析的概念
+
+  学完本模块后，学生将能够&#58;
+  - 在Azure中显示有关云端数据服务的基础知识
+  - 识别并描述核心数据概念，例如关系型，非关系型，大数据和分析
+  - 说明如何使用Azure实施此技术
+
+
+  ### 模块 2&#58;在Azure中浏览关系型数据
+  学生将学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能，并在Microsoft Azure中建立有关云端数据服务的基础知识。学生将探索关系型数据产品，供应和部署关系型数据库，以及通过Azure的云端数据解决方案查询关系型数据。
+  #### 课程
+  - 探索Azure中的关系型数据产品
+  - 探索Azure中的供应和部署关系型数据库产品
+  - 在Azure中查询关系型数据
+
+  学完本模块后，学生将能够&#58;
+  - 在Azure上描述关系型数据产品
+  - 解释在Azure上配置和部署关系型数据库
+  - 通过Azure中的云端数据解决方案查询关系型数据
+
+
+  ### 模块 3&#58;在Azure中浏览非关系型数据
+  学生将学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能，并在Azure中建立有关云端数据服务的基础知识。学生将使用Microsoft Azure探索非关系型数据产品，供应和部署非关系型数据库以及非关系型数据存储。
+  #### 课程
+  - 探索Azure中的非关系型数据产品
+  - 探索在Azure上配置和部署非关系型数据服务
+  - 在Azure中管理非关系型数据存储
+
+  学完本模块后，学生将能够&#58;
+  - 描述Azure上的非关系型数据产品
+  - 解释在Azure上配置和部署非关系型数据库
+  - 删除Azure上的非关系型数据存储
+
+
+  ### 模块 4&#58;在Azure中探索现代数据仓库分析
+  学生将学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能，并在Azure中建立有关云端数据服务的基础知识。学生将探索可用于在Azure中构建数据分析解决方案的处理选项。学生将探索Azure Synapse Analytics，Azure Databricks和Azure HDInsight。学生将学习什么是Power BI，包括其构建模块以及它们如何协同工作。
+  #### 课程
+  - 检查现代数据仓库的组件
+  - 探索Azure中的资料提取
+  - 探索Azure中的数据存储和处理
+  - 开始使用Power BI进行构建
+
+  学完本模块后，学生将能够&#58;
+  - 描述可用于在Azure中构建数据分析解决方案的处理选项
+  - 描述Azure Synapse Analytics、Azure Databricks和Azure HDInsight
+  - 说明什么是Microsoft Power BI，包括其构建基块以及它们如何协同工作
+
