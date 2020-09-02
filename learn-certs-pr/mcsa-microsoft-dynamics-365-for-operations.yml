@@ -4,14 +4,20 @@ metadata:
   title: 'MCSA: Microsoft Dynamics 365 for Operations'
   description: 'MCSA: Microsoft Dynamics 365 for Operations'
 uid: certification.mcsa-microsoft-dynamics-365-for-operations
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+iconUrl: /media/learn/certification/badges/mcsa-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div><strong>该认证于2021年1月31日停用。在此日期之后，您将无法再获得此认证。您在他们停止提供日期之前获得的任何认证将继续显示在认证控制面板的 <a href='https://www.microsoft.com/learning/dashboard.aspx'>成绩证明中。</a>.您也可以 <a href='/learn/certifications/retired-certifications'>浏览所有已停用认证</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>该认证于2021年1月31日停用。在此日期之后，您将无法再获得此认证。您在他们停止提供日期之前获得的任何认证将继续显示在认证控制面板的 <a href='https://www.microsoft.com/learning/dashboard.aspx'>成绩证明中</a>。您也可以 <a href='/learn/certifications/retired-certifications'>浏览所有已停用认证</a>。</strong><br/><br/></div>
   </div>
 
   此认证证明您在Microsoft Dynamics 365技术方面的专业知识，和执行自定义 Microsoft Dynamics 365 for Operations 所需的基本技术和开发作业。这些受众通常包括技术顾问、程序员和 IT 人员。
+
+  要获得MCSA&#58; Microsoft Dynamics 365 for Operations认证，请完成以下要求&#58;
+  - 通过考试 [MB6-894&#58; Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance](/learn/certifications/exams/mb6-894)
+  - 通过以下其中一项考试：
+    - [70-764&#58; Administering a SQL Database Infrastructure](/learn/certifications/exams/70-764)
+    - [70-765&#58; Provisioning SQL Databases](/learn/certifications/exams/70-765)
 subTitle: 此认证证明您在Microsoft Dynamics 365技术方面的专业知识，和执行自定义 Microsoft Dynamics 365 for Operations 所需的基本技术和开发作业。这些受众通常包括技术顾问、程序员和 IT 人员。
 levels:
 - intermediate
@@ -37,7 +43,7 @@ resources:
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: deals.md
 - title: 认证支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

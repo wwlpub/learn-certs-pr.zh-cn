@@ -6,12 +6,12 @@ metadata:
 uid: exam.mb-320
 displayName: MB-320
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   本考试的考生是职能顾问，他们分析业务需求并将这些需求转化为完全实现的业务流程和实施行业最佳实践的解决方案。考生是实施和配置应用程序以满足业务需求的关键资源。
   <br/>
 
-  本考试的考生对企业的会计原则和财务运作，客户服务，现场服务，制造，零售和供应链管理概念有基本的了解。
+  本考试的考生对企业的会计原则和财务运作、客户服务、现场服务、制造、零售和供应链管理概念有基本的了解。
   <br/>
 
   此考试的考生通常专注于 Microsoft Dynamics 365 Finance的一个或多个功能集，包括财务、制造和供应链管理。
@@ -32,7 +32,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
@@ -48,16 +48,16 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-manufacturing
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
-  description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

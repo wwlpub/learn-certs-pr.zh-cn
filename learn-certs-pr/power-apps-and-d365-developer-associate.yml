@@ -6,7 +6,9 @@ metadata:
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>该认证将于 2020 年 12 月 31 日停用。在此日期之后，您将无法再获得此认证。您在他们停止提供日期之前获得的任何<a href="https://aka.ms/certdashboard">认证将继续显</a> 示在认证控制面板的 成绩证明中。</strong><br/><br/></div></div>
 
   使用Microsoft Power Apps和Dynamics 365的开发人员负责设计、开发、保护和扩展Dynamics 365实施。考生实现解决方案的组件，该方案包括应用程序增强功能，自定义用户体验，系统集成，数据转换，自定义流程自动化和自定义可视化。
 subTitle: 使用Microsoft Power Apps和Dynamics 365的开发人员负责设计、开发、保护和扩展Dynamics 365实施。
@@ -30,7 +32,7 @@ roles:
 - developer
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-customer-engagement
 courses:
 - uid: course.mb-400t00
@@ -51,22 +53,25 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-400
 resources:
-- title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Power Apps + Dynamics 365 Developer Associate。'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j6
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkSW
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 认证海报
-  description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 认证学习路径
+  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: deals.md
-- title: 认证支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
-  href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: help.md
 

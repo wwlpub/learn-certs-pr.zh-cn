@@ -7,8 +7,8 @@ uid: exam.ms-900
 displayName: MS-900
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>此考试的内容于2020年7月8日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>此考试的内容于 2020 年 7 月 8 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
   此考试面向希望证明自己在采用云服务时应考虑因素和优势以及软件即服务(SaaS)云模型方面具有基础知识的考生。考生应了解通过实施Microsoft 365云服务产品获得的可用选项和好处。
@@ -23,6 +23,11 @@ practiceTestUrl: https://us.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_med
 locales:
 - en
 - ja
+- es
+- de
+- zh-cn
+- fr
+- ko
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-900&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
@@ -34,7 +39,7 @@ levels:
 - beginner
 skills:
 - 此考试的内容于2020年7月8日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
-- 描述云的概念 (10-15%)
+- 描述云端概念 (10-15%)
 - 描述核心 Microsoft 365 服务与概念 (30-35%)
 - 说明Microsoft 365中的安全性、合规性、隐私性和信任 (30-35%)
 - 描述 Microsoft 365 定价和支持 (20-25%)
@@ -47,7 +52,10 @@ products:
 courses:
 - uid: course.ms-900t01
 paths:
-- uid: learn-m365.microsoft-365-fundamentals
+- uid: learn.wwl.m365-productivity-teamwork-solutions
+- uid: learn.wwl.m365-business-management-solutions
+- uid: learn.wwl.m365-security-compliance-capabilities
+- uid: learn.wwl.m365-licensing-service-support
 relatedCertifications:
 - related:
     uid: certification.microsoft-365-fundamentals

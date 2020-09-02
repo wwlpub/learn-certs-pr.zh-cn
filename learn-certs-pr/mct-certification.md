@@ -1,6 +1,6 @@
 ---
-title: '成为 Microsoft Certified Trainer | Microsoft Docs'
-description: '成为 Microsoft Certified Trainer'
+title: 成为 Microsoft Certified Trainer | Microsoft Docs
+description: 成为 Microsoft Certified Trainer
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Microsoft Certified Trainers [Microsoft 认证讲师 (MCT)] 是精通 Microsoft 技术的杰出技术和教学专家。加入这个由世界各地的Microsoft技术培训专家组成的独家小组，并从MCT培训证书和会员资格中受益。
 
-作为MCT，您将获得独有优势，包括访问完整的Microsoft官方培训和认证产品库、考试、书籍和Microsoft产品的大量折扣。此外，您将能够使用Microsoft准备资源来帮助您改善培训职业并在在线社区论坛中与其他MCT成员互动。您还将收到邀请参加Microsoft和本地MCT社区独家活动。
+作为MCT，您将获得独有优势，包括访问完整的Microsoft官方培训和认证产品库、考试、书籍和Microsoft产品的大量折扣。此外，您将能够使用Microsoft准备资源来帮助您改善培训职业并于在线社区论坛中与其他MCT成员互动。您还将收到邀请参加Microsoft和本地MCT社区独家活动。
 
 作为 Microsoft 认证讲师，您需要获得 Microsoft 认证，以证明您在使用所讲授每一门课程相关的 Microsoft 产品和解决方案方面的经验和知识。
 
@@ -35,16 +35,15 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 
 有关 MCT 计划要求的详细信息，请参阅本页面 [申请流程](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) 部分下的 MCT 计划指南和 MCT 计划协议。
 
-
 ### MCT 计划加入要求
 
-- 目前持有符合 MCT 计划要求的 Microsoft 认证或资格。 
-(见以下资格认证列表）
+- 目前持有符合 MCT 计划要求的 Microsoft 认证或资格。
+(见以下资格认证列表)
 - 通过以下渠道之一证明自身的教学技能:
   - 教学技能认证
     - CompTIA CTT+
-    - 基础教育培训师(Microsoft 内部认证）
-	- Fourth Dimension Technologies, Inc.
+    - 基础教育培训师(Microsoft 内部认证)
+    - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge 教学技能认证
     - IAMCT 认可的技术讲师 (IAMCT ATT)
@@ -58,16 +57,16 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
   
   或<br/><br/>
 
-  - 提供推荐材料，证明至少具有一年的教学经验 
+  - 提供推荐材料，证明至少具有一年的教学经验
 
 **注意** 要更新为 MCT 认证，您的周年日期必须满足 MCT 计划更新要求。
 
 ### MCT 计划更新要求
 
 - 目前持有符合 MCT 计划要求的 Microsoft 认证或资格。
-(见以下资格认证列表）
+(见以下资格认证列表)
 
-- 满足 [重要指标(MTM）](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) 验证的至少一门课的最低教学要求，或任何其他考量工具也可。
+- 满足 [重要指标(MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) 验证的至少一门课的最低教学要求，或任何其他考量工具也可。
 
 **注意** 续订要求可能会更改。
 
@@ -86,7 +85,7 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 - [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(将于2020年8月31日停用)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (将于2020年8月31日停用)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
@@ -100,12 +99,11 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365：Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365：Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (将于2020年12月31日停用)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
-- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting(将于2021年1月31日停用），Microsoft Dynamics 365 for Operations(将于2021年1月31日停用），SQL 2016 BI Development(将于2021年1月31日停用），SQL 2016 Database Administration(将于2021年1月31日停用），SQL 2016 Database Development(将于2021年1月31日停用），SQL Server 2012/2014 (将于2021年1月31日停用），Universal Windows Platform (将于2021年1月31日停用），Web Applications(将于2021年1月31日停用），Windows Server 2012(将于2021年1月31日停用），或 Windows Server 2016(将于2021年1月31日停用）
-- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications(将于2021年1月31日停用），Data Management and Analytics(将于2021年1月31日停用），Productivity(将于2021年1月31日停用），或 Core Infrastructure(将于2021年1月31日停用）
-- [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder(将于2021年1月31日停用）
--Dynamics CRM Dynamics技术(2019年12月31日停用）-[了解与每个Microsoft Dynamics资格和认证相关的要求](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)。
+- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting(2021年1月31日停用)，Microsoft Dynamics 365 for Operations(2021年1月31日停用； [请参见此处以了解与每个Microsoft Dynamics资格和认证相关的要求](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm))、SQL 2016 BI Development(2021年1月31日停用)，SQL 2016 Database Administration(2021年1月31日停用)，SQL 2016 Database Development(2021年1月31日停用) ，SQL Server 2012/2014(2021年1月31日停用)，Universal Windows Platform(2021年1月31日停用)，Web Applications(2021年1月31日停用)，Windows Server 2012(2021年1月31日停用)或Windows Server 2016(2021年1月31日停用)
+- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications(将于2021年1月31日停用)，Data Management and Analytics(将于2021年1月31日停用)，Productivity(将于2021年1月31日停用)，或 Core Infrastructure(将于2021年1月31日停用)
+- [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder(将于2021年1月31日停用)
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel 和 Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint 和 PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook 和 Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 和 Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word 和 Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel 和 Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access 和 Access 2019)](/learn/certifications/mos-access-expert-2019) 或者 [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **注意** 符合 MCT 计划资格要求的 Microsoft 认证和资格随时可能更改。所有新的基于角色的认证一旦发布，将成为MCT项目的合格认证。已被停用的认证将有资格在停用日期后的6个月内参加MCT计划。[了解有关停用证书的更多信息](https://www.microsoft.com/learning/retired-certifications.aspx)。
@@ -165,14 +163,13 @@ MCT Alumni 权益包括：
 
 如果您有意成为 MCT Alumni 会员，请查看 MCT Alumni 计划协议，以便理解会员条款。<br/>
 
-
 [MCT Alumni 计划协议](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 
 **注意** 除非另行说明，否则所有内容均为英语。
 
 ### 在线申请
 
-通过 [MCT注册工具](https://mcp.microsoft.com/Authenticate/MCT)申请MCT Alumni 身份。
+通过 [MCT注册工具](https://mcp.microsoft.com/Authenticate/MCT) 申请MCT Alumni 身份。
 
 **从 MCT Alumni 转到 MCT**
 

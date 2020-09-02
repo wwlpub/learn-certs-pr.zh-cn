@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 描述 Power Platform 组件：Power Apps、Power BI 和 Microsoft Automate
-- skill: 描述 Power Platform 组件：Common Data Service，连接器和 AI 建立器
+- skill: '描述 Power Platform 组件：Power Apps、Power BI 和 Microsoft Automate'
+- skill: '描述 Power Platform 组件：Common Data Service，连接器和 AI 建立器'
 - skill: 描述 M365、Dynamics 365、Microsoft Azure 和第三方服务的跨云案例
 - skill: 识别 Power Platform 的权益和功能
 - skill: 识别 Power Platform 组件的基本功能和商务价值
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  了解 Power Platform 的业务价值和产品功能。建立一个简单的 PowerApp，将数据与 CDS 联机，组建一个 Power BI 控制面板，并使用 Microsoft Flow 自动化流程。
+  了解 Power Platform 的业务价值和产品功能。创建一个简单的Power App，使用Common Data Service连接数据，构建Power BI控制面板，并使用Power Automate自动化流程。
 
   #### 受众概况
   此考试的考生是希望通过自动执行业务流程，分析数据以深入了解业务并通过创建简单的应用程序体验来提高工作效率的用户。
@@ -44,29 +44,12 @@ outlineSection: |-
   - 了解使用Power平台创建业务解决方案的价值
   - 了解Power平台的组件和特性
 
-  ### 模块 2&#58; Power Apps 入门
-  了解Power Apps的价值和功能，以及其他组织如何利用此技术为其业务构建简单的应用程序。
-  #### 课程
-  - Power 应用概述
-  - 如何构建应用程序解决方案
-  - 创建员工画布应用程序
-  - 完成应用程序
 
-  #### 实验&#58;如何构建基本画布应用程序2
-  - 创建安全画布应用程序
-
-  学完本模块后，学生将能够&#58;
-  - 了解其他组织如何使用Power应用程序将其流程数字化
-  - 查看正在运行的Power应用程序，并了解制作第一个应用程序的选项
-  - 了解什么是Power应用程序及其业务价值
-
-
-  ### 模块 3&#58; 通用数据服务简介
+  ### 模块 2&#58; 通用数据服务简介
   通用数据服务(Common Data Service)允许您深入研究云中功能强大、可扩展的数据解决方案。了解是什么使通用数据服务发挥作用，以及它如何与Power平台一起创建独特而高效的业务解决方案。
   #### 课程
   - 通用数据服务概述
   - 模块总结
-
 
   #### 实验&#58;数据建模
   - 创建环境和解决方案
@@ -79,14 +62,36 @@ outlineSection: |-
   - 说明通用数据服务中的环境、实体、字段和关系
 
 
+  ### 模块 3&#58; Power Apps 入门
+  了解Power Apps的价值和功能，以及其他组织如何利用此技术为其业务构建简单的应用程序。
+  #### 课程
+  - Power 应用概述
+  - 如何构建应用程序解决方案
+
+  #### 实验&#58;画布应用程序，第1部分
+  - 创建员工画布应用程序
+  - 完成应用程序
+
+  #### 实验&#58;画布应用程序，第2部分
+  - 创建安全画布应用程序
+
+  #### 实验&#58;模型驱动的应用
+  - 自定义视图和窗体
+  - 创建模型驱动的应用程序
+
+  学完本模块后，学生将能够&#58;
+  - 了解其他组织如何使用Power应用程序将其流程数字化
+  - 查看正在运行的Power应用程序，并了解制作第一个应用程序的选项
+  - 了解什么是Power应用程序及其业务价值
+
+
   ### 模块 4&#58; Power Automate 入门
   了解用户如何利用Power Automate提高业务效率和生产力。
   #### 课程
   - Power Automate 概述
   - 如何构建自动化解决方案
 
-
-  #### 实验&#58;构建简单流程
+  #### 实验&#58;电源自动化
   - 创建访问通知流
   - 创建安全扫描流
 
@@ -96,14 +101,15 @@ outlineSection: |-
   - 了解Power Automate的业务价值和特性
 
 
-  ### 模块 5&#58;  Power BI 入门
+  ### 模块 5&#58; Power BI 入门
   了解组织如何使用Power BI轻松地清理、显示和理解数据，以确保做出更明智的决策。
   #### 课程
   - Power BI 概述
   - 如何构建简单的控制面板
 
-
-  #### 实验&#58;建立Power BI报告
+  #### 实验&#58;Power BI
+  - 创建Power BI报表
+  - 创建Power BI控制面板
 
   学完本模块后，学生将能够&#58;
   - 从用户的角度看Power BI的工作原理和外观

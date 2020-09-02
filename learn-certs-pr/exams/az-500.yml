@@ -7,8 +7,8 @@ uid: exam.az-500
 displayName: AZ-500
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年7月29日更新。请下载下面的考试技能大纲，以了解将会发生的变化。<br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>此考试的内容于 2020 年 7 月 29 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
   作为端到端基础结构的一部分，参加此考试的考生应具有主题方面的专业知识，以实施安全控制和威胁防护、管理身份和访问以及保护云端和混合环境中的数据、应用程序和网络。
@@ -35,11 +35,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年7月29日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 管理身份和访问 (20-25%)
-- 实施恶意软件防护 (35-40%)
-- 管理安全运行 (15-20%)
-- 安全数据和应用 (30-35%)
+- 此考试的内容于2020年7月29日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 管理身份和访问(30-35%)
+- 实施恶意软件防护(15-20%)
+- 管理安全运行(25-30%)
+- 安全数据和应用(20-25%)
 roles:
 - security-engineer
 products:
@@ -72,7 +72,7 @@ resources:
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
