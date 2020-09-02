@@ -6,20 +6,20 @@ metadata:
 uid: exam.70-486
 displayName: 70-486
 summary: |+
-  <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
   <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
   </div>
 
   本考试的考生是使用 Microsoft Visual Studio 2017 和 ASP.NET 来设计和开发 Web 解决方案的专业开发人员。考生应至少要有三到五年开发基于 Microsoft ASP.NET MVC 解决方案的经验并且掌握 Microsoft Azure Web App 的知识。
 
-  考生也应该有以下经验：
+  考生也应该有以下经验&#58;
   - 在 ASP.NET MVC 模型中设计和开发 Web 应用程序
   - 根据业务需求规划和设计用户交互解决方案
   - 具有完整的 Web 应用软件开发生命周期的经验
   - 开发和部署到包括 Azure 的多层环境
   - 设计和开发异步解决方案
 
-  <div style='font-weight&#58; bold;'><br/>注意&#58; 截至2018年1月15日，考试更新有效。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试486变更文档。</div>
+  <div><strong><br/>注意&#58;从2018年1月15日开始，考试更新生效。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试486变更文档。</strong></div>
 subTitle: 本考试的考生是使用 Microsoft Visual Studio 2017 和 ASP.NET 来设计和开发 Web 解决方案的专业开发人员。考生应至少要有三到五年开发基于 Microsoft ASP.NET MVC 解决方案的经验并且掌握 Microsoft Azure Web App 的知识。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
@@ -47,7 +47,8 @@ roles:
 products:
 - aspnet-core
 courses:
-- uid: course.20486
+- uid: course.20486-c
+- uid: course.20486-d
 relatedCertifications:
 - related:
     uid: certification.mcsa-web-applications-certification
@@ -55,7 +56,7 @@ relatedCertifications:
     uid: certification.mcsd-app-builder-certification
 resources:
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。

@@ -7,16 +7,16 @@ uid: exam.mb-700
 displayName: MB-700
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>考试内容将于2020年7月28日更新。请下载下面的技能测量文档，看看将有何变化。<br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>此考试的内容于 2020 年 7 月 28 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
-  Microsoft Dynamics 365 中财务和运营应用程序的解决方案架构师是受信任的顾问，他们了解业务推荐的实践，软件功能和实施交付，因此他们可以带领实施团队成员实施可以实现预定义实施目标的 Dynamics 解决方案。
+  Microsoft Dynamics 365 中财务和运营应用程序的解决方案架构师是受信任的顾问，他们了解推荐的业务实践、软件功能和实施交付，因此他们可以带领实施团队成员实施可以实现预定义实施目标的 Dynamics 解决方案。
 
   解决方案架构师负责端对端解决方案的完整性和成功交付。架构师在整个设计过程的售前阶段提供关键指导，并在项目生命周期的其余阶段继续进行监督，以解决整个实施过程中出现的问题并确保实现实施目标。
 
-  解决方案架构师必须对行业标准和产品功能具有广泛的知识和经验。解决方案架构师必须在 Dynamics 解决方案的功能和技术领域拥有广泛的专业知识。他们应该了解平台，工具和功能领域，例如财务，供应链管理和制造。此外，他们在一个或多个客户行业中拥有广泛的领域知识。
-subTitle: '这项考试衡量您完成以下技术任务的能力：确定解决方案要求； 设计解决方案组件； 并定义解决方案测试和管理策略。'
+  解决方案架构师必须对行业标准和产品功能具有广泛的知识和经验。解决方案架构师必须在 Dynamics 解决方案的功能和技术领域拥有广泛的专业知识。他们应该了解平台、工具和功能领域，例如财务，供应链管理和制造。此外，他们在一个或多个客户行业中拥有广泛的领域知识。
+subTitle: '这项考试衡量您完成以下技术任务的能力：确定解决方案要求；设计解决方案组件；并定义解决方案测试和管理策略。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-700&examname=Exam%20MB-700:%20Microsoft%20Dynamics%20365%3A%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-700
@@ -25,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- 考试内容将于2020年7月28日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 此考试的内容于2020年7月28日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 确定解决方案要求(30-35%)
 - 设计解决方案组件(40-45%)
 - 定义解决方案测试和管理策略(25-30%)
@@ -33,7 +33,7 @@ roles:
 - functional-consultant
 - solution-architect
 products:
-- dynamics
+- dynamics-365
 courses:
 - uid: course.mb-700t00
 paths:
@@ -43,16 +43,16 @@ relatedCertifications:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft认证：Dynamics 365：Finance and Operations Apps Solution Architect Expert.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRK
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
-  description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

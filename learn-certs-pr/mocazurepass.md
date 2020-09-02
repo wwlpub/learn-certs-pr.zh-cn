@@ -12,19 +12,19 @@ ms.author: micsullivan
 
 # 授权 Microsoft 学习合作伙伴的学生访问 Microsoft Learning Azure Passes
 
-<div style='color&#58; red;'><font color="red">Microsoft WWL 已恢复对 Azure 通行证的访问。请注意，这是非 SLA 解决方案，某些区域可能仍在受到资源限制。<br/> <br/> Azure 界面将提供关于支持哪些区域和大小的反馈，以及对于所选区域是否有明显要求。考虑使用该订阅支持的另一个区域，该区域没有明显的需求或大小限制。<br/> <br/>如需了解有关由 SLA 支持的替代解决方案的更多信息，请联系当前提供对 Azure 的访问的授权实验室托管者(ALH)之一。 </font> </div>
+<div>以下是Microsoft为支持涵盖Microsoft云端技术的特定课程的实验室解决方案而提供的Azure Passes的信息。 有关由 SLA 支持的替代解决方案的更多信息，请与当前提供对 Azure 的访问权限的授权实验室主机 (ALH) 之一联系。</div>
 
-最近更新时间：**2020年6月5日**
+最近更新时间：**2020年8月6日**
 
 当学生使用 Microsoft 官方课程注册符合条件的 Azure 相关课程时，Microsoft 将为您的学生提供 30 天免费访问 Microsoft Azure Pass 的权限。面向学生的通行证只能由经授权的 Microsoft 学习合作伙伴通过课件市场取得，并且与 MOC 课程的购买直接相关，每订购一门 MOC 课程最多可通行一次。没有其他面向学生的获得通行证的机制。如果学习合作伙伴订购 MOC 课程，但购买时未选择该课程可用的 Azure Pass，则合作伙伴可以选择返回课件市场，接下来在需要时订购该通行证。
 
-合作伙伴，请参考通过课件市场 [此处](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions)发布的 Azure 通行证条款和条件。自通行证从课件市场分配给您之日起，有效期为 90 天。无法重新颁发过期的通行证
+合作伙伴，请参考通过课件市场 [此处](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions) 发布的 Azure 通行证条款和条件。自通行证从课件市场分配给您之日起，有效期为 90 天。无法重新颁发过期的通行证
 
 无法为非学习合作伙伴或与目前学习合作伙伴无关的由 MCT 进行的课程或训练获得通行证或将其用于此类课程。无法为不符合资格的课程(例如社群课件)获得通行证，或将其用于此类课程。
 
-允许 MCT 为满足其符合条件的 Azure 课程准备需求而申请一张通行证。情况仍然如此，MCT 可在[此处](https://vouchers.cloudapp.net/AzurePass/)申请符合条件的 Azure 课程准备通行证，但是此服务可能随时终止。
+允许 MCT 为满足其符合条件的 Azure 课程准备需求而申请一张通行证。情况仍然如此，MCT 可在 [此处](https://vouchers.cloudapp.net/AzurePass/) 申请符合条件的 Azure 课程准备通行证，但是此服务可能随时终止。
 
-提供给学习合作伙伴和 MCT 的通行证数量有限。只有在供应持续且仅在支持 Microsoft Azure 的[国家](https://www.windowsazure.com/pricing/faq/)中，才能保证可用性。
+提供给学习合作伙伴和 MCT 的通行证数量有限。只有在供应持续且仅在支持 Microsoft Azure 的 [国家](https://www.windowsazure.com/pricing/faq/) 中，才能保证可用性。
 
 **资格**：下面列出符合学生 Azure 通行证资格的课程，本地化的同等版本也符合条件：
 
@@ -60,13 +60,12 @@ ms.author: micsullivan
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
-- 40534 Microsoft Cloud Workshop: 保护PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
 - 40559 Microsoft Cloud Workshop: MLOps
 - 40560 Microsoft Cloud Workshop: Predictive Maintenance for remote field devices
-- 40561 Microsoft Cloud Workshop: 机器学习
+- 40561 Microsoft Cloud Workshop: Machine Learning(机器学习)
 - 40562 Microsoft Cloud Workshop: Migrating SQL databases to Azure
 - 40563 Microsoft Cloud Workshop: Real-time data with Azure Database for PostgreSQL Hyperscale
 - 40564 Microsoft Cloud Workshop: Securing the IoT end-to-end
@@ -74,6 +73,7 @@ ms.author: micsullivan
 - 40573 Microsoft Cloud Workshop: Hybrid identity
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (基本)
+- 55188应用程序和云服务以及云端服务
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
@@ -82,6 +82,7 @@ ms.author: micsullivan
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
+- AZ-030T00 Microsoft Azure technologies for AWS architects
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -103,19 +104,20 @@ ms.author: micsullivan
 - DP-201T01 Designing an Azure Data Solution
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
+- MS-600T00 搭配 Microsoft 365 核心服务构建应用程序和解决方法
 - WS-050T00 Migrating Application Workloads to Azure
 
-注意: 此清单可能会更改，并且随着新版本或课程的发布以及旧版本和课程的停用，可能会向此清单中增加或从中删除标题。
+注意：此清单可能会更改，并且随着新版本或课程的发布以及旧版本和课程的停用，可能会向此清单中增加或从中删除标题。
 
 ## 如何申请通行证
 
-您是 Microsoft 学习合作伙伴的员工吗？购买符合条件的 MOC 课程时，可通过 [课件市场](https://shop.courseware-marketplace.com/)获得 Azure Pass。
+您是 Microsoft 学习合作伙伴的员工吗？购买符合条件的 MOC 课程时，可通过 [课件市场](https://shop.courseware-marketplace.com/) 获得 Azure Pass。
 
 您是代表 Microsoft 学习合作伙伴授课的  Microsoft Certified Trainer 吗？请联络学习伙伴以获取训练期间本身的 Azure Pass。
 
 ## 有关 Microsoft Learning Azure Pass 的详细信息
 
-提供给 Microsoft 学习合作伙伴的这个学生通行证与 [公开可用的 Microsoft Azure 试用订阅](https://azure.microsoft.com/pricing/free-trial/)功能相同，限制也类似。激活此通行证不需要支付工具，即不需要信用卡详细信息。以下是供我们的 Microsoft 学习合作伙伴和讲师使用的 Microsoft Learning Azure pass 功能的概述：
+提供给 Microsoft 学习合作伙伴的这个学生通行证与 [公开可用的 Microsoft Azure 试用订阅](https://azure.microsoft.com/pricing/free-trial/) 功能相同，限制也类似。激活此通行证不需要支付工具，即不需要信用卡详细信息。以下是供我们的 Microsoft 学习合作伙伴和讲师使用的 Microsoft Learning Azure pass 功能的概述：
 
 | Learning Partner Microsoft Student Azure Pass |
 | --- |

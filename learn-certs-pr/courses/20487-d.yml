@@ -1,0 +1,305 @@
+### YamlMime:Course
+title: Developing Microsoft Azure and Web Services
+metadata:
+  title: 'Course 20487-D: Developing Microsoft Azure and Web Services'
+  description: 'Course 20487-D: Developing Microsoft Azure and Web Services'
+uid: course.20487-d
+courseNumber: '20487-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述使用 .NET 平台的服务开发和数据访问策略的基本概念。
+- skill: 描述 Microsoft Azure 云平台及其计算、数据和应用程序托管产品。
+- skill: 使用 Visual Studio 2017 和 Entity Framework Core 设计和开发以数据为中心的应用程序。
+- skill: 使用 ASP.NET Core 设计、实现和使用 HTTP 服务。
+- skill: 使用 ASP.NET Core 扩展 HTTP 服务。
+- skill: 在本地和 Microsoft Azure 中托管服务。
+- skill: 将服务部署到本地和云环境，并管理其服务的接口和策略。
+- skill: 选择一种数据存储解决方案，缓存、分发和同步数据。
+- skill: 监控、记录服务和排除服务故障。
+- skill: 描述基于声明的身份概念和标准，并使用 Azure Active Directory 实现身份验证和授权。
+- skill: 创建可扩展的服务应用程序。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- dotnet
+exams:
+- uid: exam.70-487
+summary: |-
+  在本课程中，学生将学习如何设计和开发可从各种来源访问本地和远程数据的服务。学生还将学习如何开发服务并将其部署到混合环境，包括本地服务器和 Microsoft Azure。
+
+  #### 受众概况
+  主要受众&#58;.NET 开发人员，他们想学习如何开发服务并将其部署到混合环境中。
+
+  次要受众&#58;具有 Web 应用程序开发经验的 .NET 开发人员，他们在探索开发新应用程序或将现有应用程序移植到 Microsoft Azure。
+prerequisitesSection: |-
+  在参加本课程之前，学生必须具备&#58;
+  - 使用 C＃ 编程以及 Lambda 表达式，LINQ 和匿名类型等概念的经验。
+  - n-层应用程序的概念的知识
+  - 使用 ADO.NET 查询和处理数据的经验
+outlineSection: |-
+  ### 模块 1&#58;服务和云技术概述
+  本模块概述了使用 Microsoft .NET Core 和 Azure 的服务和云技术。第一课“分布式应用程序的关键组件”讨论了分布式系统共有的特性，无论它们使用什么技术。第2课“数据和数据访问技术”介绍了如何在分布式应用程序中使用数据。第3课“服务技术”讨论了分布式系统中最常见的两种协议以及基于这些协议用于开发服务的 .NET Core 技术。第4课“云计算”介绍了云计算及其在 Azure 中的实现方式。
+  #### 课程
+  - 分布式应用程序的关键组件
+  - 数据和数据访问技术
+  - 服务技术
+  - 云计算
+  - 处理数据
+
+
+  #### 实验&#58;探索工作环境
+  - 创建一个 ASP.NET Core 项目
+  - 创建一个简单的 Entity Framework model
+  - 创建一个 Web API 类
+  - 将 Web 应用程序部署到 Azure
+
+  学完本模块后，学生将能够&#58;
+  - 说明服务架构和托管环境
+  - 解释云计算和 Microsoft Azure 云平台
+  - 说明数据访问策略
+
+
+  ### 模块 2&#58;使用 Entity Framework 查询和操作数据
+  在本模块中，您将了解 Entity Framework 数据模型，以及如何创建、读取、更新和删除数据。Entity Framework 是一个丰富的对象关系型映像程序，它提供了方便而强大的应用程序编程接口(API)来处理数据。
+  本模块重点介绍 Entity Framework 的代码优先的方法。
+  #### 课程
+  - ADO.NET 概述
+  - 创建实体数据模型
+  - 查询数据
+
+
+  #### 实验&#58;使用 Entity Framework 创建数据访问层
+  - 建立数据模型
+  - 查询数据库
+
+
+  #### 实验&#58;操作数据
+  - 创建存储库方法
+  - 使用 SQL Server 和 SQLite 测试模型
+
+  学完本模块后，学生将能够&#58;
+  - 描述 ADO.NET 中的基本对象，并说明异步操作如何工作。
+  - 创建一个 Entity Framework Core 数据模型。
+  - 通过使用 Entity Framework Core 查询数据。
+  - 使用 Entity Framework Core 插入、删除和更新实体。
+
+
+  ### 模块 3&#58;创建和使用 ASP.NET Core Web API
+  ASP.NET Core Web API 为创建基于超文本传输协议(HTTP)的服务提供了稳健的现代框架。在本模块中，将向您介绍基于 HTTP 的服务。您将学习 HTTP 的工作原理，并熟悉 HTTP 消息、HTTP 方法、状态代码和标头。还将向您介绍代表性状态转移(REST)的体系结构样式和超媒体。
+
+  您将学习如何使用 ASP.NET Core Web API 创建 HTTP 服务。您还将学习如何从各种客户端使用它们。在第 3 课之后，在实验“创建 ASP.NET Core Web API”中，您将创建一个 Web API 并从客户端使用它。
+  #### 课程
+  - HTTP 服务
+  - 创建 ASP.NET Core Web API
+  - 使用 ASP.NET Core Web API
+  - 处理 HTTP 请求和响应
+  - 自动生成 HTTP 请求和响应
+
+
+  #### 实验&#58;创建 ASP.NET Core Web API
+  - 创建控制程序类
+  - 通过浏览器使用API
+  - 建立客户端
+
+  学完本模块后，学生将能够&#58;
+  - 使用 HTTP 协议设计服务。
+  - 使用 ASP.NET Core Web API 创建服务。
+  - 使用 HttpRequest/IActionResult 类控制 HTTP 消息。
+  - 使用 ASP.NET Web API 服务。
+
+
+  ### 模块 4&#58;扩展 ASP.NET Core HTTP 服务
+  ASP.NET Core Web API 提供了用于构建 HTTP 服务的完整解决方案，但是服务通常具有各种需求和依赖性。在许多情况下，您将需要扩展或自定义 ASP.NET Core Web API 执行服务的方式。处理需求(例如应用错误处理和日志记录)与应用程序的其他组件集成在一起，并支持 HTTP 世界中可用的其他标准。
+  扩展 ASP.NET Core Web API 时，了解 ASP.NET Core Web API 的工作方式很重要。干预 ASP.NET Core Web API 的执行方式时，组件之间的职责划分和执行顺序很重要。
+  最后，使用 ASP.NET Core Web API，您还可以扩展与系统其他部分进行交互的方式。使用依赖关系解析程序机制，您可以控制如何创建服务实例，从而完全控制管理服务的依赖关系。
+  #### 课程
+  - ASP.NET Core 请求管道
+  - 自定义控制程序和操作
+  - 将依赖项注入控制程序
+
+
+  #### 实验&#58;自定义 ASP.NET Core 管道
+  - 使用依赖注入获取存储库对象
+  - 创建缓存过滤程序
+  - 创建调试中间件
+
+  学完本模块后，学生将能够&#58;
+  - 扩展 ASP.NET Web API 请求和响应管道。
+  - 自定义控制程序和操作。
+  - 将依赖项注入 ASP.NET Web API 控制程序。
+
+
+  ### 模块 5&#58;在本地和 Azure 中托管服务
+  在本模块中，您将学习如何在本地和 Azure 上托管应用程序。
+  您还将学习 Docker 容器，以及使用 Azure 函数编写无服务器的应用程序。
+  #### 课程
+  - 本地托管服务
+  - Azure 应用服务中的托管服务
+  - 将服务包装到容器
+  - 实施无服务器的服务
+
+
+  #### 实验&#58;在 Windows Service 中托管 ASP.NET Core 服务
+  - 创建一个新的 ASP.NET Core 应用程序
+  - 注册 Windows Service
+
+
+  #### 实验&#58;在 Azure Web App 中托管 ASP.NET Core Web API
+  - 在 Azure 门户中创建 Web 应用
+  - 将 ASP.NET Core Web API 部署到 Web Apps
+
+
+  #### 实验&#58;在 Azure Container Instances 中托管 ASP.NET Core 服务
+  - 将服务发布到 Docker 容器
+  - 在 Azure Container Instances 中托管服务
+
+
+  #### 实验&#58;实现 Azure Function
+  - 在本地开发服务
+  - 将服务部署到 Azure Function
+
+  完成本模块后，学生将能够&#58;
+  - 使用 Windows Services 和 Microsoft Internet Information Services(IIS)托管本地服务。
+  - 通过使用 Web Apps，Docker 容器和 Azure Functions 在 Azure 云环境中托管服务。
+  - 将服务包装到容器。
+  - 实施无服务器的服务。
+
+
+  ### 模块 6&#58;部署和管理服务
+  在本模块中，您将了解 Web Deploy 以及如何通过在 Visual Studio 中使用 Web Deploy 来部署 Web 应用程序。
+  您还将学习如何定义持续集成和持续交付管道，以及如何使用 Azure API 管理和 OpenAPI 向客户提供稳健、安全和可靠的 API。
+  #### 课程
+  - 使用 Visual Studio 2017 进行 Web 部署
+  - 使用 Visual Studio Team Services 进行连续交付
+  - 将应用程序部署到临时工作台和生产环境
+  - 使用 Azure API Management 定义服务接口
+
+
+  #### 实验&#58;在 Linux 上部署 ASP.NET Core Web 服务
+  - 发布适用于 Linux 的 ASP.NET Core Web 服务
+  - 将 Nginx 配置为反向代理
+
+
+  #### 实验&#58;部署到临时工作台和生产环境
+  - 将应用程序部署到生产环境
+  - 创建一个临时工作台
+  - 交换环境
+
+
+  #### 实验&#58;使用 Azure API Management 发布 Web API
+  - 创建 Azure API Management 实例
+  - 测试和管理 API
+
+  学完本模块后，学生将能够&#58;
+  - 说明 Microsoft Internet Information Services(IIS)Web 部署。
+  - 通过使用 Microsoft Visual Studio Team Services 构建管道来说明 Azure Web Apps 部署。
+  - 说明如何将 Web 服务部署到 Azure Container Instances。
+  - 说明如何使用 API​​ Management 和 Swagger 定义服务接口。
+  - 说明如何使用 API​​ Management 定义策略。
+  - 说明使用 Azure API Management 和 Swagger 定义服务接口。
+
+
+  ### 模块 7&#58;在 Azure 中实现数据存储
+  本模块说明如何存储和访问存储在 Azure Storage 中的数据。它还说明如何为存储容器和内容配置存储访问权限。
+  #### 课程
+  - 选择数据存储机制
+  - 访问 Azure Storage 中的数据
+  - 在 Azure 中使用结构化数据
+  - 使用 Azure CDN 按地理位置分布数据
+  - 使用 Out-of-Process Cache 进行扩展
+
+
+  #### 实验&#58;在 Azure Storage 中存储文件
+  - 将可公开访问的文件存储在 Azure Blob 中
+  - 生成私有文件并将其存储在 Azure Blob 中
+
+
+  #### 实验&#58;使用 CosmosDB 查询图形数据
+  - 创建 CosmosDB 图形数据库
+  - 查询 CosmosDB 数据库
+
+
+  #### 实验&#58;使用 Azure Redis Cache 进行进程外缓存
+  - 创建 Azure Redis Cache 服务
+  - 从代码访问缓存服务
+  - 测试应用程序
+
+  学完本模块后，学生将能够&#58;
+  - 描述 Storage 的体系结构。
+  - 控制对 Storage 项目的访问。
+  - 使用 Azure Redis Cache 缓存数据。
+  - 使用 Microsoft Azure Content Delivery Network 分发数据。
+
+
+  ### 模块 8&#58;诊断和监控
+  本模块说明如何在本地和 Azure 中监控和记录服务。
+  #### 课程
+  - 记录 ASP.NET Core
+  - 诊断工具
+  - 应用 Insights
+
+
+  #### 实验&#58;使用 ETW 和 LTTng 监控 ASP.NET Core
+  - 收集和查看 ETW 事件
+  - 收集和查看 LTTng 事件
+
+
+  #### 实验&#58;使用 Application Insights 监控 Azure Web Apps
+  - 添加 Application Insights SDK
+  - 对 Web 服务进行负载测试
+  - 分析性能结果
+
+  学完本模块后，学生将能够&#58;
+  - 解释跟踪监听器
+  - 解释性能计数器
+  - 说明 ETW 和 LTTng 事件
+  - 演示使用 App Insights 监控服务
+
+
+  ### 模块 9&#58;保护本地和 Microsoft Azure 中的服务
+  本模块描述了基于声明的身份概念和标准，以及如何通过使用 Azure Active Directory 来保护 ASP.NET Core Web API 服务的安全性yi实现身份验证和授权。
+  #### 课程
+  - 解释安全术语
+  - 使用 ASP.NET Core Identity 保护服务
+  - 使用 Azure Active Directory 保护服务
+
+
+  #### 实验&#58;使用 ASP.NET Core Identity
+  - 添加 ASP.NET Core Identity 中间件
+  - 添加授权码
+  - 运行客户端应用程序以测试服务器
+
+
+  #### 实验&#58;将 Azure Active Directory 与 ASP.NET Core 结合使用
+  - 使用 AAD B2C 和 MSAL.js 对客户端应用程序进行身份验证
+
+
+  ### 模块 10&#58;扩展服务
+  本模块说明如何创建可伸缩服务和应用程序，以及如何使用 Web Apps 负载均衡器、Azure Application Gateway 和 Azure Traffic Manager 对其进行自动缩放。
+  #### 课程
+  - 可伸缩性导论
+  - 自动缩放
+  - Azure Application Gateway 和 Traffic Manager
+
+
+  #### 实验&#58;对 Azure Web Apps 进行负载均衡操作
+  - 准备用于负载均衡的应用程序
+  - 使用实例关联性测试负载均衡
+  - 不使用关联性测试负载均衡
+
+
+  #### 实验&#58;使用 Azure Traffic Manager 进行负载均衡操作
+  - 将 Azure Web App 部署到多个区域
+  - 创建 Azure Traffic Manager 配置文件
+
+  学完本模块后，学生将能够&#58;
+  - 说明对可伸缩性的需求。
+  - 描述如何使用负载均衡来扩展服务。
+  - 说明 Azure Load Balancer、Azure Application Gateway 和 Azure Traffic Manager。
+

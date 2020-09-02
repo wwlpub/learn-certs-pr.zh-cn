@@ -1,6 +1,6 @@
 ---
-title: Microsoft 培训和认证帮助 | Microsoft Docs
-description: Microsoft 培训和认证帮助
+title: Microsoft Official Courseware (MOC) 帮助 | Microsoft Docs
+description: Microsoft Official Courseware (MOC)帮助
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,28 +9,24 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Microsoft 培训和认证帮助
+# Microsoft Official Courseware (MOC) 帮助
 
-对 Microsoft 培训和认证产品有疑问？访问 [Microsoft Learn](/learn/certifications/)，您将在其中找到有关Microsoft培训，认证，考试，Microsoft Official Courses(MOC)等的大多数问题的答案。
+<div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>了解详细信息</a>.</strong></font><br/><br/></div>
 
-对Microsoft Official Courseware (MOC)仍有疑问？  请参阅下面的支持选项。
-
-***请注意，对于希望获得认证和培训帮助的客户，我们的响应时间比预期的要长。感谢您的耐心配合，我们将尽快处理所有咨询。***
+您需要Microsoft Official Courseware (MOC)的支持吗？请从以下国家/地区列表与您的区域支持中心联系。请注意，这些支持选项仅适用于MOC。有关Microsoft认证或考试的帮助，请转到[Certification Help](/learn/certifications/help)。
 
 ## MOC 地区联系信息
-
-请注意，下面的联系方式仅适用于 Microsoft Official Courseware (MOC)。  如需获得有关Microsoft认证或考试的帮助，请访问 [认证帮助](/learn/certifications/help)。
 
 |国家 | 电话+语言 | 电子邮件 | 其他信息 | 联系方式|
 | ------- | ---------------- | --------- | ------------- | ---------------- |
 | 安圭拉 | 英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 | [课件市场查询](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=AI) | 请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
-|安提瓜和巴布达 | 英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 | [课件市场查询](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=AG) | 请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
-|阿根廷 | 英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 | [课件市场查询](https://support.microsoft.com/es-AR/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=es&amp;SC=AR) | 请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
-|阿鲁巴 | 英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 |  | /请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
-| 澳大利亚 | 13-20-58 | [课件市场查询](https://support.microsoft.com/en-au/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=AU) |  | 8:30 to 17:30 (8.30 A.M. to 5.30 P.M.)—澳大利亚, GMT+10<br/>9:00-17:30 (9:00 A.M.-5.30 P.M.)—新西兰, GMT+12 |
+| 安提瓜和巴布达 | 英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 | [课件市场查询](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=AG) | 请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
+| 阿根廷 | 英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 | [课件市场查询](https://support.microsoft.com/es-AR/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=es&amp;SC=AR) | 请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
+| 阿鲁巴 |英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 |  | 请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
+| 澳大利亚 | 13-20-58 | [课件市场查询](https://support.microsoft.com/en-au/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=AU) |  | 8:30 to 17:30 (8.30 A.M. to 5.30 P.M.)—澳大利亚, GMT+10<br/>9:00-17:30 (9:00 A.M.5.30 P.M.)—新西兰, GMT+12 |
 | 奥地利 | 800,281,102 | [课件市场查询](https://support.microsoft.com/de-AT/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=de&amp;SC=AT) |  | 周一至周五, 9am - 5pm (GMT) |
 | 巴哈马|英语: +1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 | [课件市场查询](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=BS) |  | 英语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
-| 孟加拉国 | (91) (80) 40103000 | [课件市场查询](https://support.microsoft.com/en-in/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=BD) |  | 9:00-18:00 (9:00 A.M.-6:00 P.M.) |
+| 孟加拉国 | (91) (80) 40103000 | [课件市场查询](https://support.microsoft.com/en-in/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=BD) |  | 9:00-18:00 (9:00 A.M. 6:00 P.M.) |
 | 巴巴多斯 | 英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 | [课件市场查询](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=BB) | 请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
 | 比利时 | 80,079,307 | [课件市场查询](https://support.microsoft.com/en-GB/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=BE) |  | 周一至周五, 9am - 5pm (GMT) |
 | 伯利兹 | 英语：+1 305 715 -1492<br/>西班牙语：+1 305 715 -1490<br/>葡萄牙语：+1 305 715-1491 | [课件市场查询](https://support.microsoft.com/en-US/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&amp;SC=BZ) | 请注意这些是美国号码。您的电话服务提供商可能会收取长途或国际话费。| 英语: 上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>西班牙语：上午7点至下午7点(星期一至星期五)哥伦比亚时间<br/>葡萄牙语：上午9点至下午6点(星期一至星期五)BRT巴西时间 |
