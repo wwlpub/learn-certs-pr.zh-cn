@@ -8,14 +8,12 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div><strong>此考试的内容于 2020 年 5 月 28 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
+  <div><strong>考试内容将于2020年9月15日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
   </div>
 
-  参加该考试的考生应具有有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。
+  参加该考试的考生应具有有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。此考试面向刚刚开始使用基于云的解决方案和服务或者对Azure不熟悉的考生。
 
-  Azure Fundamentals 考试提供了证明了解云端概念、核心 Azure 服务、Azure 定价、SLA 和生命周期，以及具有云安全性、隐私权、合规性和信任方面的基础。
-
-  该考试适用于开始使用基于云端的解决方案和服务的人们。考生应该能够证明有关云端概念以及 Azure 服务、工作负荷、安全性、隐私权、定价和支持的基本知识。此外，您应该熟悉网络、存储、计算、应用程序支持和应用程序开发的概念。
+  Azure Fundamentals 考试是一个证明云概念、Azure服务、Azure工作负荷、Azure安全和隐私以及Azure定价和支持等方面知识的机会。考生应熟悉一般技术概念，包括联网、存储、计算、应用程序支持和应用程序开发的概念。
 
   Azure Fundamentals 可用于准备其他基于 Azure 角色的或专业的认证，但这不是其中任何一项的先决条件。
 subTitle: '此考试衡量您理解以下概念的能力：云概念；核心Azure服务；安全，隐私，合规和信任；以及Azure定价和支持。'
@@ -28,7 +26,7 @@ providers:
 - providerType: certiport
   examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&provider=psi&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
@@ -40,7 +38,7 @@ locales:
 levels:
 - beginner
 skills:
-- 此考试的内容于 2020 年 5 月 28 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 考试内容将于2020年9月15日更新。请下载下面的考试技能大纲，以了解将有哪些变化。
 - 描述云端概念 (15-20%)
 - 描述核心 Azure 服务 (30-35%)
 - 描述安全性、隐私权、合规性和信任 (25-30%)
@@ -62,7 +60,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: 认证之旅
-  description: 探索Azure  Fundamentals 的步骤以及助您备考的可用资源。
+  description: 探索Azure Fundamentals 的步骤以及助您备考的可用资源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

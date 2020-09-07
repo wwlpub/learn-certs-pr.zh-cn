@@ -6,7 +6,7 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   Data Analyst 使企业可以使用 Microsoft Power BI 使数据资产的价值最大化。作为主题专家，Data Analyst 负责设计和构建可伸缩的数据模型，清理和转换数据，并启用高级分析功能，这些功能通过易于理解的数据可视化提供有意义的业务价值。Data Analyst 还与各个行业的关键利益相关者合作，根据已确定的业务需求提供相关的见解。
   <br/>
@@ -19,9 +19,12 @@ providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DA-100&provider=psi&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 locales:
 - en
+- zh-cn
+- ko
+- ja
 levels:
 - intermediate
 skills:

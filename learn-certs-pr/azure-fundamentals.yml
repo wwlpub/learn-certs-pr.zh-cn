@@ -8,18 +8,16 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badg
 summary: |-
   <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
-  Azure Fundamentals 认证的考生应具有云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。
+  Azure Fundamentals 认证的考生应具有云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。此考试面向刚刚开始使用基于云的解决方案和服务或者对Azure不熟悉的考生。
 
-  Azure Fundamentals 认证是让您有机会证明在云端概念、核心 Azure 服务、Azure 定价、SLA 和生命周期方面的知识，以及在云端安全性、隐私权、合规性和信任方面的基础知识。
-
-  该认证适用于开始使用基于云端的解决方案和服务的人们。考生应该能够证明有关云端概念以及 Azure 服务、工作负荷、安全性、隐私权、定价和支持的基本知识。此外，您应该熟悉网络、存储、计算、应用程序支持和应用程序开发的概念。
+  Azure基础知识考试是一个证明云概念、Azure服务、Azure工作负载、Azure安全和隐私以及Azure定价和支持等方面知识的机会。考生应熟悉一般技术概念，包括联网、存储、计算、应用程序支持和应用程序开发的概念。
 
   Azure Fundamentals 可用于准备其他基于 Azure 角色的或专业的认证，但这不是其中任何一项的先决条件。
 subTitle: Azure Fundamentals 验证了云端服务的基础知识以及 Microsoft Azure 如何提供这些服务。
 levels:
 - beginner
 skills:
-- 描述云的概念
+- 描述云端概念
 - 描述核心 Azure 服务
 - 描述安全性、隐私权、合规性和信任
 - 描述 Azure 定价服务等级协议和生命周期
@@ -44,7 +42,7 @@ resources:
   description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 认证之旅
-  description: 探索Azure  Fundamentals 的步骤以及助您备考的可用资源。
+  description: 探索Azure Fundamentals 的步骤以及助您备考的可用资源。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
