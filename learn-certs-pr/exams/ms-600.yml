@@ -6,9 +6,9 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
-  参加此考试的考生是Microsoft 365 Developer，他们设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案针对使用Microsoft 365平台的组织生产力和协作需求进行了优化。
+  参加此考试的考生是Microsoft 365 Developer，他们设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案使用Microsoft 365平台针对组织对生产力和协作的需求进行了优化。
 
   参加该考试的考生精通 Microsoft Identity 和 Microsoft Graph。他们对UI元素(包括Adaptive Cards和UI Fabric)，集成点(包括Microsoft Teams，Office加载项，SharePoint Framework，Actionable Messages)以及确定工作负载平台目标具有一般了解。
 
@@ -16,21 +16,22 @@ summary: |-
 subTitle: '该考试衡量您完成以下技术任务的能力：实施Microsoft Identity； 使用Microsoft Graph构建应用；扩展和自定义SharePoint；扩展Teams；扩展Office。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
+practiceTestUrl: https://in.mindhub.com/ms-600-building-applications-and-solutions-with-microsoft-365-core-services-microsoft-official-practice-test/p/MU-MS-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
+- providerType: gsi
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-600&provider=psi&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
 locales:
 - en
 levels:
 - intermediate
 skills:
 - 实施 Microsoft Identity (20-25%)
-- 使用Microsoft Graph构建应用(20-25%)
-- 扩展和自定义SharePoint(20-25%)
-- 扩展Teams(15-20%)
-- 扩展Office(15-20%)
+- 使用Microsoft Graph构建应用 (20-25%)
+- 扩展和自定义SharePoint (20-25%)
+- 扩展Teams (15-20%)
+- 扩展Office (15-20%)
 roles:
 - developer
 products:
@@ -46,7 +47,7 @@ relatedCertifications:
     uid: certification.m365-developer-associate
 resources:
 - title: 认证学习路径
-  description: '发现培训资源以获得Microsoft Certified: Developer Associate.'
+  description: 发现培训资源以获得Microsoft Certified：Developer Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
