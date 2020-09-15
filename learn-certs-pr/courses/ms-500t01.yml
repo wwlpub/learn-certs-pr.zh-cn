@@ -3,6 +3,7 @@ title: Managing Microsoft 365 Identity and Access
 metadata:
   title: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
   description: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
+  iltScheduling: true
 uid: course.ms-500t01
 courseNumber: 'MS-500T01-A'
 hoursToComplete: 24

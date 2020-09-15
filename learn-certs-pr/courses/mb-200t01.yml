@@ -3,6 +3,7 @@ title: 'Dynamics 365: Power Platform applications'
 metadata:
   title: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
   description: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
+  iltScheduling: true
 uid: course.mb-200t01
 courseNumber: 'MB-200T01-A'
 hoursToComplete: 48
