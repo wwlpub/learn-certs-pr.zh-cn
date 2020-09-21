@@ -1,0 +1,81 @@
+### YamlMime:Examination
+title: Microsoft Azure Fundamentals
+metadata:
+  title: 'Exam AZ-900: Microsoft Azure Fundamentals'
+  description: 'Exam AZ-900: Microsoft Azure Fundamentals'
+uid: exam.az-900
+displayName: AZ-900
+summary: |-
+  <div>
+  <div><font color='red'><strong>针对新冠病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>  新考试OD、考试和相应培训的发布时间已从 2020 年 9 月 15 日移到 11 月初。请回来查看更多信息。我们将确保在发布新版考试前至少30天通知您。 </strong><br/><br/></div> 
+  </div>
+  
+  参加该考试的考生应具有有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。此考试面向刚刚开始使用基于云的解决方案和服务或者对Azure不熟悉的考生。
+  
+  Azure Fundamentals 考试是一个证明云概念、Azure 服务、Azure 工作负荷、Azure 安全和隐私以及 Azure 定价和支持等方面知识的机会。考生应熟悉一般技术概念，包括联网、存储、计算、应用程序支持和应用程序开发的概念。
+
+  Azure Fundamentals 可用于准备其他基于 Azure 角色的或专业的认证，但这不是其中任何一项的先决条件。
+subTitle: '此考试衡量您理解以下概念的能力：云概念；核心Azure服务；安全，隐私，合规和信任；以及 Azure 定价和支持。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&provider=psi&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+locales:
+- en
+- ja
+- zh-cn
+- ko
+- es
+- de
+- fr
+levels:
+- beginner
+skills:
+- 描述云端概念 (15-20%)
+- 描述核心 Azure 服务 (30-35%)
+- 描述安全性、隐私权、合规性和信任 (25-30%)
+- 描述 Azure 定价服务等级协议和生命周期 (20-25%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.az-900t01
+- uid: course.az-900t00
+paths:
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
+relatedCertifications:
+- related:
+    uid: certification.azure-fundamentals
+resources:
+- title: 认证之旅
+  description: 探索 Azure Fundamentals 的步骤以及助您备考的可用资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
