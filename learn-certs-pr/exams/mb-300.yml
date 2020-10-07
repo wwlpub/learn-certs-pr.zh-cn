@@ -6,7 +6,10 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div> <strong>考试内容将于2020年10月16日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
+  </div>
 
   本考试的考生是职能顾问，他们分析业务需求并将这些需求转化为完全实现的业务流程和实施行业最佳实践的解决方案。考生是实施和配置应用程序以满足业务需求的关键资源。
   <br/>
@@ -25,15 +28,15 @@ locales:
 levels:
 - intermediate
 skills:
-- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表不是权威性的或详尽的。
-- 使用通用功能和实现工具(20-25%)
-- 配置安全性、进程和选项(45-50%)
-- 进行数据迁移(15-20%)
-- 验证并支持解决方案(15-20%)
+- 考试内容将于2020年10月16日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 使用通用功能和实现工具 (20-25%)
+- 配置安全性、进程和选项 (45-50%)
+- 进行数据迁移 (15-20%)
+- 验证并支持解决方案 (15-20%)
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-finance-operations
 - dynamics-finance
 exams:
@@ -61,7 +64,7 @@ resources:
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

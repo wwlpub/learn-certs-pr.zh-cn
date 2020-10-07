@@ -1,12 +1,12 @@
-### YamlMime:Role 
-title: 功能顾问
+﻿### YamlMime:Role 
+title: Functional Consultant 
 metadata: 
-  title: 功能顾问 
-  description: 功能顾问利用 Microsoft Dynamics 365 预测和规划客户需求。 
+  title: Functional Consultant 
+  description: Functional Consultant 利用Microsoft Dynamics 365和Microsoft Power Platform来预测和计划客户需求。 
 uid: role.functional-consultant 
 summary: | 
-  功能顾问利用 Microsoft Dynamics 365 预测和规划客户需求。
-subTitle: 功能顾问利用 Microsoft Dynamics 365 预测和规划客户需求。
+  Functional Consultant 利用Microsoft Dynamics 365和Microsoft Power Platform来预测和计划客户需求。
+subTitle: Functional Consultant 利用Microsoft Dynamics 365和Microsoft Power Platform来预测和计划客户需求。
 certificationPaths: 
 - title: Dynamics 365 Customer Service Functional Consultant
   linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
@@ -129,8 +129,14 @@ certifications:
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-330  
+- uid: certification.power-platform-functional-consultant-associate
+  requiredExams:
+  - uid: exam.pl-200  
+- uid: certification.d365-business-central-functional-consultant-associate
+  requiredExams:
+  - uid: exam.mb-800
 resources:
-- title: Microsoft培训和认证指南
+- title: Microsoft 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 培训和认证海报
@@ -138,4 +144,4 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 认证支持
   href: ../help.md
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

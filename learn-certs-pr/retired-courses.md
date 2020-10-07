@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft Retired Courses | Microsoft Docs
 description: Microsoft Retired Courses
 documentationcenter: NA
@@ -17,10 +17,115 @@ ms.author: micsullivan
 
 ## 已停用课件：讲师指导的培训
 
+* 课件于2020年12月31日停用
+
+    | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
+    | --- | --- | --- | --- | --- |
+    | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | 英语 | 2020年12月31日
+    | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | 英语 | 2020年12月31日
+
+* 课件将于2020年11月30日停用
+
+    | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
+    | --- | --- | --- | --- | --- |
+    | 40512 | G | App modernization | 英语 | 2020年11月30日
+    | 40528 | G | Business continuity and disaster recovery | 英语 | 2020年11月30日
+    | 40503 | G | Enterprise-ready cloud | 英语 | 2020年11月30日
+    | 40565 | G | Modernizing Data Analytics with SQL Server 2019 | 英语 | 2020年11月30日
+    | 40533 | G | OSS PaaS and DevOps | 英语 | 2020年11月30日
+    | 40563 | G | Real-time data with Azure Database for PostgreSQL Hyperscale | 英语 | 2020年11月30日
+
+* 课件将于2020年9月30日退出，相关的本地课程将于2020年10月30日停用
+
+    | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
+    | --- | --- | --- | --- | --- |
+    | AZ-300T01 | A | Deploying and Configuring Infrastructure | 英语 | 2020年9月30日
+    | AZ-300T01ZH | A | Deploying and Configuring Infrastructure | Chinese Simplified | 2020年10月30日 |
+    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | Korean | 2020年10月30日 |
+    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | Japanese | 2020年10月30日 |
+    | AZ-300T02 | A | Implementing Workloads and Security | 英语 | 2020年9月30日
+    | AZ-300T02ZH | A | Implementing Workloads and Security | Chinese Simplified | 2020年10月30日 |
+    | AZ-300T02KO | A | Implementing Workloads and Security | Korean | 2020年10月30日 |
+    | AZ-300T02JA | A | Implementing Workloads and Security | Japanese | 2020年10月30日 |
+    | AZ-300T03 | A | Understanding Cloud Architect Technology Solutions | 英语 | 2020年9月30日
+    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | Chinese Simplified | 2020年10月30日 |
+    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | Korean | 2020年10月30日 |
+    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | Japanese | 2020年10月30日 |
+    | AZ-300T04 | A | Creating and Deploying Apps | 英语 | 2020年9月30日
+    | AZ-300T04ZH | A | Creating and Deploying Apps | Chinese Simplified | 2020年10月30日 |
+    | AZ-300T04KO | A | Creating and Deploying Apps | Korean | 2020年10月30日 |
+    | AZ-300T04JA | A | Creating and Deploying Apps | Japanese | 2020年10月30日 |
+    | AZ-300T06 | A | Developing for the Cloud | 英语 | 2020年9月30日
+    | AZ-300T06ZH | A | Developing for the Cloud | Chinese Simplified | 2020年10月30日 |
+    | AZ-300T06KO | A | Developing for the Cloud | Korean | 2020年10月30日 |
+    | AZ-300T06JA | A | Developing for the Cloud | Japanese | 2020年10月30日 |
+    | AZ-301T01 | A | Designing for Identity and Security | 英语 | 2020年9月30日
+    | AZ-301T01ZH | A | Designing for Identity and Security | Chinese Simplified | 2020年10月30日 |
+    | AZ-301T01KO | A | Designing for Identity and Security | Korean | 2020年10月30日 |
+    | AZ-301T01JA | A | Designing for Identity and Security | Japanese | 2020年10月30日 |
+    | AZ-301T02 | A | Designing a Data Platform Solution | 英语 | 2020年9月30日
+    | AZ-301T02ZH | A | Designing a Data Platform Solution | Chinese Simplified | 2020年10月30日 |
+    | AZ-301T02KO | A | Designing a Data Platform Solution | Korean | 2020年10月30日 |
+    | AZ-301T02JA | A | Designing a Data Platform Solution | Japanese | 2020年10月30日 |
+    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | 英语 | 2020年9月30日
+    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | Chinese Simplified | 2020年10月30日 |
+    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | Korean | 2020年10月30日 |
+    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | Japanese | 2020年10月30日 |
+    | AZ-301T04 | A | Designing an Infrastructure Strategy | 英语 | 2020年9月30日
+    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | Chinese Simplified | 2020年10月30日 |
+    | AZ-301T04KO | A | Designing an Infrastructure Strategy | Korean | 2020年10月30日 |
+    | AZ-301T04JA | A | Designing an Infrastructure Strategy | Japanese | 2020年10月30日 |
+
+* 课件于2020年8月31日停用
+
+    | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
+    | --- | --- | --- | --- | --- |
+    | AZ-103T00 | A | Microsoft Azure Administrator | 英语 | 2020年08月31日|
+    | AZ-103T00ZH | A | Microsoft Azure Administrator | Chinese Simplified | 2020年08月31日 |
+    | AZ-103T00KO | A | Microsoft Azure Administrator | Korean | 2020年08月31日 |
+    | AZ-103T00JA | A | Microsoft Azure Administrator | Japanese | 2020年08月31日 |
+    | AZ-203T01 | A | Develop Azure Infrastructure as a Service compute solutions | 英语 | 2020年08月31日|
+    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | Chinese Simplified | 2020年08月31日 |
+    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | Korean | 2020年08月31日 |
+    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | Japanese | 2020年08月31日 |
+    | AZ-203T02 | A | Develop Azure Platform as a Service compute solutions | 英语 | 2020年08月31日|
+    | AZ-203T02ZH | A | Develop Azure Platform as a Service compute solutions | Chinese Simplified | 2020年08月31日 |
+    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | Korean | 2020年08月31日 |
+    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | Japanese | 2020年08月31日 |
+    | AZ-203T03 | A | Develop for Azure storage | 英语 | 2020年08月31日|
+    | AZ-203T03ZH | A | Develop for Azure storage | Chinese Simplified | 2020年08月31日 |
+    | AZ-203T03KO | A | Develop for Azure storage | Korean | 2020年08月31日 |
+    | AZ-203T03JA | A | Develop for Azure storage | Japanese | 2020年08月31日 |
+    | AZ-203T04 | A | Implement Azure security | 英语 | 2020年08月31日|
+    | AZ-203T04ZH | A | Implement Azure security | Chinese Simplified | 2020年08月31日 |
+    | AZ-203T04KO | A | Implement Azure security | Korean | 2020年08月31日 |
+    | AZ-203T04JA | A | Implement Azure security | Japanese | 2020年08月31日 |
+    | AZ-203T05 | A | Monitor, troubleshoot, and optimize Azure solutions | 英语 | 2020年08月31日|
+    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | Chinese Simplified | 2020年08月31日 |
+    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | Korean | 2020年08月31日 |
+    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | Japanese | 2020年08月31日 |
+    | AZ-203T06 | A | Connect to and consume Azure and third-party services | 英语 | 2020年08月31日|
+    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | Chinese Simplified | 2020年08月31日 |
+    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | Korean | 2020年08月31日 |
+    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | Japanese | 2020年08月31日 |
+    | MS-200T01 | A | Understanding the Modern Messaging Infrastructure | 英语 | 2020年08月31日|
+    | MS-200T02 | A | Managing Client Access and Mail Flow | 英语 | 2020年08月31日|
+    | MS-200T03 | A | Managing Messaging High Availability and Disaster Recovery | 英语 | 2020年08月31日|
+    | MS-201T01 | A | Defining a Hybrid Messaging Strategy | 英语 | 2020年08月31日|
+    | MS-201T02 | A | Managing Messaging Security, Hygiene, and Compliance | 英语 | 2020年08月31日|
+    | MS-300T01 | A | Managing Office 365 Content Services | 英语 | 2020年08月31日|
+    | MS-300T02 | A | Managing SharePoint Online | 英语 | 2020年08月31日|
+    | MS-300T03 | A | Enabling Microsoft Teams for Collaboration | 英语 | 2020年08月31日|
+    | MS-300T04 | A | Enabling Office 365 Workloads for Collaboration | 英语 | 2020年08月31日|
+    | MS-301T01 | A | Implementing SharePoint 2019 Infrastructure | 英语 | 2020年08月31日|
+    | MS-301T02 | A | Implementing SharePoint 2019 Service Applications | 英语 | 2020年08月31日|
+    | MS-301T03 | A | Implementing SharePoint Hybrid Scenarios | 英语 | 2020年08月31日|
+    | MS-301T04 | A | Migrating to SharePoint Online | 英语 | 2020年08月31日|
+
 * 课件于2020年6月30日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 2274 | C | Managing a Microsoft® Windows Server™ 2003 Environment | 英语 | 2020年6月30日 |
     | 2275 | C | Maintaining a Microsoft® Windows Server™ 2003 Environment | 英语 | 2020年6月30日 |
     | 2276 | C | Implementing a Microsoft® Windows Server™ 2003 Network Infrastructure: Network Hosts | 英语 | 2020年6月30日 |
@@ -142,7 +247,7 @@ ms.author: micsullivan
 * 课件于2020年5月29日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | AZ-400T01 | A | Implementing DevOps Development Processes | 英文 | 2020/5/29 |
     | AZ-400T02 | A | Implementing Continuous Integration | 英文 | 2020/5/29 |
     | AZ-400T03 | A | Implementing Continuous Delivery | 英文 | 2020/5/29 |
@@ -159,9 +264,9 @@ ms.author: micsullivan
 * 课件将于2020年02月28日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 2778 | A | Writing Queries Using Microsoft® SQL Server™ 2008 Transact-SQL | 英语 | 2020年02月28日 |
-    | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 英语 | 2020年02月28日 |
+    | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 英语 | 2020年2月28日 |
     | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | 英语 | 2020年02月28日 |
     | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | 英语 | 2020年02月28日 |
     | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | 英语 | 2020年02月28日 |
@@ -204,7 +309,7 @@ ms.author: micsullivan
 * 课件于2020年1月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10979 | F | Introduction to Microsoft Azure for IT Professionals | 英语 | 2020年01月31日 |
     | MB-200T01 | A | Dynamics 365: Power Platform applications | 英语 | 2020年01月31日 |
     | MB-200T02 | A | Dynamics 365: Power Platform automation | 英语 | 2020年01月31日 |
@@ -231,7 +336,7 @@ ms.author: micsullivan
 * 课件于2019年12月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | MD-100T01 | A | Installing Windows 10 | 英语 | 2019年12月31日 |
     | MD-100T02 | A | Configuring Windows 10 | 英语 | 2019年12月31日 |
     | MD-100T03 | A | Protecting Windows 10 | 英语 | 2019年12月31日 |
@@ -248,12 +353,12 @@ ms.author: micsullivan
     | 20695 | D | Deploying Windows Desktops and Enterprise Applications | 英语| 2019年12月31日 |
     | 20703-2 | B | Integrating Cloud Services with System Center Configuration Manager | 英语| 2019年12月31日 |
     | 10050 | A | Microsoft® SQL Server® 2008 データベースの実装| 日语| 2019年12月31日 |
-    | 10078 | A | Configuring and Troubleshooting Windows Server 2008 Active Directory Domain Services (简体中文）| 简体中文| 2019年12月31日 |
+    | 10078 | A | Configuring and Troubleshooting Windows Server 2008 Active Directory Domain Services (简体中文)| 简体中文| 2019年12月31日 |
     | 10136 | A | Configuration, gestion et maintenance des serveurs Windows Server® 2008 | 法语 | 2019年12月31日 |
     | 10138 | A | Windows Server® 2008 サーバーの構成、管理、メンテナンス | 日语| 2019年12月31日 |
     | 10140 | A | Configuring, Managing and Maintaining Windows Server 2008 Servers | 葡萄牙语| 2019年12月31日 |
     | 10142 | A | Manutenção de um banco de dados do Microsoft® SQL Server® 2008 | 葡萄牙语| 2019年12月31日 |
-    | 10168 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | 2019年12月31日 |
+    | 10168 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | 葡萄牙语 |2019年12月31日 |
     | 10216 | A |Konfiguration, Verwaltung und Problembehandlung in Microsoft® Exchange Server 2010 | 德语| 2019年12月31日 |
     | 10217 | A | Microsoft® Exchange Server 2010の构成，管理，トラブルシューティング| 日语| 2019年12月31日 |
     | 10219 | A | Configuration, gestion et résolution des problèmes de Microsoft® Exchange Server 2010 | 法语 | 2019年12月31日 |
@@ -287,7 +392,7 @@ ms.author: micsullivan
     | 10947 | A | 使用Visual Studio 2010开发数据访问应用程序| 简体中文| 2019年12月31日 |
     | 10948 | A | 使用Visual Studio 2010开发WCF应用程序| 简体中文| 2019年12月31日 |
     | 10949 | A | 使用Visual Studio 2010开发Windows应用程序| 简体中文| 2019年12月31日 |
-    | 10951 | A | Implementing and Managing Microsoft® Server Virtualization (简体中文）| 简体中文| 2019年12月31日 |
+    | 10951 | A | Implementing and Managing Microsoft® Server Virtualization (简体中文)| 简体中文| 2019年12月31日 |
     | 10952 | A | Microsoft SharePoint 2010配置与管理| 简体中文| 2019年12月31日 |
     | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | 德语| 2019年12月31日 |
     | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | 葡萄牙语| 2019年12月31日 |
@@ -304,11 +409,11 @@ ms.author: micsullivan
     | 24688 | A | Managing and Maintaining Windows 8 | 葡萄牙语| 2019年12月31日 |
     | 28533 | D | 实施Microsoft Azure基础架构解决方案| 简体中文| 2019年12月31日 |
     | 29533 | D | 實作 Microsoft Azure 基礎架構解決方案| 简体中文| 2019年12月31日 |
-    | 50287 | A | Microsoft Virtualization Technology Overview(版本2）| 日语| 2019年12月31日 |
-    | 50288 | A | Install and Configure Hyper-V(版本2）| 日语| 2019年12月31日 |
+    | 50287 | A | Microsoft Virtualization Technology Overview(版本2)| 日语| 2019年12月31日 |
+    | 50288 | A | Install and Configure Hyper-V(版本2)| 日语| 2019年12月31日 |
     | 50403 | B | Implementing Active Directory Rights Management Services with Exchange and SharePoint | 英语| 2019年12月31日 |
     | 50412 | B | Implementing Active Directory Federation Services 2.0 | 英语 | 2019年12月31日 |
-    | 50497 | A | Microsoft SQL Server 2008 System Administration(MCTS 70-432的准备工作）| 日语| 2019年12月31日 |
+    | 50497 | A | Microsoft SQL Server 2008 System Administration(MCTS 70-432的准备工作)| 日语| 2019年12月31日 |
     | 50498 | A | Planning and Management for Windows 7 Desktop Deployment Environment | 日语| 2019年12月31日 |
     | 50525 | A | Team Foundation Server 2010 Fundamentals | 日语| 2019年12月31日 |
     | 50590 | A | Microsoft Client Virtualization Solutions – Remote Desktop and VDI | 日语| 2019年12月31日 |
@@ -322,14 +427,14 @@ ms.author: micsullivan
     | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server® 2008 | 法语| 2019年12月31日 |
     | 6745 | A | Internetinformationsdienste in Windows Server® 2008：Konfiguration und Problembehandlung | 德语| 2019年12月31日 |
     | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | 德语| 2019年12月31日 |
-    | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure(简体中文）| 简体中文| 2019年12月31日 |
-    | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure(简体中文）| 简体中文| 2019年12月31日 |
+    | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure(简体中文)| 简体中文| 2019年12月31日 |
+    | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure(简体中文)| 简体中文| 2019年12月31日 |
     | 6854 | A | Windows Server® 2008 Internet信息服务的配置与故障排除| 简体中文| 2019年12月31日 |
 
 * 课件将于2019年11月27日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | MS-100T01 | A | Office 365 Management | 英文| 2019年11月27日 |
     | MS-100T02 | A | Microsoft 365 Tenant & Service Management | 英语| 2019年11月27日 |
     | MS-100T03 | A | Microsoft 365 Identity Management | 英语| 2019年11月27日 |
@@ -340,13 +445,13 @@ ms.author: micsullivan
 * 课件将于2019年10月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 20347 | B | Enabling & Managing Office 365 | 英语| 2019年10月31日 |
 
 * 课件将于2019年7月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10970 | B | Networking with Windows Server | 英文| 2019年07月31日 |
     | 10971 | B | Storage and High Availability with Windows Server | 英文| 2019年07月31日 |
     | 10974 | B | Deploying and Migrating Windows Servers | 英语| 2019年07月31日 |
@@ -354,7 +459,7 @@ ms.author: micsullivan
 * 课件于2019年6月30日停用 
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10958 | B | Programming Fundamentals of Web Applications | 英文| 2019年06月30日 |
     | 20481 | C | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 英语| 2019年06月30日
     | 20482 | C | Advanced Windows Store App Development Using HTML5 and JavaScript | 英语| 2019年06月30日
@@ -370,7 +475,7 @@ ms.author: micsullivan
     | 32410 | B | Installing and Configuring Windows Server 2012 | 土耳其语| 2019年06月30日
     | 32411 | B | Administering Windows Server 2012 | 土耳其语| 2019年06月30日
     | 40504 | G | Microsoft Cloud Workshop：Intelligent Vending Machines | 英文| 2019年06月30日
-    | 40506 | G | Microsoft Cloud Workshop：Lift and Shift | Azure Resource Manager | 英语| 2019年06月30日
+    | 40506 | G | Microsoft Cloud Workshop：Lift and Shift / Azure Resource Manager | 英语 | 2019年06月30日
     | 40520 | G | Microsoft Cloud Workshop：Optimized Architecture | 英语| 2019年06月30日
     | 40523 | G | Microsoft Cloud Workshop：Azure Blockchain | 英语| 2019年06月30日
     | 40524 | G | Microsoft Cloud Workshop：Linux Lift＆Shift | 英语| 2019年06月30日
@@ -389,13 +494,13 @@ ms.author: micsullivan
 * 课件于2019年5月1日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 40536 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | 英语| 2019年05月01日
     | 40537 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | 英语| 2019年05月01日
     | 40538 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms | 英文 | 2019年05月01日
     | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | 英语| 2019年05月01日
     | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | 英语| 2019年05月01日
-    | 40541 | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | 英文| 2019年05月01日
+    | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | 英文| 2019年05月01日
     | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (2019年05月01日停用) | 英文 | 2019年05月01日
     | AZ-200T01 | A | Select the appropriate Azure technology development solution | 英语| 2019年05月01日
     | AZ-200T02 | A | Develop for Azure storage | 英语| 2019年05月01日
@@ -408,7 +513,7 @@ ms.author: micsullivan
 * 课件于2019年3月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10996 | A | Hybrid Cloud and Datacenter Monitoring with Operations Management Suite (OMS) | 英语| 2019年03月31日
     | 40457 | A | MOC Workshop: Azure Developer Hackathon| 英语| 2019年03月31日
     | 40500 | A | DevOps Workshop | 英语| 2019年03月31日
@@ -416,13 +521,13 @@ ms.author: micsullivan
 * 课件于2019年1月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | AZ-300T05 | A | Implementing Authentication and Secure Data | 英语| 2019年01月31日
 
 * 课件于2018年12月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 20532 | D | Developing Microsoft Azure Solutions | 英语| 2018年12月31日
     | 20533 | E | Implementing Microsoft Azure Infrastructure Solutions | 英语| 2018年12月31日
     | 20535 | A | Architecting Microsoft Azure Solutions | 英语| 2018年12月31日
@@ -430,13 +535,13 @@ ms.author: micsullivan
 * 课件于2018年8月20日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 6235 | A | Implementing and Maintaining Microsoft SQL Server 2008 Integration Services | 英语 | 2018年8月20日
 
 * 课件于2018年7月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 20398 | B | Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools | 英语 | 2018年07月31日
     | 40008 | A | Updating your Database Skills to Microsoft® SQL Server® 2012 | 英语| 2018年07月31日
     | 40009 | A | Updating your Business Intelligence Skills to Microsoft® SQL Server® 2012 | 英语| 2018年07月31日
@@ -511,7 +616,7 @@ ms.author: micsullivan
 * 课件于2018年6月30日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 1846 | A | Microsoft® Solutions Framework Essentials | 英语 | 2018年06月30日
     | 1913 | A | Exchanging and Transforming Data Using XML and XSLT | 英语 | 2018年06月30日
     | 2011 | A | Troubleshooting Microsoft® Exchange Server 2003 Toolkit | 英语 | 2018年06月30日
@@ -635,18 +740,18 @@ ms.author: micsullivan
     | 6738 | A | Windows Media® Windows Server® 2008的配置和管理服务| 法语| 2018 年06月30日
     | 6741 | A | Windows Server 2008的配置和部署基础架构| 法语| 2018 年06月30日
     | 6742 | A | Windows Server® 2008下的Netzwerkinfrastruktur und Problembehandlung应用程序| 德语| 2018 年06月30日
-    | 6743 | A | Windows Server® 2008网络基础架构的配置和故障排除(日语）| 日语| 2018 年06月30日
+    | 6743 | A | Windows Server® 2008网络基础架构的配置和故障排除(日语)| 日语| 2018 年06月30日
     | 6747 | A | Windows Server® 2008的规划和管理| 法语| 2018 年06月30日
     | 6851 | A | Windows Server® 2008 Active Directory®基础知识| 中文| 2018 年06月30日
     | 6853 | A | 部署Windows Server® 2008 | 中文| 2018 年06月30日
-    | 6855 | A | Windows Server® 2008终端服务的配置和故障排除(简体中文）| 中文| 2018 年06月30日
+    | 6855 | A | Windows Server® 2008终端服务的配置和故障排除(简体中文)| 中文| 2018 年06月30日
     | 6856 | A | Windows Server 2008 Active Directory基础| 德语| 2018 年06月30日
     | 6857 | A | Windows Server 2008 Active Directory基础| 法语| 2018 年06月30日
-    | 6871 | A | 使用Windows Server® 2008 Active Directory®配置和解决身份和访问解决方案(日语）| 日语| 2018 年06月30日
+    | 6871 | A | 使用Windows Server® 2008 Active Directory®配置和解决身份和访问解决方案(日语)| 日语| 2018 年06月30日
     | 7193 | A | 为Windows Mobile 6开发托管应用程序| 中文| 2018 年06月30日
     | 7196 | A | 为Microsoft Windows Mobile 6开发本机应用程序| 中文| 2018 年06月30日
     | 10036 | A | 设计Windows Server® 2008网络基础架构-法语| 法语| 2018 年06月30日
-    | 10079 | A | 使用Windows Server配置身份和访问解决方案并进行故障排除(简体中文）| 中文| 2018 年06月30日
+    | 10079 | A | 使用Windows Server配置身份和访问解决方案并进行故障排除(简体中文)| 中文| 2018 年06月30日
     | 10080 | A | Windows Server® 2008中的可重复使用的基础知识| 中文| 2018 年06月30日
     | 10081 | A | 维护Microsoft® SQL Server® 2008数据库| 中文| 2018 年06月30日
     | 10082 | A | 实施Microsoft® SQL Server® 2008数据库| 中文| 2018 年06月30日
@@ -656,11 +761,11 @@ ms.author: micsullivan
     | 10087 | A | Visual Studio®2008：ADO.NET 3.5 | 中文| 2018 年06月30日
     | 10184 | A | 设计Windows Server 2008网络基础架构| 中文| 2018 年06月30日
     | 10185 | A | 在Windows Server® 2008中设计Active Directory®基础架构和服务| 中文| 2018 年06月30日
-    | 10218 | A | 使用Microsoft® SQL Server® 2008 Transact-SQL(日语）编写查询| 日语| 2018 年06月30日
+    | 10218 | A | 使用Microsoft® SQL Server® 2008 Transact-SQL(日语)编写查询| 日语| 2018 年06月30日
     | 10326 | A | Windows Small Business Server 2008实施和实施指南| 德语| 2018 年06月30日
-    | 10562 | A | 使用Microsoft®Visual Studio®2010(简体中文）开发Web应用程序| 中文| 2018 年06月30日
+    | 10562 | A | 使用Microsoft®Visual Studio®2010(简体中文)开发Web应用程序| 中文| 2018 年06月30日
     | 80307 | A | Enterprise Portal Development in Microsoft Dynamics® AX 2012 | 英语 | 2018年06月30日
-    | 80308 | A | Procurement in Microsoft Dynamics® AX 2012 | 英语 | 2018年06月30 |
+    | 80308 | A | Procurement in Microsoft Dynamics® AX 2012 | 英语 | 2018年06月30日
     | 80310 | A | LEAN Manufacturing in Microsoft Dynamics® AX 2012 | 英语 | 2018年06月30日
     | 80312 | A | Development III in Microsoft Dynamics® AX 2012 | 英语 | 2018年06月30日
     | 80313 | A | Development IV in Microsoft Dynamics® AX 2012 | 英语 | 2018年06月30日
@@ -680,7 +785,7 @@ ms.author: micsullivan
     | 80492 | A | Microsoft Dynamics®AX 2012 Diskrete Fertigung II | 德语| 2018 年06月30日
     | 80526 | A | Microsoft Dynamics®AX 2012 Beschaffung | 德语| 2018 年06月30日
     | 80530 | A | Microsoft Dynamics®AX 2012 Serviceverwaltung | 德语| 2018 年06月30日
-    | 80537 | A | 用于砖和砂浆商店零售的Microsoft Dynamics®AX 2012 R2：Installation and Configuration | 英语 | 2018年06月30日
+    | 80537 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Installation and Configuration | 英语 | 2018年06月30日
     | 80538 | A | Human Resource Management in Microsoft Dynamics® AX 2012 R2 | 英语 | 2018年06月30日
     | 80539 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 | 英语 | 2018年06月30日
     | 80541 | A | Payroll in Microsoft Dynamics® AX 2012 R2 | 英语 | 2018年06月30日
@@ -691,33 +796,33 @@ ms.author: micsullivan
     | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | 英语 | 2018年06月30日
     | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | 英语 | 2018年06月30日
     | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | 英语 | 2018年06月30日
-    | 80616 | A | Microsoft Dynamics®CRM 2013 自定义和配置(日语）| 日语| 2018 年06月30日
+    | 80616 | A | Microsoft Dynamics®CRM 2013 自定义和配置(日语)| 日语| 2018 年06月30日
     | 80617 | A | Microsoft Dynamics®CRM 2013 配置和安全性| 德语| 2018 年06月30日
     | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | 西班牙语 | 2018 年06月30日
     | 80619 | A | 人员化和配置与Microsoft Dynamics®CRM 2013有关| 法语| 2018 年06月30日
-    | 80620 | A | Microsoft Dynamics®CRM 2013 安装和部署(日语）| 日语| 2018 年06月30日
+    | 80620 | A | Microsoft Dynamics®CRM 2013 安装和部署(日语)| 日语| 2018 年06月30日
     | 80621 | A | Instalación e implementación de Microsoft Dynamics® CRM 2013 | 法语 | 2018 年06月30日
     | 80622 | A | Microsoft Dynamics®CRM 2013 安装| 德语| 2018 年06月30日
     | 80623 | A | 安装和部署Microsoft Dynamics®CRM 2013 | 法语| 2018 年06月30日
     | 80624 | A | Microsoft Dynamics®CRM 2013管理| 西班牙| 2018 年06月30日
     | 80625 | A | Microsoft Dynamics®CRM 2013中的Vertriebsverwaltung | 德语| 2018 年06月30日
     | 80626 | A| Gestion des ventes dans Microsoft Dynamics® CRM 2013| 法语| 2018 年06月30日
-    | 80627 | A| Microsoft Dynamics®CRM 2013 销售管理(日语）| 日语| 2018 年06月30日
+    | 80627 | A| Microsoft Dynamics®CRM 2013 销售管理(日语)| 日语| 2018 年06月30日
     | 80628 | A | Microsoft Dynamics®CRM 2013中的Kundenservice | 德语| 2018 年06月30日
     | 80629 | A | Microsoft Dynamics®CRM 2013客户服务| 西班牙语| 2018 年06月30日
     | 80630 | A | 服务客户端Microsoft Dynamics®CRM 2013 | 法语| 2018 年06月30日
-    | 80631 | A | Microsoft Dynamics®CRM 2013中的客户服务(日语）| 日语| 2018 年06月30日
+    | 80631 | A | Microsoft Dynamics®CRM 2013中的客户服务(日语)| 日语| 2018 年06月30日
 
 * 课件于2018年3月30日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 20696 | C | Administering System Center Configuration Manager and Intune | 英语 | 2018年03月30日
 
 * 课件于2018年1月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 20246 | D | Monitoring and Operating a Private Cloud | 英语 | 2018年01月31日
     | 20247 | D | Configuring and Deploying a Private Cloud | 英语 | 2018年01月31日
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | 英语 | 2018年01月31日
@@ -726,7 +831,7 @@ ms.author: micsullivan
 * 课件于2017年6月30日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 2609 | A |Introduction to C# Programming with Microsoft .NET | 英语 | 2017年06月30日
     | 10989 | B | Analyzing Data with Power BI | 英语 | 2017年06月30日
     | 80311 | B | Service Industries in Microsoft Dynamics AX 2012 R2 | 英语 | 2017年06月30日
@@ -764,13 +869,13 @@ ms.author: micsullivan
 * 课件于2017年4月15日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10978 | A | Introduction to Azure for Developers | 英语 | 2017年04月15日
 
 * 课件于2017年3月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 80229 | A | Inventory Control in Microsoft Dynamics GP 2010 | 英语 | 2017年03月31日
     | 80230 | A | Project Series in Microsoft Dynamics GP 2010 | 英语 | 2017年03月31日
     | 80231 | A | Purchase Order Processing in Microsoft Dynamics GP 2010 | 英语 | 2017年03月31日
@@ -804,7 +909,7 @@ ms.author: micsullivan
 * 课件于2016年12月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 80317 | B | Project Advanced in Microsoft Dynamics AX 2012 R2 | 英语 | 2016年12月31日
     | 80427 | A | Warehouse Management in Microsoft Dynamics AX 2012 | 英语 | 2016年12月31日
     | 80428 | A | SQL Optimization for Microsoft Dynamics AX 2012 | 英语 | 2016年12月31日
@@ -815,13 +920,13 @@ ms.author: micsullivan
     | 80464 | A | Microsoft Dynamics AX 2012金融工具II | 西班牙语| 2016年12月31日
     | 80465 | A | Microsoft Dynamics AX 2012中的Finanzdaten II | 德语| 2016年12月31日
     | 80466 | A | Contabilità II in Microsoft Dynamics AX 2012 | 意大利语 | 2016年12月31日
-    | 80467 | A | Finances II dans Microsoft Dynamics AX 2012 | 法语| 12/31/2016
+    | 80467 | A | Finances II dans Microsoft Dynamics AX 2012 | 法语 | 2016年12月31日
     | 80468 | A | Microsoft Dynamics AX 2012中的Anlagevermögen| 德语| 2016年12月31日
     | 80469 | A | Microsoft Dynamics AX 2012中的Cespiti | 意大利语| 2016年12月31日
     | 80470 | A | Microsoft Dynamics AX 2012活动| 西班牙语| 2016年12月31日
     | 80471 | A | 固定化Microsoft Dynamics AX 2012 | 法语| 2016年12月31日
     | 80472 | A | Microsoft Dynamics AX 2012中的安装和配置| 德语| 2016年12月31日
-    | 80473 | A | 安装和配置倒入Microsoft Dynamics AX 2012 | 法语| 12/31/2016
+    | 80473 | A | 安装和配置倒入Microsoft Dynamics AX 2012 | 法语| 2016年12月31日
     | 80474 | A | Microsoft Dynamics AX 2012安装和配置文件| 意大利语| 2016年12月31日
     | 80475 | A | Microsoft Dynamics AX 2012安装和配置| 西班牙语| 2016年12月31日
     | 80484 | A | Microsoft Dynamics AX 2012简介| 西班牙语| 2016年12月31日
@@ -860,20 +965,20 @@ ms.author: micsullivan
 * 课件于2016年10月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10983 | A | Upgrading Your Skills to Windows Server 2016 | 英语 | 2016年10月31日
     | 20497 | A | Software Testing with Visual Studio 2013 | 英语 | 2016年10月31日
 
 * 课件于2016年8月15日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10968 | B | Designing for Office 365 Infrastructure | 英语 | 2016年08月15日
 
 * 课件于2016年8月1日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10747 | D | Administering System Center 2012 Configuration Manager | 英语 | 2016年08月01日
 
 * 课件于2016年6月24日停用
@@ -883,26 +988,26 @@ ms.author: micsullivan
 * 课件于2016年6月15日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 20346 | D | Managing Office 365 Identities and Services | 英语 | 2016年06月15日
 
 * 课件于2016年4月18日停用
 
     | 课程编号| 职务| 语言| 停用日期|
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 38 | Office 2013和Office 365演示会话| 日语| 2016年4月18日
     | 37 | Office 2013和Office 365演示会议| 西班牙语| 2016年4月18日
     | 36 | Office 2013和Office 365演示课程| 德语| 2016年4月18日
     | 35 | Office 2013和Office 365演示会议| 俄语| 2016年4月18日
     | 34 | Office 2013和Office 365演示会议| 巴西文，葡萄牙语| 2016年4月18日
-    | 33 | Office 2013和Office 365演示会话| 中文(简体）| 2016年4月18日
+    | 33 | Office 2013和Office 365演示会话| 中文(简体)| 2016年4月18日
     | 32 | Office 2013和Office 365演示会话| 法语| 2016年4月18日
     | 31 | Office 2013 and Office 365 Demonstration Sessions | 英语 | 2016年4月18日
     | 23 | Windows 8 Demonstration Sessions | 英语 | 2016年04月18日
     | 22 | Office 2010 Running Start: 演示课程 | 荷兰语| 2016年4月18日
     | 21 | Office 2010 Running Start: 演示课程 | 韩文| 2016年4月18日
     | 20 | Office 2010 Running Start: 演示课程 | 俄语| 2016年4月18日
-    | 19 | Office 2010 Running Start: 演示课程 | 中文(繁体）| 2016年4月18日
+    | 19 | Office 2010 Running Start: 演示课程 | 中文(繁体)| 2016年4月18日
     | 18 | Office 2010 Running Start: 演示课程 | 简体中文| 2016年4月18日
     | 17 | Office 2010 Running Start: 演示课程 | 巴西葡萄牙语| 2016年4月18日
     | 16 | Office 2010 Running Start: 演示课程 | 简体中文，意大利语| 2016年4月18日
@@ -919,7 +1024,7 @@ ms.author: micsullivan
 * 课件于2015年8月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 2148 | A | Microsoft Windows Server 2003环境の管理| 日语| 2015年8月31日
     | 2166 | A | Microsoft Windows Server 2003环境の保守| 日语| 2015年8月31日
     | 6194 | B | 活动目录Windows Server 2008的活动目录| 日语| 2015年8月31日
@@ -940,7 +1045,7 @@ ms.author: micsullivan
 * 课件于2015年1月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10774 | A | Querying Microsoft SQL Server 2012 | 英语 | 2015年01月31日
     | 10776 | A | Developing Microsoft SQL Server 2012 Databases | 英语 | 2015年01月31日
     | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | 英语 | 2015年01月31日
@@ -949,14 +1054,14 @@ ms.author: micsullivan
 * 课件于2014年10月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 10750 | A | Monitoring and Operating a Private Cloud with System Center 2012 | 英语 | 2014年10月31日
     | 10751 | A | Configuring and Deploying a Private Cloud with System Center 2012 | 英语 | 2014年10月31日
 
 * 课件于2014年8月25日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 1303 | A | Mastering Microsoft Visual Basic 6 Fundamentals | 英语 | 2014年08月25日
     | 2147 | B | 管理Microsoft Windows Server 2003环境| 巴西文，葡萄牙语| 2014年8月25日
     | 2165 | B | 维护Microsoft Windows Server 2003环境| 巴西文，葡萄牙文| 2014年8月25日
@@ -970,7 +1075,7 @@ ms.author: micsullivan
 * 课件于2013年12月31日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 2071 | B | Querying Microsoft SQL Server 2000 with Transact-SQL | 英语 | 2013年12月31日
     | 2262 | B | Supporting Users Running Applications on a Microsoft Windows XP Operating System | 英语 | 2013年12月31日
     | 2779 | B | Implementing a Microsoft SQL Server 2005 Database | 英语 | 2013年12月31日
@@ -985,7 +1090,7 @@ ms.author: micsullivan
     | 2789 | B | Administering and Automating Microsoft SQL Server­ 2005 Databases and Servers | 英语 | 2013年12月31日
     | 2790 | A | Troubleshooting and Optimizing Database Servers Using Microsoft SQL Server­ 2005 | 英语 | 2013年12月31日
     | 2791 | A | Implementing and Maintaining Microsoft SQL Server 2005 Analysis Services | 英语 | 2013年12月31日
-    | 2792 | A | Implementing and Maintaining Microsoft SQL Server 2005 Integration Services | 英语| 12/31/2013
+    | 2792 | A | Implementing and Maintaining Microsoft SQL Server 2005 Integration Services | 英语 | 2013年12月31日
     | 2793 | A | Implementing and Maintaining Microsoft SQL Server 2005 Reporting Services | 英语 | 2013年12月31日
     | 2794 | A | Designing a Business Intelligence Solution for the Enterprise Using Microsoft SQL Server 2005 | 英语 | 2013年12月31日
     | 2795 | A | Designing an ETL Solution Architecture using Microsoft SQL Server 2005 Integration Services | 英语 | 2013年12月31日
@@ -1007,7 +1112,7 @@ ms.author: micsullivan
 * 课件于2013年9月30日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 2282 | A | Designing a Microsoft Windows Server 2003 Active Directory and Network Infrastructure | 英语 | 2013年09月30日
     | 6434 | A | Automating Windows Server 2008 Administration with Windows PowerShell | 英语 | 2013年09月30日
     | 2273 | B | Managing and Maintaining a Microsoft Windows Server 2003 Environment | 英语 | 2013年09月30日
@@ -1019,7 +1124,7 @@ ms.author: micsullivan
   Microsoft 将不定期合并或修订课程，以确保停用较为陈旧、分散的课件。此列表指明新增、修订课程与相关停用课程之间的关系。
 
     | 6月30日停用课程编号| 版本| 标题| 语言| 注释|
-    |---| --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- |
     | 6428 | A | Configuring and Troubleshooting Windows Server 2008 Terminal Services | 英语 | Replaced by Course 6439: Windows Server 2008 Applications Infrastructure的配置和故障排除
     | 6429 | A | Configuring and Managing Windows Media Services for Windows Server 2008 | 英语 | Replaced by Course 6439: Windows Server 2008 Applications Infrastructure的配置和故障排除
     | 6437 | A | Designing a Windows Server 2008 Applications Infrastructure | 英语 | Replaced by Course 6435B: 设计 Windows Server 2008 Network 和 Applications Infrastructure

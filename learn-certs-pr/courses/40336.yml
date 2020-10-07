@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 'First Look Clinic: Windows 10 for IT Professionals'
+metadata:
+  title: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+  description: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+uid: course.40336
+courseNumber: '40336-A'
+hoursToComplete: 12
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 列出并解释Windows 10的新功能。
+- skill: 列出现在可用的功能及其所在版本。
+- skill: 在Windows10中使用和自定义新用户界面
+- skill: 描述部署和管理Windows 10所需的准备工作
+- skill: 了解部署选择
+- skill: 了解管理选项
+- skill: 了解Windows 10的总体安全功能
+- skill: 列出设备保护（Device Guard）的功能
+- skill: 了解部署设备保护（Device Guard）的方法
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows
+summary: |-
+  这个Microsoft First Look Clinic（微软抢先看诊所）使用Windows 10企业版向IT专业人士介绍Windows 10的新特性和功能。它还涵盖身份管理、云服务（如Azure Active Directory ，AAD）、部署/管理工具和新的用户界面等关键的windows 10生态系统。本Clinic没有深入讨论任何主题，但学生们将在离开本Clinic时了解到Windows 10的新特性和功能以及相关的服务和管理工具。
+
+  #### 观众概况
+  这个Clinic是为那些有兴趣学习Windows 10的新特性和功能的IT专业人士设计的。一般来说，新技术的采用者或希望尽早了解windows 10功能及相关云服务和工具的人，将受益于参加这个First Look Clinic。IT组织中的关键技术影响者和技术决策者也可以参加这个Clinic，因为他们可以从抢先了解到的Windows 10包含的一些最新功能和技术中获益。
+outlineSection: |-
+  ### 模块 1&#58; Windows 10简介
+  Windows 10是Windows客户端操作系统的最新版本。它包括了与windows 8.1相同的核心功能，以及含有一些影响企业环境的重要增强和功能改进，特别是在安全方面。windows 10的设计满足了广泛的计算需求，并使用户能够高效地执行任务。本模块将向您介绍Windows 10的一些主要新功能。
+  #### 课程
+  - Windows 10的新功能
+  - Windows 10最初版本中没有的功能
+  - 探索Windows 10的新用户界面（UI）
+  - Windows 10桌面版和平板电脑版
+  - Windows 10的硬件要求
+
+  完成本课程后，您将能够&#58;
+  - 列出并解释Windows 10的新功能。
+  - 列出现在可用的功能及其所在版本。
+  - 使用windows 10的新用户界面。
+  - 列出并描述可以运行Windows 10的设备。
+  - 列出Windows 10的硬件要求。
+  - 解释各种Windows 10版本
+
+
+  ### 模块 2&#58; Windows 10的部署和管理
+  评估企业的部署需求，首先要了解其硬件和基础设施环境，并确定硬件是否能够支持Windows 10，以及Windows 10中对于企业来说重要的功能。在大多数情况下，迁移到Windows10是非常直接的，只需要对企业现有的部署进行最小的更新，尽管现在有更多的选择。我们建议的策略是将windows 10作为基础平台，然后以Windows作为服务，提供新的功能。如前所述，迁移到Windows 10不会像从Windows XP升级到Windows 7那样昂贵和耗时。在大多数情况下，硬件和软件都将与Windows 10兼容。在本模块中，我们将看一看如何使用管理和部署工具的功能来进行演化升级。
+  #### 课程
+  - 部署Windows 10
+  - Windows 10配置
+  - 管理Windows 10
+  - 支持Windows 10
+
+  完成本模块后，您将能够&#58;
+  - 描述部署和管理Windows 10所需的准备工作
+  - 了解部署选择
+  - 了解管理选项
+
+
+  ### 模块 3&#58; Windows 10的安全功能
+  Windows 10旨在保护您免受现代安全威胁，我们围绕以下几个支柱组织了我们的工作&#58; 安全设备/硬件、安全身份、信息保护和抵御威胁。
+
+  在这个模块中，我们将概述Windows10的安全功能，然后深入了解设备保护（Device Guard）的各个方面。
+  #### 课程
+  - Windows 10安全概述
+  - 设备保护概述
+  - 可配置的代码完整性
+  - 为设备保护做计划
+  - 设备保护目录文件
+  - 使用设备保护
+
+  完成本模块后，您将能够&#58;
+  - 了解Windows 10的总体安全功能
+  - 了解设备保护的功能
+

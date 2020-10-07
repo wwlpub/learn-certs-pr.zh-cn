@@ -3,19 +3,18 @@ title: Microsoft Azure Architect Technologies
 metadata:
   title: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
   description: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
-  iltScheduling: true
 uid: course.az-303t00
 courseNumber: 'AZ-303T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 使用 Azure Active Directory 以及用户和组的安全身份
+- skill: 使用 Azure Active Directory 以及用户和组的安全身份。
 - skill: 实施跨内部和基于云端的功能的身份解决方案
-- skill: 应用监视解决方案以收集、合并和分析来自不同来源的资料
-- skill: 管理订阅、账户、Azure 策略和基于角色的访问控制
-- skill: 使用资源管理器、Azure 门户、Cloud Shell 和 CLI 管理Azure
-- skill: 配置站点间连接解决方案，例如 VNet Peering 和虚拟网络网关
-- skill: 管理 Azure 应用服务，Azure 容器实例和 Kubernetes
+- skill: 应用监视解决方案以收集、合并和分析来自不同来源的资料。
+- skill: 管理订阅、账户、Azure 策略和基于角色的访问控制。
+- skill: 使用资源管理器、Azure 门户、Cloud Shell 和 CLI 管理Azure。
+- skill: 配置站点间连接解决方案，例如 VNet Peering 和虚拟网络网关。
+- skill: 管理 Azure 应用服务，Azure 容器实例和 Kubernetes。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,35 +27,48 @@ products:
 exams:
 - uid: exam.az-303
 summary: |-
-  本课程教 Solutions Architects 如何将业务需求转换为安全、可扩充和可靠的解决方案。课程包括虚拟化、自动化、网络、存储、身份、安全性、数据平台和应用程序基础结构。本课程概述了这些领域的决策对整体解决方法的影响方式。
+  本课程教 Solutions Architects 如何将业务需求转换为安全、可扩充和可靠的解决方案。课程包括虚拟化、自动化、联网、存储、身份、安全性、数据平台和应用程序基础结构。本课程概述了这些领域的决策如何影响整体解决方法。
 
   #### 受众概况
-  本课程面向具有设计和实施在 Microsoft Azure 上运行的解决方案的专业知识的 IT Professionals。应试者应具备跨 IT 运营各个方面的高级经验和知识，包括网络，虚拟化，身份，安全性，业务连续性，灾难恢复，数据管理，预算和治理。Azure解决方案架构师使用 Azure 门户，并且随着他们变得更加熟练，他们使用命令行界面。考生必须具有 Azure 管理方面的专家级技能，并且具有 Azure 开发流程和 DevOps 流程的相关经验。
+  本课程面向具有设计和实施在 Microsoft Azure 上运行的解决方案的专业知识的 IT Professionals。应试者应具备跨 IT 运营各个方面的高级经验和知识，包括网络、虚拟化、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理。Azure解决方案架构师使用 Azure 门户，并且随着他们变得更加熟练，他们使用命令行界面。考生必须具有 Azure 管理方面的专家级技能，并且具有 Azure 开发流程和 DevOps 流程的相关经验。
 prerequisitesSection: |-
-  成功的 Azure Solution Architects 从在操作系统，虚拟化，云端基础结构，存储结构和网络方面的经验开始担任这一角色。
-  - 了解本地虚拟化技术，包括&#58; VM、虚拟网络和虚拟硬盘。
+  成功的 Azure Solution Architects 从在操作系统、虚拟化、云端基础结构、存储结构和网络方面的经验开始担任这一角色。
+  - 了解本地虚拟化技术，包括&#58; VM、虚拟联网和虚拟硬盘。
   - 了解网络设定，包括 TCP/IP、域名系统（DNS）、虚拟专用网（VPN）、防火墙和加密技术。
   - 了解 Active Directory 概念，包括网域、树系、域控制器、复写、Kerberos 通讯协议和轻量型目录存取通讯协议（LDAP）。
   - 了解恢复和灾害复原，包括备份和还原操作。
 outlineSection: |-
-  ### 模块 1&#58; 为 Windows 和 Linux 实施 VM
+  ### 模块 1&#58; 实施虚拟联网
+  在本模块中，您将了解基本的虚拟网络概念，例如虚拟网络和子网、IP地址、网络安全组、Azure 防火墙和 Azure DNS。
+  #### 课程
+  - 虚拟网络对等
+  - 实施 Vnet 对等
+
+  学完本模块后，学生将能够&#58;
+  - 通过虚拟网络对等连接服务
+  - 配置 Vnet Peering
+  - 了解服务链
+  - 修改或删除 Vnet 对等
+
+
+  ### 模块 2&#58; 为 Windows 和 Linux 实施 VM
   在本模块中，您将了解 Azure 虚拟机，包括规划、建立、可用性和扩充性。本模块包括&#58;
   #### 课程
   - 选择虚拟机大小
   - 配置高可用性
   - 实施 Azure 专用主机
-  - 部署和配置比例集。
+  - 部署和配置规模集。
   - 配置Azure磁盘加密
 
-  学完本模块后，学生将能够&#58;
+  学完本模块后，学生将能够&#58; 
   - 规划虚拟机实施
   - 建立虚拟机
-  - 配置虚拟机可用性，包括扩展集
+  - 配置虚拟机可用性，包括规模集
   - 了解Azure中VM的高可用性选项
 
 
-  ### 模块 2&#58; 自动部署和配置资源
-  在本模块中，您将了解 Azure 管理员用来管理其基础结构的工具。这包括 Azure 入口网站、Cloud Shell、Azure PowerShell、CLI 和资源管理器范本。本模块包括&#58;
+  ### 模块 3&#58; 自动部署和配置资源
+  在本模块中，您将了解 Azure Administrator 用来管理其基础结构的工具。这包括 Azure 入口网站、Cloud Shell、Azure PowerShell、CLI 和资源管理器范本。本模块包括&#58;
   #### 课程
   - Azure Resource Manager 模板
   - 为虚拟机保存模板
@@ -65,25 +77,12 @@ outlineSection: |-
   - 从模板部署
   - 建立并执行自动化运行手册
 
-  学完本模块后，学生将能够&#58;
+  学完本模块后，学生将能够&#58; 
   - 利用 Azure 资源管理员组织资源
   - 使用 ARM 模板部署资源
   - 建立并执行自动化运行手册
   - 从 VHD 部署 Azure VM
   - 了解 Azure 加密技术
-
-
-  ### 模块 3&#58; 实施虚拟网络
-  在本模块中，您将了解基本的虚拟网络概念，例如虚拟网络和子网、IP地址、网络安全组、Azure 防火墙和 Azure DNS。
-  #### 课程
-  - 虚拟网络对等
-  - 实施 Vnet 对等
-
-  学完本模块后，学生将能够&#58;
-  - 通过虚拟网络对等连接服务
-  - 配置 Vnet 对等
-  - 了解服务链
-  - 修改或删除 Vnet 对等
 
 
   ### 模块 4&#58; 实施负载平衡和网络安全
@@ -94,11 +93,17 @@ outlineSection: |-
   - 了解 Web 应用程序防火墙
   - 实施 Azure 防火墙
   - 实施 Azure 前门
-  - 实施 Azure 流量管理员
+  - 实施 Azure 流量管理器
   - 实施网络安全组和应用程序安全组
   - 实施 Azure Bastion
 
-  学完本模块后，学生将能够&#58;
+  #### 实验&#58;实施高可用性Azure IaaS计算体系结构
+  - 描述后面设置的相同可用性中的高可用性Azure VM的特征
+  - 描述后面不同可用性区域中的高可用性Azure VM的特征
+  - 描述Azure VM规模集的自动水平缩放的特征
+  - 描述Azure VM规模集的手动垂直缩放的特征
+
+  学完本模块后，学生将能够&#58; 
   - 选择负载平衡器解决方案
   - 配置应用程序网关
   - 实施 Azure 防火墙
@@ -108,16 +113,16 @@ outlineSection: |-
 
 
   ### 模块 5&#58; 实施存储帐户
-  在本模块中，您将了解基本的存储器功能，包括存储器帐户、blob 存储器、Azure文件和文件同步、存储器安全性和存储器工具。 
+  在本模块中，您将了解基本的存储器功能，包括存储器帐户、blob 存储器、Azure文件和文件同步、存储器安全性和存储器工具。
   #### 课程
-  - 个储存账户
+  - 储存账户
   - Blob 存储器
   - 存储器安全性
   - 管理存储器
   - 使用 AAD 存取 Blob 和队列
   - 配置Azure存储防火墙和虚拟网络
 
-  学完本模块后，学生将能够&#58;
+  学完本模块后，学生将能够&#58; 
   - 了解存储账户的服务和类型
   - 配置Blob存储、账户、容器和存取层
   - 建立共享存取签名
@@ -125,10 +130,10 @@ outlineSection: |-
 
 
   ### 模块 6&#58; 实施 Azure Active Directory
-  在本模块中，您将学习如何使用 Azure Active Directory 保护身分识别并实现用户和群组功能。
+  在本模块中，您将学习如何使用 Azure Active Directory 保护身分并实现用户和群组功能。
   #### 课程
   - Azure Active Directory 概述
-  - 用戶和群组
+  - 用户和群组
   - 网域和自定义网域
   - Azure AD 身份保护
   - 实施条件访问
@@ -138,7 +143,7 @@ outlineSection: |-
   - 在 Azure AD 中配置来宾使用者
   - 管理多个目录
 
-  学完本模块后，学生将能够&#58;
+  学完本模块后，学生将能够&#58; 
   - 了解多个 AAD 组织如何互动
   - 将来宾使用者添加到 Azure AD
   - 配置位置条件配置
@@ -156,7 +161,16 @@ outlineSection: |-
   - 实施和配置 Azure 策略
   - Azure 蓝图
 
-  学完本模块后，学生将能够&#58;
+  #### 实验&#58;实施和配置Azure存储文件和Blob服务
+  - 通过利用共享存取签名来实施对Azure存储Blob的授权
+  - 通过利用Azure Active Directory实施对Azure存储Blob的授权
+  - 通过利用存取密钥来实施对Azure存储文件共享的授权
+
+  #### 实验&#58;管理基于Azure角色的访问控制
+  - 定义自定义的RBAC角色
+  - 分配自定义的RBAC角色
+
+  学完本模块后，学生将能够&#58; 
   - 了解资源组组织
   - 了解 RBAC 的运作方式
   - 管理 Azure AD 访问审查
@@ -171,7 +185,7 @@ outlineSection: |-
   - 管理密码同步与密码回写
   - 监视 Azure AD Connect 运作状况
 
-  学完本模块后，学生将能够&#58;
+  学完本模块后，学生将能够&#58; 
   - 实施 Azure AD 无缝单一登录
   - 执行 Azure AD Connect 安装
   - 实施 Azure AD Connect Health
@@ -187,7 +201,13 @@ outlineSection: |-
   - Azure 至 Azure 网站恢复
   - 实施 Azure 更新管理
 
-  学完本模块后，学生将能够&#58;
+  #### 实验&#58;使用Azure Site Recovery保护Hyper-V VM
+  - 配置Azure网站恢复
+  - 执行测试故障转移
+  - 执行计划的故障转移
+  - 执行计划外的故障转移
+
+  学完本模块后，学生将能够&#58; 
   - 了解基于代理的迁移体系结构
   - 为 Azure 迁移做准备
   - 准备内部 Vmware 环境
@@ -196,7 +216,7 @@ outlineSection: |-
 
 
   ### 模块 10&#58; 实施云端基础结构监控
-  在本模块中，您将学习有关 Azure 监视器，Azure 工作簿，Azure 警报，网络观察程序，Azure 服务运行状况，Azure 应用程序见解的信息。
+  在本模块中，您将学习有关 Azure 监视器、Azure 工作簿、Azure 警报、网络观察程序、Azure 服务运行状况、Azure 应用程序见解的信息。
   #### 课程
   - Azure 基础结构安全监控
   - Azure 监视器
@@ -209,6 +229,10 @@ outlineSection: |-
   - Azure Application Insights
   - Azure 中的统一监控
 
+  在本模块中，您将学习如何 
+  - 了解Azure日志分析
+  - 了解Azure服务运行状况
+
 
   ### 模块 11&#58; 管理应用程序的安全性
   在本模块中，您将了解 Azure Key Vault 以及如何使用 Azure 受控身份实施身份验证。
@@ -216,7 +240,7 @@ outlineSection: |-
   - Azure Key Vault
   - Azure 受控身份
 
-  学完本模块后，学生将能够&#58;
+  学完本模块后，学生将能够&#58; 
   - 说明密钥保管库的使用，如秘密、密钥和证书管理
   - 使用具有 Azure 资源的受控身份
 
@@ -232,7 +256,15 @@ outlineSection: |-
   - 实施逻辑应用
   - 实施 Azure 函数
 
-  学完本模块后，学生将能够&#58;
+  #### 实验&#58;配置基于消息的整合体系结构
+  - 配置和验证Azure Function App Storage Blob触发器
+  - 配置和验证基于Azure Event Grid订阅的队列消息传递
+
+  #### 实验&#58;实施带有暂存槽的Azure App Service Web应用
+  - 通过使用Azure App Service Web应用程序的部署插槽实施蓝/绿部署模式
+  - 使用Azure App Service Web应用程序的部署插槽执行A /B测试
+
+  学完本模块后，学生将能够&#58; 
   - 配置 Azure App Service
   - 建立 App Service 规划
   - 使用 Azure Logic 应用建立工作流程

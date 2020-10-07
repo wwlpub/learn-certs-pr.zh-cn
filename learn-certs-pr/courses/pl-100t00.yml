@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Microsoft Power Platform App Maker
+metadata:
+  title: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+  description: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+uid: course.pl-100t00
+courseNumber: 'PL-100T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 设计应用程序并自动化工作流程
+- skill: 创建应用程序并自动化工作流程
+- skill: 在应用程序或自动化工作流的上下文中分析和可视化资料
+- skill: 实施和管理应用程序和自动化的工作流程
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-100
+summary: |-
+  本课程将教您如何使用低代码技术构建应用程序，以使用 Microsoft Power Platform 简化、自动化和转换业务任务和流程。
+
+  #### 受众概况
+  App Maker 为自己和他们的团队构建解决方案，以简化/自动化和转换任务和流程，他们在解决方案业务领域拥有丰富的专业知识。他们具有基本的数据建模/用户体验设计/需求分析和过程分析技能。App Maker 创建和执行业务流程，构建信息的数字收集结构，提高可重复任务的效率，并使业务流程自动化。App Maker 使用 Power Platform 的 Maker 工具解决业务问题。他们可能会使用 Microsoft 应用程序的高级功能和第三方生产力工具。App Maker 知道可用工具的功能和局限性，并了解如何应用它们。App Maker 是自我指导的，专注于解决方案。他们可能没有接受过正式的 IT 培训，但很乐于以个人成长的心态使用技术来解决业务问题。他们了解操作需求，并对期望的结果有愿景。他们采用分阶段的迭代策略来解决问题。
+prerequisitesSection: |-
+  - 基本数据建模，用户体验设计，需求分析和流程分析技能。
+  - 个人成长心态，并乐于使用技术解决业务问题。
+  - 了解运营需求，并对预期成果有一个愿景。他们采用分阶段的迭代策略来解决问题。
+outlineSection: |-
+  ### 模块 1&#58;在 Power Apps 中创建模型驱动的应用程序
+  本模块介绍如何在使用通用数据服务的Power Apps中创建模型驱动的应用程序。
+
+  ### 模块 2&#58;在 Power Apps 中创建画布应用
+  本模块向您介绍 Power Apps，可帮助您创建和自定义应用程序，然后进行管理和分发。
+
+  ### 模块 3&#58;在 Power Apps 的画布应用程序中使用UI和控件
+  本模块将重点介绍如何提供最佳的应用程序导航，以及如何使用主题，图标，图像，个性化设置，不同的外形尺寸和控件来构建最佳的UI。
+
+  ### 模块 4&#58;使用 Power Automate 自动化业务流程
+  本模块向您介绍 Power Automate，教您如何构建工作流以及如何管理流。
+
+  ### 模块 5&#58;通过 Power BI 创建和使用分析报告
+  了解什么是 Power BI，包括其构建模块以及它们如何协同工作。
+
+  ### 模块 6&#58;开始使用 AI Builder
+  该模块可帮助您从一开始就构建 AI 模型，并展示如何在无需编写任何代码的情况下在业务中使用它。
+

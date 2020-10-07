@@ -1,4 +1,4 @@
-### YamlMime:Role 
+﻿### YamlMime:Role 
 title: Solutions Architect 
 metadata: 
   title: Solutions Architect
@@ -19,8 +19,8 @@ certificationPaths:
   - uid: certification.azure-solutions-architect
     levels:
     - advanced    
-- title: Dynamics 365财务和运营应用解决方案架构师
-  linkedInKeywords: Dynamics 365财务和运营应用解决方案架构师
+- title: Dynamics 365 Finance and Operations Apps Solution Architect
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect
   uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -42,8 +42,8 @@ certificationPaths:
   - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
     levels:
     - advanced  
-- title: Power Apps + Dynamics 365解决方案架构师
-  linkedInKeywords: Power Apps + Dynamics 365解决方案架构师
+- title: Power Apps + Dynamics 365 Solution Architect
+  linkedInKeywords: Power Apps + Dynamics 365 Solution Architect
   uid: certification.power-apps-and-d365-solution-architect-expert
   prerequisites: 
   - uid: certification.power-platform-fundamentals
@@ -56,7 +56,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
-    - uid: certification.d365-functional-consultant-marketing
+  - uid: certification.d365-functional-consultant-marketing
     levels:
     - intermediate
   - uid: certification.d365-functional-consultant-customer-service
@@ -71,16 +71,19 @@ certificationPaths:
 certifications:
 - uid: certification.azure-solutions-architect
   requiredExams:
-  - uid: exam.az-300
-  - uid: exam.az-301
+  - uid: exam.az-303
+  - uid: exam.az-304
 - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   requiredExams:
   - uid: exam.mb-700
 - uid: certification.power-apps-and-d365-solution-architect-expert
   requiredExams:
   - uid: exam.mb-600
+- uid: certification.azure-for-sap-workloads-specialty
+  requiredExams:
+  - uid: exam.az-120
 resources:
-- title: Microsoft培训和认证指南
+- title: Microsoft 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 培训和认证海报
@@ -88,4 +91,4 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 认证支持
   href: ../help.md
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

@@ -14,7 +14,7 @@ levels:
 - intermediate
 skills:
 - 设计解决方案
-- 创造解决方案。
+- 创造解决方案
 - 分析及可视化数据
 - 实施和管理解决方案
 roles:
@@ -56,6 +56,8 @@ products:
 - power-bi
 - power-apps
 - power-virtual-agents
+courses:
+- uid: course.pl-100t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
 paths:
 - uid: learn-bizapps.create-powerapps
