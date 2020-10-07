@@ -6,15 +6,22 @@ metadata:
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
   Azure Solutions Architect Expert 认证的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。
 
   担任此职务的职责包括为利益相关者提供建议，并将业务需求转换为安全，可扩充且可靠的云端解决方案。
 
-  Azure 解决方案架构师与云端管理员，云端 DBA 和客户端合作以实施解决方案。
+  Azure 解决方案架构师与云端管理员、云端 DBA 和客户端合作以实施解决方案。
 
-  参加此认证的应试者应该在 IT 运营方面具有先进的经验和知识，包括网络、视觉效果、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应具有 Azure 管理方面的专家级技能，并具有 Azure 开发和 DevOps 流程的经验。
+  参加此认证的应试者应该在 IT 运营方面具有先进的经验和知识，包括网络、虚拟化、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应具有 Azure 管理方面的专家级技能，并具有 Azure 开发和 DevOps 流程的经验。
+
+  <div> <strong><br/>注意：如果您通过以下考试组合之一，则将获得此证书：<ul>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> 和 <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  </ul></strong></div>
 subTitle: Azure Solution Architect 设计并实施了可在 Microsoft Azure 上运行的解决方案，包括计算、网络、存储和安全性等方面。
 levels:
 - advanced
@@ -85,7 +92,7 @@ resources:
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: deals.md
 - title: 认证支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

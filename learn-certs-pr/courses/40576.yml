@@ -1,0 +1,47 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+metadata:
+  title: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+  description: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+uid: course.40576
+courseNumber: '40576-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用Azure Synapse Analytics设计并构建一个完整的端到端高级分析解决方案。
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  在这个白板设计课堂中，您将在一个小组中学习使用Azure Synapse Analytics设计一个端到端解决方案。设计课堂将包括数据加载、数据准备、数据转换和数据服务，以及执行机器学习，处理批量和实时数据。
+
+  #### 观众概况
+  这个研习会面向云架构师和IT专业人士，他们在云技术的基础设施和解决方案设计方面拥有架构专业知识，并且希望了解更多关于Azure和Azure服务的知识，如“关于本课程”和“课程完成时”部分所述。参加这个研习会的人还应该具有其他非微软云技术方面的经验，符合参加本课程的先决条件，并且希望在Azure上进行交叉培训。
+prerequisitesSection: |-
+  研习会内容假定学生有300级（300-level ）的基础设施和解决方案设计的架构专业知识。我们建议学生在参加这个研习会之前先完成这个先决条件。
+  - 微软Azure基本课程, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 模块 1&#58; 白板设计课堂 - Azure Synapse Analytics和人工智能
+  #### 课程
+  - 回顾客户案例研究
+  - 设计一个概念验证解决方案
+  - 呈现解决方案
+
+
+  ### 模块 2&#58; 动手实验室 - Azure Synapse Analytics和人工智能
+  #### 课程
+  - 访问Azure Synapse Analytic工作区
+  - 在SQL池中创建并填充支持表
+  - 探索原始（raw）parquet
+  - 使用Azure Synapse SQL Serverless探索基于原始文本(raw text)的数据
+  - Synapse 管道（Pipelines）和认知搜索（Cognitive Search）
+  - 安全
+  - 机器学习
+  - 监控
+

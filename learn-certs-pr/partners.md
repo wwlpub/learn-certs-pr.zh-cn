@@ -1,14 +1,13 @@
----
+﻿---
 title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
 description: 'Microsoft Learning Partners and Providers'
 documentationcenter: NA
-author: micsullivan
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
-ms.prod: non-product-specific
+ms.author: micsullivan
 ---
 # Microsoft Learning Partners: 今天教授明天的技能。
 
@@ -171,7 +170,7 @@ ms.prod: non-product-specific
 
 | <a name="canada"></a>加拿大 |
 |-----------|
-| [AFI](https://www.afiexpertise.com/en/training/microsoft)</br>[Fast Lane](https://www.fastlanetraining.ca/microsoft-training)</br>[Global Knowledge](https://www.globalknowledge.com/ca-en/training/course-catalog/brands/microsoft/)</br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)</br>[Learning Tree](https://www.learningtree.ca/training-directory/microsoft-training/)</br>[Tech Data / Exit Certified](https://www.exitcertified.com/it-training/microsoft?partner_referral=MICROSOFT)</br>[Web Age Solutions](https://www.webagesolutions.com/courses/microsoft-training)</br>[Webucator](https://www.webucator.com/microsoft-training/index.cfm) |
+| [AFI](https://www.afiexpertise.com/en/training/microsoft)</br>[Fast Lane](https://www.fastlanetraining.ca/microsoft-training)</br>[Global Knowledge](https://www.globalknowledge.com/ca-en/training/course-catalog/brands/microsoft/)</br>[Koenig Solutions](https://www.koenig-solutions.com/microsoft-training-certification-courses)</br>[Learning Tree](https://www.learningtree.ca/training-directory/microsoft-training/)</br>[Tech Data/Exit Certified](https://www.exitcertified.com/it-training/microsoft?partner_referral=MICROSOFT)</br>[Web Age Solutions](https://www.webagesolutions.com/courses/microsoft-training)</br>[Webucator](https://www.webucator.com/microsoft-training/index.cfm) |
 
 | <a name="chile"></a>智利 |
 |-----------|
@@ -191,7 +190,7 @@ ms.prod: non-product-specific
 
 | <a name="croatia"></a>克罗地亚 |
 |-----------|
-| [Algebra d.o.o. Maksimirska](http://thellpa.com/members/algebra/microsoft)</br>[Fast Lane CEE](https://www.fastlane.si/microsoft-training)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
+| [Algebra d.o.o.Maksimirska](http://thellpa.com/members/algebra/microsoft)</br>[Fast Lane CEE](https://www.fastlane.si/microsoft-training)</br>[Tech Data Corporation](https://academy.techdata.com/cz/vendor/microsoft/training/) |
 
 | <a name="czech-republic"></a>捷克共和国 |
 |-----------|
@@ -231,7 +230,7 @@ ms.prod: non-product-specific
 
 | <a name="greece"></a>希腊 |
 |-----------|
-| [I.C.T.C. EPE](http://www.ictc.gr/microsoft/)</br>[Infolab](http://thellpa.com/members/infolab/microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/it/vendor/microsoft/training/) |
+| [I.C.T.C.EPE](http://www.ictc.gr/microsoft/)</br>[Infolab](http://thellpa.com/members/infolab/microsoft)</br>[Tech Data Corporation](https://academy.techdata.com/it/vendor/microsoft/training/) |
 
 | <a name="hong-kong"></a>香港 |
 |-----------|
@@ -251,7 +250,7 @@ ms.prod: non-product-specific
 
 | <a name="indonesia"></a>印度尼西亚 |
 |-----------|
-| [ASABA COMPUTER CENTRE, PT](http://www.asaba.co.id/services)</br>[EBIZ INFOTAMA INTERINDO, PT](https://ebiz.co.id/it-solution/microsoft-services)</br>[INIXINDO PERSADA REKAYASA PT](https://www.inixindo.co.id/index.php/microsoft-certification)</br>[IVERSON TECHNOLOGY](https://learning.iverson.co.id/stream/microsoft)</br>[PT. ACTIVINDO SYSTEM INFORMATIKA](https://activetrain.net/training-dan-sertifikasi-microsoft/)</br>[PT ExecuTrain Nusantarajaya](https://www.executrain.co.id/microsoftcertificationroadmap)</br>[PT Mitra Integrasi Informatika](http://www.metrodata-training.com/training-category/1/microsoft/#training)</br>[PT SARANA SOLUSINDO INFORMATIKA](https://www.solusitraining.com/microsoft-official-courses-demand/#)</br>[PT Triutama Sistem Indonesia](http://trusttrain.com/Training.html)</br>[Trainocate Indonesia](https://trainocate.com/courses/Microsoft) |
+| [ASABA COMPUTER CENTRE, PT](http://www.asaba.co.id/services)</br>[EBIZ INFOTAMA INTERINDO, PT](https://ebiz.co.id/it-solution/microsoft-services)</br>[INIXINDO PERSADA REKAYASA PT](https://www.inixindo.co.id/index.php/microsoft-certification)</br>[IVERSON TECHNOLOGY](https://learning.iverson.co.id/stream/microsoft)</br>[PT.ACTIVINDO SYSTEM INFORMATIKA](https://activetrain.net/training-dan-sertifikasi-microsoft/)</br>[PT ExecuTrain Nusantarajaya](https://www.executrain.co.id/microsoftcertificationroadmap)</br>[PT Mitra Integrasi Informatika](http://www.metrodata-training.com/training-category/1/microsoft/#training)</br>[PT SARANA SOLUSINDO INFORMATIKA](https://www.solusitraining.com/microsoft-official-courses-demand/#)</br>[PT Triutama Sistem Indonesia](http://trusttrain.com/Training.html)</br>[Trainocate Indonesia](https://trainocate.com/courses/Microsoft) |
 
 | <a name="ireland"></a>爱尔兰 |
 |-----------|
@@ -445,14 +444,16 @@ ms.prod: non-product-specific
 |-----------|
 | [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
+
 ## 探索1000多家解决方案提供商
 
 > [!div class="nextstepaction"]
 > [查找 MICROSOFT 解决方案提供商](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
+
 ## 对 IT 专业人员和开发人员的好处
 
-**学习一项新技术。** 仅须通过一门课程，您就可以开发涵盖技术应用生命周期——从规划到支持——的实践技能。而且您的能力水平只能通过动手实验、模拟和现实世界中的技能应用来获得。</br ></br> **为认证作准备。** 适用于 Microsoft 核心技术和技能水平的 [Microsoft 认证](https://www.microsoft.com/learning/certification-overview.aspx)。Microsoft官方培训课程考虑到了Microsoft认证，并由合格的行业导师讲授。</br ></br> **开始一个新的职业吧。** 教授Microsoft官方课程的行业导师可以帮助您获得直接从课堂转型到工作场所的 IT 技能。课程提供宝贵的数字资源，在您完成课程后，您仍然可以使用这些资源。</br ></br> 过去一年接受过 IT 或业务相关培训的专业人员比那些没有接受过培训的专业人员平均多赚了将近 3400 美元。(Global Knowledge， *IT 技能和工资调查*，2011年3月)
+**学习一项新技术。** 仅须通过一门课程，您就可以开发涵盖技术应用生命周期——从规划到支持——的实践技能。而且您的能力水平只能通过动手实验、模拟和现实世界中的技能应用来获得。</br ></br> **为认证作准备。** 适用于 Microsoft 核心技术和技能水平的 [Microsoft 认证](https://www.microsoft.com/learning/certification-overview.aspx)。Microsoft官方培训课程考虑到了Microsoft认证，并由合格的行业导师讲授。</br ></br>**开始一个新的职业吧。** 教授Microsoft官方课程的行业导师可以帮助您获得直接从课堂转型到工作场所的 IT 技能。课程提供宝贵的数字资源，在您完成课程后，您仍然可以使用这些资源。</br ></br> 过去一年接受过 IT 或业务相关培训的专业人员比那些没有接受过培训的专业人员平均多赚了将近 3400 美元。(Global Knowledge， *IT 技能和工资调查*，2011年3月)
 
 ## 对 IT 管理人员的好处
 

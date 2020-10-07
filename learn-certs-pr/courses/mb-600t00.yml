@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect'
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
 metadata:
-  title: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
-  description: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+  title: 'Course MB-600T00-A: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Course MB-600T00-A: Microsoft Dynamics 365 + Power Platform Solution Architect'
 uid: course.mb-600t00
 courseNumber: 'MB-600T00-A'
 hoursToComplete: 72
@@ -15,30 +15,25 @@ levels:
 roles:
 - solution-architect
 products:
-- dynamics
+- dynamics-365
 - power-apps
 exams:
 - uid: exam.mb-600
 summary: |-
-  解决方案架构师负责成功设计、实施、部署和采用整个解决方案。解决方案架构师确保解决方案现在和将来都能满足客户的需求。在本课程中，学生将学习解决方案架构师在实施过程中所做的决策，涵盖安全性、集成、Power Apps架构、Power Automate架构等。本课程旨在向您介绍解决方案架构师角色。
+  解决方案架构师负责成功设计、实施、部署和采用整个解决方案。解决方案架构师确保解决方案现在和将来都能满足客户的需求。在本课程中，学生将学习 Solution Architect 在实施过程中所做的决策，涵盖安全性、集成、Power Apps 架构、Power Automate 架构等。本课程旨在向您介绍解决方案架构师角色。
 
   #### 受众概况
-  
-  渴望成为解决方案架构师的高级顾问（包括职能和技术顾问），或希望成为该角色的新解决方案架构师。  
+
+  渴望成为解决方案架构师的高级顾问（包括职能和技术顾问），或希望成为该角色的新解决方案架构师。
 prerequisitesSection: |-
   参加本课程之前，学生必须具备&#58;
-  
-  - 通过MB-200考试
-  - 具有使用Dynamics 365和Power平台经验
-  - 新任高级顾问（职能或技术）或解决方案架构师
-  - 对Microsoft Azure有一些了解
-outlineSection: |-  
-  ### 模块 1&#58; 简介
-  
-  课程介绍
-  
-  ### 模块 2&#58; 成为解决方案架构师/了解您的客户
 
+  - 通过 MB-200 考试
+  - 具有使用 Dynamics 365 和 Power 平台经验
+  - 新任高级顾问（职能或技术）或解决方案架构师
+  - 对 Microsoft Azure 有一些了解
+outlineSection: |-
+  ### 模块 1&#58;成为解决方案架构师/了解您的客户
   #### 课程
   - 定义解决方案架构师
   - 解决方案架构师在项目中的角色
@@ -46,51 +41,51 @@ outlineSection: |-
   - 了解您的客户
   - 小组练习-了解您的客户
 
-  ### 模块 3&#58; 根据需求概念化设计
-  
+
+  ### 模块 2&#58;根据需求概念化设计
   #### 课程
   - 如何领导需求收集工作
   - 使用拟合间隙分析
   - 优秀建筑的支柱
   - 绘制解决方案架构蓝图
   - 小组练习-根据需求设计
-  
-  ### 模块 4&#58; 项目治理和团队合作
-    
+
+
+  ### 模块 3&#58;项目治理和团队合作
   #### 课程
   - 解决方案架构师在项目治理中的角色
   - 使项目步入正轨的技术
   - 可能导致项目失败的方案
   - 小组练习-项目治理和团队合作
-  
-  ### 模块 5&#58; 电源平台架构
-  
+
+
+  ### 模块 4&#58;电源平台架构
   #### 课程
   - 关键的Power Platform体系结构组件
   - 了解平台设计和限制如何影响解决方案架构
   - 更新和功能发布
   - 了解如何交流平台如何满足客户需求
-  
-  ### 模块 6&#58; 数据建模
-  
+
+
+  ### 模块 5&#58; 数据建模
   #### 课程
   - 数据模型的影响
   - 数据模型策略
   - 日期类型
   - 数据关系
   - 小组练习-数据建模
-  
-  ### 模块 7&#58;可视化、分析、报告和AI
-  
+
+
+  ### 模块 6&#58;分析与人工智能
   #### 课程
   - 规划和评估要求
   - 运营报告
   - Power BI
   - 企业BI
   - 预先建立的见解和自定义AI
-  
-  ### 模块 8&#58; Power Apps架构
-  
+
+
+  ### 模块 7&#58;Power Apps架构
   #### 课程
   - 讨论应用程序的选项以及如何选择从哪里开始
   - 讨论应用程序组成选项
@@ -98,54 +93,55 @@ outlineSection: |-
   - 将Portal作为应用程序包含在体系结构中的注意事项
   - 小组练习-Power Apps架构主题
 
-  ### 模块 9&#58; 应用程序生命周期管理（ALM）
-  
+
+  ### 模块 8&#58;应用程序生命周期管理（ALM）
   #### 课程
   - Microsoft愿景和解决方案架构师在ALM中的角色
   - 环境战略
   - 为您的成果定义解决方案结构
-  
-  #### 实验&#58; ALM实践实验室
-  
-  ### 模块 10&#58; 电源自动化架构
-  
+
+  #### 实验&#58;ALM实践实验室
+
+
+  ### 模块 9&#58;电源自动化架构
   #### 课程
   - 讨论自动化和自定义逻辑的选项
   - 查看有关使用触发器和常见操作的注意事项
   - 探索使用业务流程流（BPF）指导用户完成业务流程
   - 小组练习-评估 Power Automate 使用的方案
-  
-  ### 模块11&#58; 安全建模
-  
+
+
+  ### 模块 10&#58;安全建模
   #### 课程
   - 解决方案架构师在安全建模中的角色
   - 发现并了解客户的环境
   - 控制对环境和资源的访问
   - 控制对CDS数据的访问
   - 小组练习-安全建模
-  
-  ### 模块 12&#58; 整合
-  
+
+
+  ### 模块 11&#58;整合
   #### 课程
   - 解决方案架构师在集成中的作用
   - 什么是集成，为什么我们需要它
   - 支持集成的平台功能
-  - CDS活动发布
+  - CDS 活动发布
   - 小组讨论的场景
-  
-  ### 模块 13&#58; Dynamics 365应用程序体系结构
-  
+
+
+  ### 模块 12&#58;Dynamics 365应用程序体系结构
   #### 课程
   - 部署Dynamics 365应用程序时解决方案架构师的角色
   - 主应用程序的体系结构注意事项
-  - 应用特定的工作小组评估要求
-  
-  ### 模块 14&#58; 测试并上线
-  
+  - 小组练习-应用特定的工作小组评估要求
+
+
+  ### 模块 13&#58;测试并上线
   #### 课程
   - 解决方案架构师在测试和上线中的角色
   - 计划测试
   - 规划上线
-  
+
   #### 其他阅读内容
   https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/
+

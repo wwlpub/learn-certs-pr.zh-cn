@@ -1,0 +1,57 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Stack'
+metadata:
+  title: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+  description: 'Course 40522-G: Microsoft Cloud Workshop: Azure Stack'
+uid: course.40522
+courseNumber: '40522-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 推荐和设计混合云系统，来利用一个应用程序和部署模型Azure
+- skill: 根据客户的需求，了解何时使用Azure公共云和Azure Stack
+- skill: 描述Azure公共云解决方案和Azure Stack之间可能的集成
+- skill: 了解Azure Stack的分类（tenants, regions, subscriptions, offers, plans, services 和 quotas）
+- skill: 描述可用于Azure Stack的资源提供者
+- skill: 设计并部署Azure公共云和Azure Stack之间的混合连接
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在这个研习会中，您将学习如何使用Azure公共云和Azure Stack的组合来设计混合云架构。这种功能架构将使客户能够使用Azure作为“云平台”，而不是将Azure作为一个“场所”。您将学会确定哪些系统适合Azure公共云，哪些系统更适合Azure Stack。
+
+  #### 观众概况
+  这个研习会面向云架构师和IT专业人士，他们在云技术的基础设施和解决方案设计方面拥有架构专业知识，并且希望了解更多关于Azure和Azure服务的知识，如“关于本课程”和“课程完成时”部分所述。参加这个研习会的人还应该具有其他非微软云技术方面的经验，符合参加本课程的先决条件，并且希望在Azure上进行交叉培训。
+outlineSection: |-
+  ### 模块 1&#58; 白板设计课堂 - Azure Stack迁移或Azure Stack操作
+  #### 课程
+  - 回顾客户案例研究
+  - 设计一个概念验证解决方案
+  - 呈现解决方案
+
+
+  ### 模块 2&#58; 动手实验室 - Azure Stack
+
+  #### 实验室&#58; Azure Stack迁移
+
+  - 为租户（Tenants）创建Azure Stack Hub部署分类
+  - 部署Contoso Financial Web应用程序
+  - 部署客户提供的Web API
+  - 用Azure函数（functions）实现后端进程的自动化
+  - 部署Contoso Finance Admin网站
+  
+  #### 实验室&#58; Azure Stack操作
+  
+  - 创建并发布一个Azure Stack Hub Marketplace
+  - 实现多租户
+  - 实施对plans, offers, and subscriptions的委托管理
+  - 配置基于角色的访问控制RBAC
+  - 连接到特权终结点（Privileged Endpoint）并使用它
+  - 实施Azure Stack Hub基础架构备份
+

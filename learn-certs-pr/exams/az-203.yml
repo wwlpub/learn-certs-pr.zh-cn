@@ -7,8 +7,8 @@ uid: exam.az-203
 displayName: AZ-203
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>该考试于 2020 年 5 月 31 日停止。注意&#58; 考试将于美国中部标准时间晚上11&#58;59停用<br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><strong>此考试于2020年8月31日停用。可以进行替代考试 AZ-204。有关更多信息，请访问 <a href="/learn/certifications/exams/az-204">AZ-204 考试详细信息页面</a>。</strong><br/><br/></div>
   </div>
 
   这次考试的考生是 Azure 开发者，他们设计和构建云解决方案，如应用程序和服务。他们参与开发的各个阶段，从解决方案设计，开发部署，到测试和维护。他们与云解决方案架构师、云数据库、云管理员和客户端合作，以实现解决方案。
@@ -17,8 +17,6 @@ summary: |-
   考生应熟练使用 Azure 工具和技术开发应用程序和服务，包括存储、安全、计算和通信。
 
   考生必须具有至少一年的软件开发所有阶段开发可扩展解决方案的经验，并熟练使用至少一种云支持的编程语言。
-
-  <div style='font-weight&#58; bold;'><br/>注意：通过考试，您将获得以下认证： <a href="https://docs.microsoft.com/learn/certifications/azure-developer">Microsoft Certified&#58; Azure Developer Associate</a>.</div>
 subTitle: '此考试衡量您完成以下技术任务的能力：将Azure基础架构作为服务计算解决方案开发；将Azure平台作为服务计算解决方案开发；为Azure存储开发；实施Azure安全性；监视、疑难解答和优化解决方案；连接并使用Azure服务和第三方服务。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
@@ -27,14 +25,11 @@ locales:
 - ja
 - zh-cn
 - ko
-providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
-- 开发 Azure 基础架构即服务计算解决方案(10-15%)
-- 开发 Azure 平台即服务计算解决方案(20-25%)
+- 开发 Azure 基础架构即服务计算解决方案 (10-15%)
+- 开发 Azure 平台即服务计算解决方案 (20-25%)
 - 开发 Azure 存储 (15-20%)
 - 实现 Azure 安全性 (10-15%)
 - 监控、排除故障并优化解决方案 (10-15%)
@@ -82,7 +77,7 @@ resources:
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

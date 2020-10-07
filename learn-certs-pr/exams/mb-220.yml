@@ -11,7 +11,7 @@ summary: |-
   <div> <strong>考试内容将于2020年10月7日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
   </div>
 
-  此考试的候选人是具有市场营销专业知识的 Dynamics 365 客户参与职能顾问。考生负责实施吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递以及提供营销见解的解决方案。
+  此考试的候选人是具有市场营销专业知识的 Dynamics 365 客户参与职能顾问。考生负责实施吸引和转换潜在客户，建立品牌知名度，标准化处理全渠道消息传递以及提供营销见解的解决方案。
 
   考生负责配置和扩展核心营销应用程序，包括电子邮件营销、设置，交互式客户旅程，带有个性化体验的潜在客户培训，LinkedIn 集成，活动，调查，登陆页面，细分和评分以及维护通用数据保护监管(GDPR)合规。
 
@@ -19,6 +19,7 @@ summary: |-
 subTitle: '此考试衡量您完成以下技术任务的能力：配置营销应用程序；管理细分和列表；创建和管理营销表单和页面；管理线索；创建和管理营销电子邮件；管理客户旅程；管理活动和网络研讨会；并配置和分析客户响应。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
+practiceTestUrl: https://in.mindhub.com/mb-220-microsoft-dynamics-365-marketing-microsoft-official-practice-test/p/MU-MB-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 locales:
 - en
@@ -26,14 +27,14 @@ levels:
 - intermediate
 skills:
 - 考试内容将于2020年10月7日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 配置市场营销应用(5-10%)
-- 管理细分市场和列表(10-15%)
-- 创建和管理营销表单和页面(10-15%)
-- 管理潜在客户(10-15%)
-- 创建和管理营销电子邮件(10-15%)
-- 管理客户旅程(15-20%)
-- 管理活动和网络研讨会(10-15%)
-- 配置和分析客户响应(10-15%)
+- 配置市场营销应用 (5-10%)
+- 管理细分市场和列表 (10-15%)
+- 创建和管理营销表单和页面 (10-15%)
+- 管理潜在客户 (10-15%)
+- 创建和管理营销电子邮件 (10-15%)
+- 管理客户旅程 (15-20%)
+- 管理活动和网络研讨会 (10-15%)
+- 配置和分析客户响应 (10-15%)
 roles:
 - functional-consultant
 products:
