@@ -1,4 +1,4 @@
----
+﻿---
 title: Microsoft Retired Certifications | Microsoft Docs
 description: Microsoft Retired Certifications
 documentationcenter: NA
@@ -19,23 +19,22 @@ ms.author: micsullivan
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx) | 将于2021年1月31日停用 |
-| [MCSA: BI Reporting](https://www.microsoft.com/learning/mcsa-bi-reporting.aspx) | 将于2021年1月31日停用 |
-| [MCSA: SQL 2016 Database Admin](https://www.microsoft.com/learning/mcsa-sql2016-database-administration-certification.aspx) | 将于2021年1月31日停用 |
-| [MCSA: SQL 2016 BI Development](https://www.microsoft.com/learning/mcsa-sql2016-business-intelligence-certification.aspx) | 将于2021年1月31日停用 |
-| [MCSA: SQL 2016 Database Dev](https://www.microsoft.com/learning/mcsa-sql2016-database-development-certification.aspx) | 将于2021年1月31日停用 |
-| [MCSA: SQL Server 2012/2014](https://www.microsoft.com/learning/mcsa-sql-certification.aspx) | 将于2021年1月31日停用 |
-| [MCSA: Universal Windows Platform](https://www.microsoft.com/learning/mcsa-universal-windows-platform.aspx) | 将于2021年1月31日停用 |
-| [MCSA: Web Applications](https://www.microsoft.com/learning/mcsa-web-applications-certification.aspx) | 将于2021年1月31日停用 |
-| [MCSA: Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx) | 将于2021年1月31日停用 |
-| [MCSA: Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx) | 将于2021年1月31日停用 |
-| [MCSD: App Builder](https://www.microsoft.com/learning/mcsd-app-builder-certification.aspx) | 将于2021年1月31日停用 |
-| [MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx) | 将于2021年1月31日停用 |
-| [MCSE: Core Infrastructure](https://www.microsoft.com/learning/mcse-core-infrastructure.aspx) | 将于2021年1月31日停用 |
-| [MCSE: Data Management & Analytics](https://www.microsoft.com/learning/mcse-data-management-analytics.aspx) | 将于2021年1月31日停用 |
-| [MCSE: Productivity](https://www.microsoft.com/learning/mcse-productivity-certification.aspx) | 将于2021年1月31日停用 |
+| [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | 将于2021年1月31日停用 |
+| [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting) | 将于2021年1月31日停用 |
+| [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | 将于2021年1月31日停用 |
+| [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | 将于2021年1月31日停用 |
+| [MCSA: SQL 2016 Database Dev](/learn/certifications/mcsa-sql2016-database-development-certification) | 将于2021年1月31日停用 |
+| [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification) | 将于2021年1月31日停用 |
+| [MCSA: Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform) | 将于2021年1月31日停用 |
+| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | 将于2021年1月31日停用 |
+| [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | 将于2021年1月31日停用 |
+| [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | 将于2021年1月31日停用 |
+| [MCSD: App Builder](/learn/certifications/mcsd-app-builder-certification) | 将于2021年1月31日停用 |
+| [MCSE: Business Applications](/learn/certifications/mcse-business-applications) | 将于2021年1月31日停用 |
+| [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | 将于2021年1月31日停用 |
+| [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 将于2021年1月31日停用 |
+| [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | 将于2021年1月31日停用 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 将于2020年12月31日停用 |
-| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator) | 将于2020年8月31日停用 |
 
 ## 已停用认证
 
@@ -43,7 +42,9 @@ ms.author: micsullivan
 
 注意: 在认证停用之后， Microsoft 会继续审查相应技术，以确定它们是否仍然相关。如果相应的技术被确定为不再相关，则相关的认证将被移至成绩单的认证历史部分。
 
-点开以下各部分，根据类型和相关的停用日期，查看用已停用的认证清单。
+| 基於角色                                                                         |                    |
+| ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 2020年8月31日 |
 
 | Microsoft Certified Solutions Developer                                            |
 | ---------------------------------------------------------------------------------- |
@@ -52,18 +53,10 @@ ms.author: micsullivan
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
 | MCSA: CRM Dynamics Technical                                                                                                | 于2019年12月31日  |
-| [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 于2018年12月31日  |
-| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 于2018年12月31日  |
-| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 于2019年4月30日    |
-| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 于2019年4月30日     |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 于2019年6月30日      |
-| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 于2019年6月30日      |
-| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 于2019年6月30日      |
 
-| Microsoft Certified Solutions Expert                                               |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 于2018年12月31日  |
-| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 于2019年4月30日     |
+| Microsoft Certified Solutions Expert                                               |
+| ---------------------------------------------------------------------------------- |
+|                                                                                    |
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |

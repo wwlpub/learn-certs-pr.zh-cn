@@ -1,15 +1,15 @@
-### YamlMime:Role 
-title: 开发者 
+﻿### YamlMime:Role 
+title: Developer [开发者] 
 metadata: 
-  title: 开发者 
+  title: Developer [开发者] 
   description: 开发人员设计，构建，测试和维护解决方案。开发人员通过与解决方案架构师和客户合作来实施应用程序和服务。
 uid: role.developer 
 summary: | 
-  开发人员设计，构建，测试和维护解决方案。开发人员通过与解决方案架构师和客户合作来实施应用程序和服务。  
+  开发人员设计，构建，测试和维护解决方案。开发人员通过与解决方案架构师和客户合作来实施应用程序和服务。 
 subTitle: 开发人员设计、构建、测试和维护云解决方案。
 certificationPaths: 
-- title: Azure 开发者
-  linkedInKeywords: Azure 开发者
+- title: Azure Developer
+  linkedInKeywords: Azure Developer
   uid: certification-path.developer 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -19,8 +19,8 @@ certificationPaths:
   - uid: certification.azure-developer
     levels:
     - intermediate 
-- title: Dynamics 365 财务和运营应用开发人员
-  linkedInKeywords: Dynamics 365 财务和运营应用开发人员
+- title: Dynamics 365 Finance and Operations Apps Developer
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
   uid: certification.d365-finance-and-operations-apps-developer-associate
   prerequisites: 
   - uid: certification.d365-fundamentals
@@ -55,7 +55,7 @@ certificationPaths:
 certifications:
 - uid: certification.azure-developer
   requiredExams:
-  - uid: exam.az-203
+  - uid: exam.az-204
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   requiredExams:
   - uid: exam.mb-300
@@ -65,9 +65,15 @@ certifications:
   - uid: exam.ms-600
 - uid: certification.power-apps-and-d365-developer-associate
   requiredExams:
-  - uid: exam.pl-900
+  - uid: exam.mb-400
+- uid: certification.power-platform-developer-associate
+  requiredExams:
+  - uid: exam.pl-400
+- uid: certification.azure-iot-developer-specialty
+  requiredExams:
+  - uid: exam.az-220
 resources:
-- title: Microsoft培训和认证指南
+- title: Microsoft 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 培训和认证海报
@@ -75,4 +81,4 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 认证支持
   href: ../help.md
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

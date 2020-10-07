@@ -3,23 +3,21 @@ title: Microsoft 365 Fundamentals
 metadata:
   title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
   description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
-  iltScheduling: true
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 区分不同的云服务模型。
-- skill: 确定Microsoft 365和Office 365之间的关键区别。
-- skill: 规划迁移到Microsoft 365服务。
-- skill: 确定Microsoft内部部署服务和Microsoft 365云服务之间的关键区别。
-- skill: 在Microsoft 365中定义企业移动性。
-- skill: 确定Microsoft 365服务如何支持团队协作。
-- skill: 描述身份，包括云、本地和混合身份。
-- skill: 描述云设备管理和保护，包括Intune的使用。
-- skill: 描述数据保护，包括使用Azure信息保护。
-- skill: 概述合规性以及Microsoft 365中的合规特性。
-- skill: 介绍Microsoft 365订阅、许可证、帐单和支持。
+- skill: 区分各种云端服务模型。
+- skill: 确定 Microsoft 365 订阅之间的主要区别。
+- skill: 计划迁移到 Microsoft 365 服务。
+- skill: 确定 Microsoft 本地服务和 Microsoft 365 云端服务之间的主要区别。
+- skill: 确定 Microsoft 365 服务如何支持团队合作。
+- skill: 描述身份，包括云端、本地身份和混合身份。
+- skill: 描述云端设备的管理和保护，包括 Intune 的使用。
+- skill: 描述数据保护，包括使用 Azure 信息保护。
+- skill: 描述常规合规性以及 Microsoft 365 中的合规性功能。
+- skill: 描述 Microsoft 365 订阅、许可证、账单和支持
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,6 +26,7 @@ levels:
 roles:
 - business-user
 - administrator
+- maker
 products:
 - m365
 - windows
@@ -35,60 +34,56 @@ products:
 exams:
 - uid: exam.ms-900
 summary: |-
-  本课程提供了关于采用云服务和软件即服务（SaaS）云模型的注意事项和益处的基础知识，特别关注微软365云服务产品。首先，您将学习云基础知识，包括云计算概述，特别是Microsoft云服务。将向您介绍Microsoft Azure，并检查Microsoft 365和Office 365之间的差异。然后，您将对Microsoft 365进行深入审查，包括比较Microsoft本地部署服务和Microsoft 365云服务，审查Microsoft 365中的企业移动性，并分析Microsoft 365服务如何提供协作。然后，本课程将分析如何在Microsoft 365中处理安全性、合规性、隐私和信任，最后将回顾Microsoft 365的订阅、许可、帐单和支持。
-  
+  本课程提供有关采用云端服务和软件即服务（SaaS）云端模型的注意事项和好处的基础知识，尤其侧重于 Microsoft 365 云端服务产品。您将从学习云端基础知识开始，包括云端计算概述，尤其是 Microsoft 云端服务。将向您介绍 Microsoft Azure，并将检查 Microsoft 365 和 Office 365 之间的区别。然后，您将对 Microsoft 365 进行深入审查，包括对 Microsoft 本地服务与 Microsoft 365 云端服务的比较，对 Microsoft 365 中企业移动性的审查，以及对 Microsoft 365 服务如何提供协作的分析。然后，本课程分析 Microsoft 365 中如何处理安全性，合规性，隐私和信任，并以对 Microsoft 365 订阅/许可证、计费和支持的回顾作为结束。
+
   #### 受众概况
-  本课程是专为IT专业人员设计的，他们渴望在他们的组织中部署和管理云服务，或者只想获得关于云的基础知识。这包括一般采用云服务的注意事项和益处，特别是软件即服务（SaaS）云模型，主要关注Microsoft 365云服务产品。
+  本课程是为渴望在组织中部署云端服务或仅希望获得有关云端基础知识的商业决策者和IT专业人员而设计的。这包括总体上采用云端服务，特别是采用软件即服务（SaaS）云端模型的注意事项和好处，并且通常侧重于Microsoft 365云端服务产品。
 prerequisitesSection: |-
-  本课程是为
-  渴望在他们的组织内部署和管理云服务的
-  IT专业人员设计的。学生应具有以下背景&#58;
-  - 一般IT知识或在IT环境中工作的一般经验
-  - 在相应的Microsoft本地部署产品（如Exchange Server、SharePoint、Office Professional、AD RMS和其他产品）方面具有一般（销售级别）经验
-  - 处理IT业务/法律/安全要求的经验
+  本课程是为渴望在组织中部署云端服务的业务决策者和IT专业人员设计的。学生应具有以下背景&#58;
+  - 网络、计算和云端概念的常识
 outlineSection: |-
   ### 模块 1&#58; 云的概念
-  #### 课程
-  - 云计算原理
-  - Microsoft云服务
-  - 迁移到云服务
-  
-  #### 实验室 &#58; 云基础知识
-  - 练习1&#58; 确定适当的云模型（纸面实验室）
-  
-  ### 模块 2&#58; Microsoft 365核心服务
-  #### 课程
-  - Microsoft 365核心服务
-  - Microsoft 365中的Microsoft本地部署服务和云服务
-  - Microsoft 365中的统一端点管理
-  - Microsoft 365中的团队协作
-  
-  #### 实验室 &#58; 启用和配置Microsoft 365租户
-  - 练习 1&#58; 激活和配置Microsoft 365租户
-  - 练习2&#58; 浏览Microsoft 365用户和管理门户
-  - 练习 3&#58; 配置新用户和组账户
-  
-  ### 模块 3&#58; Microsoft 365中的安全性，合规性，隐私和信任
-  #### 课程
-  - 组织安全基础
-  - Microsoft 365中的安全特性
-  - 身份和访问管理
-  - Microsoft 365中的设备和数据保护
-  - Microsoft 365中的合规性
-  
-  #### 实验室 &#58; Microsoft 365中的安全性
-  - 练习 1&#58; 管理Azure活动目录中的用户和设备
-  - 练习 2&#58; 评估身份保护
-  - 练习 3&#58; 探索合规工具
-
-  ### 模块 4&#58; Microsoft 365定价和支持
-  #### 课程
-  - Microsoft 365的订阅、许可和账单
-  - Microsoft 365中的支持
+  探索云端计算的核心概念以及它如何帮助您的业务。
+  #### 课程 
+  - 云端计算原理
+  - 什么是 Microsoft 365？
+  - 选择云端部署
 
 
-  #### 实验室 &#58; 在M365中管理订阅、许可和支持
-  - 练习 1&#58; 探索计费和订阅界面
-  - 练习 2&#58; 向租户增添试用许可证
-  - 练习 3&#58; 查看支持选项
+  ### 模块 2&#58;Microsoft 365 生产力和团队合作能力
+  了解 Microsoft 365 中的生产力和团队合作解决方案，以及使用 Microsoft 365（World's Productivity Cloud）帮助人们提高生产力的功能。
+  #### 课程 
+  - Microsoft 365 生产力和团队合作解决方案
+  - 使员工参与 Microsoft Stream/Team 和 Yammer
+  - 在所有设备上使用 Office 完成更多工作
+  - 文件存储以及与 OneDrive 和 SharePoint 共享
+
+
+  ### 模块 3&#58;Microsoft 365业务管理功能
+  了解 Microsoft 365 中的业务管理解决方案以及使用 Microsoft 365（World's Productivity Cloud）帮助组织提高生产力的功能。
+  #### 课程 
+  - 使用Microsoft 365管理您的业务
+  - 使用Microsoft Endpoint Manager简化设备管理
+  - 使用Windows 10完成更多工作并保持安全
+  - 利用Microsoft 365分析和报告利用商业智能
+
+
+  ### 模块 4&#58;Microsoft 365 安全性和合规性
+  了解 Microsoft 365 安全和合规性解决方案领域以及可用于帮助企业保护其企业并满足法规要求的功能。
+  #### 课程 
+  - 安全原则和解决方案领域
+  - 身份和存取管理
+  - 威胁防护
+  - 云端安全
+  - 信息保护与治理
+  - 合规管理
+  - 管理风险，发现和审计
+
+
+  ### 模块 5&#58;Microsoft 365许可和支援
+  了解有关Microsoft 365许可、服务和支持选项的更多信息。
+  #### 课程 
+  - 确定Microsoft 365中可用的许可选项
+  - 描述Microsoft 365服务中的支持产品
+  - 描述Microsoft 365中的服务生命周期
 

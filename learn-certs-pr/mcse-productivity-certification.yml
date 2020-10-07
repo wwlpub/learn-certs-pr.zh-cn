@@ -1,8 +1,8 @@
 ### YamlMime:Certification
-title: MCSE Productivity Solutions Expert
+title: 'MCSE: Productivity Solutions Expert'
 metadata:
-  title: MCSE Productivity Solutions Expert
-  description: MCSE Productivity Solutions Expert
+  title: 'MCSE: Productivity Solutions Expert'
+  description: 'MCSE: Productivity Solutions Expert'
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
@@ -11,13 +11,13 @@ summary: |-
   <div><strong>该证书将于2021年1月31日美国中部时间下午 11&#58;59 停用。在此日期之后，您将无法再获得此认证。了解关于 <a href='/learn/certifications/retired-certifications'>即将停用认证</a>的更多信息。</strong><br/><br/></div>
   </div>
 
-  此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为[Microsoft 365认证企业管理员专家]的要求之一(https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
+  此认证考察您是否具备将公司迁移到云、提高用户生产力和灵活性、减少数据丢失、提高组织数据安全性所需的技能。该证书可用于满足成为[Microsoft 365认证企业管理员专家]的要求之一(/learn/certifications/m365-enterprise-administrator)。
 
-  要成为一名 MCSE 生产力解决方案专家，请完成下列要求：
-  - 赢取一项先决条件认证
-    - 必备选项1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
-    - 必备选项2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
-  - 通过一项有效考试
+  要成为一名 MCSE&#58; 生产力解决方案专家，请完成下列要求：
+  - 赢取一项先决条件认证&#58;
+    - 必备选项1&#58;[MCSA&#58; Windows Server 2012](/learn/certifications/mcsa-windows-server-certification)
+    - 必备选项2&#58;[MCSA&#58; Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification)
+  - 通过一项有效考试&#58;
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
@@ -43,6 +43,11 @@ exams:
 - uid: exam.70-345
 - uid: exam.70-339
 - uid: exam.70-333
+prerequisites:
+- uid: certification.mcsa-windows-server-certification
+  isOptional: false
+- uid: certification.mcsa-windows-server-2016-certification
+  isOptional: false
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

@@ -6,10 +6,11 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
 
-  如果您在2019年3月31日停用前通过了 [考试 70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您将仅需要参加MD-101考试即可获得现代桌面认证。本次考试的候选人员是在企业环境中部署、配置、保护、管理和监视设备和客户端应用程序的管理员。考试负责管理身份、访问、策略、更新和应用程序。
-  <br/>
+  如果您在2019年3月31日停用前通过了 [考试 70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您将仅需要参加MD-101考试即可获得现代桌面认证。
+
+  本次考试的候选人员是在企业环境中部署、配置、保护、管理和监视设备和客户端应用程序的管理员。考试负责管理身份、访问、策略、更新和应用程序。
 
   作为管理员，候选人通常与Microsoft 365企业管理员协作，以设计和实现满足现代组织业务需求的设备策略。
 
@@ -25,9 +26,9 @@ levels:
 - intermediate
 skills:
 - 部署和更新操作系统 (35-40%)
-- 管理政策和个人资料(25-30%)
-- 管理和保护设备(20-25%)
-- 管理应用和数据(10-15%)
+- 管理政策和个人资料 (25-30%)
+- 管理和保护设备 (20-25%)
+- 管理应用和数据 (10-15%)
 roles:
 - administrator
 products:
@@ -46,7 +47,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft Certified：Modern Desktop Administrator Associate。
+  description: 发现培训资源以获得Microsoft Certified：Modern Desktop Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -55,7 +56,7 @@ resources:
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+  description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

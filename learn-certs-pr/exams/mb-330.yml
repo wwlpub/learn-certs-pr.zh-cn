@@ -6,12 +6,15 @@ metadata:
 uid: exam.mb-330
 displayName: MB-330
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-
+  <div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div> <strong>考试内容将于2020年10月16日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
+  </div>
+  
   本考试的考生是职能顾问，他们分析业务需求并将这些需求转化为完全实现的业务流程和实施行业最佳实践的解决方案。考生是实施和配置应用程序以满足业务需求的关键资源。
   <br/>
 
-  本考试的考生对企业的会计原则和财务运作、客户服务、现场服务、制造、零售和供应链管理概念有基本的了解。
+  本考试的考生对企业的会计原则和财务运作，客户服务，现场服务，制造，零售和供应链管理概念有基本的了解。
 
   此考试的考生通常专注于 Microsoft Dynamics 365 Finance的一个或多个功能集，包括财务、制造和供应链管理。
 
@@ -25,14 +28,14 @@ locales:
 levels:
 - intermediate
 skills:
-- 注意：出现在以下文档中所衡量的每种技能下方的项目符号旨在说明我们如何评估该技能。该列表并非最终或详尽的。
-- 实施产品信息管理(25-30%)
-- 实施库存管理(20-25%)
-- 实施和管理供应链流程(25-30%)
-- 实施仓库管理和运输管理并执行业务流程(25-30%)
+- 考试内容将于2020年10月16日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 实施产品信息管理（25-30%）
+- 实施库存管理（20-25%）
+- 实施和管理供应链流程（25-30%）
+- 实施仓库管理和运输管理并执行业务流程（25-30%）
 roles:
 - functional-consultant
-products:
+products: 
 - dynamics-365
 - dynamics-finance-operations
 exams:
@@ -73,4 +76,3 @@ resources:
 - title: 考试政策和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
-
