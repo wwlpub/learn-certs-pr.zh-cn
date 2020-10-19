@@ -58,7 +58,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 请求住宿
   description: 了解更多关于申请考试住宿的信息。
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: ../request-accommodations.md
 - title: 考试政策和常见问题
   description: 查看和管理您的预约、证书和成绩单。
   href: ../certification-exam-policies.md
