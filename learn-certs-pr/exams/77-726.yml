@@ -5,10 +5,10 @@ metadata:
   description: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |+
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
-  Word 2016 考试的专家级考生熟练使用 Word 2016 的高级功能来管理文档和内容并进行高级格式设计。
+  Word 2016 考试的专家级别考生应能熟练地使用 Word 2016 的高级功能，进行文档和内容管理以及高级格式设置。
 
   考生创建和管理四页或以上的专业文档，应对各种专业化的目的和场合。他们还应能够自定义 Word 环境来满足项目需求和提高生产力。专家级别的文档示例包括商业计划、研究论文、书籍、专业手册和群发邮件。考生的角色包括编辑、项目经理、商业信息工作者、教育工作者、等等。
 
@@ -34,17 +34,19 @@ locales:
 levels:
 - intermediate
 skills:
-- 管理文档选项和设置 (35-40%)
+- 管理文件选项和设置 (35-40%)
 - 设计高级文档 (20-25%)
-- 创建高级参考 (20-25%)
-- 创建自定义 Word 要素 (15-20%)
+- 创建高级引用 (20-25%)
+- 创建自定义Word元素 (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -52,10 +54,10 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
 

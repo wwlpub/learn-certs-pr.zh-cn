@@ -1,4 +1,4 @@
-- name: Microsoft 认证
+- name: Microsoft Certifications
   href: index.yml
 - name: Offers
   href: deals.md
@@ -15,19 +15,44 @@
     href: retired-certification-exams.md 
   - name: 已停用课程
     href: retired-courses.md
-- name: 成为 Microsoft 认证讲师
+- name: 成为 Microsoft Certified Trainer
   href: mct-certification.md
 - name: 关于 Microsoft 认证考试
   href: certification-exams.md
-- name: Microsoft考试和认证徽章
+- name: Microsoft 考试和认证徽章
   href: badges.md
-- name: 关于在线考试
+- name: 关于 Pearson VUE 在线考试
   href: online-exams.md
+- name: 关于 PSI 在线考试
+  href: online-exams-psi.md
 - name: 考试政策和常见问题
-  href: certification-exam-policies.md
+  expanded: false
+  items:
+  - name: 考试流程概述
+    href: exam-process-overview.md  
+  - name: 考试安全政策和考试重考政策
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name:  考试改期和取消政策
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Microsoft 认证计划协议
+    href: microsoft-certification-program-agreement.md
+  - name: Microsoft 考试保密协议
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: 申请住宿
+    href: request-accommodations.md
+  - name: 考试项目质疑流程
+    href: exam-item-challenge-process.md
+  - name: 测试版考试
+    href: beta-exams.md
+  - name: 认证考试的大学学分
+    href: college-credit-for-certification-exams.md
+  - name: 学生折扣
+    href: student-discounts.md
 - name: 认证帮助
   href: help.md
+- name: Microsoft Official Courseware (MOC)帮助
+  href: certification-and-training-help.md
 - name: Microsoft 认证计划常见问题 
   href: microsoft-certification-program-faqs.md
-- name: 迁移 Microsoft Learning...
+- name: 搜寻 Microsoft 学习 ...
   href: learnfaq.md

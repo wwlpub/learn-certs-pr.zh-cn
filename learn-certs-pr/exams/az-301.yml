@@ -6,46 +6,43 @@ metadata:
 uid: exam.az-301
 displayName: AZ-301
 summary: |-
-  <div>
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div><strong>此考试的新版本 <a href="/learn/certifications/exams/az-304">AZ-304</a> 于 2020 年 6 月 29日推出。在 2020 年 9 月 30 日左右此考试停用之前，您可以参加此考试。注意：考试将在中部标准时间晚间11点59分停用。 </strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+  <div><strong>该考试的英语版本于2020年9月30日停用。有替代考试 <a href="/learn/certifications/exams/az-304">Az-304</a>可用。本地化语言考试将持续到2020年10月30日。</strong><br/><br/></div>
   </div>
 
   参加该考试的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。
 
   Azure 解决方案架构师的职责包括为利益相关者提供建议，并将业务需求转换为安全、可扩充且可靠的云端解决方案。
 
-  Azure 解决方案架构师与云端管理员，云端 DBA 和客户端合作以实施解决方案。
+  Azure 解决方案架构师与云端管理员、云端 DBA 和客户端合作以实施解决方案。
 
-  参加该考试的考生应具有 IT 运营各个方面的高级经验和知识，包括联网、视觉效果、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应精通以下 Azure 知识领域中的至少一个：管理、开发或 DevOps。
+  参加该考试的考生应具有 IT 运营各个方面的高级经验和知识，包括联网、视觉效果、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应精通以下 Azure 知识领域中的至少一个&#58;管理、开发或 DevOps。
 
-  <div> <strong><br/>注意：如果您通过下列考试组合，您将会获得 <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Azure Solutions Architect Expert</a> 认证：<ul>
+  <div> <strong><br/>注意&#58;如果您通过下列考试组合，您将会获得 <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; 如果您通过以下考试组合之一，则获得Azure解决方案架构师专家</a>认证&#58;<ul>
   <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
   <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
   <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
   <li><a href="/learn/certifications/exams/az-301">AZ-301</a> 和 <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
   </ul></strong></div>
-subTitle: '该考试衡量您完成以下技术任务的能力：确定工作量要求；身份和安全设计；设计数据平台解决方案；设计业务连续性战略；部署、迁移和集成设计；以及设计基础设施战略。'
+subTitle: '该考试衡量您完成以下技术任务的能力: 确定工作量要求；身份和安全设计；设计数据平台解决方案；设计业务连续性战略；部署、迁移和集成设计；以及设计基础设施战略。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-301&examname=Exam%20AZ-301:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-301
 locales:
-- en
 - ja
 - zh-cn
 - ko
 levels:
 - advanced
 skills:
-- 此考试的新版本 AZ-304 于 2020 年 6 月 29日推出。在 2020 年 9 月 30 日左右此考试停用之前，您可以参加此考试。请下载下面的技能测量文档，查看关于变更的信息。
+- 该考试的英语版本于2020年9月30日停用。有替代考试 AZ-304可用。本地化语言考试将持续到2020年10月30日。请下载下面的技能测量文档，查看关于变更的信息。
 - 确定工作量要求 (10-15%)
 - 设计身份和安全性 (20-25%)
 - 设计数据平台解决方案 (15-20%)
 - 设计业务连续性策略 (15-20%)
-- 部署、迁移和集成设计 (10-15%)
+- 部署，迁移和集成设计 (10-15%)
 - 设计基础设施策略 (15-20%)
-retirementDate: 09/30/2020
 roles:
 - solution-architect
 products:
@@ -72,11 +69,6 @@ products:
 - azure-event-hubs
 exams:
 - uid: exam.az-300
-courses:
-- uid: course.az-301t01
-- uid: course.az-301t02
-- uid: course.az-301t03
-- uid: course.az-301t04
 paths:
 - uid: learn.architect-network-infrastructure
 - uid: learn.architect-storage-infrastructure
@@ -97,19 +89,19 @@ resources:
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证考试支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
 

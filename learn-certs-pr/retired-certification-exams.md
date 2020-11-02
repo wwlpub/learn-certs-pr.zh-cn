@@ -1,13 +1,14 @@
-﻿---
+---
 title: Microsoft Retired Exam | Microsoft Docs
 description: Microsoft Retired Exam
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # 计划停用的考试
 
@@ -64,11 +65,6 @@ ms.author: micsullivan
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core|
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer|
 
-| 2020年9月30日停用 |
-| --- |
-| [AZ-300](/learn/certifications/exams/AZ-300): Microsoft Azure Architect Technologies |
-| [AZ-301](/learn/certifications/exams/AZ-301): Microsoft Azure Architect Design |
-
 
 ## 最近停用的考试
 
@@ -84,6 +80,8 @@ ms.author: micsullivan
 | AZ-201 | Microsoft Azure Developer Advanced Solutions (2018年9月24日发布)| 2019年1月3日
 | AZ-202 | Microsoft Azure Developer Certification Transition (2018年9月24日发布)| 2019年3月31日
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 2020年8月31日
+| [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 2020年9月30日
+| [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 2020年9月30日
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019年6月30日
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | 2020年8月31日
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | 2020年8月31日

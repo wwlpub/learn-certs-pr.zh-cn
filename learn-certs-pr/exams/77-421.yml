@@ -6,7 +6,7 @@ metadata:
 uid: exam.77-421
 displayName: 77-421
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
   Microsoft OneNote 2013 考试的考生应对 OneNote 环境有基本认识，并能独立完成各种任务。他们应该了解并能展示 OneNote 2013 主要功能的正确应用。
 
@@ -21,28 +21,30 @@ locales:
 levels:
 - beginner
 skills:
-- 管理 OneNote 环境(25-30%)
-- 与其他用户分享和协作(15-20%)
-- 整理和查找笔记(20-25%)
-- 在 OneNote 中编辑和链接内容(25-30%)
+- 管理 OneNote 环境 (25-30%)
+- 与其他用户分享和协作 (15-20%)
+- 整理和查找笔记 (20-25%)
+- 在 OneNote 中编辑和链接内容 (25-30%)
 roles:
 - business-user
 products:
 - office-onenote
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.mos-onenote-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看和管理您的预约、证书和成绩单。
   href: ../certification-exam-policies.md
 
