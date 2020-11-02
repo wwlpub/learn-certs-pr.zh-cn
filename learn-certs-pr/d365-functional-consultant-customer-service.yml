@@ -6,11 +6,10 @@ metadata:
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div><strong>2020年9月，MB-200将被替换为新考试，<a href="/learn/certifications/exams/pl-200">PL-200</a>。通过MB-200或PL-200，再加上MB-230，您将可以获得此认证，直到MB-200于2020年12月31日停用。MB-200停用后，必须通过PL-200和MB-230才能获得此认证。 </strong><br/><br/></div></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a>.</strong></font><br/><br/></div>
+  <div><strong>2020年9月，MB-200将被替换为 <a href="/learn/certifications/exams/pl-200">PL-200</a>新考试。通过MB-200或PL-200，再加上MB-230，您将可以获得此认证，直到MB-200于2020年12月31日停用。MB-200停用后，必须通过PL-200和MB-230才能获得此认证。 </strong><br/><br/></div></div>
 
-  Microsoft Dynamics 365 客户服务功能顾问负责构建快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
+  面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
 subTitle: Microsoft Dynamics 365 客户服务功能顾问负责构建快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
 levels:
 - intermediate
@@ -19,12 +18,13 @@ skills:
 - 管理用户体验设计
 - 管理实体和数据
 - 实施安全性
-- 实施整合
+- 实施集成
 - 执行解决方案部署和测试
-- 执行配置
-- 管理案例和知识库
-- 管理队列、权利和SLA
-- 配置 Forms Pro
+- 管理案例和知识管理
+- 管理队列，权利和服务级别协议（SLA）
+- 实施规划
+- 实施客户服务全渠道
+- 管理分析
 roles:
 - functional-consultant
 type: role-based
@@ -61,15 +61,15 @@ resources:
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证学习路径
-  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: deals.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 认证支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: help.md
 

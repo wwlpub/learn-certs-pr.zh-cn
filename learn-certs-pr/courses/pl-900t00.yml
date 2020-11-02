@@ -8,12 +8,12 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: '描述 Power Platform 组件：Power Apps、Power BI 和 Microsoft Automate'
-- skill: '描述 Power Platform 组件：Common Data Service，连接器和 AI 建立器'
-- skill: 描述 M365、Dynamics 365、Microsoft Azure 和第三方服务的跨云案例
-- skill: 识别 Power Platform 的权益和功能
-- skill: 识别 Power Platform 组件的基本功能和商务价值
-- skill: 使用 Microsoft Automate，Power BI和Power Apps 实施简单的解决方案
+- skill: '描述Power Platform组件: Power Apps、Power BI和Microsoft Automate'
+- skill: '描述Power Platform组件: 通用数据服务（Common Data Service）、连接器（Connectors）和AI builder'
+- skill: 描述跨M365、Dynamics 365、Microsoft Azure和第三方服务的跨云场景
+- skill: 识别Power Platform的优势和能力
+- skill: 识别Power Platform组件的基本功能和业务价值
+- skill: 使用Power Apps、Power Automate、Power BI和Power Virtual Agents实现简单的解决方案
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -25,94 +25,122 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-900
-summary: |-
-  了解 Power Platform 的业务价值和产品功能。创建一个简单的Power App，使用Common Data Service连接数据，构建Power BI控制面板，并使用Power Automate自动化流程。
+summary: |
+  了解Power Platform的业务价值和产品功能。创建简单的Power Apps，将数据与通用数据服务连接起来，构建Power BI仪表板（Dashboard），使用Power automate实现流程自动化，并使用PPower Virtual Agents构建聊天机器人（chatbot）
 
-  #### 受众概况
-  此考试的考生是希望通过自动执行业务流程，分析数据以深入了解业务并通过创建简单的应用程序体验来提高工作效率的用户。
-prerequisitesSection: |-
+  #### 观众概况
+
+  本次考试的考生是那些渴望通过以下方式更有效地提高生产力的用户&#58; 自动化业务流程、分析数据以产生业务见解（business insights）、通过创建简单的应用程序体验来更有效地工作。
+prerequisitesSection: |+
   本课程无先决条件
-outlineSection: |-
-  ### 模块 1&#58;  Power Platform 简介
-  了解 Power Platform 的组件，连接数据的方式以及组织如何利用该技术建立业务解决方案。
+
+outlineSection: |+
+  ### 模块 1&#58; Power Platform简介
+  了解Power Platform的组件、连接数据的方法，以及机构组织可以如何利用此技术来创建业务解决方案。
   #### 课程
-  - Power 平台概述
-  - 模块总结
+  - Power Platform概述
+  - 模块摘要
 
-  学完本模块后，学生将能够&#58;
-  - 确定何时使用每个Power平台组件应用程序创建业务解决方案
-  - 了解使用Power平台创建业务解决方案的价值
-  - 了解Power平台的组件和特性
+  完成本模块后，学生将能够&#58; 
+  - 识别何时使用每个Power Platform组件应用程序来创建业务解决方案
+  - 了解使用Power Platform创建业务解决方案的价值
+  - 了解Power Platform的组件和功能
 
 
-  ### 模块 2&#58; 通用数据服务简介
-  通用数据服务(Common Data Service)允许您深入研究云中功能强大、可扩展的数据解决方案。了解是什么使通用数据服务发挥作用，以及它如何与Power平台一起创建独特而高效的业务解决方案。
+  ### 模块 2&#58; 通用数据服务（Common Data Service）简介
+  通用数据服务允许您深入研究云中功能强大、可伸缩的数据解决方案。了解通用数据服务的工作原理，以及它如何与Power Platform一起创建独特而高效的业务解决方案。
   #### 课程
   - 通用数据服务概述
-  - 模块总结
+  - 模块摘要
 
-  #### 实验&#58;数据建模
-  - 创建环境和解决方案
+  #### 实验室&#58; 数据建模
+  - 创建解决方案
   - 创建实体和关系
   - 导入数据
 
-  学完本模块后，学生将能够&#58;
-  - 描述通用数据服务与通用数据模型的区别
-  - 说明业务规则和流程的用例和限制
-  - 说明通用数据服务中的环境、实体、字段和关系
+  完成本模块后，学生将能够&#58; 
+  - 描述通用数据服务与通用数据模型（Common Data Model）之间的区别
+  - 解释业务规则和过程流（process flows）的用例和限制
+  - 解释通用数据服务中的环境、实体、字段和关系
 
 
-  ### 模块 3&#58; Power Apps 入门
-  了解Power Apps的价值和功能，以及其他组织如何利用此技术为其业务构建简单的应用程序。
+  ### 模块 3&#58; Power Apps（应用程序）入门
+  了解Power Apps的价值和功能，以及其他机构组织如何利用此技术为其业务构建简单的应用程序。
   #### 课程
-  - Power 应用概述
-  - 如何构建应用程序解决方案
+  - Power Apps简介
+  - 如何构建画布应用程序（canvas app）
+  - 如何构建模型驱动的应用程序
+  - Power Apps门户（portal）简介
 
-  #### 实验&#58;画布应用程序，第1部分
+  #### 实验室&#58; 如何构建画布应用程序，第1部分
   - 创建员工画布应用程序
   - 完成应用程序
 
-  #### 实验&#58;画布应用程序，第2部分
+  #### 实验室&#58; 如何构建画布应用程序，第2部分
   - 创建安全画布应用程序
 
-  #### 实验&#58;模型驱动的应用
-  - 自定义视图和窗体
+  #### 实验室&#58; 如何构建模型驱动的应用程序
+  - 自定义视图（Views）和表单（ Forms ）
   - 创建模型驱动的应用程序
 
-  学完本模块后，学生将能够&#58;
-  - 了解其他组织如何使用Power应用程序将其流程数字化
-  - 查看正在运行的Power应用程序，并了解制作第一个应用程序的选项
-  - 了解什么是Power应用程序及其业务价值
+  #### 实验室&#58; 如何构建一个Power Apps门户
+  - 设置Power Apps门户
+  - 创建门户网页（Portal Webpage）
+  - 更改门户主题
+
+  完成本模块后，学生将能够&#58; 
+  - 了解其他机构组织如何使用Power Apps数字化他们的流程
+  - 查看Power Apps的运行情况，学习制作您的第一个应用程序的选项
+  - 了解什么是Power Apps及其商业价值
 
 
-  ### 模块 4&#58; Power Automate 入门
-  了解用户如何利用Power Automate提高业务效率和生产力。
+  ### 模块 4&#58; Power Automate入门
+  了解用户如何利用Power Automatic（自动化）提高业务效率和生产力。
   #### 课程
-  - Power Automate 概述
+  - Power Automate概述
   - 如何构建自动化解决方案
 
-  #### 实验&#58;电源自动化
-  - 创建访问通知流
-  - 创建安全扫描流
+  #### 实验室&#58; Power Automate
+  - 创建访问通知流（Visit Notification flow）
+  - 创建安全扫除流（Security Sweep Flow）
 
-  学完本模块后，学生将能够&#58;
+  完成本模块后，学生将能够&#58; 
   - 从用户的角度看Power Automate的工作原理和外观
-  - 构建简单流程
-  - 了解Power Automate的业务价值和特性
+  - 构建一个简单的流程
+  - 了解Power Automate的业务价值和功能
 
 
-  ### 模块 5&#58; Power BI 入门
-  了解组织如何使用Power BI轻松地清理、显示和理解数据，以确保做出更明智的决策。
+  ### 模块 5&#58; Power BI入门
+  了解机构组织如何使用Power BI轻松清理、显示和理解数据，以确保做出更明智的决策。
   #### 课程
-  - Power BI 概述
-  - 如何构建简单的控制面板
+  - Power BI概述
+  - 如何构建一个简单的仪表板（Dashboard）
 
-  #### 实验&#58;Power BI
-  - 创建Power BI报表
-  - 创建Power BI控制面板
+  #### 实验室&#58; 如何构建一个简单的仪表板
+  - 创建Power BI报告
+  - 创建Power BI仪表板
 
-  学完本模块后，学生将能够&#58;
+  完成本模块后，学生将能够&#58; 
   - 从用户的角度看Power BI的工作原理和外观
-  - 了解如何构建简单的Power BI控制面板
-  - 描述Power BI的业务价值和特性
+  - 了解如何构建一个简单的Power BI仪表板
+  - 描述Power BI的业务价值和功能
+
+  ### 模块 6&#58; Power Virtual Agents（虚拟代理）简介
+  了解Power Virtual Agents的价值和功能，以及机构组织如何利用此技术为其业务构建chatbot（聊天机器人）解决方案。
+  #### 课程
+  - Power Virtual Agents概述
+  - 如何构建聊天机器人
+
+  #### 实验室&#58; 如何构建一个基本的聊天机器人
+  - 注册PVA并创建一个新的机器人
+  - 创建主题
+  - 测试主题
+  - 更改问候语
+  - 发布机器人
+
+  完成本模块后，学生将能够&#58; 
+  - 描述Power Virtual Agents的业务价值和特性
+  - 建立一个基本的聊天机器人
+  - 了解组成 Power Virtual Agents和聊天机器人的基本组件
+
 

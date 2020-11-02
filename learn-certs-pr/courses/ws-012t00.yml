@@ -9,15 +9,15 @@ hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 描述Azure IaaS的基本原理，包括计算、存储和网络。
-- skill: 确定用于实施混合解决方案的工具，包括 Windows Admin Center 和 PowerShell。
-- skill: 在混合式案例中实施身份，包括 Azure IaaS 上的 AD DS 和托管 AD DS。
-- skill: 将AD DS与Azure AD整合。
-- skill: 使用WAC、Azure Arc、Azure自动化和Azure Monitor管理和监视混合式案例。
-- skill: 使用 Azure 安全中心，Azure Sentinel 和 Windows 更新管理增强混合安全性。
-- skill: 使用 Azure Files 和 Azure File Sync，在混合式案例中实施文件服务。
-- skill: 规划和实施混合和仅云端的迁移、备份和恢复方案。
-- skill: 部署运行 Windows Server 2019 的 Azure VM，并配置联网、存储和安全性。
-- skill: 管理和维护运行 Windows Server 2019 的 Azure VM。
+- skill: 确定用于实现混合解决方案的工具，包括Windows Admin Center（管理中心）和PowerShell。
+- skill: 在混合场景中实现身份，包括Azure IaaS上的Azure AD DS和托管AD DS。
+- skill: 将Azure AD DS与Azure AD集成。
+- skill: 使用WAC、Azure Arc、Azure Automation和Azure monitor来管理和监控混合场景。
+- skill: 使用Azure Security Center（安全中心）、Azure Sentinel和Windows Update Management（更新管理）来增强混合安全性。
+- skill: 使用Azure文件和Azure文件同步，在混合场景中实现文件服务。
+- skill: 计划和实现混合迁移和纯云迁移、备份和恢复方案。
+- skill: 部署运行Windows Server 2019的Azure VM（虚拟机），并配置网络、存储和安全。
+- skill: 管理和维护运行Windows Server 2019的Azure虚拟机。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,189 +28,189 @@ roles:
 products:
 - windows-server
 summary: |-
-  此为期三天的课程主要面向具有管理本地 Windows Server 环境的经验的 IT 专业人员。其目的是帮助专业人员做好规划、实施和管理环境的准备，这些环境包括由 Azure IaaS 托管的基于 Windows Server 的工作负荷。该课程涵盖如何利用 Azure 的混合功能，如何将虚拟和物理服务器工作负荷迁移到 Azure IaaS 以及如何管理和保护运行 Windows Server 2019 的 Azure VM。
+  这门为期三天的课程主要面向具有管理本地Windows服务器环境经验的IT专业人士。它的目的是让专业人员做好规划、实现和管理环境（包括Azure IaaS托管的基于Windows服务器的工作负载）的准备。课程包括如何利用Azure的混合功能，如何将虚拟和物理服务器工作负载迁移到Azure IaaS，以及如何管理和保护运行Windows Server 2019的Azure虚拟机 。
 
-  #### 受众概况
-  这个为期三天的课程主要面向 Windows Server 管理员和系统工程师，为从本地环境过渡到混合环境和纯云端环境做准备。其次，本课程将使任何涉及针对 Microsoft Azure IaaS 工作负荷的管理和操作任务的角色受益。
+  #### 观众概况
+
+  本课程为期三天，面向那些管理本地Windows服务器环境，希望使用Azure来管理服务器工作负载并保护运行Windows Server 2019的Azure虚拟机的IT专业人员。其次，本课程会惠及那些涉及Microsoft Azure基础构架即服务（IaaS）工作负载的管理和操作的人员。
 prerequisitesSection: |-
-  - 具有在本地方案中管理 Windows Server 操作系统和 Windows Server 工作负荷的经验，包括 AD DS、DNS、DFS、Hyper-V 以及文件和存储服务
-  - 具有通用 Windows Server 管理工具的经验（由第一个前提条件暗示）。
-  - 有关Microsoft核心计算、存储、网络和虚拟化技术的基本知识（由第一个前提条件暗示）。
-  - 有关本地灵活性的基本知识，基于 Windows Server 的计算和存储技术（故障转移丛集、存储空间）。
-  - 在 Microsoft Azure 中实施和管理 IaaS 服务的基本经验。
-  - Azure Active Directory 的基本知识。
-  - 基本了解与安全相关的技术（防火墙、加密、多因素身份验证，SIEM/SOAR）。
-  - PowerShell 脚本编写的基本知识。
+  - 具有在本地场景（包括AD DS、DNS、DFS、Hyper-V以及文件和存储服务）中管理Windows Server操作系统和Windows Server工作负载的经验
+  - 熟悉通用的Windows服务器管理工具（隐含在第一个先决条件下）。
+  - 具备微软核心计算、存储、网络和虚拟化技术的基本知识（隐含在第一个先决条件下）。
+  - 具备基于Windows服务器的本地弹性计算和存储技术(故障转移集群、存储空间)的基本知识。
+  - 具有在Microsoft Azure中实现和管理IaaS服务的基本经验。
+  - 具有Azure Active Directory的基本知识。
+  - 基本了解安全相关技术（防火墙、加密、多因素身份验证、SIEM/SOAR）。
+  - 具有基本的PowerShell脚本知识。
 
-  对与 Windows Server 技术相关的以下概念的理解&#58;
-  - 高可用性和灾难恢复
+  了解以下与Windows Server技术相关的概念&#58; 
+  - 高可用性（High Availability）和灾难恢复（Disaster Recovery）
   - 自动化
   - 监控
+
 outlineSection: |-
-  ### 模块 1&#58; Windows Server 2019 引入 Azure 混合 IaaS
-  本模块描述 Azure IaaS 的原理（计算、存储和网络），以及将本地环境与 Azure 和 Azure AD 整合的方法（网络、文件服务、管理、监视、备份和灾难恢复以及身份）。该模块还引入了混合管理工具（Windows 管理中心、Azure 入口、PowerShell 和 Azure CLI）。作为入门模块，这些主题中的大多数将在本课程的后面部分进行更深入的介绍。此外，该模块不涵盖 Windows Server 2019 技术之外的主题，这些主题从混合整合的角度来看都是相关的。
+  ### 模块 1&#58; 通过Windows Server 2019介绍Azure Hybrid IaaS
+  本模块描述了Azure IaaS（计算、存储和网络）的原理，以及将本地环境与Azure和Azure AD（网络、文件服务、管理、监控、备份和灾难恢复，以及标识）集成的方法。该模块还介绍了混合管理工具（Windows Admin Center、Azure portal、PowerShell和Azure CLI）。作为入门模块，这些主题的大部分将在本课程的后面进行更深入的介绍。此外，本模块不涉及从混合集成角度出发的相关主题以外的Windows Server 2019技术。
   #### 课程
-  - Azure IaaS 概述
-  - Azure 混合模型概述
+  - Azure IaaS概述
+  - Azure混合模型概述
   - 使用混合管理工具
 
-  学完本模块后，学生将能够&#58;
+  完成本模块后，学生将能够&#58; 
   - 描述Azure IaaS的基本原理，包括计算、存储和网络。
-  - 确定用于实施混合解决方案的工具，包括 Windows Admin Center 和 PowerShell。
+  - 确定用于实现混合解决方案的工具，包括Windows Admin Center和PowerShell。
 
 
-  ### 模块 2&#58; 在混合式案例中实施身份
-  本模块介绍了在混合式案例中整合身份管理和身份验证的三种主要方法。 Azure VM 上的 AD DS，与 Azure Active Directory 整合的 AD DS 和 Azure AD DS）。
+  ### 模块 2&#58; 在混合场景中实现身份（identity）
+  本模块介绍了在混合场景中集成身份管理和身份验证的三种主要方法&#58; Azure VMs（虚拟机）上的AD DS、与Azure Active Directory集成的AD DS和Azure AD DS。
   #### 课程
-  - 在 Azure IaaS 上实施 AD DS
-  - 将 AD DS 与 Azure AD 整合
-  - 实施托管的 AD DS 环境
+  - 在Azure IaaS上实现AD DS
+  - 集成AD DS和Azure AD
+  - 实现托管的AD DS环境
 
-  #### 实验&#58; 在 AD DS 和 Azure AD 之间实施整合
-  - 准备 Azure AD 与 AD DS 整合
-  - 准备本地 AD DS 以与 Azure AD 整合
-  - 下载、安装和配置 Azure AD Connect
-  - 验证 AD DS 和 Azure AD 之间的整合
-  - 在 AD DS 中实施 Azure AD 整合功能
+  #### 实验室&#58; 实现AD DS和Azure AD之间的集成
+  - 准备Azure AD以与AD DS集成
+  - 为Azure AD集成准备本地AD DS
+  - 下载、安装和配置Azure AD Connect
+  - 验证AD DS和Azure AD之间的集成
+  - 在AD DS中实现Azure AD集成功能
 
-  学完本模块后，学生将能够&#58;
-  - 在 Azure IaaS 上实施 AD DS。
-  - 将 AD DS 与 Azure AD 整合。
-  - 实施托管的AD DS。
+  完成本模块后，学生将能够&#58; 
+  - 在Azure IaaS上实现AD DS。
+  - 集成AD DS和Azure AD。
+  - 实现托管AD DS。
 
 
-  ### 模块 3&#58; 在混合场景中促进混合管理和操作监控
-  本模块重点介绍了有助于混合管理和操作监控的工具（与安全相关的监控分开，在模块 4 中进行了介绍），包括 Windows Admin Center、Azure Arc、Azure Automation 和 Azure Monitor。
+  ### 模块 3&#58; 在混合场景中促进混合管理和运行监控（operational monitoring）
+  本模块重点介绍了促进混合管理和运行监控的工具（与模块4中介绍的与安全相关的监控不一样），包括Windows Admin Center、Azure Arc、Azure Automation和Azure Monitor。
   #### 课程
-  - Windows管理中心
+  - Windows Admin Center
   - Azure Arc
-  - Azure 监视器
-  - Azure 自动化
+  - Azure Monitor
+  - Azure Automation
 
-  #### 实验&#58; 在混合式案例中使用Windows管理中心
-  - 准备运行 Windows Server 2019 的 Azure VM
-  - 通过 Azure Network Adapter测试混合连接
-  - 在 Azure 中部署 Windows管理中心网关
-  - 在 Azure 中验证 Windows Admin Center 网关的功能
+  #### 实验室&#58; 在混合场景中使用Windows Admin Center（管理中心）
+  - Provisioning Azure VMs running Windows Server 2019设置运行Windows Server 2019的Azure VM
+  - 通过Azure Network Adapter实现混合连接
+  - 在Azure中部署Windows管理中心网关
+  - 在Azure中验证Windows Admin Center网关的功能
 
-  学完本模块后，学生将能够&#58;
-  - 描述、部署和配置 Windows 管理中心。
-  - 描述和实施 Azure Arc。
-  - 描述和管理 Azure Monitor。
-  - 实施服务图。
-  - 将 Azure Monitor与Operations Manager整合。
+  完成本模块后，学生将能够&#58; 
+  - 描述、部署和配置Windows Admin Center。
+  - 描述并实现Azure Arc。
+  - 描述和管理Azure Monitor。
+  - 实现服务映射（Service Map）。
+  - 与Operations Manager集成Azure Monitor。
 
 
-  ### 模块 4&#58; 在混合式案例中实施安全解决方案
-  本模块介绍增强混合安全性的主要技术和服务，包括用于 Windows Update Management的Azure安全中心，Azure Sentinel 和基于 Azure Monitor/Azure Automation 的解决方案。
+  ### 模块 4&#58; 在混合场景中实现安全解决方案
+  本模块描述了增强混合安全性的主要技术和服务，包括 Azure Security Center、Azure Sentinel、基于Azure Monitor/Azure Automation的Windows Update Management解决方案。
   #### 课程
-  - Azure安全中心
+  - Azure Security Center（安全中心）
   - Azure Sentinel
-  - 管理 Windows 更新
+  - Managing Windows Updates管理Windows更新
 
-  #### 实验&#58; 在混合式案例中使用 Azure 安全中心
-  - 准备运行 Windows Server 2019 的 Azure VM
-  - 配置 Azure 安全中心
-  - 将本地 Windows Server 2019 引入 Azure 安全中心
-  - 验证 Azure 安全中心的混合功能
+  #### 实验室&#58; 在混合场景中使用Azure安全中心
+  - 配置运行Windows Server 2019的Azure VM
+  - 配置Azure安全中心
+  - 将本地Windows Server 2019登录到Azure安全中心
+  - 验证Azure安全中心的混合功能
 
-  学完本模块后，学生将能够&#58;
-  - 描述 Azure 安全中心并在混合环境中启用它。
-  - 描述 Azure Sentinel 并实施 SIEM 功能。
-  - 在 Azure Sentinel 中实施 SOAR 解决方案。
-  - 在 Azure 自动化中实施更新管理解决方案。
+  完成本模块后，学生将能够&#58; 
+  - 描述Azure安全中心并在混合环境中启用它。
+  - 描述Azure Sentinel并实现SIEM功能。
+  - 在Azure Sentinel实现SOAR解决方案。
+  - 在Azure Automation中实现更新管理解决方案。
 
 
-  ### 模块 5&#58; 在混合式案例中实施文件服务
-  本模块介绍如何利用Azure文件服务替换或增强本地Windows文件服务器。该模块涵盖实施Azure Files和Azure File Sync。
+  ### 模块 5&#58; 在混合场景中实现文件服务
+  本模块描述了如何利用Azure文件服务来替换或增强本地Windows文件服务器。并介绍了实现Azure文件和Azure文件同步。
   #### 课程
-  - 实施 Azure Files
-  - 实施 Azure File Sync
+  - 实现Azure文件
+  - 实现Azure文件同步
 
-  #### 实验&#58; 实施 Azure File Sync
-  - 在本地环境中实施DFS复制
+  #### 实验室&#58; 实现Azure文件同步
+  - 在本地环境中实现DFS复制
   - 创建和配置同步组
-  - 将 DFS复制替换为基于文件同步的复制
-  - 验证复制并启用云端分层
-  - 对复制问题进行故障排除
+  - 用基于文件同步的复制替换DFS复制
+  - 验证复制并启用云分层（tiering）
+  - 解决复制问题
 
-  学完本模块后，学生将能够&#58;
-  - 对复制问题进行故障排除
-  - 描述和实施 Azure File Sync
-  - 管理云端分层
-  - 从 DFSR 迁移到 Azure File Sync
+  完成本模块后，学生将能够&#58; 
+  - 解决复制问题
+  - 描述并实现Azure文件同步。
+  - 管理云分层。
+  - 从DFSR迁移到Azure文件同步（Azure File Sync）。
 
 
-  ### 模块 6&#58; 部署和配置 Azure VM
-  此模块描述瞭如何部署和配置运行 Windows Server 2019 的 Azure VM。该模块介绍如何配置 Azure VM 联网、存储和安全性。
+  ### 模块6&#58; 部署和配置Azure VM（虚拟机）
+  本模块描述了如何部署和配置运行Windows Server 2019的Azure VM。并介绍了如何配置zure VM网络、存储和安全性。
   #### 课程
-  - 部署 Azure VM
-  - 配置 Azure VM 联网
-  - 配置 Azure VM 存储
-  - 配置 Azure VM 安全
+  - 部署Azure VM
+  - 配置Azure VM网络
+  - 配置Azure VM存储
+  - 配置Azure VM安全性
 
-  #### 实验&#58; 在 Azure VM 上部署和配置 Windows Server 2019
-  - 编写用于 Azure VM 部署的 ARM 模板
-  - 修改 ARM 模板以包括基于VM延伸模块的配置
-  - 使用 ARM 模板部署运行 Windows Server 2019 的 Azure VM
-  - 配置对运行 Windows Server 2019 的 Azure VM 的管理访问权限
-  - 在 Azure VM 中配置 Windows Server 2019 安全性
+  #### 实验室&#58; 在Azure虚拟机上部署和配置Windows Server 2019
+  - 为Azure VM部署创作ARM模板
+  - 修改ARM模板以包括基于VM扩展的配置
+  - 使用ARM模板部署运行Windows Server 2019的Azure VM
+  - 配置对运行Windows Server 2019的Azure VM的管理访问
+  - 在Azure VM中配置Windows Server 2019安全性
 
-  学完本模块后，学生将能够&#58;
-  - 实施Azure VM 平台级的灵活性。
-  - 在 Azure VM 中实施 Windows Server 2019 操作系统级的灵活性。
-  - 为 Windows Server 2019 实施 Azure VM 延伸模块。
-  - 配置和优化 Azure VM 网络。
-  - 配置 Azure VM 磁盘。
-  - 扩展 Azure VM 存储
+  完成本模块后，学生将能够&#58; 
+  - 实现Azure VM平台级别的弹性。
+  - 在Azure VM中实现Windows Server 2019操作系统级别的弹性。
+  - 为Windows Server 2019实现Azure VM插件（extension）。
+  - 配置和优化Azure VM网络。
+  - 配置Azure VM磁盘。
+  - 扩展Azure VM存储
 
 
-  ### 模块 7&#58; 管理和维护Azure VM
-  本模块介绍瞭如何管理和维护运行Windows Server 2019的Azure VM。该模块介绍了用于管理和维护Azure VM的工具，包括Windows管理中心，通过Cloud Shell进行PowerShell远程处理，运行命令，串行控制台以及通过来宾配置延伸模块的Azyure警察。
+  ### 模块7&#58; 管理和维护Azure VM（虚拟机）
+  本模块描述了如何管理和维护运行Windows Server 2019的Azure VM。描述了用于管理和维护Azure VM的工具，包括Windows Admin Center、通过Cloud Shell进行的PowerShell Remoting（远程操作）、Run命令、串行控制台（serial console）和通过Guest Configuration插件进行的Azyure policeis（策略）。
   #### 课程
   - 管理运行Windows Server 2019的Azure VM
   - 维护运行Windows Server 2019的Azure VM
 
-  #### 实验&#58; 管理运行Windows Server 2019的Azure VM
-  - 准备运行 Windows Server 2019 的 Azure VM
-  - 使用 Windows 管理中心在 Azure VM 中管理 Windows Server 2019
-  - 使用 PowerShell Remoting 从 Cloud Shell 在 Azure VM 中管理 Windows Server 2019
-  - 使用运行命令在 Azure VM 中管理 Windows Server 2019
-  - 使用运行命令在 Azure VM 中管理 Windows Server 2019
-  - 通过来宾配置延伸模块使用 Azure 策略在 Azure VM 中管理 Windows Server 2019
+  #### 实验室&#58; 管理运行Windows Server 2019的Azure VM
+  - 配置运行Windows Server 2019的Azure VM
+  - 使用Windows Admin Center在Azure VM中管理Windows Server 2019
+  - 使用PowerShell Remoting从Cloud Shell中管理Azure VM中的Windows Server 2019
+  - 使用Run命令在Azure VM中管理Windows Server 2019
+  - 使用串行控制台（serial console）在Azure VM中管理Windows Server 2019
+  - 使用Azure Policy Guest Configuration（策略来宾配置 ）在Azure VM中管理Windows Server 2019
 
-  学完本模块后，学生将能够&#58;
-  - 在 Azure VM 中管理 Windows Server 2019。
-  - 实施 Azure 策略。
-  - 维护 Windows 更新。
-  - 描述 Azure VM 级和磁盘级备份和还原。
-  - 维护 Azure VM 的可用性。
+  完成本模块后，学生将能够&#58; 
+  - 在Azure VM中管理Windows Server 2019。
+  - 实现Azure策略。
+  - 维护Windows更新。
+  - 描述Azure VM级别和磁盘级别的备份和还原。
+  - 维护Azure VM可用性。
 
 
-  ### 模块 8&#58; 在混合式案例中规划和实施迁移和恢复服务
-  本模块描述瞭如何利用 Windows Server 2019 和 Azure 服务来计划和实施混合和仅云端的迁移、备份和恢复方案。这些服务包括Azure迁移、存储迁移服务、Azure备份、Azure站点恢复和存储副本。
-  #### 课程
-  - Azure 迁移
-  - 存储迁移服务器
-  - Azure 网站恢复
-  - 存储副本
-  - Azure 备份
+  ### 模块 8&#58; 在混合场景中规划并实现迁移和恢复服务
+  本模块描述了如何通过利用Windows Server 2019和Azure服务来规划和实现混合迁移和纯云的迁移、备份和恢复场景。这些服务包括Azure Migrate（迁移）、Storage Migration Service（存储迁移服务）、Azure Backup（备份）、Azure Site Recovery（站点恢复）和Storage Replica（存储副本）。
+  #### Lessons课程
+  - Azure Migrate（迁移）
+  - 存储迁移服务器（Storage Migration Server）
+  - Azure站点恢复（Site Recovery）
+  - 存储副本（Storage Replica）
+  - Azure备份（Backup）
 
-  #### 实验&#58; 实施基于 Azure 的恢复服务
-  - 准备运行 Windows Server 2019 的 Azure VM
-  - 实施 Azure 网站恢复
-  - 实施 Azure 备份
+  #### 实验室&#58; 实现基于Azure的恢复服务
+  - 实现实验室环境
+  - 创建和配置Azure站点恢复保管库（Site Recovery vault）
+  - 使用Azure站点恢复保管库（Site Recovery vault）实现Hyper-V VM保护
+  - 实现Azure备份
 
-  #### 实验&#58; 测试基于 Azure 的恢复服务
-  - 测试基于 Azure 备份的备份和还原
-  - 测试 Azure Site Recovery 故障转移
+  完成本模块后，学生将能够&#58; 
+  - 使用Azure Migrate迁移Windows Server工作负载。
+  - 描述存储迁移服务并确定其使用的适当场景。
+  - 解释Azure Site Recovery如何帮助业务连续性和灾难恢复。
+  - 使用Azure Site Recovery将Windows服务器迁移到Azure。
+  - 描述Storage Replica及其适用的场景。
+  - 使用Storage Replica将存储复制到Azure VM。
+  - 使用Azure Backup备份本地工作负载。
 
-  学完本模块后，学生将能够&#58;
-  - 通过使用 Azure 迁移来迁移 Windows Server 工作负荷。
-  - 描述存储迁移服务，并确定适当的使用场景。
-  - 说明 Azure 网站恢复如何帮助业务连续性和灾难恢复。
-  - 使用 Azure Site Recovery 将 Windows 服务器迁移到Azure。
-  - 描述存储副本及其使用的适当方案。
-  - 通过使用存储副本将存储复制到 Azure VM。
-  - 使用 Azure 备份来备份本地工作负荷。
 

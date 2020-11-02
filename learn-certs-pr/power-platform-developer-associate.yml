@@ -2,20 +2,18 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: 该认证将在 2020 年 9 月 25 日或前后推出。参加Microsoft Power Platform Developer Associate认证的考生设计、开发、保护Power Platform解决方案并对其进行故障排除。
+  description: 参加Microsoft Power Platform Developer Associate认证的考生设计、开发、保护Power Platform解决方案并对其进行故障排除。
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong><br/><br/></font></div>
 
   参加Microsoft Power Platform Developer Associate认证的考生设计、开发、保护Power Platform解决方案并对其进行故障排除。他们实现解决方案的组件，该方案包括应用程序增强功能，自定义用户体验，系统集成，数据转换，自定义流程自动化和自定义可视化。
 
   考生必须具备扎实的Power Platform服务方面的应用知识。考生对它们的能力、边界和约束有深入的了解。他们应对 Power Platform的开发运维实务具备基本的了解。
 
   他们应具被此角色要求的开发经验，包括Power Platform服务、JavaScript、JSON、TypeScript、C#、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful web服务，ASP.NET，以及Microsoft Power BI。
-
-  <div><br/><strong>注意&#58; 该认证将在 2020 年 9 月 25 日或前后推出。</strong></div>
-subTitle: 该认证将在 2020 年 9 月 25 日或前后推出。参加Microsoft Power Platform Developer Associate认证的考生设计、开发、保护Power Platform解决方案并对其进行故障排除。
+subTitle: 参加Microsoft Power Platform Developer Associate认证的考生设计、开发、保护Power Platform解决方案并对其进行故障排除。
 levels:
 - intermediate
 skills:
@@ -33,6 +31,16 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
 exams:
 - uid: exam.pl-400
@@ -46,13 +54,13 @@ resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: deals.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 认证支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: help.md
 

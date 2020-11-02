@@ -2,16 +2,17 @@
 title: 关于 PSI 在线考试 | Microsoft Docs
 description: 关于 PSI 在线考试 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 09/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # 关于 PSI 在线考试
 
-基础知识和基于角色的认证考试是 [求职者考试](https://aka.ms/skillscert) 的一部分，必须通过 PSI 在线进行。在线参加考试可在您家中或在办公室的舒适环境中提供完全数字化的体验，同时由监考人员通过网络摄像头和麦克风进行监考，从而保持考试成绩的公正性。要了解体验如何，[请观看 PSI YouTube 视频](https://www.youtube.com/watch?v=FvqONzwF2nM)，并了解有关 PSI 在线监考考试的更多信息。
+基础知识和基于角色的认证考试是 [求职者考试USD15考试优惠](https://aka.ms/skillscert) 的一部分，必须通过 PSI (Microsoft对于此优惠的考试提供合作伙伴)在线进行。在线参加考试可在您家中或在办公室的舒适环境中提供完全数字化的体验，同时由监考人员通过网络摄像头和麦克风进行监考，从而保持考试成绩的公正性。要了解体验如何，[请观看 PSI YouTube 视频](https://www.youtube.com/watch?v=FvqONzwF2nM)，并了解有关 PSI 在线监考考试的更多信息。
 
 ## <a name="participating-countries-and-supported-languages"></a> 参与国家和支持的语言
 
@@ -23,7 +24,7 @@ ms.author: micsullivan
 2. 在考试用的同一台电脑上和同一位置上，完成所需的 [系统检查](#run-a-system-check)，以确保与在线监考软件兼容。
 3. 请确认您的 ID 符合要求(请阅读下面的 [身份验证要求](/learn/certifications/online-exams-psi#identity-verification-requirements))以及 Microsoft 认证个人资料上的姓名(用于注册预约考试)为最新姓名。要参加考试，您用来注册预约考试的姓名必须与您要提供的 ID 相符。
 
-如果您想请求对考试进行调节，请在安排考试之前[通过 PSI 提交调节请求](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532)； PSI 将在 24-48 个工作小时内回复。
+如果您想请求对考试进行调节，请在安排考试之前[通过 PSI 提交调节请求](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872)； PSI 将在 24-48 个工作小时内回复。
 
 ## <a name="system-requirements"></a> 系统要求
 
@@ -88,9 +89,9 @@ ms.author: micsullivan
                 <p><strong>网络摄像头</strong></p>
             </td>
             <td>
-                <P>网络摄像头的分辨率必须强 <strong>大至少为 640x480 @ 10 fps</strong>。<br/>
+                <p>网络摄像头的分辨率必须强 <strong>大至少为 640x480 @ 10 fps</strong>。<br/>
                                 网络摄像头可以是内置摄像头，也可以是连接到电脑的外置摄像头。</p>
-                <p>Mac用户可能需要在麦克风和摄像头的“系统偏好设置：安全性和隐私”设置中允许使用PSI安全浏览器。</p>
+                <p>Mac用户可能需要在麦克风和摄像头的“系统偏好设置：麦克风和摄像头的安全性和隐私设置。</p>
             </td>
         </tr>
         <tr>
@@ -98,7 +99,7 @@ ms.author: micsullivan
                 <p><strong>声音和麦克风</strong></p>
             </td>
             <td>
-                <p>在Windows中确保音频和麦克风未设为 “静音”。</p><p >Mac用户可能需要在其“麦克风，摄像机”的“系统偏好设置：安全性和隐私权：隐私权”设置中允许使用PSI安全浏览器 ，自动化和输入监控。</p>
+                <p>在Windows中确保音频和麦克风未设为 “静音”。</p><p>Mac用户可能需要在“系统偏好设置”中允许使用PSI安全浏览器：安全性和隐私权：麦克风和摄像头的安全性和隐私”设置、自动化以及输入监控。</p>
             </td>
         </tr>
         <tr>
@@ -199,170 +200,142 @@ ms.author: micsullivan
 ### 其他重要信息：
 
 - 与任何其他 Microsoft 认证考试一样，您必须阅读并同意我们的 [保密协议](/learn/certifications/certification-exam-policies#non-disclosure-agreement) 中规定的条款，并且必须遵守考生行为要求。包括，但不限于以下内容：
-  - 您不得以任何方式复制或记录考试的问题或答案。
+  - 您不得以任何方式复制或记录考试的问题或答案。 
   - 你不能与他人分享或讨论在考试中看到的问题或答案。
 - 如果您没有遵守[保密协议](/learn/certifications/certification-exam-policies#non-disclosure-agreement) 或疑似欺骗或篡改了PSI或其分包商的软件，或者在考试期间在您所在的房间中发现其他人，则监考员将立即终止考试，并将违规情况以及音频和/或视频证据报告给PSI和Microsoft。您的考试将立即作废，Microsoft 可能采取其他措施，例如收回您的证书，禁止您参加未来的所有 Microsoft 认证计划。
 
 ## <a name="run-a-system-check"></a> 运行系统检查
 
-- 在注册和购买考试之前，请在您即将进行考试的同一台电脑上和同一个地点[完成所要求的系统检查](https://syscheck.bridge.psiexams.com/)。在安排考试之前，先测试系统，查看您的计算器和位置是否与在线监考软件兼容。
+- 在注册和购买考试之前，请在您即将进行考试的同一台电脑上和同一个地点【完成所要求的系统检查】(https://syscheck.bridge.psiexams.com/)。在安排考试之前，先测试系统，查看您的计算器和位置是否与在线监考软件兼容。
 
 ## <a name="schedule-for-an-online-exam"></a> 安排在线考试
 
-要安排 PSI 在线考试，请从[合适的考试列表](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) 中单击您希望参加的 Microsoft 认证考试 ，然后选择 “**安排 15 美元优惠考试**” 按钮。
-如果您所在的国家/地区提供在线考试，则可以在考试安排过程中选择该选项。您将进入 PSI 考试安排站点，在这里您将选择您所在的国家/地区和时区、考试的语言以及日期和时间。
+要安排 PSI 在线考试，请从[合适的考试列表](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer)中单击您希望参加的 Microsoft 认证考试 ，然后选择“**安排 15 美元优惠考试**”按钮。 
+如果您所在的国家/地区提供在线考试，则可以在考试安排过程中选择该选项。您将进入 PSI 考试安排站点，在这里您将选择您所在的国家/地区和时区、考试的语言以及日期和时间。 
 完成后，您需要支付考试费用。
 
 ## 启动考试和考生签到流程
 
 启动和签到流程大约应占用 15 分钟的时间。
 
-在开始考试之前，请查看 [PSI Web 远程监考考试的常见问题解答](https://home.psiexams.com/#/faq)，以了解其详细信息。
+在开始考试之前，请查看 [PSI Web 远程监考考试的常见问题解答](https://home.psiexams.com/#/faq) ，以了解其详细信息。
 如果监考人员需要与您联系，请确保可随时联系得上。
 
 要开始测试会话并与监考人员联系，请执行以下操作：
 
 1. 使用 Microsoft 认证个人资料中用于注册考试的电子邮件登录到 [Microsoft 认证控制面板](https://aka.ms/CertDashboard)。
-2. 在 **预约** 部分中，选择 “**开始在线考试**”。
+2. 在**预约**部分中，选择“**开始在线考试**”。
 3. 您将进入 PSI 考试安排平台，并看到一个“启动考试”按钮。选择“**启动考试**”以开始安全浏览器下载。继续执行自助登记过程，并等待监考人员与您联系。
 
 **请注意**在预约的考试开始时间之前您会分配有一个监考人员。如果在**预约的考试时间** 30 分钟后仍未有监考人员联系您，请 [与 PSI 支持人员联系](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112)。
-由监考人员完成身份验证和房间扫描。若 ID 验证或房间扫描有任何问题或疑虑将在考试开始之前解决。
-
+- 由监考人员完成身份验证和房间扫描。若 ID 验证或房间扫描有任何问题或疑虑将在考试开始之前解决。
 - 这个过程完成后，考试将开始。除非出现问题，否则监考员在考试期间不会与您联系。
 
 如果在考试过程中遇到技术问题，监考人员将尝试通过聊天与您联系。如果您在考试后遇到问题，请[联系 PSI 支持人员](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112)。请保存提供的事件报告编号。
 
 您将在完成考试的数分钟内收到通知说明您的通过或失败状态。此外，您还将收到 PSI 的电子邮件，会提供您的考试成绩和有关您在所测技能领域的表现的反馈。  
 
-完成 PSI 考试后，从 Windows 10 中的应用和功能中删除 PSI 安全浏览器的可执行文件，或将其移至 MacOS 上的垃圾箱，即可 **卸除此可执行文件**。
+完成 PSI 考试后，从 Windows 10 中的应用和功能中删除 PSI 安全浏览器的可执行文件，或将其移至 MacOS 上的垃圾箱，即可**卸除此可执行文件**。
 
 ## <a name="frequently-asked-questions"></a> 常见问题解答
 
 查找有关 PSI 提供的在线监考考试的常见问题解答。
 
 ### 我要怎样判断在线监考考试是否适合我？
-
 首先，根据 [参加的国家/地区/支持的语言](/learn/certifications/online-exams-psi#participating-countries-and-supported-languages) 请确保您可以参加在线考试，确保您符合 [系统要求](/learn/certifications/online-exams-psi#system-requirements) 和 [测试协议要求](/learn/certifications/online-exams-psi#testing-protocol-requirements)。您可能还需要 [完成系统检查](https://syscheck.bridge.psiexams.com/)，以确保您的计算器满足要求。
 
 ### 如果我的系统未通过系统检测，我是否仍能参加在线考试？
-
 不能。如果您的系统未通过系统测试，则不应注册 PSI 在线考试。
 
 ### 我如何申请考试调节？
-
-要请求考试调节，请在安排考试之前 [向 PSI 提交调节请求](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532)。PSI 将在 24-48 个工作小时内回复请求。
+要请求考试调节，请在安排考试之前 [向 PSI 提交调节请求](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872)。PSI 将在 24-48 个工作小时内回复请求。
 
 ### 如何安排 PSI 在线考试？
-
 请参阅本页上的 “**[注册在线考试](/learn/certifications/online-exams-psi#schedule-for-an-online-exam)**” 部分。
 
 ### 我可以重新安排或取消考试吗？
-
 可以。但是您必须至少在预约的考试前 24 小时重新安排或取消考试。登录到您的 [Microsoft 认证控制面板](https://aka.ms/CertDashboard)，然后在“预约”部分中选择“**取消/重新安排**”按钮。然后，您将复位向到 PSI 网站以取消或重新安排考试。  
 
 注意：15 美元的求职者考试优惠必须在 2020 年 12 月 31 日之前领取，且考试必须在 2021 年 3 月 31日 之前进行。可以在 2020 年 12 月 31 日之前的任何一个时间重新安排考试；但是，如果您在 2020 年 12 月 31 日之后取消了预约考试，将无法使用折扣优惠再次安排时间。
 
-### 我可以用 15 美元的折扣价参加重考吗？
-
+### 我可以用 15 美元的折扣价参加重考吗？ 
 不可以，每次考试优惠您能够以 15 美元的折扣价注册并参与一次(1)有效的 Microsoft 认证考试 [条款和条件](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions)。但是，您可以前往精选的认证考试页面，然后单击“安排 Pearson VUE 考试”按钮，以标准价格重考认证考试。  
 
 ### 如果不在考试中心考试，那岂不是更容易作弊？在线考试是否安全？
-
 无论考试如何进行，我们都致力于维护认证考试的公正。在线考试时，首先必须安装安全的浏览器，在整个测试过程中采取严格的保护措施，并且必须满足 [系统要求](/learn/certifications/online-exams-psi#system-requirements) 和 [测试协议要求](/learn/certifications/online-exams-psi#testing-protocol-requirements)。
 
 ### 在线考试比在考试中心的考试难吗？
-
 不是。考试的难度是相当的。
 
 ### 可以在参加在线考试时做笔记吗？
-
 不可以。PSI 在线考试没有此功能。请参阅 [测试协议要求](/learn/certifications/online-exams-psi#testing-protocol-requirements)。
 
 ### 在线考试是否支持多种语言？
-
 是。PSI 在线考试有以下几种语言：英语、日语、韩语、简体中文、法语、西班牙语和德语。在考试注册过程中将提供选择考试语言的功能。请注意，监考人员支持和监考软件仅以英语提供。
 
 ### 如果我在在线考试开始之前、期间或之后遇到技术问题，我该联系谁？
-
 有关安排考试的问题，请使用注册期间提供的 PSI“联系我们”链接。如果在考试进行期间遇到技术问题，考试监考员将帮助您尝试解决问题。如有必要，监考人员将通过聊天直接让您与 PSI 支持联系。
 
 对于在线考试之前或之后的支持，[请联系 PSI 支持](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112)。
 
 ### 签到过程中需要提供哪些类型的身份证明？
-
 请查看 [身份验证要求](/learn/certifications/online-exams-psi#identity-verification-requirements) 部分。
 
 ### 我应如何更改合法姓名？
-
 您的姓名必须与您在办理登记时提供的政府签发的身份证件完全匹配。如果您需要更新 Microsoft 认证个人资料中的姓名，请参阅我们的 [认证帮助](https://aka.ms/certhelp) 页面。
 
 ### 我能在何处找到考试政策列表？
-
 请参阅适用于所有 Microsoft 认证考試的[考试原则和常见问题](/learn/certifications/certification-exam-policies)。
 
 ## 远程监考疑难解答常见问题解答
 
 ### 如果共享网络摄像头遇到问题该怎么办？
-
 检查是否有任何在后台运行的第三方摄像头应用程序，若有，请关闭它们。
 检查您的隐私设置，确保允许应用程序访问网络摄像头。
 在摄像头隐私设置中开启 Win32WebViewHost。
 
 ### 如果浏览器突然关闭或不小心关闭浏览器或被踢出了考试，如何返回考试？
-
 重新启动 PSI 安全浏览器以返回到考试。
 
 ### 如果无法通过系统要求的兼容性检查，该怎么办？
-
 关闭 PSI 安全浏览器标识的任何正在运行的应用程序。
 
 ### 如果我无法访问考试或没有出现考试链接，该怎么办？
-
 注销 Microsoft 认证控制面板，并使用基于 chromium 的浏览器重新启动登录过程。点击**启动考试**按钮。*请注意，该按钮将在您预约的考试时间之前 15 分钟内激活。*
 
 ### 如果监考人员未加入我的会话该怎么办？
-
-右键单击“ PSI安全浏览器”页面中的任意位置，然后选择“重新加载”，或者点击左上角的“查看”，然后选择“重新加载”。 如果不起作用，请关闭PSI安全浏览器，然后重新启动。请注意，您将 **不** 能在预约的考试前的 15 分钟之前登录或开始考试。
+右键单击“ PSI安全浏览器”页面中的任意位置，然后选择“重新加载”，或者点击左上角的“查看”，然后选择“重新加载”。如果不起作用，请关闭PSI安全浏览器，然后重新启动。请注意，您将**不**能在预约的考试前的 15 分钟之前登录或开始考试。
 
 ## 得分报告常见问题解答
 
-### 如何以及何时将获得我的考试结果？
-
+###如何以及何时将获得我的考试结果？
 您将在完成考试的数分钟内收到通知说明您的通过或失败状态。此外，您还将收到 PSI 的电子邮件，会提供您的考试成绩和有关您在所测技能领域的表现的反馈。考试提供商将在 24 小时内将您的分数转发给 Microsoft。
 
 ### 分数报告是什么样的？
+分数报告是一封电子邮件，其中提供了有关整体考试成绩的分数值、通过/未通过状态、有关您在考试所评估的每个技能领域中的表现信息以及有关如何解释您的成绩和后续步骤的详细信息。 
 
-分数报告是一封电子邮件，其中提供了有关整体考试成绩的分数值、通过/未通过状态、有关您在考试所评估的每个技能领域中的表现信息以及有关如何解释您的成绩和后续步骤的详细信息。
-
-### 分数报告上的条形有何意义？
-
+### 分数报告上的百分比有何意义？
 百分比显示了您在考试评估的每个部分或技能领域中的表现情况。这些百分比提供您在各个部分中的表现的相关信息。百分比越高反映出表现越好。
 
 由于每个部分可能包含不同数量​​的问题，如在各部分名称后提供的百分比所表示的那样，因此您无法结合所获得的百分比来确定在考试中问题回答正确的百分比。此信息旨在帮助您了解考试所考察的技能领域的优势和薄弱环节，并区分需要改进的那些技能的优先次序。
 
 ### “未计分考查项目”栏中包含什么？
-
 如果上面的考试各部分结果中出现“未计分考查项目”栏，请忽略。它不包含在您的考试成绩中，并且不提供您在此考试中的表现或在该内容领域中的技能的任何相关信息。这是 PSI 报告系统的工件，目前无法禁止。
 
 ### 我可以查看有关成绩的更详细的信息吗？
-
 不可以，我们无法提供比分数报告更详细的有关您成绩的详细信息。
 
 ### 分数报告中的百分比显示我的分数超过 70％。为什么我没有通过考试？
-
 考试的每个部分都包含不同数量的问题；因此，将各个考试部分的结果结合在一起可能不会影响您的最终考试结果。换句话说，报告的每个部分的百分比与通过/失败状态之间没有一对一的关系。
 
 此外，一个很常见的误解是由于通过分数为 700，您必须正确问答 70% 的考题才能通过考试；然而，这是一个等级分数。您必须正确回答的考题实际百分比因考试而异，可能会超过或少于 70%，具体取决于在考试开发和持续期间帮助我们设定分数线的主题专家提供的意见和当您参加考试时交付的考题的疑难程度。
 
 ### 在哪里可以找到有关我的薄弱环节的其他信息？
+尽管 Microsoft Certification exams提供有关考生需要进一步提升其技能的领域的反馈，但是考试并不设计为提供详细信息或诊断反馈。我们鼓励您查看 [Microsoft 学习](https://microsoft.com/learn?WT.mc_id=gsi) 上考试详细信息页面的“测试技能”部分，利用考试页面底部的学习资源，并根据考试中所评估的内容诚实地评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些问题。 
 
-尽管 Microsoft 认证考试提供有关考生需要进一步提升其技能的领域的反馈，但是考试并不设计为提供详细信息或诊断反馈。我们鼓励您查看 [Microsoft 学习](https://microsoft.com/learn?WT.mc_id=gsi) 上考试详细信息页面的“测试技能”部分，利用考试页面底部的学习资源，并根据考试中所评估的内容诚实地评估您的技能。做到这一点的最佳方式是真实执行所列出的任务并记下您遇到的任何具有挑战性的问题。不断练习直至您不再遇到这些问题。
-
-您可能也需要询问其他人他们如何执行这些任务。他们是否以不同方式执行该任务？了解为什么有他们就够了。阅读白皮书，访问 [Microsoft 文檔](https://docs.microsoft.com?WT.mc_id=gsi) 和 [Microsoft 学习](https://microsoft.com/learn?WT.mc_id=gsi) 以获得有关考试中包含的任务的其他信息。
+您可能也需要询问其他人他们如何执行这些任务。他们是否以不同方式执行该任务？了解为什么有他们就够了。阅读白皮书，访问 [Microsoft 文檔](https://docs.microsoft.com?WT.mc_id=gsi) 和 [Microsoft 学习](https://microsoft.com/learn?WT.mc_id=gsi) 以获得有关考试中包含的任务的其他信息。 
 
 最后，[Microsoft官方模拟考试](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
 
 ### 我再也找不到我的分数报告电子邮件。我该如何再请求一封？
-
 [联系 PSI 支持](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001044112)。

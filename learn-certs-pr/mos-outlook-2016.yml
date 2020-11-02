@@ -2,17 +2,23 @@
 title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
 metadata:
   title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
-  description: Microsoft Office 专家：Microsoft Outlook 2016
+  description: 'Microsoft Office Specialist: Microsoft Outlook 2016'
 uid: certification.mos-outlook-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: 证明您获得特定 Office 程序的 Microsoft Office 专员 (MOS) 认证，具备充分利用 Office 所需的技能。
-subTitle: 证明您获得特定 Office 程序的 Microsoft Office 专员 (MOS) 认证，具备充分利用 Office 所需的技能。
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+
+  通过取得 Microsoft Office Specialist (MOS) 2016 认证，证明您具有充分利用 Outlook 所需的技能&#58;成功的考生将能创建和编辑具有专业外观的电子邮件、跨时区维护日历，并计划适用于多种用途和情形的任务。
+subTitle: 证明您获得特定 Office 程序的 Microsoft Office Specialist (MOS) 认证，具备充分利用 Office 所需的技能。
 levels:
 - intermediate
 skills:
-- 无
+- 管理 Outlook 环境，提高生产率
+- 管理消息
+- 管理工作计划
+- 管理联系人和群组
 roles:
-- developer
+- business-user
 type: mos
 products:
 - office-outlook
@@ -22,12 +28,13 @@ resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 考试重放
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: deals.md
 - title: 认证支持
-  description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+

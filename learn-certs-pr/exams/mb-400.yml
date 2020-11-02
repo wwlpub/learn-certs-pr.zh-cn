@@ -6,17 +6,16 @@ metadata:
 uid: exam.mb-400
 displayName: MB-400
 summary: |-
-  <div>
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div> <strong>该考试将于 2020 年 12 月 31 日停用。新考试, <a href="/learn/certifications/exams/pl-400">PL-400</a>, 将于 2020 年 9 月推出。要了解更多信息， <a href="https://aka.ms/microsoftlearncommunity">请访问我们的博客</a>并查看我们的考试停用信息。注意：考试将在中部标准时间晚间 11 点 59 分停用。 </strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+  <div><strong>该考试将于2020年12月31日停用。新的考试 <a href="/learn/certifications/exams/pl-400">PL-400</a> 将于 2020 年 9 月推出。注意&#58;考试将于美国中部标准时间晚上11:59停用。</strong><br/><br/></div>
   </div>
 
-  参加此考试的考生使用 Dynamics 365 中的 Microsoft Power Apps 模型驱动应用程序来设计、开发、保护和扩展 Dynamics 365。考生实现解决方案的组件，包括应用程序增强功能，自定义用户体验，系统集成，数据转换，自定义流程自动化和自定义可视化。
+  参加此考试的考生使用Dynamics 365中的Microsoft Power Apps模型驱动应用程序来设计、开发、保护和扩展Dynamics 365。考生实现解决方案的组件，包括应用程序增强功能，自定义用户体验，系统集成，数据转换，自定义流程自动化和自定义可视化。
 
-  候选人必须具有关于 Dynamics 365 中 Power Apps 模型驱动应用程序的丰富应用知识，包括深入了解自定义、配置、集成和可扩展性以及边界和约束。考生应该对 Dynamics 365 中 Power Apps 模型驱动应用程序的 DevOps 实践有基本的了解。考生必须公开、存储和报告数据。
+  候选人必须具有关于Dynamics 365中Power Apps模型驱动应用程序的丰富应用知识，包括深入了解自定义、配置、集成和可扩展性以及边界和约束。考生应该对 Dynamics 365 中 Power Apps 模型驱动应用程序的 DevOps 实践有基本的了解。考生必须公开、存储和报告数据。
 
   考生应具有包括 JavaScript、TypeScript、C＃，HTML、.NET，Microsoft Azure、Office 365、RESTful Web 服务、ASP.NET和 Power BI 的开发经验。
-subTitle: '这项考试衡量您完成以下技术任务的能力：创建技术设计；配置公共数据服务(CDS)；创建和配置Power Apps；配置业务流程自动化；扩展用户体验；扩展平台；以及发展整合。'
+subTitle: '这项考试衡量您完成以下技术任务的能力: 创建技术设计；配置公共数据服务（CDS）；创建和配置Power Apps；配置业务流程自动化；扩展用户体验； 扩展平台；以及发展整合。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
@@ -28,7 +27,7 @@ skills:
 - 此考试的内容于 2020 年 5 月 22 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 创建技术设计 (10-15%)
 - 配置公共数据服务 (15-20%)
-- 创建和配置Power Apps (10-15%)
+- 创建和配置 Power Apps (10-15%)
 - 配置业务流程自动化 (10-15%)
 - 扩展用户体验 (15-20%)
 - 扩展平台 (15-20%)
@@ -53,7 +52,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: 认证学习路径
-  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
@@ -61,19 +60,19 @@ resources:
 - title: 认证海报
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证考试支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
 

@@ -6,22 +6,21 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div>
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>考试内容将于2020年9月24日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>该考试的内容已于2020年9月24日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
   Data Analyst 使企业可以使用 Microsoft Power BI 使数据资产的价值最大化。作为主题专家，Data Analyst 负责设计和构建可伸缩的数据模型，清理和转换数据，并启用高级分析功能，这些功能通过易于理解的数据可视化提供有意义的业务价值。Data Analyst 还与各个行业的关键利益相关者合作，根据已确定的业务需求提供相关的见解。
   <br/>
 
   Data Analyst 应该对本地和云中的数据存储库和数据处理有基本的了解。
-subTitle: '这项考试衡量您完成以下技术任务的能力：准备数据；数据建模；可视化数据；分析数据；部署和维护可交付成果。'
+subTitle: '这项考试衡量您完成以下技术任务的能力: 准备数据；数据建模；可视化数据；分析数据；部署和维护可交付成果。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DA-100&provider=psi&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
 locales:
 - en
 - zh-cn
@@ -30,9 +29,9 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年9月24日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 此考试的内容于2020年9月24日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 准备数据 (20-25%)
-- 数据建模 (25-30%)
+- 建模数据 (25-30%)
 - 可视化数据 (20-25%)
 - 分析数据 (10-15%)
 - 部署和维护可交付成果 (10-15%)
@@ -62,19 +61,19 @@ resources:
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证考试支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
 

@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
   参加该考试的考生将执行发现，捕获需求，吸引主题专家和利益相关者参与，翻译需求并配置Power Platform解决方案和应用。其中包括应用程序精进、自定义用户体验、系统整合、数据转换、自定义流程自动化以及自定义可视化。
 
@@ -14,10 +14,11 @@ summary: |-
 
   应试者与质量保证团队成员积极合作，以确保解决方案满足功能和非功能要求。他们确定，生成并交付用于打包和部署的工件，并提供给DevOps工程师，并为Power Platform管理员提供操作和维护培训。
 
-  <div> <strong><br/>注意：这项考试将于 2020 年 9 月 25 日左右推出。</strong></div>
-subTitle: '这项考试将于 2020 年 9 月 25 日左右推出。该考试衡量您完成以下任务的能力：配置公共数据服务；使用Power Apps创建应用；创建和管理Power Automate；实施Power Virtual Agents聊天机器人；并将Power Apps与其他应用程序和服务整合。'
+  <div> <strong><br/> Beta考试不会立即获得评分，因为我们正在收集有关问题和考试质量的资料。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></strong></div>
+subTitle: '该考试衡量您完成以下任务的能力: 配置公共数据服务；使用Power Apps创建应用；创建和管理Power Automate；实施Power Virtual Agents聊天机器人；并将Power Apps与其他应用程序和服务整合。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 levels:
@@ -41,6 +42,20 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
@@ -51,19 +66,19 @@ resources:
 - title: 认证海报
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证考试支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
 
