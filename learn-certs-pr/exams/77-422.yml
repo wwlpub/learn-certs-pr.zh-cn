@@ -1,18 +1,18 @@
 ### YamlMime:Examination
-title: PowerPoint 2013
+title: Microsoft PowerPoint 2013
 metadata:
-  title: 'Exam 77-422: PowerPoint 2013'
-  description: 'Exam 77-422: PowerPoint 2013'
+  title: 'Exam 77-422: Microsoft PowerPoint 2013'
+  description: 'Exam 77-422: Microsoft PowerPoint 2013'
 uid: exam.77-422
 displayName: 77-422
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
+  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
 
-  学习如何使用 PowerPoint 展示您的专业知识。使用此一体化学习指南，练习并准备 2013 PowerPoint Microsoft Specialist(MOS)考试。找到完整，客观的客观考试报道，以及易于遵循的程序和插图，以审查基本技能。另外，亲自动手练习，应用你学到的东西。该指南包括可下载的练习文件。
-subTitle: '本考试面向使用 Office 构建安全、灵活的应用程序的 IT 专业人员。'
+  Microsoft Office Specialist (MOS) PowerPoint 2013 考试应试者应具备对 PowerPoint 环境的基本了解，以及独立完成工作的能力。应试者可创建和管理演示文稿，将形状与幻灯片插入并进行格式化，创建幻灯片内容，应用转换这动画，以及管理多个演示文稿。
+subTitle: 'Microsoft Office Specialist (MOS) PowerPoint 2013 考试应试者应具备对 PowerPoint 环境的基本了解，以及独立完成工作的能力。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -43,20 +43,20 @@ products:
 - office-powerpoint
 relatedCertifications:
 - related:
-    uid: certification.microsoft-office-specialist-certification-2013
+    uid: certification.mos-powerpoint-2013
 - related:
     uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
-- title: Exam Replay [重新考试]
-  description: 看到两种特别优惠，有助于提高您的通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看和管理您的预约、证书和成绩单。
   href: ../certification-exam-policies.md
 

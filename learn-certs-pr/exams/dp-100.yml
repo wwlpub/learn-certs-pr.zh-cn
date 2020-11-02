@@ -6,15 +6,14 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div>
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div><strong>此考试的内容于 2020 年 5 月 22 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>该考试的内容已于2020年5月22日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
-  Azure Data Scientists 利用他们在数据科学和机器学习方面的知识在 Azure 上实施和运行机器学习工作负载；特别是使用 Azure 机器学习服务。这需要为 Azure 的数据科学工作负荷规划并创建合适的工作环境，运行数据实验和训练预测模型，管理和优化模型，以及将机器学习模型部署到生产中。
-subTitle: '此考试衡量您完成以下技术任务的能力：设置 Azure 机器学习工作区；进行实验和训练模型；优化和管理模型；并部署和使用模型。'
+  Azure Data Scientist 利用他们在数据科学和机器学习方面的知识在 Azure 上实施和运行机器学习工作负载；特别是使用 Azure 机器学习服务。这需要为 Azure 的数据科学工作负荷规划并创建合适的工作环境，运行数据实验和训练预测模型，管理和优化模型，以及将机器学习模型部署到生产中。
+subTitle: '此考试衡量您完成以下技术任务的能力: 设置 Azure 机器学习工作区；进行实验和训练模型；优化和管理模型；并部署和使用模型。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
+practiceTestUrl: https://www.mindhub.com/p/MU-DP-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
@@ -24,11 +23,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试的内容于2020年5月22日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
-- 设置 Azure 机器学习工作区(30-35%)
-- 进行实验和训练模型(25-30%)
-- 优化和管理模型(20-25%)
-- 部署和使用模型(20-25%)
+- 此考试的内容于 2020 年 5 月 22 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 设置 Azure 机器学习工作区 (30-35%)
+- 进行实验和训练模型 (25-30%)
+- 优化和管理模型 (20-25%)
+- 部署和使用模型 (20-25%)
 roles:
 - data-scientist
 products:
@@ -56,19 +55,19 @@ resources:
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证考试支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
 

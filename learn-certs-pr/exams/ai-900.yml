@@ -5,15 +5,27 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>\r\n\r\n参加此考试的考生应具有机器学习 (ML) 和人工智能 (AI) 概念以及相关的 Microsoft Azure 服务的基础知识。\r\n\r\n这次考试是一次展示常见的 ML 和 AI 工作负荷以及如何在 Azure 上实施知识的机会。  \r\n\r\n该考试适用于具有技术和非技术背景的考生。不需要数据科学和软件工程经验；但是，一些通用的编程知识或经验将是有益的。  \r\n\r\nAzure AI Fundamentals 可用于准备其他基于 Azure 角色的认证，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但这不是其中任何一个的先决条件。"
-subTitle: '证明您可以描述以下内容：人工智能工作负荷和注意事项；Azure 上机器学习的基本原理；Azure 上计算机视觉工作负荷的特性；Azure上自然语言处理(NLP)工作负荷的特性；以及Azure上会话人工智能工作负荷的特性。'
+summary: |-
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>考试内容将于2020年10月22日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div></div>
+  
+  参加此考试的考生应具有机器学习 (ML) 和人工智能 (AI) 概念以及相关的 Microsoft Azure 服务的基础知识。
+  
+  这次考试是一次展示常见的 ML 和 AI 工作负荷以及如何在 Azure 上实施知识的机会。  
+  
+  该考试适用于具有技术和非技术背景的考生。不需要数据科学和软件工程经验；但是，一些通用的编程知识或经验将是有益的。  
+  
+  Azure AI Fundamentals 可用于准备其他基于 Azure 角色的认证，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但这不是其中任何一个的先决条件。
+subTitle: '证明您可以描述以下内容: 人工智能工作负荷和注意事项；Azure 上机器学习的基本原理；Azure 上计算机视觉工作负荷的特性；Azure上自然语言处理（NLP）工作负荷的特性；以及Azure上会话人工智能工作负荷的特性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+practiceTestUrl: https://www.mindhub.com/p/MU-AI-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AI-900&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 - providerType: gsi
-  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+  examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AI-900&provider=psi&examname=Exam%20AI-900:%20Microsoft%20Azure%20AI%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-900
 locales:
 - en
 - ja
@@ -25,10 +37,11 @@ locales:
 levels:
 - beginner
 skills:
+- 考试内容将于2020年10月22日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
 - 描述 AI 工作负荷和注意事项 (15-20%)
 - 描述 Azure 上机器学习的基本原理 (30-35%)
 - 描述 Azure 上的计算机视觉工作负荷的功能 (15-20%)
-- 描述Azure上自然语言处理(NLP)工作负荷的特性 (15-20%)
+- 描述Azure上自然语言处理（NLP）工作负荷的特性 (15-20%)
 - 描述 Azure 上的对话式 AI 工作负荷的功能 (15-20%)
 roles:
 - ai-engineer
@@ -72,19 +85,19 @@ resources:
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证考试支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
 

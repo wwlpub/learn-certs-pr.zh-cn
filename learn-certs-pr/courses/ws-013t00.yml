@@ -8,140 +8,130 @@ courseNumber: 'WS-013T00-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 描述 Azure Stack 产品组合，包括 Azure Stack HCI、Azure Stack Hub 和 Azure Stack Edge
-- skill: 描述 Azure Stack HCI 核心技术和管理工具。
-- skill: 描述典型的 Azure Stack HCI 实施的过程。
-- skill: 识别 Azure Stack HCI 混合功能。
-- skill: 在 Azure Stack HCI 上实施、管理和维护工作负荷。
-- skill: 规划和实施 Azure Stack HCI 存储，包括存储 QoS 和存储副本。
-- skill: 规划 Azure Stack HCI 网络。
-- skill: 在 Azure Stack HCI 中实施软件定义的网络。
+- skill: 描述Azure Stack产品组合，包括Azure Stack HCI、Azure Stack Hub和Azure Stack Edge
+- skill: 描述Azure Stack HCI核心技术和管理工具。
+- skill: 描述一个典型的Azure Stack HCI实现过程。
+- skill: 识别Azure Stack HCI混合功能。
+- skill: 在Azure Stack HCI上实现、管理和维护工作负载。
+- skill: 计划并实现Azure Stack HCI Storage，包括Storage QoS和Storage Replica。
+- skill: 为Azure Stack HCI网络作计划。
+- skill: 在Azure Stack HCI中实现Software Defined Network（软件定义网络）。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - advanced
 roles:
-- developer
+- administrator
 products:
 - windows-server
-summary: |-
-  此为期三天的课程主要面向已在管理本地 Windows Server 环境方面具有丰富经验的 IT 专业人员。其目的是涵盖与 Windows Server 软件定义的数据中心和 Azure Stack HCI 相关的高级主题。该课程还提供有关其他 Azure Stack 产品的信息，并描述如何使用现有的 System Center 产品来通过 Windows Server 2019 实施和管理软件定义的数据中心。本课程是高级课程，面向希望使用软件定义的数据中心和超融合原理在 Windows Server 2019 上以中型到大型规模运行其虚拟工作负荷的人员。
-
-  #### 受众概况
-  本课程适用于管理本地 Windows Server 环境并希望使用 Azure 来管理服务器工作负荷并在 Windows Server 2019 上运行其虚拟工作负荷的 IT 专业人员。他们还希望使用现有的 Microsoft System Center 产品来通过 Windows Server 2019 实施和管理软件定义的数据中心。
-prerequisitesSection: |-
-  - 在本地方案中管理Windows Server操作系统和Windows Server虚拟化工作负荷的经验
-  - 在Microsoft Azure中实施和管理基础结构即服务（IaaS）服务的经验
-  - Azure Active Directory（Azure AD）的基本知识
-  - 具有 PowerShell 脚本和 PowerShell 所需状态配置（DSC）的中级知识
-  - 具有 Microsoft核心计算、，存储、联网和虚拟化技术的中级知识
-  - 具有基于 Windows Server 的计算和存储高可用性技术的中级知识
-  - 具有 Microsoft 虚拟化安全相关技术的中级知识
-outlineSection: |-
-  ### 模块 1&#58; 引入Azure Stack HCI
-  本模块描述了 Azure Stack HCI 的基本特征，以及其作为 Azure Stack 产品组合一部分的对等产品，包括 Azure Stack Hub 和 Azure Stack Edge。该模块还概述了 Azure Stack HCI 核心技术和管理工具，并概述了典型实施过程。最后，这些模块以 Azure Stack HCI 混合功能的摘要结尾，在模块 4 中详细介绍了其中的大多数功能。
+summary: "这个为期三天的课程主要是针对已经拥有管理本地Windows服务器环境的经验的IT专业人员。它的目的是介绍与Windows Server软件定义的数据中心、Azure Stack HCI和其他Azure Stack产品相关的高级主题。本课程还描述了如何使用现有的Microsoft System Center产品来实现和管理Windows Server 2019软件定义的数据中心。本课程为高级课程，其设计面向那些希望在Windows Server 2019上使用软件定义的数据中心和超级聚合原则（hyper-converged principles），以中大型规模运行虚拟工作负载的人。\n\n\n\n#### 观众概况\n\n本课程面向管理本地Windows Server环境并希望使用Azure来管理服务器工作负载，并在Windows Server 2019上运行其虚拟工作负载的IT专业人士。这些专业人士还希望使用现有的Microsoft System Center产品，在Windows Server 2019上实现和管理软件定义的数据中心。 \n\n"
+prerequisitesSection: |2+
+  - 具有在本地场景中管理Windows Server操作系统和Windows Server虚拟化工作负载的中级经验
+  - 有使用通用Windows服务器管理工具的中级经验（隐含在第一个先决条件下）
+  - 具备微软核心计算、存储、网络和虚拟化技术的中级知识
+  - 具有基于Windows服务器的计算和存储高可用性技术的中级知识
+  - 具有在Microsoft Azure中实现和管理基础架构即服务（IaaS）的基本经验
+  - 具有Azure Active Directory（Azure AD）的基本知识
+  - 具有微软虚拟化安全相关技术的中级知识
+  - 具有PowerShell脚本和PowerShell所需状态配置（DSC）的中级知识
+outlineSection: |+
+  ### 模块1&#58; Azure Stack HCI介绍
+  本模块描述了Azure Stack HCI的基本特征，以及Azure Stack产品组合中的同类产品，包括Azure Stack Hub和Azure Stack Edge。本模块还概述了Azure Stack HCI核心技术和管理工具，以及一个典型实现过程的高级演练。最后，本模块总结了Azure Stack HCI混合功能，其中大部分功能在模块4中有详细介绍。
   #### 课程
-  - Azure Stack HCI 概述
-  - Azure Stack HCI 技术概述
-  - Azure Stack HCI 管理工具概述
-  - Azure Stack HCI 实施过程概述
+  - Azure Stack HCI概述
+  - Azure Stack HCI技术概述
+  - Azure Stack HCI管理工具概述
+  - Azure Stack HCI混合功能概述
 
-  学完本模块后，学生将能够&#58;
-  - 描述 Microsoft Azure Stack 产品组合的基本功能和用例。
-  - 确定Azure Stack HCI 体系结构的核心组件。
-  - 确定用于部署和管理超融合基础结构的通用管理工具。
-  - 描述 Azure Arc 的目的和功能。
-  - 确定可以整合到本地环境中的 Azure 基础结构服务。
-  - 将云端见证配置为仲裁见证类型。
-  - 描述如何使用 Azure Network Adapter 建立指向 Azure 虚拟网络的点对点 VPN
-  - 描述 Azure File Sync和Azure Monitor的特征和用例。
-  - 现在说明使用 Azure 备份和 Azure 站点恢复来保持业务连续性。
-  - 描述 Azure 更新管理用例和体系结构。
-  - 描述准备 Azure Stack HCI 实施的高级过程。
+  完成本模块后，学生将能够&#58; 
+  - 描述Microsoft Azure Stack产品组合的基本功能和用例。
+  - 确定Azure Stack HCI架构的核心组件。
+  - 确定用于部署和管理超聚合基础架构的通用管理工具。
+  - 描述Azure Arc的目的和功能。
+  - 确定可以集成到本地环境中的Azure基础架构服务。
+  - 将云见证（cloud witness）配置为仲裁见证（quorum witness）类型。
+  - 描述如何使用Azure Network Adapter（网络适配器）建立到Azure虚拟网络的Point-to-Site VPN
+  - 描述Azure文件同步（File Sync）和Azure监控器（Monitor）的特征和用例。
+  - 解释如何使用Azure Backup和Azure Site Recovery来保持业务连续性。
+  - 描述Azure Update Management（更新管理）用例和架构。
+  - 描述配置Azure Stack HCI实现的高级别流程。
 
 
-  ### 模块 2&#58; 操作和维护 Azure Stack HCI
-  本模块介绍如何在 Azure Stack HCI 上实施、管理和维护工作负荷。如第一个模块中所述，Azure Stack HCI 旨在优化特定类型的工作负荷的效能、灵活性和延展性。在初始配置之后实施这些工作负荷，这涉及在运行 Windows Server 2019 操作系统的 Microsoft 批准的硬件之上准备虚拟化存储和网络层。本模块概述了不同的 Azure 服务和 Windows Server 功能，可利用 Windows Server 2019 与 Azure 的整合来管理和维护这些工作负荷。
+  ### 模块 2&#58; 操作和维护Azure Stack HCI
+  本模块描述了如何在Azure Stack HCI上实现、管理和维护工作负载。如第一个模块所述，Azure Stack HCI旨在优化特定类型的工作负载的性能、弹性和可伸缩性。这些工作负载的实现遵循初始配置，包括在运行Windows Server 2019操作系统的Microsoft认可的硬件上配置虚拟化存储和网络层。本模块概述了不同的Azure服务和Windows Server功能，这些服务和功能通过利用Windows Server 2019与Azure的集成，可以来管理和维护其工作负载。
   #### 课程
-  - 在 Azure Stack HCI 上实施和管理工作负荷
-  - 维护 Azure Stack HCI
+  - 在Azure Stack HCI上实现和管理工作负载
+  - 维护Azure Stack HCI
 
-  #### 实验&#58; 实验A&#58;准备实验室环境
-  - 准备实验环境
+  #### 实验室&#58; 实验室B&#58; 混合场景中使用Windows Admin Center （管理中心）
+  - 将超融合基础架构与Azure服务集成
+  - 回顾Azure集成功能
+  - 管理对超聚合基础架构的更新
 
-  #### 实验&#58; 实验B&#58;在混合式案例中使用Windows管理中心
-  - 将超融合基础结构与 Azure 服务整合
-  - 检查 Azure 整合功能
-  - 管理对超融合基础结构的更新
-
-  学完本模块后，学生将能够&#58;
-  - 使用共享磁盘实施共享丛集。
-  - 描述部署屏蔽VM所需的组件。
-  - 实施虚拟桌面基础结构（VDI）工作负荷。
-  - 在 Azure Stack HCI 中托管基于容器的部署。
-  - 使用 Azure Network Adapter 创建到 Azure 虚拟网络的点对点（P2S）VPN连接。
-  - 描述 Azure File Sync 体系结构。
-  - 实施 Azure File Sync 以在本地和 Azure 文件共享之间复制档案。
-  - 使用 Azure Arc 管理 Azure Stack HCI 工作负荷。
+  完成本模块后，学生将能够&#58; 
+  - 使用共享磁盘实现共享群集。
+  - 描述部署shielded VM（屏蔽虚拟机）所需的组件。
+  - 实现虚拟桌面架构（VDI）工作负载。
+  - 在Azure Stack HCI中托管基于容器的部署。
+  - 使用Azure Network Adapter创建到Azure虚拟网络的点到站点（P2S）的VPN连接。
+  - 描述Azure文件同步架构。
+  - 实现Azure文件同步，以在本地和Azure文件共享之间复制文件。
+  - 使用Azure Arc管理Azure Stack HCI工作负载。
 
 
-  ### 模块 3&#58; 规划和实施 Azure Stack HCI 存储
-  本模块介绍如何计划和实施 Azure Stack HCI 存储。该模块详细介绍了核心 HCI 存储技术，并涵盖了存储 QoS 和存储副本的特定范围（在 Azure Stack HCI 的上下文中）。该模块描述了 Azure Stack HCI 存储的规划、，实施和管理过程。
+  ### 模块 3&#58; 规划和实现 Azure Stack HCI存储
+  本模块描述了如何规划和实现Azure Stack HCI 存储。详细介绍了核心HCI存储技术，并包括Storage QoS和Storage Replica（在Azure Stack HCI环境中）的具体覆盖范围。该模块还描述了Azure Stack HCI存储的规划、实现和管理过程。
   #### 课程
-  - Azure Stack HCI 存储核心技术概述
-  - 在 Azure Stack HCI 中直接规划存储空间
-  - 实施基于 Storage Space Direct 的超融合基础结构
-  - 在 Azure Stack HCI 中直接管理存储空间
-  - 规划和实施存储 QoS
-  - 规划和实施存储副本
+  - Azure Stack HCI存储核心技术概述
+  - 在Azure Stack HCI中规划Storage Spaces Direct（直接存储空间）
+  - 实现基于直接存储空间（Storage Spaces Direct-based）的超聚合基础架构
+  - 在Azure Stack HCI中管理直接存储空间
+  - 规划和实现Storage QoS
+  - 规划和实现Storage Replica
 
-  #### 实验&#58; 在超融合基础结构上直接实施存储空间
-  - 准备部署 S2D 丛集
-  - 使用 Windows 管理中心实施 S2D 丛集
-  - 使用 Windows 管理中心配置 S2D 丛集的存储
-  - 使用 Windows PowerShell 实施和测试 S2D 丛集
-  - 管理和监视 S2D 丛集中的磁盘
-  - 管理和监视 S2D 丛集的灵活性
-  - 识别和分析 S2D 丛集的元资料
-  - 识别和配置 S2D 丛集层
+  #### 实验室&#58; 实现直接存储空间群集
+  - 通过Windows Admin Center实现直接存储空间
+  - 通过Windows PowerShell实现直接存储空间
+  - 通过Windows Admin Center和Windows PowerShell来管理直接存储空间群集
+  - 管理和监视直接存储空间群集的弹性
+  - 管理直接存储空间群集层
+  - 识别和分析直接存储空间群集的元数据（可选）
 
-  学完本模块后，学生将能够&#58;
-  - 描述 Azure Stack HCI 存储核心技术。
-  - 在 Azure Stack HCI 中直接规划存储空间。
-  - 实施基于 Directs 的存储空间超融合基础结构。
-  - 在 Azure Stack HCI 中直接管理存储空间。
-  - 规划和实施存储 QoS。
-  - 规划和实施存储副本。
+  完成本模块后，学生将能够&#58; 
+  - 描述Azure Stack HCI存储核心技术。
+  - 在Azure Stack HCI中规划直接存储空间。
+  - 实现基于直接存储空间的超聚合基础架构。
+  - 在Azure Stack HCI中管理直接存储空间。
+  - 规划并实现Storage QoS。
+  - 规划并实现Storage Replica。
 
 
-  ### 模块 4&#58; 规划和实施 Azure Stack HCI 网络
-  本模块描述瞭如何在 Azure Stack HCI 中规划和实施软件定义的网络。该模块重点介绍该技术及其基本功能，重点是 Windows Admin Center 作为主要的 SDN 管理工具。该模块还更详细地介绍了 Azure Stack HCI 中可用的 SDN 的四个特定组件。交换机嵌入式团队（SET），软件负载平衡（SLB），数据中心防火墙和RAS网关。
+  ### 模块 4&#58; 规划和实现Azure Stack HCI网络
+  本模块描述了如何在Azure Stack HCI中规划和实现软件定义网络（Software Defined Networking ）。本模块重点介绍了该技术及其基本功能，并强调了作为SDN主要管理工具的Windows Admin Center。本模块还详细介绍了Azure Stack HCI中可用的SDN的四个特定组件&#58; 交换机嵌入式组合（SET）、软件负载平衡（SLB）、数据中心防火墙和RAS网关。
   #### 课程
-  - Azure Stack HCI 核心网络技术概述
-  - 网络虚拟化和 SDN 概述
-  - 规划和实施 Switch Embedded Teaming
-  - 规划和实施软件负载平衡
-  - 规划和实施数据中心防火墙
-  - 规划和实施 RAS 网关
+  - Azure Stack HCI核心网络技术概述
+  - 网络虚拟化和软件定义网络（Software-Defined Networking）概述
+  - 交换机嵌入式组合（Switch Embedded Teaming）的规划与实现
+  - 规划和实现数据中心防火墙
+  - 规划和实现软件负载平衡
+  - 规划和实现RAS网关
 
-  #### 实验&#58; 实验 A&#58; 部署软件定义的网络
-  - 使用 PowerShell 部署软件定义的网络
+  #### 实验室&#58; 实验室A&#58; 部署软件定义网络
+  - 使用PowerShell部署软件定义网络
+  - 使用Windows Admin Center和PowerShell管理虚拟网络
+  - 使用Windows Admin Center来实现SDN访问控制列表
+  - 使用Windows Admin Center和Windows PowerShell实现SDN软件负载平衡
 
-  #### 实验&#58; 实验B&#58; 在超融合基础结构上实施软件定义的网络
-  - 为 SDN 实验室环境配置路由和管理
-  - 使用 Windows 管理中心和 PowerShell 管理虚拟网络
-  - 使用 Windows 管理中心实施 SDN 访问控制列表
-  - 使用 PowerShell 通过 PowerShell 实施SDN软件负载平衡
-
-  学完本模块后，学生将能够&#58;
+  完成本模块后，学生将能够&#58; 
   - 描述Azure Stack HCI的核心软件定义网络（SDN）组件。
-  - 在Azure Stack HCI的上下文中区分纯软件功能和纯硬件功能。
-  - 描述简化的 SMB 多通道和多 NIC 丛集网络的用例。
-  - 在 Azure Stack HCI 的上下文中描述网络虚拟化。
-  - 描述在 Azure Stack HCI 中部署 SDN 的过程。
-  - 规划并实施SET。
-  - 描述 SLB 的功能和基础结构，并实施SLB。
-  - 实施和配置数据中心防火墙。
-  - 实施、配置 RAS 网关并进行故障排除。
+  - 在Azure Stack HCI的环境中，区分纯软件特性和纯硬件特性。
+  - 描述简化的SMB多通道和多NIC群集网络的用例。
+  - 描述在Azure Stack HCI环境中的网络虚拟化。
+  - 描述在Azure Stack HCI中部署SDN的过程。
+  - 计划并实现SET。
+  - 描述SLB的功能和基础架构，并实现SLB。
+  - 实现和配置数据中心防火墙。
+  - 实现、配置和排除RAS网关故障。
+
 

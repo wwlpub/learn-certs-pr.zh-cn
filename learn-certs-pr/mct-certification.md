@@ -1,13 +1,14 @@
-﻿---
+---
 title: '成为 Microsoft Certified Trainer | Microsoft Docs'
 description: '成为 Microsoft Certified Trainer' 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 11/26/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # 成为 Microsoft Certified Trainer
 
@@ -37,7 +38,6 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 
 
 ### MCT 计划加入要求
-
 - 目前持有符合 MCT 计划要求的 Microsoft 认证或资格。 
 (见以下资格认证列表)
 - 通过以下渠道之一证明自身的教学技能:
@@ -94,6 +94,7 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)

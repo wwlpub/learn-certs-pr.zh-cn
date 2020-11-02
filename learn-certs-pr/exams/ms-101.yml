@@ -6,15 +6,13 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div>
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div> <strong>考试内容将于2020年9月24日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>该考试的内容已于2020年9月24日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
 
   此考试面向的考生是参与评估、规划、迁移、部署和管理 Microsoft 365 服务的 Microsoft 365 企业管理员。他们为企业执行 Microsoft 365 租户管理任务，包括其身份、安全性、合规性和支持技术。
 
-   考生应具有 Microsoft 365 工作负荷应用知识，应该是至少一个 Microsoft 365 工作负荷 (Exchange，SharePoint，Skype for Business， Windows即服务) 的管理员。考生还具备网络、服务器管理和IT基础知识 (如DNS，Active Directory和PowerShell)的应用知识。
-subTitle: '该考试衡量您完成以下技术任务的能力：实施现代设备服务；实施 Microsoft 365 安全和威胁管理；以及管理 Microsoft 365 治理和合规性。'
+  考生应具有 Microsoft 365 工作负荷应用知识，应该是至少一个 Microsoft 365 工作负荷 （Exchange，SharePoint，Skype for Business， Windows即服务） 的管理员。考生还具备网络、服务器管理和IT基础知识 （如DNS，Active Directory和PowerShell）的应用知识。
+subTitle: '该考试衡量您完成以下技术任务的能力: 实施现代设备服务；实施 Microsoft 365 安全和威胁管理；以及管理 Microsoft 365 治理和合规性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,10 +23,10 @@ locales:
 levels:
 - advanced
 skills:
-- 考试内容将于2020年9月24日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 实施现代设备服务 (30-35%)
-- 实施 Microsoft 365 安全和威胁管理 (30-35%)
-- 管理 Microsoft 365 治理和合规性 (35-40%)
+- 此考试的内容于2020年9月24日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 实施现代设备服务（30-35%）
+- 实施Microsoft 365安全和威胁管理（30-35%）
+- 管理Microsoft 365治理和合规性（35-40%）
 roles:
 - administrator
 products:
@@ -49,19 +47,19 @@ resources:
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [重新考试]
-  description: 查看两种特别优惠，助您提高通过几率。
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
 - title: 认证考试支持
-  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
   href: ../help.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 请求住宿
+- title: 要求住宿
   description: 了解更多关于申请考试住宿的信息。
   href: ../request-accommodations.md
-- title: 考试政策和常见问题
+- title: 考试原则和常见问题
   description: 查看考试规则和常见问题。
   href: ../certification-exam-policies.md
 
