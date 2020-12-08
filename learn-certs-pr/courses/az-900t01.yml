@@ -11,7 +11,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 了解一般的云端计算概念
 - skill: 了解 Microsoft Azure 提供的核心服务
-- skill: 了解 Microsoft Azure 的安全性、隐私权、合规性和信任
+- skill: 了解使用Microsoft Azure的安全性、隐私、合规性和可靠性
 - skill: 了解 Microsoft 提供的定价和支持模型
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -39,7 +39,7 @@ summary: |-
   #### 受众概况
   本课程适合具有一般 IT 背景的项目经理和技术销售人员。这些学生想了解我们的产品，了解组件的实现方式，并询问有关产品和功能的问题。本课程没有为学生提供课堂上的 Azure 通行证或时间来进行任何动手操作。学生可以免费试用并在课外进行演练。本课程主要是讲座和演示。本课程将帮助某人为AZ-900考试做准备。
 prerequisitesSection: |-
-  参加本课程没有任何前提条件。不要求考生具有 IT 技术经验，然而一些一般性的 IT 知识或经验将是有益的。
+  报名参加本课程学习没有先决条件。IT技术经验不是必需的，但具有IT基本知识或经验有利于学习。
 outlineSection: |-
   ### 模块 1&#58; 云的概念
   在本模块中，您将学习基本的云端概念。

@@ -35,9 +35,18 @@ summary: |-
   #### 受众概况
   本课程的听众是希望了解Microsoft Azure上存在的数据平台技术的数据专业人员，数据架构师和商业智能专业人员。本课程的主要听众是开发应用程序的人员，这些应用程序可以利用Microsoft Azure上存在的数据平台技术提供内容。
 prerequisitesSection: |-
-  除了专业经验外，参加此培训的学生还应具有与以下课程相当的技术知识&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/zh-cn/learn/modules/welcome-to-azure/)
-  - DP-200&#58;实施Azure数据解决方案
+  成功的学生在开始本课程学习时，具备云计算概念知识和数据解决方案的专业经验。 
+  
+  具体而言&#58;
+  - 在Microsoft Azure中创建云资源
+  - 识别大数据使用案例
+  - 了解云计算服务解决常见业务需求的方式
+
+  为了获取此类必备技能，上课前请完成以下免费在线培训&#58
+  - [研究Microsoft云概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [识别数据工程师的任务](/learn/modules/data-engineering-processes/)
+  - [核心云服务 - Azure数据存储选项](/learn/modules/intro-to-data-in-azure/)
+  - [核心云服务 - Azure计算选项](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### 模块 1&#58; 数据平台架构注意事项
   在本模块中，学生将学习如何通过检查每个良好架构中发现的核心原理，在Azure中设计和构建安全、可伸缩和高性能的解决方案。他们将学习在整个架构中使用关键原则，无论选择何种技术，可以帮助您设计、构建和不断改进架构，从而为组织带来效益。

@@ -8,15 +8,15 @@ displayName: MB-240
 summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div> <strong>考试内容将于2020年10月7日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
+  <div> <strong>本次考试的内容将于2020年11月10日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
   </div>
 
-  本考试的考生是具有现场服务专业知识的 Microsoft Dynamics 365 客户参与职能顾问。考生负责实施管理资源的解决方案，以完成现场服务生命周期。
+  本次考试的报考人是具有Field Service专业经验的Dynamics 365 Customer Engagement功能顾问。报考人负责实现管理用于完成现场服务生命周期的资源的解决方案。
 
-  考生实施与内部和外部团队合作设计的现场服务流程。此协作包括配置现场服务应用程序的默认管理区域，部署连接现场服务(IoT)解决方案和移动应用程序，以及实施任何其他所需的自定义。考生负责与核心客户服务应用程序一起配置和部署现场服务应用程序。
+  报考人实施与内部和外部团队协作设计的现场服务流程。本次协作包括配置Field Service应用的默认管理区，部署Connected Field Service (IoT)解决方案及移动应用，实施所需的其他定制化。报考人负责配置和部署结合核心客户服务应用的Field Service应用。
 
   考生必须了解如何配置和自定义现场服务应用程序的组件，包括配置服务、资源、特征、事件、库存集成、服务协议、资源调度、工作单、服务任务、现场服务用户角色、现场服务设置、连接现场服务(IoT)解决方案，以及现场服务移动应用程序的配置。
-subTitle: '该考试衡量您完成以下技术任务的能力：配置现场服务应用程序；管理工单；安排和派遣工作单；管理现场服务流动；管理库存和采购；并管理资产和协议。'
+subTitle: '本次考试将衡量您完成以下技术任务的能力：配置现场服务应用；管理工作订单；计划和派遣工作订单；管理现场服务移动性；管理库存和采购；实施Connected Field Service。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
 practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,13 +26,13 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年10月7日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 配置现场服务应用程序 (20-25%)
+- 本次考试的内容将于2020年11月10日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 配置现场服务应用 (15-20%)
 - 管理工作订单 (15-20%)
-- 安排和派遣工单 (20-25%)
+- 计划和派遣工作订单 (25-30%)
 - 管理现场服务流动性 (10-15%)
-- 管理库存和采购 (10-15%)
-- 管理资产和协议 (10-15%)
+- 管理库存和采购 (5-10%)
+- 实施Connected Field Service (10-15%)
 roles:
 - functional-consultant
 products:
@@ -51,7 +51,7 @@ relatedCertifications:
 resources:
 - title: 认证学习路径
   description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

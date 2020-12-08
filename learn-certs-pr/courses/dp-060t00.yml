@@ -26,8 +26,16 @@ summary: |-
   #### 受众概况
   本课程的主要对象是计划使用Cosmos DB 将 MongoDB 或Cassandra DB工作负载迁移到Azure的数据库开发人员。
 prerequisitesSection: |-
-  除了专业经验之外，参加此培训的学生还应该具有以下技术知识&#58;
-  - 分区、复制和资源治理的基本概念，以构建和配置与Cosmos DB API无关的可伸缩应用程序。
+  成功的学生凭借云计算概念的基础知识和配置NoSQL应用程序的专业经验开始该角色。
+  
+  具体而言&#58;
+  - 用于搭建和配置Cosmos DB API不可知的可扩展NoSQL应用程序的分区、复制和资源治理等基本概念。 
+  - 部署和管理资源等Azure使用经验
+
+  为了获取此类技能，上课前请完成以下免费在线培训&#58
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
+  - [核心云服务 - Azure计算选项](/learn/modules/intro-to-azure-compute/)
+  - [案例研究&#58; NoSQL数据库和云端档案库](/learn/modules/cmu-case-study-nosql-databases/)
 outlineSection: |-
   ### 模块 1&#58; 使用Cosmos DB构建全球分布式应用程序
   本模块描述了Cosmos DB的优点和架构。

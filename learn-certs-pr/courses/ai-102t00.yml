@@ -1,0 +1,215 @@
+### YamlMime:Course
+title: Designing and Implementing a Microsoft Azure AI Solution
+metadata:
+  title: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
+  description: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
+  iltScheduling: false
+uid: course.ai-102t00
+courseNumber: 'AI-102T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 创建、配置、部署和保护Azure认知服务
+- skill: 集成语音服务
+- skill: 集成文本分析
+- skill: 用LUIS创建语言理解能力
+- skill: 创建和管理Azure Cognitive Search解决方案
+- skill: 使用Bot Framework创建智能代理
+- skill: 实施Computer Vision解决方案
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-service
+- azure-machine-learning-studio
+- azure-search
+exams:
+- uid: exam.ai-100
+summary: |-
+  AI-102 Designing and Implementing an Azure AI Solution专为希望利用Azure Cognitive Services、Azure Cognitive Search和Microsoft Bot Framework来建立AI嵌入式应用程序的软件开发人员而准备。该课程将使用C#、Python或JavaScript作为编程语言。
+
+  #### 受众概况
+  软件工程师关注利用Azure Cognitive Services、Azure Cognitive Search和Microsoft Bot Framework来建立、管理和部署AI解决方案。他们熟悉C#、Python或JavaScript语言，了解用基于REST的API在Azure上建立计算机视觉、语言分析、知识挖掘、智能搜索和对话式AI解决方案的方法。
+prerequisitesSection: |-
+  了解Microsoft Azure并能在Azure门户浏览
+
+  了解C#、Python或JavaScript中任一语言
+outlineSection: |-
+  ### 模块 1&#58; 创建和管理Azure Cognitive Services
+  使用Azure上的任何Cognitive Services功能之前，您需要创建一个Cognitive Services资源。使用各种服务（Speech、Computer Vision等）时，至少需要一个访问密钥和一个服务端点URL。将使用此类服务的应用授权需要该信息。您将创建一个单一服务资源或者一个多重服务资源，这取决于您使用的服务。
+  #### 课程概述
+  - 创建和管理认知服务账户
+  - 获得认知服务
+  - 部署和使用认知服务容器
+
+  #### 实验室&#58; 创建Azure认知服务资源
+  - 创建Azure认知服务资源
+  - 访问密钥
+  - 使用诊断监测
+  
+  #### 实验室&#58; 获得Azure认知服务
+  - 用Azure Key Vault保护密钥
+  
+  #### 实验室&#58; 创建Azure认知服务容器
+  - 创建重复使用的容器
+  - 容器部署
+  - 使用容器中的认知服务
+
+  完成本模块学习后，学生将能&#58; 
+  - 创建和使用Azure认知服务资源
+  - 保护Azure认知服务资源
+  - 用容器部署和使用Azure认知服务
+  
+  
+  ### 模块2&#58; 实施计算机视觉解决方案
+  学习如何通过使用Azure Computer Vision将视觉AI集成到您的应用程序里。检测和识别图像和视频中的人脸或物体，进行物体检测，对图像进行分类，实施自定义视觉解决方案。
+  #### 课程概述
+  - 用Computer Vision API识别人脸和表情
+  - 用Computer Vision Service处理图像
+  - 评估实施Custom Vision API的要求
+  - 用Microsoft CUstomg Vision Service对图像进行分类
+  - 用Video Indexer Service从视频中提取洞察
+
+  #### 实验室&#58; 检测人脸
+  - 获取订阅密钥
+  - 测试人脸检测
+  
+  #### 实验室&#58; 创建自定义视觉服务
+  - 创建服务
+  - 上传标记图像
+  - 训练模型
+  - 测试模型
+  - 调用预测端点
+  
+  #### 实验室&#58; 用Video Indexer从视频中提取洞察
+  - 订阅Video Indexer API
+  - 上传图像并编索引
+  - 检查输出
+  - 找到视频中的时刻
+  - 查看和编辑洞察
+
+  完成本模块学习后，学生将能&#58; 
+  - 实施用于人脸和物体检测的Computer Vision解决方案
+  - 用Computer Vision服务处理图像
+  - 实施ustom Vision解决方案
+  - 用Video Indexer服务提取视频文件中的洞察
+
+
+  ### 模块 3&#58; 实施语言分析解决方案
+  学习如何通过集成Language Understanding服务实施您的应用程序中的自然语言功能。通过情感分析和语言检测等文本分析特征获取您的用户意向洞察。用实体和关键词提取功能识别文本文件中的重要信息。
+  #### 课程概述
+  - 使用Language Understandin将Basic Conversational Intelligence添加到您的应用中
+  - 管理您的Language Understanding服务
+  - 使用您的Language Understanding服务容器
+  - 用Text Analytics API发现文本中的情感
+  - 用Text Analytics API识别文本中的实体
+  - 用Text Analytics API提取文本中的关键词
+  - 用Text Analytics API检测语言
+
+  #### 实验室&#58; 实施Language Understanding服务
+  - 创建Language Understanding服务
+  - 使用意向
+  - 使用话语
+  - 使用实体
+  - 训练和发布模型
+  
+  #### 实验室&#58; 管理您的Language Understanding服务
+  - 管理您的密钥
+  - 管理版本控制
+  - 脚本自动化
+  
+  #### 实验室&#58; 创建Language Understanding容器
+  - 安装并运行容器
+  
+  #### 实验室&#58; 执行情感分析
+  - 用API测试监控台来测试情感分析
+  - 创建一个Function应用程序
+  - 调用Function内的情感分析
+  - 消息分类
+  
+  #### 实验室&#58; 执行实体识别
+  - 提取文本内的实体
+  
+  #### 实验室&#58; 执行关键词提取
+  - 提取文本内的关键词
+  
+  #### 实验室&#58; 执行语言检测
+  - 检测文本内的语言
+  
+  完成本模块学习后，学生将能&#58; 
+  - 实施和管理Language Understanding服务
+  - 在容器环境中实施Language Understanding
+  - 检测文本内的情感
+  - 识别文本内的实体并提取其关键词
+  - 检测文本内的语言
+  
+  
+  ### 模块 4&#58; 执行知识挖掘解决方案
+  Azure Cognitive Search将提供基于云的解决方案，用于大范围索引和查询数据源，创建综合大规模搜索解决方案。学习其文档有索引且易于搜索的解决方案。
+  #### 课程概述
+  - 创建Azure Cognitive Search解决方案
+  - 用Azure Cognitive Search创建富集管道
+  - Create a 用Azure Cognitive Search创建知识库
+  
+  #### 实验室&#58; 创建Azure Cognitive Search解决方案
+  - 创建用于搜索的Azure资源
+  - 创建数据源
+  - 创建索引
+  - 创建并运行索引器
+  - 搜索和索引
+  - 应用过滤和分类
+  - 增强索引
+  
+  #### 实验室&#58; 创建富集管道
+  - 创建Azure资源
+  - 创建数据源
+  - 创建技能组合
+  - 创建索引
+  - 创建并运行索引器
+  - 搜索丰富索引
+  - 创建自定义技能
+  - 更新索引
+  - 搜索更新的索引
+  
+  #### 实验室&#58; 创建知识库
+  - 创建Azure资源
+  - 创建数据源
+  - 创建技能组合
+  - 创建索引
+  - 创建并运行索引器
+  - 开发知识库
+  
+  完成本模块学习后，学生将能&#58; 
+  - 创建Azure Cognitive Search解决方案
+  - 用Azure Cognitive Search创建富集管道
+  - 用Azure Cognitive Search创建知识库
+  
+  
+  ### 模块5&#58; 实施对话式AI解决方案
+  使用Microsoft Bot Framework和Bot Framework Composer来设计和创建对话式AI解决方案。
+  #### 课程概述
+  - 在Azure门户上建立聊天机器人
+  - 设计机器人对话流程
+  - 用Bot Framework Composer创建机器人
+  
+  ####实验室&#58; 用Azure门户创建机器人
+  - 用Azure门户创建Basic机器人
+  
+  #### 实验室&#58; 用Bot Framework Composer创建机器人
+  - 用Bot Framework Composer创建机器人
+  - 添加Help和Cancel功能
+  - 集成Language Generation
+  - 使用Cards
+  - 集成Language Understanding
+  
+  完成本模块学习后，学生将能&#58; 
+  - 在Azure门户上创建Basic机器人
+  - 设计机器人对话流程
+  - 用Bot Framework Composer创建机器人

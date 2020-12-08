@@ -41,12 +41,7 @@ ms.author: micsullivan
 </div>
 
 
-## 享受学生折扣，节省考试费用
-注册考试之前验证自身的学生身份，享受 Microsoft 认证专家  考试高额折扣。*注意 Microsoft Certified Professional 考试的学生折扣在印度和中国不适用。*
-
-[**了解详情**](/learn/certifications/certification-exam-policies)
-
-## 常见问题解答
+## <a name="frequently-asked-questions"></a>常见问题解答
 
 **问题：什么是考试重播？**
 

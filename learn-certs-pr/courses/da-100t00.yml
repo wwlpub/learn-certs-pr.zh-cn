@@ -31,7 +31,15 @@ summary: |-
   #### 受众概况
   本课程的受众是想要学习如何使用 Power BI 准确执行数据分析的数据专业人员和商业智能专业人员。本课程还面向那些开发报告的人员，这些报告可以视觉效果来自云端和内部部署中的数据平台技术的数据。
 prerequisitesSection: |-
-  除了他们的专业经验之外，参加此培训的学生还应具有与 Azure 基础知识课程中找到的信息等效的技术知识。
+  成功的Data Analyst凭借使用云端数据的经验开始该角色。
+  
+  具体而言&#58
+  - 了解核心数据概念
+  - 了解云端数据的使用
+  - 了解云端非关系数据的使用
+  - 了解数据分析及视觉化的概念 
+  
+  在开始本课程学习前，通过完成[Microsoft Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)学习，您会具备Azure数据使用的先决条件，也会对其有更深入的理解。
 outlineSection: |-
   ### 模块 1&#58;Microsoft Data Analytics入门
   本模块探讨了数据空间中的不同角色，概述了数据分析师的重要角色和职责，然后探讨了Power BI产品组合的前景。

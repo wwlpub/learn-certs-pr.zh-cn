@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Microsoft 认证计划协议
 
-## 政策与协议
-
 此 Microsoft 认证计划协议(**“协议”**)是您(**“您”**或**“您的”**)与Microsoft(**“Microsoft”**)之间关于您参与Microsoft认证计划(**“计划”**)的法律文件。本协议的条款适用于：(a) 您获得的任何 Microsoft 认证；(b) 您参与计划的任何行为，包括您访问和使用任何 Microsoft 认证计划权益、Microsoft 认证证书或 Microsoft 作为计划的一部分向您提供的任何 Microsoft 认证凭据。请仔细阅读本协议。访问或使用 MICROSOFT 认证计划利益或 MICROSOFT 认证凭证，表明您接受本协议的条款和条件。如果您不接受本协议，请勿访问或使用任何 MICROSOFT 认证计划利益或 MICROSOFT 认证证书。
 
 1. 定义

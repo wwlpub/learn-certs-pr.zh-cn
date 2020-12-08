@@ -8,16 +8,15 @@ displayName: MB-300
 summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div> <strong>考试内容将于2020年10月16日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
+  <div> <strong>本次考试的内容更新于2020年10月16日。请下载以下的技能测试文档以查看已发生的变化。</strong><br/><br/></div>
   </div>
 
-  本考试的考生是职能顾问，他们分析业务需求并将这些需求转化为完全实现的业务流程和实施行业最佳实践的解决方案。考生是实施和配置应用程序以满足业务需求的关键资源。
-  <br/>
+  本次考试的报考人将分析业务需求并将此类需求翻译为完全实现的业务流程和实施最佳行业做法的解决方案。报考人作为实施和配置满足业务需求的应用的关键资源。
 
-  本考试的考生对企业的会计原则和财务运作，客户服务，现场服务，制造，零售和供应链管理概念有基本的了解。
+  报考人了解Finance and Operations应用的常见特征和能力，并知道其配置和使用方法。他们还应知道Finance and Operations应用与Power Platform等外部系统和工具集成的方式。报考人使用Lifecycle Services (LCS)和其他Microsoft工具和平台来主动管理应用生命周期。
 
-  此考试的考生通常专注于 Microsoft Dynamics 365 财务和运营的一个或多个功能集，包括财务、制造和供应链管理。
-subTitle: '该考试衡量您完成以下技术任务的能力：使用通用功能和实施工具；配置安全性，进程和选项；执行数据迁移；并验证和支持该解决方案。'
+  本次考试的报考人通常专攻Finance and Operations应用的一个或多个特征集，包括财务、制造和供应链管理。
+subTitle: '本次考试将衡量您完成以下技术任务的能力：使用常见的功能和实现工具；配置安全性、流程和选项；管理Finance and Operation数据；确认和支持解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -28,10 +27,10 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年10月16日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 使用通用功能和实现工具 (20-25%)
-- 配置安全性、进程和选项 (45-50%)
-- 进行数据迁移 (15-20%)
+- 本次考试的内容更新于2020年10月16日。请下载下述考试技巧以查看已发生的变化。
+- 使用常见的功能和实现工具（15-20%）
+- 配置安全性、流程和选项 (30-35%)
+- 管理Finance and Operations数据（25-30%）
 - 验证并支持解决方案 (15-20%)
 roles:
 - functional-consultant

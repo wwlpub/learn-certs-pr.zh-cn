@@ -88,17 +88,19 @@ outlineSection: |-
   ### 模块 3&#58; 云解决方案、CDM和CDS
   本模块中的主题和概念包括&#58; 
 
-  CDM和CDS核心概念  
-  这些数据共享技术的解释。 
-
-  CDM与CDS  
-  简要讨论这些技术如何相互作用和互补。 
-
-  Power Platform  
-  本主题探讨了 Power Platform（微软商业应用平台）的一些组件。 
-
-  Dual Write  
-  简要说明微软2019年发布的一个新的双向集成功能。   
+  CDM和CDS核心概念
+  此类数据分享技术的说明 
+  
+  CDM对CDS
+  此类技术的交互和互补方式的简短讨论。
+   
+  
+  Power Platform
+  本主题将研究Microsoft业务应用平台Power Platform的部分组件。 
+  
+  Dual Write 
+  Microsoft在2019年推出的新型双向集成功能的简要说明。   
+  
   #### 课程
   - 简介
   - CDM和CDS核心概念

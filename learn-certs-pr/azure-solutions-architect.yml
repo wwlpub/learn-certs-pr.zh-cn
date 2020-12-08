@@ -16,12 +16,6 @@ summary: |-
 
   参加此认证的应试者应该在 IT 运营方面具有先进的经验和知识，包括网络、虚拟化、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应具有 Azure 管理方面的专家级技能，并具有 Azure 开发和 DevOps 流程的经验。
 
-  <div><strong><br/>如果您通过以下考试组合之一，则将获得此证书（请注意，英语版本AZ-300和AZ-301已于2020年9月30日停用，而本地化版本将于2020年10月30日停用）&#58;<ul>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
-  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> 和 <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
-  </ul></strong></div>
 subTitle: Azure Solution Architect 设计并实施了可在 Microsoft Azure 上运行的解决方案，包括计算、网络、存储和安全性等方面。
 levels:
 - advanced

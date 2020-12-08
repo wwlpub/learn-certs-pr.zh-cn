@@ -9,16 +9,15 @@ hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 在Microsoft 365中管理用户和组访问。
-- skill: 描述和管理Azure身份保护功能。
+- skill: 说明和管理Azure Identity Protection。
 - skill: 规划和实施Azure AD Connect。
-- skill: 管理已同步的身份。
-- skill: 描述和使用条件访问。
+- skill: 管理同步用户身份。
+- skill: 说明和采用条件访问。
 - skill: 描述网络攻击威胁向量。
-- skill: 描述Microsoft 365中的安全解决方案。
-- skill: 使用Microsoft Secure Score来评估您的安全状态。
+- skill: 说明Microsoft 365的安全解决方案。
+- skill: 用Microsoft Secure Score来评估和改善您的安全态势。
 - skill: 为Microsoft 365配置各种高级威胁保护服务。
-- skill: 配置高级威胁分析。
-- skill: 规划和部署安全的移动设备。
+- skill: 规划和部署安全移动设备。
 - skill: 实施信息权限管理。
 - skill: 确保Office 365中的消息安全。
 - skill: 配置数据丢失防护策略。
@@ -27,6 +26,7 @@ skillsGained:
 - skill: 规划和部署数据归档和保留系统。
 - skill: 创建和管理eDiscovery调查。
 - skill: 管理GDPR数据主题请求。
+- skill: 说明和使用敏感标记。
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -39,15 +39,10 @@ products:
 exams:
 - uid: exam.ms-500
 summary: |-
-  在本课程中，您将学习如何保护用户对组织资源的访问。该课程涵盖用户密码保护，多因素身份验证，如何启用Azure身份保护，如何设置和使用Azure AD Connect，并向您介绍Microsoft 365中的有条件访问。
-  您将了解有助于保护Microsoft 365环境的威胁防护技术。具体来说，您将了解威胁向量和Microsoft减轻威胁的安全解决方案。您将了解安全评分，Exchange Online保护，Azure高级威胁防护，Windows Defender高级威胁防护和威胁管理。
-  在本课程中，您将了解有助于保护Microsoft 365环境的信息保护技术。本课程讨论信息权限管理的内容、消息加密，以及支持数据丢失预防和信息保护的标签、策略和规则。
-  最后，您将学习Microsoft 365中的存档和保留，以及数据管理和如何进行内容搜索和调查。本课程涵盖数据保留策略和标记、针对SharePoint的就地记录管理、电子邮件保留，以及如何执行支持eDiscovery调查的内容搜索。
+  "学习本课时，您将学习如何保护用户对贵组织资源的访问。本课涵盖用户密码保护、多因素身份验证、启用Azure Identity Protection的方式、设置和使用Azure AD Connect的方式，并将为您介绍Microsoft 365中的条件访问。您将了解有助于保护您的Microsoft 365环境的威胁防护技术。具体而言，您将了解威胁载体以及减轻威胁的Microsoft安全解决方案。您将了解Secure Score、Exchange Online Protection、Azure Advanced Threat Protection、Windows Defender Advanced Threat Protection和威胁管理。学习本课时，您将了解有助于保护您的Microsoft 365环境的信息保护技术。本课程将探讨信息权限管理的内容、消息加密以及支持数据丢失防护和信息保护的标签、政策和规则。最后，您将了解Microsoft 365及数据治理中的归档和保留，以及进行内容搜索和调查的方式。本课程涵盖数据保持政策和标签、SharePoint的就地记录管理、email保留以及进行支持eDiscovery调查的内容搜索方式。
 
   #### 受众概况
-  Microsoft 365 安全管理员与 Microsoft 365 企业管理员，业务利益相关者和其他工作负荷管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
-  此角色主动保护Microsoft 365企业环境。职责包括响应威胁、实施、管理和监控针对Microsoft 365环境的安全和合规性解决方案。它们对事件、调查和数据治理的执行作出反应。
-  Microsoft 365安全管理员熟悉Microsoft 365工作负载和混合环境。这个角色在身份保护、信息保护、威胁保护、安全管理和数据治理方面具有很强的技能和经验。
+  Microsoft 365 Security管理员与Microsoft 365 Enterprise管理员、企业利益相关者及其他工作负载管理员协作，以规划和实施安全策略并确保解决方案符合该组织的政策和规章。该角色将主动保护Microsoft 365企业环境。职责包括应对威胁，实施、管理和监控用于Microsoft 365环境的安全和合规解决方案。他们将对事件、调查和数据治理的执行做出响应。Microsoft 365 Security管理员熟悉Microsoft 365工作负载和混合环境。该角色拥有强大的技能以及身份保护、信息保护、威胁防护、安全管理和数据治理经验。
 prerequisitesSection: |-
   学员应在具备以下技能的情况下开始本课程&#58;
   - 对微软Azure基本概念的基本了解。
@@ -57,73 +52,74 @@ prerequisitesSection: |-
   - 对计算机网络的基本了解。
   - 管理移动设备的工作知识。
 outlineSection: |-
-  ### 模块 1&#58; 用户和组保护
-  本模块介绍如何在Microsoft 365中管理用户帐户和组。它向您介绍了Azure AD中的特权身份管理以及身份保护。该模块为课程的其余部分奠定了基础。
+  ###模块1&#58；用户和群组管理
+  本模块将说明在Microsoft 365中管理用户账号和群组的方式。将为您介绍Zero Trust概念以及身份验证。该模块为本课程余下的内容奠定了基础。
   #### 课程
-  - 身份和访问管理概念
-  - 零信任安全
-  - Microsoft 365中的用户帐户
-  - Microsoft 365中的管理员角色和安全组
-  - Microsoft 365中的密码管理
-  - Azure AD 身份保护
+  - Identity和Access Management概念
+  - Zero Trust模型
+  - 规划您的身份验证解决方案
+  - 用户账号和角色
+  - 密码管理 
 
 
-  #### 实验室&#58;初始化您的试用租户
-  - 设置您的Microsoft 365租户
+  ####实验室&#58；初始化您的客户 - 用户和群组
+  - 管理用户和群组
 
 
-  #### 实验室&#58;配置特权身份管理
-  - 发现和管理Azure资源
-  - 分配目录角色
-  - 激活和停用PIM角色
-  - 目录角色（常规）
-  - PIM资源工作流程
-  - 查看PIM中Azure AD角色的审核历史记录
+  ####实验室&#58；密码管理
+  - 配置Azure AD中的用户账号自助密码重置（SSPR）
+  - 部署Azure AD Smart Lockout
 
   学完本模块后，学生将能够&#58;
   - 创建和管理用户帐户。
   - 描述并使用Microsoft 365管理员角色。
   - 规划密码策略和身份验证。
-  - 描述零信任安全性的概念
-  - 在Office 365中实现多因素身份验证。
-  - 启用Azure身份保护
+  - 描述零信任安全性的概念。
+  - 说明Zero Trust模型。
 
 
-  ### 模块 2&#58; 身份同步
+  ###模块2&#58；身份同步和保护
   本模块说明与Microsoft 365的身份同步有关的概念。  具体来说，它侧重于Azure AD Connect和管理目录同步，以确保正确的人连接到您的Microsoft 365系统。
   #### 课程
-  - 身份同步简介
-  - 规划Azure AD Connect
-  - 实现Azure AD Connect
-  - 管理已同步的身份
-  - 联合身份简介
+  - 规划目录同步
+  - 配置和管理同步的身份
+  - Azure AD Identity Protection
 
 
   #### 实验室 &#58; 规划和实现身份同步
   - 为您的组织设置身份同步
 
   学完本模块后，学生将能够&#58;
-  - 描述Microsoft 365的身份验证选项。
   - 解释目录同步。
   - 规划目录同步。
   - 描述和使用Azure AD Connect。
   - 配置 Azure AD Connect先决条件。
   - 通过目录同步管理用户和组。
-  - 描述Active Directory联盟。
+  - 启用Azure Identity Protection
 
 
-  ### 模块 3&#58; 访问管理
-  本模块说明对Microsoft 365的条件访问以及如何使用它来控制对组织中资源的访问。该模块还说明了基于角色的访问控制（RBAC）和外部访问的解决方案。
+  ###模块3&#58；身份和访问管理
+  本模块说明对Microsoft 365的条件访问以及如何使用它来控制对组织中资源的访问。该模块还说明了基于角色的访问控制（RBAC）和外部访问的解决方案。我们将讨论作为概念及其组件的身份治理。
   #### 课程
-  - 条件访问
+  - 应用管理
+  - Identity Governance
   - 管理设备访问
   - 基于角色的访问控制（RBAC）
   - 外部访问解决方案
+  - Privileged Identity Management
 
 
   #### 实验室&#58;使用条件访问来启用MFA
   - MFA 认证试点（特定应用需要MFA）
   - MFA有条件访问（完成MFA推出）
+
+  ####实验室&#58；配置Privileged Identity Management
+  - 管理Azure资源
+  - 分配目录角色
+  - 激活和停用PIM角色
+  - 目录角色
+  - PIM资源工作流
+  - 查看PIM中Azure Ad角色的审核历史记录
 
   学完本模块后，学生将能够&#58;
   - 描述条件访问的概念。
@@ -131,6 +127,9 @@ outlineSection: |-
   - 规划设备合规性。
   - 配置条件用户和组。
   - 配置基于角色的访问控制
+  - 描述身份治理的概念
+  - 配置和使用Privileged Identity Management
+
 
 
   ### 模块 4&#58; Microsoft 365中的安全性
@@ -138,8 +137,8 @@ outlineSection: |-
   #### 课程
   - 威胁向量和数据泄露
   - 安全策略和原则
-  - Microsoft 365 中的安全解决方案
-  - Microsoft Secure Score
+  - Microsoft安全解决方案
+  - Secure Score
 
 
   #### 实验室&#58;使用Microsoft安全分数
@@ -148,39 +147,40 @@ outlineSection: |-
   学完本模块后，学生将能够&#58;
   - 描述攻击者用来通过电子邮件破坏用户帐户的几种技术。
   - 描述攻击者用来控制资源的技术。
-  - 列出使用Exchange Online保护和Office 365 ATP可以避免的威胁类型。
+  - 列出使用EOP和Microsoft Defender for Office 365能避免的威胁类型
   - 描述Secure Score的好处以及可以分析的服务类型。
   - 描述如何使用安全评分来识别当前Microsoft 365安全状况的空白。
 
 
-  ### 模块 5&#58; 高级威胁防护
-  本模块介绍了可用于Microsoft 365的各种威胁防护技术和服务。该模块涵盖了通过Exchange Online保护、Azure高级威胁防护和Windows Defender高级威胁防护实现的邮件保护。
+  ### 模块 5&#58; 威胁防护
+  本模块介绍了可用于Microsoft 365的各种威胁防护技术和服务。该模块包含通过Exchange Online Protection、Microsoft Defender for Identity和Microsoft Defender for Endpoint进行消息保护。
   #### 课程
-  - Exchange Online Protection
-  - Office 365 Advanced Threat Protection
+  - Exchange Online Protection (EOP)
+  - Microsoft Defender for Office 365
   - 管理安全附件
   - 管理安全链接
-  - Azure Advanced Threat Protection
-  - Microsoft Defender Advanced Threat Protection
+  - Microsoft Defender for Identity
+  - Microsoft Defender for Endpoint
 
 
   #### 实验室&#58;管理 Microsoft 365 安全服务
-  - 实施 ATP 策略
+  - 实施Microsoft Defender政策
 
   学完本模块后，学生将能够&#58;
   - 当电子邮件由Exchange Online保护分析时，描述反恶意软件管道。
   - 描述如何使用安全附件阻止电子邮件附件和文档中的零日恶意软件。
   - 描述安全链接如何保护用户免受电子邮件和文档中嵌入的恶意URL的侵害
-  - 配置Azure高级威胁防护。
-  - 配置Windows Defender高级威胁防护。
+  - 配置Microsoft Defender for Identity
+  - 配置Microsoft Defender for Endpoint 
+
 
 
   ### 模块 6&#58; 威胁管理
-  本模块说明Microsoft威胁管理，为您提供了评估和解决网络威胁以及确定响应所用的工具。您将学习如何使用安全性控制面板和Microsoft 365的Azure Sentinel。该模块还说明和配置Microsoft Advanced Threat Analytics。
+  本模块说明Microsoft威胁管理，为您提供了评估和解决网络威胁以及确定响应所用的工具。您将学习如何使用安全性控制面板和Microsoft 365的Azure Sentinel。
   #### 课程
   - 使用安全性控制面板
-  - Microsoft 365威胁调查和响应
-  - 适用于Microsoft 365的Azure Sentinel
+  - 威胁调查和响应
+  - Azure Sentinel
   - 配置高级威胁分析
 
 
@@ -196,24 +196,37 @@ outlineSection: |-
   - 使用Microsoft 365中的攻击模拟器。
   - 描述Azure Sentinel如何用于Microsoft 365。
 
+  ###模块7&#58；Microsoft Cloud Application Security
+  本模块关注Microsoft 365中的云应用安全。该模块将说明云发现、应用连接器、政策和报警。您将学习此类功能保护您的云应用安全的方式。
+  #### 课程概述
+  - 部署Cloud Application Security
+  - 使用云应用安全信息
+  
+  
+  完成本模块学习后，学生将能o&#58；
+  - 描述Cloud App Security
+  - 说明部署的Cloud App Security的方法。
+  - 用政策来控制您的云应用。
+  - 使用Cloud App Catalog。
+  - 使用Cloud Discovery面板。
+  - 管理云应用许可。
 
-  ### 模块 7&#58; 移动性
+  ### 模块 8&#58; 移动性
   该模块着重于保护移动设备和应用程序。  您将了解移动设备管理以及它如何与Microsoft Intune一起使用。您还将了解如何将Intune和Azure AD用于保护移动应用程序。
   #### 课程
-  - 规划移动应用程序管理
-  - 规划移动设备管理
-  - 部署移动设备管理
-  - 将设备注册到移动设备管理
+  - 移动应用管理 (MAM)
+  - 移动设备管理 (MDM)
+  - 部署移动设备服务
+  - 登记进行移动设备管理的设备
 
 
-  #### 实验室&#58;为 Intune 配置 Azure AD
+  ####实验室&#58；设备管理
   - 启用设备管理
   - 为 Intune 配置 Azure AD
-  - 创建 Intune 策略
+  - 创建合规和条件访问政策
 
   学完本模块后，学生将能够&#58;
   - 描述移动应用注意事项。
-  - 使用Intune管理移动应用。
   - 使用Intune管理MDM。
   - 为MDM配置域。
   - 管理设备安全策略。
@@ -221,30 +234,34 @@ outlineSection: |-
   - 配置设备注册管理器角色。
 
 
-  ### 模块 8&#58; 信息保护
-  该模块说明了如何实施Azure信息保护和Windows信息保护。
+  ###模块9&#58；信息保护和治理
+  本模块专注Microsoft 365中的数据丢失防护。您将了解创建政策、编辑规则和定制化用户通知以保护您的数据的方法。
   #### 课程
   - 信息保护概念
-  - Azure信息保护
-  - 高级信息保护
-  - Windows信息保护
+  - 治理和记录管理
+  - 敏感标签
+  - Microsoft 365中的归档
+  - Microsoft 365中的保留
+  - Microsoft 365合规中心的保留政策
+  - Exchange中的归档和保留
+  - SharePoint中的就地记录管理
 
 
-  #### 实验室&#58;实施Azure信息保护和Windows信息保护
-  - 实施 Azure 信息保护
-  - 实施 Windows 信息保护
+  ###实验室&#58；归档和保留
+  - 合规初始化
+  - 配置保留标签和政策
 
   学完本模块后，学生将能够&#58;
-  - 为Azure信息保护配置标签和策略。
-  - 为权限管理服务（RMS）模板配置高级AIP服务设置。
-  - 规划Windows信息保护策略的部署。
+  - 配置敏感标签。
+  - 配置Microsoft 365中的归档和保留。
+  - 规划和配置记录管理
 
 
-  ### 模块 9&#58; 权限管理和加密
+  ### 模块 10&#58; 权限管理和加密
   本模块介绍Exchange和SharePoint中的信息权限管理。该模块还描述了用于保护消息的加密技术。
   #### 课程
-  - 信息权限管理
-  - 安全多用途互联网邮件扩展
+  - Information Rights Management (IRM)
+  - Secure Multipurpose Internet Mail Extension (S-MIME)
   - Office 365消息加密
 
 
@@ -258,14 +275,15 @@ outlineSection: |-
   - 描述并启用Office 365邮件加密。
 
 
-  ### 模块 10&#58; 数据丢失防护
+  ### 模块 11&#58; 数据丢失防护
   本模块重点介绍Microsoft 365中的数据丢失防护。  您将了解如何创建策略，编辑规则以及自定义用户通知以保护数据。
   #### 课程
-  - 数据丢失防护说明
-  - 数据丢失防护策略
-  - 自定义DLP策略
-  - 创建DLP策略以保护文档
-  - 策略提示
+  - 数据丢失防护基础
+  - 创建DLP政策
+  - 定制化DLP政策
+  - 创建保护文档的DLP政策
+  - 政策建议
+
 
 
   #### 实验室&#58;实施数据丢失预防策略
@@ -281,64 +299,36 @@ outlineSection: |-
   - 解释SharePoint Online如何从文档创建爬网属性。
 
 
-  ### 模块 11&#58; 云应用的安全性
-  本模块重点介绍Microsoft 365中的云应用程序安全性。  本模块将解释云发现、应用程序连接器、策略和警报。您将学习这些功能如何保护您的云应用程序。
-  #### 课程
-  - 云应用安全说明
-  - 使用云应用安全信息
+  ###模块12&#58；合规管理
+  本模块将对Microsoft 365的合规中心进行说明。将讨论合规得分的组成。
+  - 合规中心
 
   学完本模块后，学生将能够&#58;
-  - 描述云应用安全。
-  - 说明如何部署云应用安全。
-  - 使用策略控制云应用程序。
-  - 使用云应用目录。
-  - 使用云发现控制面板。
-  - 管理云应用权限。
+  - 描述用合规得分做出组织决策的方法。
+  - 描述通过评估来确定合规得分的方法。
 
 
-  ### 模块 12&#58; Microsoft 365中的合规性
-  本模块重点介绍Microsoft 365中的数据治理。本模块将向您介绍合规管理器并讨论 全球数据保护法规（GDPR）。
-  #### 课程
-  - 规划合规要求
-  - 在Exchange Online中构筑道德之墙
-  - 管理电子邮件的保留
-  - 数据治理故障排除
-
+  ###模块13&#58；内部风险管理
+  本模块关注Microsoft 365内与内部风险相关的功能。不仅包括合规中心的内部风险管理，还包括信息屏障和特权访问管理。
+  #### 课程概述
+  - 内部风险
+  - 特权访问
+  - 信息屏障
+  - 在Exchange Online中搭建信息隔离墙
+  
+  
+  ####实验室&#58；特权访问管理
+  - 建立特权访问管理并处理请求
+  
   学完本模块后，学生将能够&#58;
-  - 规划安全和合规角色。
-  - 描述您需要为GDPR考虑的事项。
-  - 描述什么是Exchange中的的道德墙，以及它的工作原理。
-  - 在邮箱中使用保留标记。
-  - 描述电子邮件消息和电子邮件文件夹的保留策略。
-  - 说明如何计算要素的保留期限。
-  - 修复未按预期运行的保留策略。
+  - 在Microsoft 365中说明和配置Insider Risk Management。
+  - 配置和审批全球管理员的特权访问请求。
+  - 配置和使用信息屏障以符合组织规章。
+  - 在Exchange Online中搭建信息隔离墙
+  - 配置Customer Lockbox
 
 
-  ### 模块 13&#58; 存档和保留
-  本模块介绍与Microsoft 365（包括Exchange和SharePoint）数据的保留和存档相关的概念。
-
-  #### 课程
-  - Microsoft 365中的存档
-  - Microsoft 365中的保留
-  - Microsoft 365合规中心中的保留策略
-  - 在Exchange中的存档和保留
-  - 在SharePoint中的就地记录管理
-
-
-  #### 实验室&#58;合规与保留
-  - 初始化合规
-  - 配置保留标签和策略
-
-  学完本模块后，学生将能够&#58;
-  - 描述就地存档和记录管理之间的区别。
-  - 解释如何在Exchange中存档数据。
-  - 说明保留政策的运作方式。
-  - 创建保留策略。
-  - 启用和禁用就地存档。
-  - 创建有用的保留标签。
-
-
-  ### 模块 14&#58; 内容搜索和调查
+  ###模块14&#58；发现和响应
   该模块专注于内容搜索和调查。 该模块介绍如何使用eDiscovery对Microsoft 365数据进行高级调查。它还包括审计日志和讨论GDPR数据主题请求。
   #### 课程
   - 内容搜索
@@ -351,11 +341,9 @@ outlineSection: |-
   - 进行数据主题请求
 
   学完本模块后，学生将能够&#58;
-  - 描述如何使用搜索架构。
-  - 设计内容搜索。
-  - 配置搜索权限过滤。
-  - 配置审核策略。
-  - 输入搜索审核日志的条件。
-  - 描述Microsoft 365中的高级eDiscovery。
-  - 查看高级eDiscovery事件日志。
+  - 在Microsoft 365中进行内容搜索
+  - 执行和审核日志调查
+  - 配置Microsoft 365以进行审核记录。
+  - 使用Advanced eDiscovery
+
 
