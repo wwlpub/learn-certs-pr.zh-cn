@@ -15,11 +15,12 @@ levels:
 skills:
 - 使用通用功能和实现工具
 - 配置安全性，进程和选项
-- 进行数据迁移
+- 管理Finance and Operations数据
 - 验证并支持解决方案
-- 设置和配置制造
-- 创建和管理生产和精益订单
-- 创建、处理和管理生产批次订单
+- 配置Dynamics 365 Supply Chain Management, Manufacturing
+- 管理制造过程
+- 实施主生产计划
+- 实现其他制造特征
 roles:
 - functional-consultant
 type: role-based

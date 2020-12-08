@@ -24,11 +24,11 @@ skills:
 - 配置市场营销应用
 - 管理细分市场和列表
 - 创建和管理营销表单和页面
-- 管理潜在客户
-- 创建和管理营销电子邮件
+- 管理线索、联系人、客户
+- 创建和管理营销电子邮件  
 - 管理客户旅程
 - 管理活动和网络研讨会
-- 配置和分析客户响应
+-  配置Dynamics 365 Customer Voice
 roles:
 - functional-consultant
 type: role-based

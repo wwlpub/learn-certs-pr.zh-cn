@@ -28,8 +28,8 @@
 - name: 考试政策和常见问题
   expanded: false
   items:
-  - name: 考试流程概述
-    href: exam-process-overview.md  
+  - name: 常见问题及回答
+    href: frequently-asked-questions.md  
   - name: 考试安全政策和考试重考政策
     href: exam-security-policy-and-exam-retake-policy.md
   - name:  考试改期和取消政策

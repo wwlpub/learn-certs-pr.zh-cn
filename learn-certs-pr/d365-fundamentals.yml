@@ -41,7 +41,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证学习路径
   description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBV
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: Exam Replay [重新考试]
   description: 查看两种特别优惠，助您提高通过几率。
   href: deals.md

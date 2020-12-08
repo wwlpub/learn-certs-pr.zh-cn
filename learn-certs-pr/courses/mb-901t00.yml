@@ -32,7 +32,7 @@ summary: |-
   本课程向学生概述 Dynamics 365 应用我们将向您介绍每个应用程序，阐述它们的业务价值，并讨论和演示核心功能。我们将探讨 Dynamics 365 安全、报告并向您介绍可用的数据和产品集成。
 
   #### 受众概况
-  本课程的目标读者是希望在 Dynamics 365 的基础知识方面打下坚实基础的学员。
+  本课程的目标人群是希望扎实掌握Dynamics 365基础知识的学员。
 prerequisitesSection: |-
   无
 outlineSection: |-
@@ -83,7 +83,7 @@ outlineSection: |-
   - 管理销售流程和管道
   - Microsoft Relationship Sales Solution (MRSS) 的优势
   - Dynamics 365 Sales Insights
-  - Microsoft Forms Pro
+  - Dynamics 365 Customer Voice
   - Dynamics 365产品可视化
   - 总结
 
@@ -97,7 +97,7 @@ outlineSection: |-
   - 阐明如何在Dynamics 365 Sales 中管理销售流程
   - 了解 Microsoft Relationship Sales Solution (MRSS)
   - 说明 Dynamics 365 Sales Insights 的业务价值
-  - 说明 Microsoft Forms Pro 的业务价值
+  - 说明Dynamics 365 Customer Voice的商业价值
 
 
   ### 模块 4&#58;Dynamics 365 Marketing 简介

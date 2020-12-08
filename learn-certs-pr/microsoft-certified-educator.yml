@@ -33,13 +33,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHl
 exams:
 - uid: exam.62-193
 resources:
-- title: 创新教学和学习（ITL）研究项目
-  description: 创新教学和学习（ITL）研究项目
-  href: https://education.microsoft.com/GetTrained/ITL-Research
+- title: Microsoft教育者中心
+  description: 针对教育者的培训、计划和资源。
+  href: https://education.microsoft.com/zh-cn
 - title: 学习指导
   description: 查找培训资料，为考试做准备
-  href: http://aka.ms/MCEStudyGuide
+  href: https://aka.ms/MCEStudyGuide
 - title: Exam Replay [重新考试]
   description: 现在教育未来活动的数字工具包 （海报，数据表和 MCE 考试目标域）
-  href: http://aka.ms/MCEAssets
+  href: https://aka.ms/MCEAssets
 

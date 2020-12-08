@@ -8,18 +8,15 @@ displayName: MB-330
 summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div> <strong>考试内容将于2020年10月16日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
+  <div> <strong>本次考试的内容更新于2020年10月16日。请下载以下的技能测试文档以查看已发生的变化。</strong><br/><br/></div>
   </div>
   
-  本考试的考生是职能顾问，他们分析业务需求并将这些需求转化为完全实现的业务流程和实施行业最佳实践的解决方案。考生是实施和配置应用程序以满足业务需求的关键资源。
-  <br/>
+  本次考试的报考人将分析业务需求并将此类需求翻译为完全实现的业务流程和实施最佳行业做法的解决方案。报考人作为实施和配置满足业务需求的应用的关键资源。
 
-  本考试的考生对企业的会计原则和财务运作，客户服务，现场服务，制造，零售和供应链管理概念有基本的了解。
-
-  此考试的考生通常专注于 Microsoft Dynamics 365 Finance的一个或多个功能集，包括财务、制造和供应链管理。
+  本次考试的报考人了解会计准则和企业财务运作、客户服务、现场服务、制造、零售和供应链管理概念的基础知识，。报考人通常专攻Finance and Operations应用的一个或多个特征集，包括财务、制造和供应链管理。
 
   考生必须具备供应链管理实践的一些知识，包括采购，贸易，物流，仓库管理和运输管理。
-subTitle: '该考试衡量您完成以下技术任务的能力：实施产品信息管理；实施库存管理；实施和管理供应链流程；并实施仓库管理和运输管理并执行业务流程。'
+subTitle: '本次考试将衡量您完成以下技术任务的能力：实施产品信息管理；实施库存管理；实施和管理供应链流程；实施仓库和运输管理；实施主计划。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
@@ -28,11 +25,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年10月16日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
-- 实施产品信息管理（25-30%）
-- 实施库存管理（20-25%）
-- 实施和管理供应链流程（25-30%）
-- 实施仓库管理和运输管理并执行业务流程（25-30%）
+- 本次考试的内容更新于2020年10月16日。请下载下述考试技巧以查看已发生的变化。
+- 实施产品信息管理（20-25%）
+- 实施库存管理（15-20%）
+- 实施和管理供应链流程（15-20%）
+- 实施仓库管理和运输管理（20-25%）
+- 实施主计划 (15-20%)
 roles:
 - functional-consultant
 products: 
@@ -54,7 +52,7 @@ relatedCertifications:
 resources:
 - title: 认证学习路径
   description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

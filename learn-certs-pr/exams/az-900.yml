@@ -8,7 +8,7 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>针对新冠病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div><strong>  新考试OD、考试和相应培训的发布时间已从 2020 年 9 月 15 日移到 11 月初。请回来查看更多信息。我们将确保在发布新版考试前至少30天通知您。 </strong><br/><br/></div> 
+  <div><strong>本次考试的内容将于2020年11月9日更新。请下载以下的技能测试文档以查看将发生什么变化。 </strong><br/><br/></div> 
   </div>
   
   参加该考试的考生应具有有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。此考试面向刚刚开始使用基于云的解决方案和服务或者对Azure不熟悉的考生。
@@ -38,6 +38,7 @@ locales:
 levels:
 - beginner
 skills:
+- 本次考试的内容将于2020年11月9日更新。请下载下述考试技巧以查看将发生什么变化。
 - 描述云端概念 (15-20%)
 - 描述核心 Azure 服务 (30-35%)
 - 描述安全性、隐私权、合规性和信任 (25-30%)

@@ -26,7 +26,7 @@ skills:
 - 安排和派遣工单
 - 管理现场服务流动性
 - 管理库存和采购
-- 管理资产和协议
+- 实现Connected Field Service
 roles:
 - functional-consultant
 type: role-based
@@ -56,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: 认证之旅
   description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

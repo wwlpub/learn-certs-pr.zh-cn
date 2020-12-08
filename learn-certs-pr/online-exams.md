@@ -272,7 +272,7 @@ ms.author: micsullivan
 
 ### 其他重要信息
 
-- 与任何其他 Microsoft 认证考试一样，您必须阅读并同意我们的[保密协议](/learn/certifications/certification-exam-policies#non-disclosure-agreement)(NDA)。您将仅有5分钟的时间阅读保密协议，因此我们建议您在考试前阅读，以确保您完全理解要求，并能在规定的时间内同意这些要求。如果您在规定的时间内不同意保密协议，您将不能参加考试。
+- 与任何其他 Microsoft 认证考试一样，您必须阅读并同意我们的[保密协议](/learn/certifications/microsoft-exam-non-disclosure-agreement)(NDA)。您将仅有5分钟的时间阅读保密协议，因此我们建议您在考试前阅读，以确保您完全理解要求，并能在规定的时间内同意这些要求。如果您在规定的时间内不同意保密协议，您将不能参加考试。
 - 您还必须遵守对考生的行为要求。包括但不限于以下内容：
   - 您不得以任何方式复制或记录考试的问题或答案。
   - 你不能与他人分享或讨论在考试中看到的问题或答案。
@@ -305,7 +305,7 @@ ms.author: micsullivan
 
 **注**在完成自助签到手续后，您可能等待30分钟，直到与迎宾员(需要重新确认身份或房间要求)或监考员连接。
 
-如果您在**预定考试时间**后30分钟未连接到监考员，连接中断。你可以在原定考试预约后24到30小时内重新安排考试。只需使用与您的Microsoft认证个人资料关联的电子邮件登录到您的[认证控制面板](https://www.microsoft.com/learning/dashboard.aspx)，以重新安排考试。我们建议您尽可能自助，但也可以联系Pearson VUE[支持](https://home.pearsonvue.com/microsoft/contact)，帮您重新安排考试。请耐心等待，由于新冠疫情(COVID-19)影响，回复比正常慢(最长5天)。
+如果您在**预定考试时间**后30分钟未连接到监考员，连接中断。你可以在原定考试预约后24到30小时内重新安排考试。只需使用与您的Microsoft认证个人资料关联的电子邮件登录到您的[认证控制面板](https://aka.ms/certdashboard)，以重新安排考试。我们建议您尽可能自助，但也可以联系Pearson VUE[支持](https://home.pearsonvue.com/microsoft/contact)，帮您重新安排考试。请耐心等待，由于新冠疫情(COVID-19)影响，回复比正常慢(最长5天)。
 
 - 身份验证和房间扫描是由迎宾员在自助签到完成后进行的。如果在迎宾员检查这些工件的过程中没有发现任何问题或担忧，那么您将被放入监考员队列中。一旦监考员有空，您就可以开始考试了。如果迎宾员对所提供的工件有疑问，迎宾员将与您一起解决这些问题。
 - 这个过程完成后，考试将开始。除非出现问题，否则监考员在考试期间不会与您联系。
@@ -327,10 +327,10 @@ ms.author: micsullivan
 查找有关在线监考考试的常见问题解答。
 
 ### 我要怎样判断在线监考考试是否适合我？
-首先确保您的计算机满足 [系统要求](/learn/certifications/online-exams#testing-session-protocol)并完成所需的 [系统测试](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。查看 [测试会话协议](/learn/certifications/online-exams#testing-session-protocol)，了解考试期间可能发生的情况。如果您对系统是否满足要求或对测试会话协议有疑问或保留，我们建议您在考试中心安排考试。
+首先确保您的计算机满足 [系统要求](/learn/certifications/online-exams#system-requirements)并完成所需的 [系统测试](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。查看 [测试会话协议](/learn/certifications/online-exams#testing-session-protocol)，了解考试期间可能发生的情况。如果您对系统是否满足要求或对测试会话协议有疑问或保留，我们建议您在考试中心安排考试。
 
 ### 如果我的系统未通过系统检测，我是否仍能参加在线考试？
-不。如果您的系统未通过 [系统测试](/learn/certifications/online-exams#take-a-system-test)，则您不应注册参加在线考试；如果您无法拍摄身份证的清晰照片，则您也不应安排在线考试。
+不。如果您的系统未通过 [系统测试](/learn/certifications/online-exams#system-requirements)，则您不应注册参加在线考试；如果您无法拍摄身份证的清晰照片，则您也不应安排在线考试。
 
 ### 如何注册在线考试？
 为了注册，请先使用与您的Microsoft认证个人资料关联的电子邮件登录到您的Microsoft[认证控制面板](https://aka.ms/certdashboard)。选择**安排考试**按钮，然后从[考试名单](/learn/certifications/browse/)中选择您希望参加的Microsoft考试。如果在您的国家提供有在线考试，您可以在考试注册过程中选择该选项。您还将选择接待员、监查员和监考软件的语言。
@@ -342,7 +342,7 @@ ms.author: micsullivan
 不需要，您可以混合搭配考试方式(在线或亲临考试中心)。
 
 ### 在考试开始并为我分配监考员之后，我需要在多长时间内完成考试？
-您的考试时间与在 Pearson VUE 考试中心参加考试时相同。如想了解基于考试类型的考试时间，请查看 [考试政策和常见问题](/learn/certifications/certification-exam-policies#frequently-asked-questions)。
+您的考试时间与在 Pearson VUE 考试中心参加考试时相同。如想了解基于考试类型的考试时间，请查看 [考试流程概述](/learn/certifications/exam-process-overview)。
 
 ### 在线考试比在考试中心的考试难吗？
 不是。考试的难度是相当的。
@@ -360,7 +360,7 @@ ms.author: micsullivan
 请查看当前的 [ID政策](https://home.pearsonvue.com/Policies/1S/English)，了解可接受的身份证清单。**您的 Microsoft 认证个人资料上的姓名必须与您将要用于参加考试的、由政府颁发的身份证上显示的姓名完全匹配。** 如果您正在更新或续签您的身份证明，请注意，在线考试不接受合法姓名更改表格(包括身份证更新表格)。
 
 ### 我应如何更改我在 Microsoft 认证个人资料上的合法姓名？
-您在 Microsoft 认证个人资料上的姓名必须与您将要用于参加考试签到的、由政府颁发的身份证上显示的姓名完全匹配。如果您需要更改姓名，请联系 [认证支持](https://aka.ms/mcpforum)，论坛版主会协助您。
+您在 Microsoft 认证个人资料上的姓名必须与您将要用于参加考试签到的、由政府颁发的身份证上显示的姓名完全匹配。若您需要修改您的名称，请填写[法定名称更新表](https://aka.ms/MSCertificationLegalNamechange)提交申请。
 
 ### 我预约了一个在线考试。我该如何开始？
 我们建议提前 15 分钟登录，以启动签到过程。到达预约时间之后，您将必须在 15 分钟内开始考试。

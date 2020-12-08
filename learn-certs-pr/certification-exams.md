@@ -28,12 +28,12 @@ Microsoft 认证可将您从职业生涯起步引领到巅峰时刻。认证可�
 
 #### 讲师指导课程
 
-[查找 Microsoft Certified Trainers 提供的关于Microsoft技术的课堂和按需培训。](https://www.microsoft.com/learning/find-partner.aspx)
+[查找 Microsoft Certified Trainers 提供的关于Microsoft技术的课堂和按需培训。](/learn/certifications/partners)
 
 #### 探索免费在线培训
 
 通过循序渐进的指导，学习新技能并发现 Microsoft 产品的威力。  
-[从探索我们的学习路径和模块开始您今天的旅程。](/学习/浏览/)。
+[从探索我们的学习路径和模块开始您今天的旅程。](/learn/browse/)。
 
 #### Microsoft 官方模拟考试
 
@@ -185,7 +185,7 @@ Microsoft 在整个考试生命期间监控考试的心理测验表现，确保�
 
 Microsoft 测试版考试的折扣为80％(需要提供代码)。考核完成后，利用80％折扣参加测试版考试的应试者在下一次考试中可获得25％的折扣，如下所述：[Updates on Microsoft 测试版 Exam Program](/learn/certifications/posts/updates-on-microsoft-beta-exam-program)._并非所有Beta版参与者都可享受此折扣。如果您通过其他任何方式为Beta考试付费，则您没有资格获得25％的折扣券。
 
-如需获取代码，您可以成为我们的 SME Profile 数据库的成员，也可以从我们[考试政策与常见问题页面](/learn/certifications/certification-exam-policies)左侧的“公告”部分中获取代码。中小企业档案数据库计划的合格参与者会收到一个独有的折扣代码以参加测试版考试，该代码让您更有可能获得参加测试版考试的名额。
+要获取代码，您可以成为我们的SME Profile数据库成员，或从[Microsoft Learn Blog](https://aka.ms/learningblog)上的公告处获取。中小企业档案数据库计划的合格参与者会收到一个独有的折扣代码以参加测试版考试，该代码让您更有可能获得参加测试版考试的名额。
 
 SME Profile 数据库程序现在托管在[Microsoft Collaborate](https://aka.ms/collaborate)上。请参阅社区博客[帮助我们创建考试和学习内容！立即加入我们的 SME 数据库！](/learn/certifications/posts/help-us-create-exams-and-learning-content)，以获取有关加入 Collaborate 计划的说明。
 

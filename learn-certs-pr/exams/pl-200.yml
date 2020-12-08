@@ -12,7 +12,7 @@ summary: |-
 
   应试者实施由解决方案架构师提供并与之协作的设计，以及由用户体验设计师建立的标准，品牌和构件。他们设计整合以提供与第三方应用程序和服务的无缝整合。
 
-  应试者与质量保证团队成员积极合作，以确保解决方案满足功能和非功能要求。他们确定，生成并交付用于打包和部署的工件，并提供给DevOps工程师，并为Power Platform管理员提供操作和维护培训。
+  Power Platform功能顾问应熟悉Dynamics 365模型驱动应用，具有使用Power Platform组件扩展和定制化Dynamics 365模型驱动应用的经验。
 
   <div> <strong><br/> Beta考试不会立即获得评分，因为我们正在收集有关问题和考试质量的资料。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></strong></div>
 subTitle: '该考试衡量您完成以下任务的能力: 配置公共数据服务；使用Power Apps创建应用；创建和管理Power Automate；实施Power Virtual Agents聊天机器人；并将Power Apps与其他应用程序和服务整合。'
@@ -42,6 +42,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
@@ -60,6 +62,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
+- title: 认证学习路径
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
