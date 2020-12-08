@@ -29,6 +29,13 @@ summary: |-
 
   #### 受众概况
   本课程的读者是想要学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能并在Microsoft Azure中建立其云数据服务基础知识的个人。
+prerequisitesSection: |-
+  开始学习本课程前，不要求进行必备技能认证。成功的Azure Data Fundamentals学生在开始学习时，具备一些基本的计算常识和互联网概念，并对数据洞察力感兴趣。
+  
+  具体而言&#58
+  - 使用[Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui)等浏览器的经验
+  - 熟悉基本的数据相关概念，如在电子数据表中使用数据表格以及用图表使数据可视化。
+  - 愿意通过实践探索来学习
 outlineSection: |-
   ### 模块 1&#58;探索核心资料概念
   学生将学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能，并在Microsoft Azure中建立有关云端数据服务的基础知识。学生将确定并描述核心资料概念，例如关系型，非关系型，大数据和分析，并探索如何使用Azure实施该技术。学生将探索数据世界中的角色，任务和责任。

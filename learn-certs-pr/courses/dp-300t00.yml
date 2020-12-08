@@ -35,9 +35,16 @@ summary: |-
   #### 受众概况
   本课程的读者是管理数据和数据库的数据专业人员，他们想要学习有关管理 Microsoft Azure 上可用的数据平台技术的知识。对于需要了解哪些技术可用于 Azure 数据平台以及如何通过应用程序使用这些技术的数据架构师和应用程序开发人员来说，本课程也很有价值。
 prerequisitesSection: |-
-  除了专业经验外，参加此培训的学生还应具有与以下课程相当的技术知识&#58;
-  - Azure Fundamentals
-  - Azure Data Fundamentals
+  成功的Azure Database Administrators凭借数据库管理专业经验和云技术的技术知识开始该角色。
+  
+  具体而言&#58;
+  - 使用、维护SQL服务器并用其进行开发
+  - 部署和管理资源等Azure使用经验
+
+  上课前，您至少应了解以下在线培训课程的信息&#58;
+  - [Azure SQL简介](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals) 
 outlineSection: |-
   ### 模块 1&#58; Azure数据库管理员的角色
   本模块探讨Azure中数据库管理员的角色。它还提供了一些与总体内容相关的基础信息。其中包括对各种基于 SQL Server 的选项(VM，受控实例和 Azure SQL 数据库中的 SQL Server）的回顾。学生将了解为什么在 Azure 中使用 SQL 数据库时兼容性级别是至关重要的概念。除了基于 SQL Server 的数据库平台外，还向学生介绍了Azure上可用的其他数据库平台，特别是 PostgreSQL和 MySQL 

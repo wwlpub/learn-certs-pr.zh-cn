@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Microsoft Power Platform Developer
+metadata:
+  title: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+  description: 'Course PL-400T00-A: Microsoft Power Platform Developer'
+uid: course.pl-400t00
+courseNumber: 'PL-400T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 创建技术设计
+- skill: 配置Common Data Service
+- skill: 创建和配置Power应用程序
+- skill: 配置业务流程自动化
+- skill: 扩展用户体验
+- skill: 扩展平台
+- skill: 开发集成
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-400
+summary: |-
+  Microsoft Power Platform将帮助组织通过简化、自动化和转变业务任务和流程来优化其运营。在本课程中，学生将学习如何建立Power应用程序、实现流程自动化和扩展平台以实现业务需求并解决复杂的经营问题。
+
+  #### 受众概况
+  本课程的申请人将进行Power Platform解决方案的设计、开发、保护和故障处理。申请人将实施解决方案的各个部分，包括应用增强、自定义用户体验、系统集成、数据转换、自定义流程自动化和自定义可视化。申请人将获得Power Platform服务的应用知识，包括深入了解功能、边界和限制。申请人应具备JavaScript、JSON、TypeScript、C#、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web Services、ASP.NET和Power BI等开发经验。
+prerequisitesSection: |-
+  - 申请人应具备Power Platfom入门知识 
+  - 申请人应具备JavaScript、JSON、TypeScript、C#、HTML、.NET、Microsoft Azure、Microsoft 365、RESTful Web Services、ASP.NET和Power BI等开发经验。
+outlineSection: |-
+  ### 模块 1&#58; 在Power Apps中创建模型驱动应用
+  本模块将为您介绍在Power Apps中使用Common Data Service创建模型驱动应用程序的方法。
+  
+  
+  ### 模块 2&#58; 初步使用Common Data Service
+  本模块将说明Common Data Service背后的概念及其优势。还将讨论创建环境、实体、字段和选项集。
+  
+  
+  ### 模块 3&#58; 在Power Apps中创建画布应用程序
+  本模块将为您介绍Power Apps，帮助您创建和定制应用程序，然后管理和发布该应用。还将为您展示如何提供最佳应用导航和用主题、图标、图像、个性化、各种形状参数和控制器来建立最佳UI。
+  
+  
+  ### 模块 4&#58; 用Power Automate实现业务流程自动化
+  本模块将为您介绍Power Automate，教您如何建立工作流，如何管理流程。
+  
+  
+  ### 模块 5&#58; 在Power Automate中创建业务流程
+  本模块将为您介绍在Power Automate中创建业务流程的方法。
+  
+  
+  ### 模块 6&#58; Power Platform开发简介
+  本模块是了解Power Platform的平台、工具和生态系统的第一步。
+  
+  
+  ### 模块 7&#58; 扩展Power Platform用户体验模型驱动应用程序 
+  本模块描述了如何创建客户端脚本，执行客户端脚本常用操作，用客户端脚本实现业务流程自动化。了解客户端脚本的作用、规则和维护脚本。弄清楚何时应该使用客户端脚本以及何时不应使用客户端脚本。
+  
+  
+  ### 模块 8&#58; 用Power Apps Component Framework创建组件
+  本模块描述了如何通过核心概念和组件的介绍模块来初步了解Power Apps Component Framework。随后，将为您展示如何建立组件和使用高级Power Apps Component Framework功能。
+  
+  
+  ### 模块 9&#58; 扩展Power Platform Common Data Service
+  本模块关注扩展Power Platform所需的工具和资源。我们将初步关注SDK、扩展性模型和事件框架。该学习路径还包括何时使用插件。配置插件以及插件注册和部署。
+  
+  
+  ### 模块 10&#58; 集成Power Platform和Common Data Service
+  本模块描述如何用代码通过了解Common Data Service API来集成Common Data Service。获取Common Data Service可用选项详细描述将数据和事件集成到Azure。
+  
+  
+  ### 模块 11&#58; 扩展Power Apps门户
+  本模块描述如何将内容门户转变为与Common Data Service交互的完整web应用。还将包含定制器和开发人员可用于扩展门户功能以及与Office 365、Power Platform和Azure集成的选项。

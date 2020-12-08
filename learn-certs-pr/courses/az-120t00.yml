@@ -6,12 +6,12 @@ metadata:
 uid: course.az-120t00
 courseNumber: 'AZ-120T00-A'
 hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 迁移SAP HANA，S/4HANA，SAP NetWeaver到Azure
 - skill: 利用Azure门户，Cloud Shell，Azure PowerShell，CLI和资源管理器
 - skill: 使用站点间连接功能，包括VNet对等和VNet到VNet连接
 - skill: 使用Azure Active Directory（AAD）和Azure AD Connect
-iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -30,56 +30,58 @@ summary: |-
 
   本课程适用于在Azure上迁移和管理SAP解决方案的Azure管理员。Azure管理员管理跨越存储、网络和计算云功能的云服务，并对整个IT生命周期中的每项服务都有深刻的了解。他们接受最终用户对新云应用程序的请求，并就可以使用的服务提出建议，以实现最佳性能和规模，以及根据需要提供，调整大小，监控和调整。该角色需要与供应商进行沟通和协调。Azure管理员使用Azure门户，并且随着他们变得更加熟练，他们使用PowerShell和命令行界面。
 prerequisitesSection: |-
-  - 适用于SAP的Azure解决方案的管理员和架构师应具有SAP应用程序，SAP HANA，S / 4HANA，SAP NetWeaver，SAP BW，用于SAP应用程序和数据库的OS服务器的扎实知识。
-  - 在学习本课程之前，建议学生参加Azure Administrator （AZ-103）或Azure Solutions Architect（AZ-300）培训以及SAP HANA和Linux培训。
-outlineSection: |-
-  ### 模块 1&#58; 简介
-  包含SAP和Microsoft合作关系的概述。
-  ### 模块 2&#58; Azure的SAP基础
+  学生应在利用以往的Linux操作系统、虚拟化、云基础设施、存储结构和网络经验来实现、迁移和管理SAP应用程序方面具有扎实的基础知识。具体而言&#58;
 
-  包含有关Azure计算，Azure存储，Azure网络，适用于Azure的SAP HANA（大型实例），身份服务，治理和可管理性，备份和数据保护服务以及迁移服务的简短课程。
+  必备经验&#58;
+
+  - Azure IaaS和PaaS解决方案的实践经验，包括VM、VNet、Load Balancers、Storage（Blob、Files、Disks）。
+  - 了解内部部署和云虚拟化技术，包括：VM、虚拟网络和虚拟硬盘。
+  - 了解网络配置，包括TCP/IP、Domain Name System（DNS）、虚拟专用网络（VPN）、防火墙和加密技术。 
+  - 了解Active Directory的概念
+  - 在Linux/Unix环境下的经验 
+  - 在SAP应用程序、SAP HANA、S/4HANA、SAP NetWeaver、SAP BW、SAP应用程序和数据库的OS Server方面有扎实的基础知识
+  - 了解SAP HANA的部署和配置。 
+  - 具有SAP HANA管理预修课程实践经验（或具有相当的知识和实践经验）&#58
+  - AZ-900 Azure Fundamentals
+  - AZ-104 Azure Administrator
+outlineSection: |-
+  ### 模块 1&#58; 适用于SAP工作负载的Azure简介
+
+  学生将了解Microsoft和SAP的合作关系，研究适用于SAP工作负载的Azure简介，学习常见术语及其含义。
+
+  ### 模块 2&#58; 创建适用于SAP工作负载的Azure
+
+  包含Azure计算、Azure存储、Azure网络、身份识别服务以及治理和可管理性课程。
+
   ### 模块 3&#58; Azure上的SAP认证产品
 
-  包含有关一般前提条件的课程（公共云环境中的SAP支持），针对SAP工作负载的Azure部署选项，针对Azure的SAP产品特定支持，针对SAP工作负载的Azure操作系统支持，针对SAP工作负载的Azure存储支持，针对SAP的网络支持SAP，对SAP的数据库支持，对SAP的高可用性和灾难恢复支持以及对SAP的监视要求。
+  ### 模块 4&#58; Azure for SAP workloads参考架构
 
-  #### 实验 &#58; 在线实验&#58; 在Azure VM上实现Linux群集
+  包含Azure VM上的SAP NetWeaver和AnyDB以及Azure VM上的SAP S4 HANA课程。
 
-  #### 实验 &#58; 在线实验&#58; 在Azure VM上实现Windows群集
+      
+  包含Azure VM计算、网络和存储考虑事项，Azure VM高可用性和灾难恢复考虑事项，Azure VM备份考虑事项，Azure VM监控考虑事项，Azure VM安全考虑事项，Azure VM验证与访问控制考虑事项，Azure VM许可、定价和支持考虑事项方面的课程。
 
-  ### 模块 4&#58; Azure参考架构上的SAP
+      
+  包含Azure VM部署方法、单实例实现（2级和3级）、实现Azure VM上的HA SAP NetWeaver和AnyDB、实现Azure VM上的HA SAP HANA、配置适用于SAP的Azure Enhanced Monitoring Extension、实现AD和基于Azure AD的验证方面的课程。
 
-  包含有关在SAP NetWeaver和AnyDB，SAP S4 HANA和SAP HANA在Azure VM上的Azure（大型实例）上的课程。
-  ### 模块 4&#58; Azure参考架构上的SAP
+  #### 实验室&#58; 在线实验室&#58; 运行Linux在Azure VM上实现SAP架构
 
-  包含有关在SAP NetWeaver和AnyDB，SAP S4 HANA和SAP HANA在Azure VM上的Azure（大型实例）上的课程。
-  ### 模块 5&#58; 规划在Azure上实施SAP解决方案
+  #### 实验室&#58; 在线实验室&#58; 运行Windows在Azure VM上实现SAP架构
+
+  ### 模块 8&#58; Azure上的SAP HANA（大型实例） (HLI)
+
+  包含在Azure创建SAP HANA（大型实例） (HLI)、HLI认证产品、HLI示例架构、HLI计划考虑事项、HLI高可用性和灾难恢复计划、HLI备份考虑事项、HLI安全考虑事项、HLI许可和支持、实现和部署HLI、管理HLI以及HLI监控和故障处理。
     
-  包含有关Azure VM计算，网络和存储注意事项的课程。以及Azure VM高可用性和灾难恢复，Azure VM备份注意事项，Azure VM监视注意事项，Azure VM安全注意事项以及Azure VM身份验证和访问控制注意事项。
-  ### 模块 6&#58; 规划将SAP工作负载迁移到Azure
+  ### 模块 9&#58; 将SAP工作负载迁移至Azure
+
+  包含迁移选项、DMO方法、云迁移选项以及将超大数据库迁移至Azure方面的课程。 
     
-  包含有关将SAP系统迁移到Microsoft Azure和SAP工作负载规划和部署清单的策略的课程。
+  ### 模块 10&#58; 维护适用于SAP工作负载的Azure
 
-  ### 模块 7&#58; 实施基于Azure VM的SAP解决方案
+  包含远程管理、执行备份和恢复、网络变化、OS和工作负载更新、垂直和水平扩展以及灾难恢复方面的课程。
     
-  包含有关Azure VM部署方法，单实例实施（2层或3层），在Azure VM上使用AnyDB实施HA SAP NetWeaver，在Azure VM上实施HA SAP HANA，为SAP配置Azure增强监视扩展以及实施AD和基于Azure AD的身份验证。
+  ### 模块 11&#58; 适用于SAP工作负载的Azure监控和故障处理 
 
-  ### 模块 8&#58; 模块8-部署HANA大型实例（HLI）
-    
-  包含有关实施HANA大型实例（HLI）的课程。
-
-  ### 模块 9&#58; 将SAP工作负载迁移到Azure
-    
-  包含有关迁移选项，DMO方法，云迁移选项以及超大型数据库到Azure迁移的课程。
-
-  #### 实验 室&#58; 运行Linux的Azure VM上的在线实验室实施SAP架构
-
-  #### 实验 室&#58; 运行Windows的Azure VM上的在线实验室实施SAP架构
-
-  ### 模块 10&#58; 在Azure上维护SAP
-    
-  包含有关以下内容的课程：远程管理，执行备份和还原，操作系统和工作负载更新，垂直和水平扩展以及灾难恢复（DR）。
-
-  ### 模块 11&#58; 在Azure上监视和故障排除SAP
-    
-  包含有关监视Azure VM，监视Azure上的SAP HANA（大型实例）以及将SAP解决方案与Microsoft云服务集成的课程。
+  包含Azure VM监控和故障处理及提交支持请求方面的课程。
 

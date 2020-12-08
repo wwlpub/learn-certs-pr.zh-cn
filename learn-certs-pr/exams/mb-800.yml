@@ -16,10 +16,11 @@ summary: |-
 
   此考试的应试者通常专门研究Business Central的一个或多个功能集。他们了解Business Central与Dynamics 365应用程序套件之间的关系。
 
-  <div><strong><br/>注意&#58;这项考试将于 2020 年 10月 6 日左右推出。</strong></div>
-subTitle: '这项考试将于 2020 年 10月 6 日左右推出。该考试衡量您完成以下任务的能力: 设置Business Central；配置财务；配置销售和采购；并执行Business Central操作。'
+  <div><strong><br/>测试版考试不会立即进行评分，因为我们正在收集问题和考试质量相关数据。如需了解更多详情，请访问网址<a href="/learn/certifications/certification-exams#participating-in-beta-exams">，查看测试版考试的价值和重要性</a>。</strong></div>
+subTitle: '该考试衡量您完成以下任务的能力: 设置Business Central；配置财务；配置销售和采购；并执行Business Central操作。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-800&examname=Exam%20MB-800:%20Microsoft%20Dynamics%20365%20Business%20Central%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-800
 locales:
 - en
 levels:
@@ -51,12 +52,15 @@ relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
 resources:
+- title: 认证学习路径
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GHuX
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

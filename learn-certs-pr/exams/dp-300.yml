@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>该考试的内容已于2020年9月24日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>本次考试的内容将于2020年11月24日更新。请下载以下的技能测试文档以查看将发生什么变化。</strong><br/><br/></div>
   </div>
 
   参加该考试的应试者是数据库管理员和数据管理专家，他们管理使用Microsoft SQL Server和Microsoft Azure数据服务构建的本地和云关系数据库。
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 考试内容将于2020年9月24日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 本次考试的内容将于2020年11月24日更新。请下载下述考试技巧以查看将发生什么变化。
 - 规划和实施资料平台资源 (15-20%)
 - 实施一个安全环境 (15-20%)
 - 监控和优化运营资源 (15-20%)

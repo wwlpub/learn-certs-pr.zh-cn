@@ -1,6 +1,6 @@
 ---
-title: '考试过程检查 | Microsoft Docs'
-description: '考试流程概述' 
+title: '常见问题及回答 | Microsoft Docs'
+description: '常见问题及回答' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,22 +10,11 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# 考试流程概述
-
-## 政策与协议
+# 常见问题及回答
 
 查找有关 Microsoft Certification exams的常见问题的答案。
 
-- 考试基本信息
-- 考试详情
-- 评分和成绩
-- 考试安全性和完整性政策
-- 基于成绩的测试
-- 基于角色的认证
-- 考试的学术优惠价
-- 住宿要求
-
-### 考试基本信息
+## 考试基本信息
 
 **考试将包含多少道考题？**
 
@@ -76,7 +65,7 @@ ms.prod: non-product-specific
 
 您可能还想问其他人他们如何执行这些任务，阅读白皮书、MSDN 或 TechNet 以获取考试中包含的任务的更多信息，和/或查看“考试详情”页面上“备考材料”一节中提供的资源。“考试详情”页面将链接到任何可用的在线课程、微学习、选项和门户网站，您可以在其中找到您所在地区的讲师指导培训选项。
 
-此外，[Microsoft官方模拟测试](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) 可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
+此外，[Microsoft官方模拟测试](https://www.measureup.com/microsoft/microsoft-technical/microsoft-practice-tests.html) 可用于我们的某些认证考试。这些考试可能会提供有关您的特定优势和薄弱环节的更多信息。但是，通过模拟考试并不保证您将通过认证考试。
 
 如果您已参加了考试并且未通过考试，请将考试重点放在考试成绩最差的内容区域和问题比例最高的内容区域，优先考虑您应该练习的技能。
 
@@ -86,11 +75,11 @@ ms.prod: non-product-specific
 
 **我是否必须以英语参加考试？**
 
-Microsoft Certification exams有多种语言版本。但是，必须以英语而不是其母语参加考试的考生可以申请额外的考试时间。额外时间的批准取决于具体情况，需要在考试前申请。应通过[考试便利流程](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams)申请。
+Microsoft Certification exams有多种语言版本。但是，必须以英语而不是其母语参加考试的考生可以申请额外的考试时间。额外时间的批准取决于具体情况，需要在考试前申请。应通过[考试便利流程](/learn/certifications/request-accomodations)申请。
 
 **有哪些残障人士便利设施可用？**
 
-Microsoft 致力于确保每个人(包括残障人士)都可访问我们的考试。请访问[考试便利部分](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams)，查看可提供的考试便利一览表。
+Microsoft 致力于确保每个人(包括残障人士)都可访问我们的考试。请访问[住宿申请章节](/learn/certifications/exam-process-overview#accommodation-requests)，查看可提供的考试便利一览表。
 
 **考试的费用是多少？**
 
@@ -114,7 +103,7 @@ Expert 和 Associate 考试通常需要 165 美元，但根据特定国家和地
 
 要报告安全问题，请联系 [mlsecure@microsoft.com](mailto：mlsecure@microsoft.com)。
 
-### 考试详情
+## 考试详情
 
 **Microsoft Certification exams中会出现哪些类型的考题？**
 
@@ -195,7 +184,7 @@ Microsoft 尽力确保为考试中测试的所有技能提供某种形式的培�
 
 不可以。同一考试不能同时满足同一 MCSE 或 MCSD 路径上的 MCSA 和选修课的要求。
 
-### 评分和成绩
+## 评分和成绩
 
 **如何以及何时将获得我的考试结果？**
 
@@ -317,7 +306,7 @@ Microsoft exams经过精心设计，以便可以使用总的测验分数决定�
 
 **我可以如何就某道考题提出质疑？**
 
-如果您认为Microsoft 认证考试中的问题不准确，则可以使用[考试项目挑战过程](/learn/certifications/exam-reschedule-and-cancellation-policy) 在参加考试的30个日历天内。评估过程可帮助我们确定和纠正有问题的考题，并相应地更新考试。
+如果您认为Microsoft 认证考试中的问题不准确，则可以使用[考试项目挑战过程](/learn/certifications/exam-item-challenge-process) 在参加考试的30个日历天内。评估过程可帮助我们确定和纠正有问题的考题，并相应地更新考试。
 
 **Microsoft 员工是否将审阅并评估我质疑的考题？**
 
@@ -335,7 +324,7 @@ Microsoft 员工将执行初始评估。如果需要另外评估，独立的主�
 
 否。Microsoft 不对您未通过的考试或者您错过的考试预约提供退款。
 
-### 考试安全性和完整性政策
+## 考试安全性和完整性政策
 
 **为什么我在参加考试之前需要接受保密协议 (NDA)？**
 
@@ -401,7 +390,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 是。与 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) 的所有通信往来都可以保持匿名，我们不会与任何人分享您的联系信息。如果您希望包括您的联系信息以便我们可以跟进更多信息，那么我们将竭力保护该信息。
 
-### 基于成绩的测试
+## 基于成绩的测试
 
 **什么是基于成绩的测试(PBT)？**
 
@@ -452,7 +441,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 **我需要多长时间才能完成实验？**
 
- 实验没有与考试分开计时。在考试开始时，将提供实验数量，案例研究和问题以及考试时间。您必须在提供的时间内回答所有问题，包括完成与任何实验相关的任务。相应地管理您的时间，以便您可以完成必须完成的所有活动。
+实验没有与考试分开计时。在考试开始时，将提供实验数量，案例研究和问题以及考试时间。您必须在提供的时间内回答所有问题，包括完成与任何实验相关的任务。相应地管理您的时间，以便您可以完成必须完成的所有活动。
 
 **我有足够的时间来完成实验吗？**
 
@@ -494,7 +483,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 包括实验的考试要求考试中心满足某些互联网连接要求，因此可用的考试中心较少。随着实验被添加到更多基于角色的考试中，他们也将受到同一组考试中心的影响。如果您有心仪的考试中心，请联系该考试中心，了解他们是否可以提供实验；或者，您在选择考试时它们将不会被列为可用的考试中心。如果发生这种情况，我们建议您找另外的考试中心或通过在线监考参加考试。注意：您可以通过在线监考进行模拟；然而，那将取决于您的带宽和网络连接情况。
 
-### 基于角色的认证
+## 基于角色的认证
 
 **基于角色的认证是如何命名的？他们还会成为 MCSA，MCSD 和 MCSE吗？**
 
@@ -519,7 +508,7 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 不，我们不会降低人们通过考试或获得认证所需的经验要求。培训旨在为考试做好准备，但其本身可能不够。为了解决我们基于角色的考试中的问题，要求您运用在实际问题培训时获得的技能和知识。
 
 
-### 考试的学术优惠价
+## 考试的学术优惠价
 
 **如果我在最初注册一门考试并支付考试费用时没有验证学术机构折扣，但现在通过了验证，我能否获得退款？**
 
@@ -539,11 +528,11 @@ Microsoft 认证计划要求考生在参加考试之前接受 NDA 的条款。ND
 
 如果您有与考试注册有关的一般性问题，或者对新的或待处理的验证请求有特定的问题，请联系 [Certification Support](https://aka.ms/mcpforum)。
 
-### 住宿要求
+## 住宿要求
 
 **我如何请求获得便利？**
 
-如果您在考试时需要特殊设备或其他便利，则可以使用他们的合理 '调整要求系统' [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 通过[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 申请便利。上面的 [参加考试时的特殊住宿](/learn/certifications/request-accomodations) 部分提供了更多详细信息。
+如果您在考试时需要特殊设备或其他便利，则可以使用他们的合理 '调整要求系统' [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate) 通过[Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 申请便利。上面的 [申请住宿](/learn/certifications/request-accomodations) 部分提供了更多详细信息。
 
 **为什么需要提交文件？**
 

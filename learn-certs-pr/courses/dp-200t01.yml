@@ -36,8 +36,18 @@ summary: |-
   #### 受众概况
   本课程的主要听众是想要了解Microsoft Azure上存在的数据平台技术的数据专业人员，数据架构师和商业智能专业人员。本课程的次要听众是利用Azure上数据平台技术，开发内容交付应用程序的个人。
 prerequisitesSection: |-
-  除了专业经验外，参加此培训的学生还应具有与以下课程相当的技术知识&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/zh-cn/learn/modules/welcome-to-azure/)
+  成功的学生在开始本课程学习时，具备云计算概念知识和数据解决方案的专业经验。 
+  
+  具体而言&#58
+  - 在Microsoft Azure中创建云资源
+  - 识别大数据使用案例
+  - 了解云计算服务解决常见业务需求的方式
+
+  为了获取此类必备技能，上课前请完成以下免费在线培训&#58
+  - [研究Microsoft云概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [识别数据工程师的任务](/learn/modules/data-engineering-processes/)
+  - [核心云服务 - Azure数据存储选项](/learn/modules/intro-to-data-in-azure/)
+  - [核心云服务 - Azure计算选项](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### 模块 1&#58; 适用于数据工程师的Azure
   本模块探讨了数据世界如何演变以及云数据平台技术如何为企业提供了以不同方式浏览数据的新机会。学生将大概了解可用的各种数据平台技术，以及数据工程师的角色和职责如何演变，以在这个新领域中工作以使组织受益。

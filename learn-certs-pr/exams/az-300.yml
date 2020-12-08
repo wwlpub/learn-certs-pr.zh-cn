@@ -7,7 +7,7 @@ uid: exam.az-300
 displayName: AZ-300
 summary: |-
   <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
-  <div><strong>该考试的英语版本于2020年9月30日停用。有替代考试 <a href="/learn/certifications/exams/az-303">Az-303</a>可用。本地化语言考试将持续到2020年10月30日。</strong><br/><br/></div>
+  <div><strong>本考试已停用。替代考试AZ-303可用。如需更多详情，请访问网址<a href="/learn/certifications/exams/az-303">的AZ-303考试详情页</a>。</strong><br/><br/></div>
   </div>
 
   参加该考试的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。
@@ -18,17 +18,10 @@ summary: |-
 
   参加该考试的考生应具有 IT 运营各个方面的高级经验和知识，包括联网、视觉效果、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理——该角色应管理各个领域的决策如何影响整体解决方案。此外，该角色应精通以下 Azure 知识领域中的至少一个&#58;管理、开发或 DevOps。
 
-  <div> <strong><br/>注意&#58;如果您通过下列考试组合，您将会获得 <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; 如果您通过以下考试组合之一，则获得Azure解决方案架构师专家</a>认证&#58;<ul>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
-  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> 和 <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
-  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> 和 <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
-  </ul></strong></div>
 subTitle: '此考试考查您完成以下技术任务的能力: 部署和配置基础架构；实施工作量和安全；创建和部署应用程序；实现身份验证和安全数据；以及开发云和 Azure 存储。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
 - ja
 - zh-cn
@@ -36,12 +29,12 @@ locales:
 levels:
 - advanced
 skills:
-- 该考试的英语版本于2020年9月30日停用。有替代考试 AZ-303可用。	本地化语言考试将持续到2020年10月30日。请下载下面的技能测量文档，查看关于变更的信息。
 - 部署和配置基础架构 (40-45%)
 - 实现工作负载和安全性 (25-30%)
 - 创建和部署应用 (5-10%)
 - 实现认证和安全数据 (5-10%)
 - 开发云和 Azure 存储 (15-20%)
+retirementDate: 09/30/2020
 roles:
 - solution-architect
 products:

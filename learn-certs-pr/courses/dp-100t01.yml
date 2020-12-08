@@ -26,10 +26,18 @@ summary: |-
   #### 受众概况
   本课程面向数据科学家以及在训练和部署机器学习模型方面负有重要责任的人员。
 prerequisitesSection: |-
-  参加本课程之前，学生必须具备&#58;
-  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
-  - 了解数据科学，包括如何准备数据、训练模型以及评估竞争模型以选择最佳模型。
-  - 如何使用Python编程语言进行编程并使用Python库&#58;pandas，scikit-learn，matplotlib和seaborn。
+  成功的Azure Data Scientists凭借云计算概念的基础知识和通用数据科学及机器学习工具和技术的经验开始该角色。
+  
+  具体而言&#58;
+  - 在Microsoft Azure中创建云资源
+  - 使用Python进行数据探索和可视化。
+  - 用Scikit-Learn、PyTorch和TensorFlow等常见框架来培训和校验机器学习模型。
+  
+  为了获取此类必备技能，上课前请完成以下免费在线培训&#58
+  - [研究Microsoft云概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)。
+  - [创建机器学习模型](/learn/paths/create-machine-learn-models/) 
+  
+  若您之前完全不了解数据科学和机器学习，请先完成[Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)学习。
 outlineSection: |-
   ### 模块 1&#58; 在Azure上研究数据科学
   学生将学习数据科学过程和数据科学家的工作。  然后将其应用于了解Azure服务如何支持和增强数据科学处理。

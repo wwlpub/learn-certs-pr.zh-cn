@@ -30,8 +30,15 @@ summary: |-
   本课程的听众是数据专业人员和数据架构师，他们想要学习迁移Microsoft Azure上存在的数据平台技术以及如何迁移和现代化基于SQL的现有工作负载。
   本课程的主要受众是管理数据平台或开发可从现有数据平台技术交付内容的应用程序的人员。
 prerequisitesSection: |-
-  除了他们在SQL Server方面的专业经验之外，接受此培训的学生还应具有与以下课程相当的技术知识&#58;
-  - [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+  成功的学生凭借云计算概念的基础知识和实现SQL解决方案的专业经验开始该角色。
+  
+  具体而言&#58;
+  - 使用和维护SQL工作负载
+  - 部署和管理资源等Azure使用经验
+
+  为了获取此类技能，上课前请完成以下免费在线培训&#58
+  - [Azure SQL简介](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
 outlineSection: |-
   ### 模块 1&#58; 介绍数据平台现代化
   在本模块中，学生将学习数据平台现代化的目的，并概述数据平台现代化可以为组织带来的好处。然后，学生将学习数据平台迁移项目的各个阶段，以了解每个阶段涉及的内容，从而最大程度地提高成功实施数据平台现代化项目的机会。最后，学生将探索各种数据迁移路径，以了解每种方法的不同之处以及为什么选择一种迁移方法而不是另一种。

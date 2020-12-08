@@ -37,6 +37,8 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+courses:
+- uid: course.pl-400t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -51,6 +53,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-developer-associate
 resources:
+- title: 认证学习路径
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GBWZ
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -12,13 +12,10 @@ ms.prod: non-product-specific
 ---
 # 测试版考试
 
-
-## 活动信息
-
 大约 400 人可以优惠价参加测试版考试。要想获得此优惠价测试，您需要一个测试代码，在注册时您必须输入此测试代码作为您付款的一部分。要获得此代码，您可以：
 
 1. 加入我们的 SME 档案数据库。技能与考试内容领域相一致的成员将收到一封包含此代码的电子邮件；此代码在该群体中是唯一的。如果您是我们 SME 数据库的成员，可以提前访问测试，您必须更新您的个人资料，因为我们的目标是将这些代码分发给具有与新考试相关技能的人员。(SME 资料数据库程序现在托管在[Microsoft Collaborate](https://aka.ms/collaborate)上。请参阅博客文章 [Help Us Create Exams and Learning Content!](/learn/certifications/posts/help-us-create-exams-and-learning-content) 立即加入我们的 SME 数据库！)
-2. 观看 Microsoft Learn 或我们的[社区博客](https://www.microsoft.com/en-us/learning/community-blog.aspx)上的公告，以获取有关即将推出的测试版考试的信息。这些帖子将包含在考试中获得折扣的代码。这些帖子通常在测试版考试开始注册当天发布。此代码与发送给加入我们数据库的 SME 的代码不同。
+2. 请留意[Microsoft Learn Blog](https://aka.ms/learningblog)上的公告，了解即将到来的测试版考试之相关信息。 这些帖子将包含在考试中获得折扣的代码。这些帖子通常在测试版考试开始注册当天发布。此代码与发送给加入我们数据库的 SME 的代码不同。
 
 请注意，座位数量有限，先到先得，并且出于安全原因，在中国、印度、巴基斯坦或土耳其不提供测试版考试。
 
