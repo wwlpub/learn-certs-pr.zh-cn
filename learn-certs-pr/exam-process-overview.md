@@ -101,7 +101,7 @@ Expert 和 Associate 考试通常需要 165 美元，但根据特定国家和地
 
 要提供其他类型的反馈，请联系[认证支持](https://aka.ms/mcpforum)。
 
-要报告安全问题，请联系 [mlsecure@microsoft.com](mailto：mlsecure@microsoft.com)。
+要报告安全问题，请联系 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。
 
 ## 考试详情
 
