@@ -42,7 +42,7 @@ Microsoft 基于角色的证书和专业证书当前有效期为自获得证书�
 
 ## 考生申诉流程
 
-1. 考生可以通过向 [mlsecure@microsoft.com](mailto：mlsecure@microsoft.com)提出申诉来对其禁令进行申诉。
+1. 考生可以通过向 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)提出申诉来对其禁令进行申诉。
 2. 考生可通过将原始报告(非扫描或电子副本)提交至以下地址，就其因伪造分数报告而被禁止的情形提出申诉：
 
     Microsoft Worldwide Learning Security Team  
@@ -58,7 +58,7 @@ Microsoft 基于角色的证书和专业证书当前有效期为自获得证书�
     2. 如果考生第二次没有达到通过分数，那么该考生必须至少等待 14 天的时间才能第三次补考。
     3. 在第三次和第四次尝试以及第四次和第五次尝试之间还设置了14天的等待时间。
     4. 考生每年(12 个月)最多可参加 5 次特定考试。这 12 个月的时间从第一次尝试开始计算。自第一次参加考试之日起 12 个月后，应试者才有资格再次参加考试。
-    5. 若希望每年参加特定考试的次数超过 5 次或免除两次考试之间的时间间隔，考生必须已遇到过下面所列错误，并请求Microsoft作例外情况处理。请求应发送到 [mlsecure@microsoft.com](mailto：mlsecure@microsoft.com)。这些请求必须包括以下信息：
+    5. 若希望每年参加特定考试的次数超过 5 次或免除两次考试之间的时间间隔，考生必须已遇到过下面所列错误，并请求Microsoft作例外情况处理。请求应发送到 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)。这些请求必须包括以下信息：
         - 考生ID
         - 姓/名
         - 与考生ID关联的电子邮件地址
@@ -98,7 +98,7 @@ Microsoft 基于角色的证书和专业证书当前有效期为自获得证书�
 
 ## 考试中心申诉过程
 
-考试中心所有者可以通过向 [mlsecure@microsoft.com](mailto：mlsecure@microsoft.com)提出申诉来对网站关闭提出申诉。
+考试中心所有者可以通过向 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)提出申诉来对网站关闭提出申诉。
 
 ## 数据取证
 
