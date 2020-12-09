@@ -48,7 +48,7 @@ AZ-301: Microsoft Azure Architect Design
 
 - 步骤3：转到控制面板的徽章部分，然后按照步骤索取徽章(如果您尚未这样做)
 
-- 步骤4：请按照以下步骤通过电子邮件与 [itcertifications@excelsior.edu](mailto：itcertifications@excelsior.edu)共享您的徽章。
+- 步骤4：请按照以下步骤通过电子邮件与 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)共享您的徽章。
 
 - 有关更多信息，请参阅：[Microsoft Exam and Certification Badges](/learn/certifications/badges)
 
@@ -66,7 +66,7 @@ AZ-301: Microsoft Azure Architect Design
   - 访问代码 <nnnnnnnn>
   - 成绩单查看页面：<URL>
 
-- 步骤6：将此信息粘贴到电子邮件中，然后发送到 [itcertifications@excelsior.edu](mailto：itcertifications@excelsior.edu)
+- 步骤6：将此信息粘贴到电子邮件中，然后发送到 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)
 
 如果您对 Microsoft 认证的此过程有疑问，请参阅本页的“课程学分”常见问题解答部分。
 
