@@ -34,8 +34,11 @@ ms.author: micsullivan
 ### 关于 Microsoft 认证计划
 1. [什么是 Microsoft 认证计划？](#c1)
 
+### 关于认证续期
+1. [如何对我的Microsoft认证进行续期或使其保持最新状态？](#d1)
+
 ### 联系支持
-1. [如何联系 Microsoft 认证计划支持？](#d1)
+1. [如何联系 Microsoft 认证计划支持？](#e1)
 
 <br/>
 
@@ -147,8 +150,16 @@ ms.author: micsullivan
 
 <br/>
 
+## 关于认证续期
+
+**问题：如何对我的Microsoft认证进行续期或使其保持最新状态？**<a name="d1"></a>
+
+**答：** 有关保持Microsoft认证并保持其最新信息的信息，请访问[Microsoft认证续期页面](/learn/certifications/renew-your-microsoft-certification)。
+
+<br/>
+
 ## 联系支持
 
-**问题：如何联系 Microsoft 认证支持？**<a name="d1"></a>
+**问题：如何联系 Microsoft 认证支持？**<a name="e1"></a>
 
 **答：** 如果您需要有关 Microsoft 认证配置文件的帮助，查看分数报告，访问成绩的信息，或者需要有关该程序的其他帮助，请联系 [认证支持](https://aka.ms/mcpforum)。论坛版主将在 24 个工作小时内回复您以提供帮助。
