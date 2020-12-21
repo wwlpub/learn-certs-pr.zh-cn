@@ -16,6 +16,10 @@ summary: |-
   考生应该对 Dynamics 365 功能和 Microsoft 云计算有功能上的了解。
 
   本考试的考生应具备信息技术(IT)环境方面的一般知识或相关工作经验。考生还应对业务场景和解决IT项目的业务，法律和安全要求的经验有基本的了解。
+
+  如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
+
+  <div><br/><strong>注释&#58; 目前，Microsoft 不会将“Common Data Service”的引用更新为“Microsoft Dataverse”。</strong></div>
 subTitle: 该考试衡量您了解 Microsoft Dynamics 365 的能力；人工智能；混合现实；动力平台；云概念；云安全； Dynamics 365中基于角色的安全性；通用数据服务；数据管理框架； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -41,7 +45,10 @@ skills:
 - 描述模型驱动式应用程序 (25-30%)
 - 描述 Finance and Operations 应用程序 (25-30%)
 roles:
+- business-owner
+- business-user
 - functional-consultant
+- student
 products:
 - dynamics-365
 courses:

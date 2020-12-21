@@ -6,7 +6,8 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>本次考试的内容将于2020年11月24日更新。请下载以下的技能测试文档以查看将发生什么变化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div>
+  <div><strong>本次考试的内容于2020年11月24日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
   </div>
 
   此考试面向的考生是参与评估、规划、迁移、部署和管理 Microsoft 365 服务的 Microsoft 365 企业管理员。他们为企业执行 Microsoft 365 租户管理任务，包括其身份、安全性、合规性和支持技术。
@@ -23,7 +24,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容将于2020年11月24日更新。请下载下述考试技巧以查看将发生什么变化。
+- 本次考试的内容于2020年11月24日更新。请下载以下考试技能大纲，以了解有何变化。
 - 实施现代设备服务（30-35%）
 - 实施Microsoft 365安全和威胁管理（30-35%）
 - 管理Microsoft 365治理和合规性（35-40%）
@@ -37,6 +38,17 @@ exams:
 - uid: exam.ms-100
 courses:
 - uid: course.ms-101t00
+paths:
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

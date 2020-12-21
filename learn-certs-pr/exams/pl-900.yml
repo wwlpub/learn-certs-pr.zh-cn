@@ -11,6 +11,8 @@ summary: |-
   </div>
 
   本考试的考生希望通过了解Power平台的功能、使用Power Automate将基本业务流程自动化、使用Power BI执行基本数据分析、通过创建简单的Power应用程序体验来更有效地执行操作，以及通过使用Power虚拟代理创建功能强大的聊天机器人来提高生产率。
+
+  如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
 subTitle: 本考试衡量您描述Power Platform业务价值的能力；确定Power Platform的核心组件；演示Power BI的功能；描述Power Apps的功能；演示Power Automated的功能；以及演示Power虚拟代理的业务价值。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -41,7 +43,9 @@ skills:
 - 演示Power Automate的功能 (15-20%)
 - 展示 Power Virtual Agents 的业务价值 (10-15%)
 roles:
-- developer
+- business-user
+- functional-consultant
+- student
 products:
 - power-platform
 courses:

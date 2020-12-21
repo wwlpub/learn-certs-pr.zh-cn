@@ -44,7 +44,7 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
   - 教学技能认证
     - CompTIA CTT+
     - Essential Educate Trainer(Microsoft 内部认证)
-	- Fourth Dimension Technologies, Inc.
+    - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge 教学技能认证
     - IAMCT 认可的技术讲师 (IAMCT ATT)
@@ -53,14 +53,16 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
     - 学习树培训教员课程
     - Marcom Deli
     - Microsoft Certified Trainer 教学技能认证 (MCT-ISC)
-	-Microsoft 客户服务与支持(CSS)培训师认证
-	-Microsoft 核心培训技能
+    - Microsoft 客户服务与支持(CSS)培训师认证
+    - Microsoft 核心培训技能
     - New Horizons 教学技能认证
     - PrepMasters USA
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   或<br/><br/>
 
-  - 提供推荐材料，证明至少具有一年的教学经验 
+  - 提供推荐材料，证明至少具有一年的教学经验
 
 **注意** 要更新为 MCT 认证，您的周年日期必须满足 MCT 计划更新要求。
 
