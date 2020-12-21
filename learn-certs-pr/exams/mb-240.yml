@@ -8,7 +8,7 @@ displayName: MB-240
 summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div> <strong>本次考试的内容将于2020年11月10日更新。请下载下方的技能衡量文件，以查看将有哪些更改。</strong><br/><br/></div>
+  <div> <strong>本次考试的内容于2020年11月10日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
   </div>
 
   本次考试的报考人是具有Field Service专业经验的Dynamics 365 Customer Engagement功能顾问。报考人负责实现管理用于完成现场服务生命周期的资源的解决方案。
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2020年11月10日更新。请下载下面的考试技能大纲，以了解将会发生的变化。
+- 本次考试的内容于2020年11月10日更新。请下载以下考试技能大纲，以了解有何变化。
 - 配置现场服务应用 (15-20%)
 - 管理工作订单 (15-20%)
 - 计划和派遣工作订单 (25-30%)

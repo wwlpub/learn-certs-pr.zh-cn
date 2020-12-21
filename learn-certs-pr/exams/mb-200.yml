@@ -15,6 +15,9 @@ summary: |-
   考生主要负责配置系统以满足客户需求，执行与新特性和功能的落实相关的设计任务，以及落实和测试系统更改。
 
   考生为解决方案规划功能设计，实施应用程序生命周期管理 (ALM) 流程，从传统和外部系统迁移数据，将 Power 平台与其他系统集成，以及管理 Power 平台环境。
+
+  <div><br/><strong>由于本次考试将于2020年12月31日结束，Microsoft 不会将“Common Data Service”的引用更新为“Microsoft Dataverse”。</strong></div>
+  
 subTitle: '该考试衡量您完成以下技术任务的能力: 执行发现，计划和分析；管理用户体验设计；管理实体和数据；实施安全；实施整合；以及执行解决方案部署和测试。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb

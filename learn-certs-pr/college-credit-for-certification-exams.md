@@ -1,6 +1,6 @@
 ---
-title: '认证考试的大学学分 | Microsoft Docs'
-description: '认证考试的大学学分' 
+title: 'NCCRS 大学认证考试学分 | Microsoft Docs'
+description: 'NCCRS 大学认证考试学分'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,7 +10,7 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# 认证考试的大学学分
+# NCCRS 大学认证考试学分
 
 ## 学生认证
 

@@ -29,7 +29,7 @@
   expanded: false
   items:
   - name: 常见问题及回答
-    href: frequently-asked-questions.md  
+    href: frequently-asked-questions.md
   - name: 考试安全政策和考试重考政策
     href: exam-security-policy-and-exam-retake-policy.md
   - name:  考试改期和取消政策
@@ -44,12 +44,12 @@
     href: exam-item-challenge-process.md
   - name: 测试版考试
     href: beta-exams.md
-  - name: 认证考试的大学学分
+  - name: ACE认证考试的大学学分
+    href: ace-credit-for-certification-exams.md
+  - name: NCCRS认证考试的大学学分
     href: college-credit-for-certification-exams.md
   - name: 学生折扣
     href: student-discounts.md
-- name: 更新您的Microsoft认证
-  href: renew-your-microsoft-certification.md
 - name: 认证帮助
   href: help.md
 - name: Microsoft Official Courseware (MOC)帮助

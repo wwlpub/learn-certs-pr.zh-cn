@@ -7,8 +7,12 @@ uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
-
+  
   Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。Azure 数据库管理员使用各种方法和工具来执行日常操作，包括应用有关使用 T-SQL 进行行政管理的知识。
+  
+  <div></br>
+  此角色的候选人应了解 <a href='/learn/certifications/exams/dp-900'>Exam DP-900&#58; Microsoft Azure Data Fundamentals</a> 中包含的所有概念。
+  </div>
 subTitle: Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。
 levels:
 - intermediate

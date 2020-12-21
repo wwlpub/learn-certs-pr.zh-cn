@@ -18,6 +18,8 @@ summary: |-
   Azure Developer 与远程解决方案架构师、云端 DBA、云端管理员和客户端合作以实施解决方案。
 
   参加此考试的考生应具有 1-2 年的专业开发经验以及 Microsoft Azure 的经验。此外，该角色应具有使用 Azure 支持的语言进行编程的能力，并熟练使用 Azure SDK、Azure PowerShell、Azure CLI、数据存储选项、数据连接、API、应用程序身份验证和授权、计算和容器部署、调试、性能调整，以及监控。
+
+  如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
 subTitle: '此考试衡量您完成以下技术任务的能力：开发 Azure 计算解决方案；开发 Azure 存储；实现 Azure 安全性；监控、故障排除和优化解决方案；并连接并使用 Azure 服务和第三方服务。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
