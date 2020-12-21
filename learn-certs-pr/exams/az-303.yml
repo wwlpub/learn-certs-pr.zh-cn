@@ -8,10 +8,10 @@ displayName: AZ-303
 summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
-  <div><strong>本次考试的内容将于2020年11月24日更新。请下载以下的技能测试文档以查看将发生什么变化。</strong><br/><br/></div>
+  <div><strong>本次考试的内容于2020年11月24日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
   </div>
 
-  参加该考试的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。
+  参加该考试的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。候选人应具备管理 Azure 的中级技能。候选人应了解 Azure 开发和 DevOps 流程。
 
   Azure 解决方案架构师的职责包括为利益相关者提供建议，并将业务需求转换为安全、可扩充且可靠的云端解决方案。
 
@@ -31,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容将于2020年11月24日更新。请下载下述考试技巧以查看将发生什么变化。
+- 本次考试的内容于2020年11月24日更新。请下载以下考试技能大纲，以了解有何变化。
 - 实施和监控 Azure 基础结构 (50-55%)
 - 实施管理和保护解决方案 (25-30%)
 - 为应用程序实施解决方案 (10-15%)

@@ -83,17 +83,17 @@ Learning Partner网站或购物车上的最终价格可能会有所不同，因�
 
 这是一项新服务，已在“公共预览 (Public Preview)”中与少数合格的Learning Partner发布，以测试功能并微调过程。最初，课程安排将以英语进行，随后的12个月内将添加其他Learning Partner。
 
-### 为什么其他培训课程比我想参加的课程贵一些？ 
+### 为什么其他培训课程比我想参加的课程贵一些？
 
-与任何市场一样，课程价格由每个Learning Partner决定。合作伙伴需要以Microsoft Learn计划工具上列出的价格提供完整的Microsoft官方课程培训经验。合作伙伴可以对其他可选的产品和服务进行广告宣传。如果您认为广告宣传的定价有误导性或不正确，请通过 [Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)与我们联络。
+与任何市场一样，课程价格由每个Learning Partner决定。合作伙伴需要以Microsoft Learn计划工具上列出的价格提供完整的Microsoft官方课程培训经验。合作伙伴可以对其他可选的产品和服务进行广告宣传。如果您认为广告宣传的定价有误导性或不正确，请通过 [Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/en-us/iltvilt/forum)与我们联络。
 
-### 没有正常执行按课程位置、日期等进行的筛选。 
+### 没有正常执行按课程位置、日期等进行的筛选。
 
-如果筛选无法执行，请刷新您的浏览器，然后重试。如果您认为筛选器仍然无法使用，则可以在[Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)中提出问题。这是搜索和寻求帮助，报告问题并获得建议的最佳资源。    
+如果筛选无法执行，请刷新您的浏览器，然后重试。如果您认为筛选器仍然无法使用，则可以在[Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/en-us/iltvilt/forum)中提出问题。这是搜索和寻求帮助，报告问题并获得建议的最佳资源。
 
-### 我找不到我所在地区的Learning Partner。 
+### 我找不到我所在地区的Learning Partner。
 
-如果您没有找到所需的Learning Partner或课程，则可能会直接在Learning Partner站点上找到其他日期和时间，而不是Microsoft Learn上显示的日期和时间。  Learning Partner无需列出所有课程的时间表。您可以在[按国家或地区查找Microsoft Learning Partner](/learn/certifications/partners#find-a-microsoft-learning-partner-by-country)中找到所有Microsoft Learning Partner的列表。 
+如果您没有找到所需的Learning Partner或课程，则可能会直接在Learning Partner站点上找到其他日期和时间，而不是Microsoft Learn上显示的日期和时间。 Learning Partner无需列出所有课程的时间表。您可以在[按国家或地区查找Microsoft Learning Partner](/learn/certifications/partners#find-a-microsoft-learning-partner-by-country)中找到所有Microsoft Learning Partner的列表。
 
 当我们启动这项新服务时，我们会限制合格的Learning Partner的数量。在明年，将添加符合特定条件的Learning Partner。
 
@@ -101,4 +101,4 @@ Learning Partner网站或购物车上的最终价格可能会有所不同，因�
 
 Learning Partner负责提供有关在其站点上进行计划的支持。您可以通过存取Learning Partner的网站尝试拨打其他电话号码。
 
-如果您仍然无法与Learning Partner联络，则可以在[Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)中发布您的问题。这是寻求帮助、报告问题并获得建议的最佳资源。
+如果您仍然无法与Learning Partner联络，则可以在[Learning Partner instructor-led course scheduling on Learn support forum](https://trainingsupport.microsoft.com/en-us/iltvilt/forum)中发布您的问题。这是寻求帮助、报告问题并获得建议的最佳资源。

@@ -52,21 +52,12 @@ Microsoft通过将实时的讲师指导培训的日程安排功能引入[Microso
 			<td>
 				<ul>
 					<li>请查看常 <a href="/learn/certifications/training-faq">见问题解答</a>.</li>
-					<li>如果找不到问题的答案，请在Learn支持论坛的 <a href="https://trainingsupport.microsoft.com/iltvilt/forum">“Learning Partner”讲师指导的课程表中发布您的问题</a>。
+					<li>如果找不到问题的答案，请在Learn支持论坛的 <a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">“Learning Partner”讲师指导的课程表中发布您的问题</a>。
 </li>
 				</ul>
             </td>
         </tr>
-        <tr>
-            <td>
-                <p><strong><em>一般反馈，</em></strong> 以改善体验或服务</p>
-            </td>
-            <td>
-                <p>请使 <a href="/learn/support/troubleshooting#report-feedback">用此表格提交反馈</a>，然后选择“产品或功能”，然后选择“教师指导的培训”，并提供您的详细反馈。</p>
-				<p>请放心，您的反馈将得到解决，但是您不会收到对反馈的答复。</p>
-            </td>
-        </tr>
-        <tr>
+         <tr>
             <td>
                 <p>您感兴趣的Learning Partner未列出。</p>
             </td>

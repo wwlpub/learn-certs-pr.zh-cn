@@ -11,8 +11,10 @@ ms.author: micsullivan
 ---
 # 关于 Pearson VUE 在线考试
 
-您可以在 Pearson VUE 在线参加任何基于角色或基础知识的 Microsoft 认证考试，并可在您的家中或办公室舒适地进行。在线监考考试由监考者通过网络摄像头和麦克风监控考试体验，从而维护考试结果的完整性。如果您对通过 Pearson VUE 参加在线监考考试感兴趣，并希望在注册前更好地了解考试期间可能发生的情况，则此页包含重要的详细信息。观看 Pearson VUE 的[YouTube 视频](https://youtu.be/Gm1PqdbwBP0)，了解更多关于在线监考考试的信息。(本节不涉及 Certiport 提供的考试。)
+你可以在 Pearson VUE 在线参加任何 Microsoft Certification 基于角色或基础的测试, 也可以在舒适的家里或办公室里进行。在线监考通过网络摄像头和麦克风监控你的考试体验，从而保持考试结果的完整性。如果你有兴趣通过 Pearson VUE 参加在线监考考试，并希望在注册前更好地了解预期内容，本页面包含重要的详细信息。观看下面的视频以了解关于参加在线监考考试的更多信息。（本节不涉及 Certiport 提供的考试。）
+<br/>
 
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
 
 ## <a name="take-a-system-test"></a> 即刻进行系统检测
 

@@ -8,14 +8,16 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>针对新冠病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div><strong>本次考试的内容将于2020年11月9日更新。请下载以下的技能测试文档以查看将发生什么变化。 </strong><br/><br/></div> 
+  <div><strong>本次考试的内容于2020年11月9日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div> 
   </div>
   
   参加该考试的考生应具有有关云端服务以及 Microsoft Azure 如何提供这些服务的基础知识。此考试面向刚刚开始使用基于云的解决方案和服务或者对Azure不熟悉的考生。
   
   Azure Fundamentals 考试是一个证明云概念、Azure 服务、Azure 工作负荷、Azure 安全和隐私以及 Azure 定价和支持等方面知识的机会。考生应熟悉一般技术概念，包括联网、存储、计算、应用程序支持和应用程序开发的概念。
-
+  
   Azure Fundamentals 可用于准备其他基于 Azure 角色的或专业的认证，但这不是其中任何一项的先决条件。
+  
+  如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
 subTitle: '此考试衡量您理解以下概念的能力：云概念；核心Azure服务；安全，隐私，合规和信任；以及 Azure 定价和支持。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
@@ -38,13 +40,19 @@ locales:
 levels:
 - beginner
 skills:
-- 本次考试的内容将于2020年11月9日更新。请下载下述考试技巧以查看将发生什么变化。
-- 描述云端概念 (15-20%)
-- 描述核心 Azure 服务 (30-35%)
-- 描述安全性、隐私权、合规性和信任 (25-30%)
-- 描述 Azure 定价服务等级协议和生命周期 (20-25%)
+- 本次考试的内容于2020年11月9日更新。请下载以下考试技能大纲，以了解有何变化。
+- 描述 cloud 概念（20-25%）
+- 描述核心 Azure 服务（15-20%）
+- 描述 Azure 的核心解决方案和管理工具（10-15%）
+- 描述一般安全和网络安全特性（10-15%）
+- 描述身份、治理、隐私和合规性特征（20-25%）
+- 描述 Azure 成本管理和 Service Level Agreements（10-15%）
 roles:
+- administrator
+- business-user
 - developer
+- student
+- technology-manager
 products:
 - azure
 courses:

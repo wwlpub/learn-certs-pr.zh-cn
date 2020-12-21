@@ -5,7 +5,15 @@ metadata:
   description: Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "<div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>\r\n\r\nSolution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。"
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  
+  Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
+  
+  <div>注释&#58;获得以下两项认证是获得该认证的先决条件。由于站点限制，以下未列出此先决条件。<ul>
+  <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
+  <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li>
+  </ul></div>
 subTitle: Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
 levels:
 - advanced

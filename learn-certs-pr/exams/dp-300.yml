@@ -6,15 +6,19 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>本次考试的内容将于2020年11月24日更新。请下载以下的技能测试文档以查看将发生什么变化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>本次考试的内容于2020年11月24日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
   </div>
 
   参加该考试的应试者是数据库管理员和数据管理专家，他们管理使用Microsoft SQL Server和Microsoft Azure数据服务构建的本地和云关系数据库。
 
-  Azure数据库管理员实施和管理使用Azure数据服务和SQL Server构建的云原生和混合数据平台解决方案的操作方面。Azure 数据库管理员使用各种方法和工具来执行日常操作，包括应用有关使用 T-SQL 进行行政管理的知识。
+  Azure Database Administrator 实施并管理构建在 Azure Data Services 和 SQL Server 上的云原生和混合数据平台解决方案的操作。Azure Database Administrator 使用各种方法和工具来执行日常操作，包括将使用 T-SQL 的知识用于管理目的。
 
   该角色负责管理，可用性，安全性以及性能监控以及现代关系数据库解决方案的优化。该角色与 Azure 数据工程师角色一起管理数据平台解决方案的运营方面。
-subTitle: '此考试衡量您完成以下技术任务的能力: 规划和实施数据平台资源；实施安全的环境；监控和优化运营资源；优化查询性能；执行任务自动化；计划并实施高可用性和灾难恢复（HADR）环境；然后使用 T -SQL 执行管理。'
+  
+  <div></br>
+  此角色的候选人应了解<a href='/learn/certifications/exams/dp-900'>Exam DP-900&#58; Microsoft Azure Data Fundamentals</a> 中包含的所有概念。
+  </div>
+subTitle: '此考试衡量您完成以下技术任务的能力: 规划和实施数据平台资源；实施安全的环境；监控和优化运营资源；优化查询性能；执行任务自动化；计划并实施高可用性和灾难恢复（HADR）环境；然后使用 T-SQL 执行管理。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
@@ -26,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2020年11月24日更新。请下载下述考试技巧以查看将发生什么变化。
+- 本次考试的内容于2020年11月24日更新。请下载以下考试技能大纲，以了解有何变化。
 - 规划和实施资料平台资源 (15-20%)
 - 实施一个安全环境 (15-20%)
 - 监控和优化运营资源 (15-20%)
