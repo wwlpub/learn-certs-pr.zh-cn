@@ -35,6 +35,7 @@ ms.author: micsullivan
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 将于2021年1月31日停用 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | 将于2021年1月31日停用 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 将于2020年12月31日停用 |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021年6月30日停用 |
 
 ## 已停用认证
 

@@ -57,8 +57,8 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
     - Microsoft 核心培训技能
     - New Horizons 教学技能认证
     - PrepMasters USA
-    - Modern Classroom Certified Trainer (MCCT®)
-    - Certified Virtual Educator
+    - Modern Classroom Certified Trainer (MCCT®) [仅供大学教职员或教授使用]
+    - Certified Virtual Educator [仅供大学教职员或教授使用]
   
   或<br/><br/>
 
@@ -96,7 +96,9 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
+- [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -104,8 +106,8 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 - [Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-financials.aspx)
 - [Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-manufacturing.aspx)
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
-- [Microsoft Certified: Dynamics 365：Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
-- [Microsoft Certified: Dynamics 365：Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
+- [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
+- [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (将于2020年12月31日停用)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting(2021 年 1 月 31 日停用)，Microsoft Dynamics 365 for Operations(2021 年 1 月 31 日停用；[请参见此处以了解与每个 Microsoft Dynamics 资格和认证相关的要求](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm))、SQL 2016 BI Development(2021 年 1 月 31 日停用)，SQL 2016 Database Administration(2021 年 1 月 31 日停用)，SQL 2016 Database Development(2021 年 1 月 31 日停用) ，SQL Server 2012/2014(2021 年 1 月 31 日停用)，Universal Windows Platform(2021 年 1 月 31 日停用)，Web Applications(2021 年 1 月 31 日停用)，Windows Server 2012(2021 年 1 月 31 日停用)或Windows Server 2016(2021 年 1 月 31 日停用)
@@ -150,7 +152,7 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 
 二十多年来，MCT 一直立于 Microsoft 技术培训和技术采用的前沿。认识到他们的卓越贡献后，我们推出了 MCT Alumni 计划。这项计划面向在 Microsoft 拥有良好的教学声誉，虽然已不再参与 MCT 计划培训，但仍然希望与 MCT 社区保持良好关系的所有 MCT。
 
-MCT Alumni 计划要求：
+MCT Alumni 计划要求:
 
 - 目前或此前参与了 MCT 计划
 - 在 Microsoft 拥有良好的教学声誉
@@ -161,7 +163,7 @@ MCT Alumni 计划要求：
 
 作为 MCT Alumni 会员，您可以独享 [认证信息中心](https://www.microsoft.com/learning/dashboard.aspx)上的 MCT Alumni 内容。您还可以访问 [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx)，在这里您可以找到为MCT校友会量身定制的新闻、活动和各种资源，并且您有机会参与整个MCT社区。
 
-MCT Alumni 权益包括：
+MCT Alumni 权益包括:
 
 - 考试折扣帮助您考取最新认证，鼓励您重新加入 MCT 计划。
 - 享受电子书和书籍折扣，这些参考资源能帮助您更好地准备考试、发展专业技能。
@@ -183,7 +185,7 @@ MCT Alumni 权益包括：
 
 我们欢迎 MCT Alumni 在重新回到培训讲台后再次加入 MCT 计划。
 
-若要重新成为 MCT：
+若要重新成为 MCT:
 
 - **确保您满足本页** [要求](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 部分中所述的MCT计划要求。根据当前 Microsoft 认证和资格要求检查您的成绩单，确认是否符合 MCT 计划要求。
 - **申请加入 MCT 计划。** MCT Alumni 可以提供已获得的教学技能认证的证明，作为先前的 MCT 计划申请的支持材料；也可以提交一份推荐材料，证明其至少拥有一年的教学经验。此推荐材料可以由前客户、经理或大学出具。

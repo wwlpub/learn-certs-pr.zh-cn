@@ -1,0 +1,57 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+  description: '该证书将于2021年2月生效。如果您熟悉业务操作、客户关系管理(CRM)，并且精通IT——不管是一般的还是通过工作经验——那么就可以利用该证书来突出这些技能。验证您对广泛接触Dynamics 365的客户参与能力，从而提升您的职业生涯。'
+uid: certification.d365-fundamentals-customer-engagement-apps-crm
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  
+  如果您熟悉业务操作、客户关系管理(CRM)，并且精通IT——无论是一般的还是通过工作经验——那么就可以利用该证书来突出这些技能。验证您对广泛接触Dynamics 365的客户参与能力，从而提升您的职业生涯。
+  
+  在其职业生涯中扮演不同角色、处于不同阶段的人们都可以从该基础认证中受益。以下是一些例子&#58;
+  - 想要展示对所使用的应用程序有总体了解的IT专业人员
+  - 业务涉众和其他了解Dynamics 365并想要验证其技能和经验的人
+  - 想要强调他们对业务运营和CRM的理解的开发人员
+  - 想要利用Dynamics 365的客户参与能力更上一层楼的学生、应届毕业生和正在转行的人士
+  
+  <div><br/><strong>注意&#58; 该证书将于2021年2月生效。</strong></div>
+subTitle: '该证书将于2021年2月生效。如果您熟悉业务操作、客户关系管理(CRM)，并且精通IT——不管是一般的还是通过工作经验——那么就可以利用该证书来突出这些技能。验证您对广泛接触Dynamics 365的客户参与能力，从而提升您的职业生涯。'
+levels:
+- beginner
+skills:
+- 描述Dynamics 365 Marketing 
+- 描述Dynamics 365 Sales 
+- 描述Dynamics 365 Customer Service 
+- 描述Dynamics 365 Field Service 
+- 描述“项目运营” 
+- 描述共享的特性 
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-customer-engagement
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIew
+exams:
+- uid: exam.mb-910
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: help.md

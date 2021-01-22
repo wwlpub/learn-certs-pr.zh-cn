@@ -8,19 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  <div><strong>2020年9月，MB-200将被替换为新考试，<a href="/learn/certifications/exams/pl-200">PL-200</a>。通过MB-200或PL-200，再加上MB-240，您将可以获得此认证，直到MB-200于2020年12月31日停用。MB-200停用后，必须通过PL-200和MB-240才能获得此认证。 </strong><br/><br/></div></div>
+  <div><strong>考试<a href="/learn/certifications/exams/mb-200">MB-200</a>正在被一个新的考试<a href="/learn/certifications/exams/pl-200">PL-200</a>所取代。在通过MB-200或PL-200以及MB-240考试的情况下，您将能够获得该证书，直至MB-200于2020年12月31日停用。在MB-200停用后，将需要通过PL-200和MB-240才能获得该证书。注意：考试于中央标准时间晚上11点59分停用。</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。
 subTitle: Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。
 levels:
 - intermediate
 skills:
-- 执行发现、规划和分析
-- 管理用户体验设计
-- 管理实体和数据
-- 实施安全性
-- 实施整合
-- 执行解决方案部署和测试
+- 配置Common Data Service
+- 利用Power Apps来创建应用程序
+- 创建和管理Power Automate
+- 实现Power Virtual Agents聊天机器人
+- 将Power Apps与其他应用程序和服务集成在一起
 - 配置现场服务应用程序
 - 管理工作订单
 - 安排和派遣工单
@@ -34,21 +33,27 @@ products:
 - dynamics-365
 - dynamics-field-service
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-240t00
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.implementing-dyn365-field-service
 - uid: learn-bizapps.universal-resource-scheduling
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-240
 resources:
 - title: 认证海报

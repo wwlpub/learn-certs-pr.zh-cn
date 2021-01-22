@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)
+metadata:
+  title: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+  description: 'Exam MB-920: Microsoft Dynamics 365 Fundamentals Finance and Operations Apps (ERP) (beta)'
+uid: exam.mb-920
+displayName: MB-920
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
+  
+  该考试涵盖了Microsoft Dynamics 365财务和运营应用程序的特性和能力。
+  
+  该考试的考生须具备信息技术(IT)环境的常识或相关工作经验。他们也应该对财务原理和业务运营具备基本的认识。
+  
+  <div><br/><strong>注意&#58;注意&#58; 该考试将于2021年2月开始。</strong></div>
+subTitle: '该考试将于2021年2月开始。该考试测试您描述以下内容的能力：Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; “项目运营”； Dynamics 365 Business Central; 以及共享的特性。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+locales:
+- en
+levels:
+- beginner
+skills:
+- 描述Dynamics 365 Supply Chain Management (25-30%)
+- 描述Dynamics Finance (25-30%)
+- 描述Dynamics 365 Commerce (10-15%)
+- 描述Dynamics 365 Human Resources (5-10%)
+- 描述Project Operations (10-15%)
+- 描述Dynamics 365 Business Central (5-10%)
+- 描述共享的特性 (10-15%)
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+products: 
+- dynamics-365
+- dynamics-finance-operations
+relatedCertifications:
+- related:
+    uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: ../request-accommodations.md
+- title: 考试原则和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md

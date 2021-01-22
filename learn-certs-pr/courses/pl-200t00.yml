@@ -25,14 +25,14 @@ products:
 exams:
 - uid: exam.pl-200
 summary: |-
-  Power Platform将使组织能实现业务流程自动化及自主开发大量的应用程序。在本课程中，学生将学会执行发现、捕获需求、吸引领域专家和利益相关者、翻译需求、配置Power Platform解决方案和应用程序。这样，动手实验室将补充学生创建应用程序增强、自定义用户体验、系统集成、数据转换、自定义流程自动化和自定义可视化的知识。Power Platform包括四个关键产品&#58; Power Apps、Power Automate、Power BI和Power Virtual Agents。在本课程中，我们将深入讲解这四个应用程序，另外还将关注Common Data Service、AI Builder、连接器和门户。
+  Power Platform将使组织能实现业务流程自动化及自主开发大量的应用程序。在本课程中，学生将学会执行发现、捕获需求、吸引领域专家和利益相关者、翻译需求、配置Power Platform解决方案和应用程序。这样，动手实验室将补充学生创建应用程序增强、自定义用户体验、系统集成、数据转换、自定义流程自动化和自定义可视化的知识。Power Platform包括四个关键产品&#58; Power Apps、Power Automate、Power BI和Power Virtual Agents。在本课程中，我们将深入讨论这四个应用程序，并额外关注Microsoft Dataverse（以前称为Common Data Service)、AI Builder、连接器以及门户网站。
 
   #### 受众概况
   Power Platform功能顾问负责执行发现、捕获需求、吸引领域专家和利益相关者、翻译需求、配置Power Platform解决方案和应用程序。功能顾问将实施解决方案的各个部分，包括应用增强、自定义用户体验、系统集成、数据转换、自定义流程自动化和自定义可视化。
 prerequisitesSection: |-
   - 作为IT专业人员或学生的经验
   - Power Platform及其关键组件的使用知识
-  - 了解Common Data Servic和安全概念
+  - 了解Microsoft Dataverse（或一般数据建模）和安全概念
 outlineSection: |-
   ### 模块 1&#58; Power Platform简介
   本模块将为学员提供Power Platform及其4个关键组件的背景知识&#58; Power Apps、Power Automate、Power BI和Power Virtual Agents。
@@ -45,33 +45,47 @@ outlineSection: |-
   - 识别Power Platform的关键组件
   - 描述功能顾问的角色
   
+  ### 模块 2&#58; “功能顾问”角色
+  在本模块中，学员将更多地了解该功能顾问角色，以及为组织成功实施Power Platform 解决方案所需的技能。
+
+  - 顾问技能概述
+  - 创建并验证文档
+  - 吸引利益相关者
+  - 执行质量保证
+  - 配置集成
   
-  ### 模块 2&#58; 使用Common Data Service
-  在本模块中，学生将了解在Common Data Service中创建数据模型，包括导入数据、表格报告选项和配置安全设置。他们还将了解用AI Builder创建简易AI的方法。
+  完成本模块后，学员将能够&#58;
+  - 利用演示来吸引利益相关者
+  - 创建表格（实体）关系图
+  - 设计集成
+  - 与顾问和客户组织团队进行互动
+
+  ### 模块 3&#58; 使用Dataverse
+  在本模块中，学员将学习如何在Microsoft Dataverse中创建一个数据模型，其中包括导入数据、使用表格式报告选项以及配置安全性。他们还将学习如何借助AI Builder来创建简单的AI。
   #### 课程概述
   - 使用数据模型
   - 创建和管理流程
   - 使用AI Builder
-  - 配置Common Data Service设置
+  - 配置Dataverse设置
   - 导入和导出数据
   - 使用表格报告选项
   - 配置安全设置
   
   #### 实验室&#58; 创建应用程序
   
-  #### 实验室&#58; 创建实体和字段
+  #### 实验室&#58; 创建表和列
   
   #### 实验室&#58; 创建关系
   
-  #### 实验室&#58; 其他实体选项
+  #### 实验室&#58; 附加的表选项
   
   完成本模块学习后，学生将能&#58; 
-  - 创建数据模型
-  - 配置Common Data Service设置
-  - 配置安全设置
+  - 了解表、列、行以及它们之间的关系
+  - 在Dataverse中配置一个数据模型
+  - 在Power Platform管理中心的环境中工作
   
   
-  ### 模块 3&#58; 制作Power应用程序
+  ### 模块 4&#58; 制作Power应用程序
   在本模块中，学生将了解这三种Power应用程序的商业价值。随后，他们将学习如何配置和设计这些应用程序，包括各种应用的用户体验考虑事项。
   #### 课程概述
   - 制作模型驱动应用程序
@@ -93,12 +107,12 @@ outlineSection: |-
   #### 实验室&#58; 用户体验
   
   完成本模块学习后，学生将能&#58; 
-  - 创建和设计Power应用程序
-  - 连接Power应用程序和数据
-  - 设计应用程序导航
+  - 连接到Power Apps中的数据
+  - 构建Power App
+  - 设计应用程序用户体验
   
   
-  ### 模块 4&#58; 建立Power Automate流程
+  ### 模块 5&#58; 建立Power Automate流程
   在本模块中，学生将学习如何用 Power Automate流程、业务流程和UI流程来实现业务流程自动化。
   #### 课程概述
   - 建立流程
@@ -122,12 +136,12 @@ outlineSection: |-
   #### 实验室&#58; 给业务流程添加分支
   
   完成本模块学习后，学生将能&#58; 
-  - 用流程实现业务流程自动化
-  - 在Power Automate中连接到数据
-  - 用分支逻辑创建业务流程
+  - 创建流程
+  - 创建业务流程
+  - 了解UI流程
   
   
-  ### 模块 5&#58; 使用Power Virtual Agents
+  ### 模块 6&#58; 使用Power Virtual Agents
   在本模块中，学生将学习如何用Power Virtual Agents实现客户与聊天机器人的交互自动化。
   #### 课程概述
   - 创建聊天机器人
@@ -139,13 +153,12 @@ outlineSection: |-
   #### 实验室&#58; 创建聊天机器人
   
   完成本模块学习后，学生将能&#58; 
-  - 配置主题、实体和变体
   - 创建聊天机器人
-  - 集成Omnichannel for Customer Service
-  - 使用PVA接口
+  - 将流程纳入聊天机器人中
+  - 创建主题和实体
   
   
-  ### 模块 6&#58; 用Power BI分析数据
+  ### 模块 7&#58; 用Power BI分析数据
   在本模块中，学生将学习如何使用Power BI Desktop和Power BI Service来分析数据和创建可视化。
   #### 课程概述
   - 初步了解Power BI
@@ -171,18 +184,3 @@ outlineSection: |-
   - 使用Power BI中的数据
   - 导出利益相关者的数据可视化
   
-  
-  ### 模块 7&#58; 顾问技能
-  在本模块中，学生将进一步了解功能顾问角色和为组织顺利实施Power Platform解决方案的技能。
-  #### 课程概述
-  - 顾问技能概述
-  - 创建和确认文档
-  - 吸引利益相关者
-  - 执行质量保证
-  - 配置集成
-  
-  完成本模块学习后，学生将能&#58; 
-  - 识别相应的文档
-  - 编写业务需求
-  - 通过演示吸引利益相关者
-  - 参与ALM和测试

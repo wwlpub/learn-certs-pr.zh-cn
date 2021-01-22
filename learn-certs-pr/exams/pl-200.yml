@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Functional Consultant (beta)'
+title: 'Microsoft Power Platform Functional Consultant'
 metadata:
-  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
-  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
@@ -14,7 +14,6 @@ summary: |-
 
   Power Platform功能顾问应熟悉Dynamics 365模型驱动应用，具有使用Power Platform组件扩展和定制化Dynamics 365模型驱动应用的经验。
 
-  <div> <strong><br/> Beta考试不会立即获得评分，因为我们正在收集有关问题和考试质量的资料。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">详细了解测试考试的价值和重要性。</a></strong></div>
 subTitle: '该考试衡量您完成以下任务的能力: 配置公共数据服务；使用Power Apps创建应用；创建和管理Power Automate；实施Power Virtual Agents聊天机器人；并将Power Apps与其他应用程序和服务整合。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
