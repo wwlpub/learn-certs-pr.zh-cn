@@ -114,10 +114,10 @@ statisticsSection:
     iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: 认证的好处
-    Summary: 获得证书后，67%的专业技术人员表示，他们对自己的工作能力更有自信了，41%的人表示工作满意度提高了，35%的人表示薪水或工资增加了。- “2018 Pearson VUE IT认证价值”。
+    summary: 获得证书后，67%的专业技术人员表示，他们对自己的工作能力更有自信了，41%的人表示工作满意度提高了，35%的人表示薪水或工资增加了。- “2018 Pearson VUE IT认证价值”。
   items:
     - title: 91%
-      Summary: 通过认证的IT专业人士表示，认证让他们在专业上更有信誉。
+      summary: 通过认证的IT专业人士表示，认证让他们在专业上更有信誉。
       note: 2018 Pearson VUE认证价值
     - title: 52%
       summary: 通过认证的IT专业人士表示，他们的专业知识在其组织内部更受欢迎。
