@@ -1,26 +1,33 @@
 ### YamlMime:Course
-title: 'Microsoft Dynamics 365: Core Finance and Operations'
+title: 'Microsoft Finance and Operations Core'
 metadata:
-  title: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
-  description: 'Course MB-300T00: Microsoft Dynamics 365: Core Finance and Operations'
+  title: 'Course MB-300T00: Microsoft Finance and Operations Core'
+  description: 'Course MB-300T00: Microsoft Finance and Operations Core'
 uid: course.mb-300t00
 courseNumber: 'MB-300T00'
-hoursToComplete: 72
+hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 开始使用 Lifecycle Services for Dynamics 365 for Finance and Operations
-- skill: 使用 Lifecycle Services 设计和规划 Dynamics 365 for Finance and Operations 的实施
-- skill: 概述 Dynamics 365 for Finance and Operations 中的报告和分析
-- skill: 为 Dynamics 365 for Finance and Operations 构建和测试移动应用程序
-- skill: 在 Dynamics 365 for Finance and Operations 中创建、维护和使用工作流程
-- skill: 在 Dynamics 365 for Finance and Operations 中设置和配置法人实体
-- skill: 在 Dynamics 365 for Finance and Operations 中管理用户和安全性
-- skill: 在 Dynamics 365 for Finance and Operations 中执行个性化
-- skill: 在 Dynamics 365 for Finance and Operations 中实施常见的集成功能
-- skill: 准备要迁移的数据并将数据迁移到 Dynamics 365 for Finance and Operations
-- skill: 在 Dynamics 365 for Finance and Operations 中使用数据管理
-- skill: 对 Dynamics 365 for Finance and Operations 执行用户验收测试
-- skill: 准备上线
+- skill: 如何浏览并有效地使用搜索，过滤和查询功能
+- skill: 如何使用操作工作区
+- skill: 使用Business Document Management
+- skill: 使用记录模板
+- skill: 将Power BI与Dynamics 365 Finance and Operations集成在一起
+- skill: 如何实现工作区个性化
+- skill: 确定何时在Dynamics 365 Finance and Operations应用程序中使用Power Platform。
+- skill: 如何针对用户运用安全角色
+- skill: 运行并分析安全报告
+- skill: 创建和使用审批流程
+- skill: 借助“组织层次结构”及其目的进行工作。
+- skill: 如何利用个性化特征
+- skill: 使用“数据管理”工作区
+- skill: 创建并使用实体模板
+- skill: 在法人实体之间拷贝配置数据
+- skill: 通过使用Office集成导入、导出数据和管理数据
+- skill: 使用Regression Suite Automation Tool (RSAT)
+- skill: 创建用户验收测试(UAT)和测试计划
+- skill: 创建和使用Business Process Modeler (BPM)
+- skill: 了解如何使用Issue search
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -35,291 +42,229 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  本课程讨论&#58;
-  - Dynamics 365 Finance 的核心共同特征
-  - Dynamics 365 Finance 中的核心配置
-  - 与 Dynamics 365 Finance 数据集成并准备将其上线
-  组织使用 Dynamics 365 Finance 以降低运营成本并快速响应不断变化的业务需求。这一解决方案使组织能够实现这些目标。
-  本课程讨论 Microsoft Dynamics 365 Finance 的核心组件和配置，以及数据迁移和上线准备。
+  Dynamics 365 Finance and Operations应用程序包括但不限于Dynamics 365 Finance, Dynamics 365 Supply Chain Management, 以及Dynamics 365 Supply Chain Management, Manufacturing。Dynamics 365 Finance可以帮您：实现全球金融业务的自动化和现代化。实时监控业绩，预测未来结果，并做出数据驱动的决策，以推动业务增长。以人工智能(AI)驱动战略财务决策，统一和自动化您的财务流程，减少运营费用，并降低全球财务复杂性和风险。Dynamics 365 Supply Chain Management可以帮您：改变您的制造和供应链运营。在规划、生产、库存、仓库和运输管理中使用来自AI和Internet of Things (IoT)的预测性洞察和智能。实现运营效率、产品质量和盈利能力的最大化。借助智能制造业务进行创新，实现仓库管理现代化，优化生产性能，最大化您的资产寿命，以及自动化并精简您的供应链。注意：欲了解更多信息，请参阅 https://docs.microsoft.com/learn/paths/get-started-finance-operations/ 在本模块中，我们将关注终端用户和顾问最常用的Dynamics 365 Finance应用程序的核心特性和功能。
 
   #### 受众概况
-  Dynamics 365 Finance Functional Consultant 负责执行发现、捕获需求、与主题专家和利益相关者接洽、转换需求以及配置解决方案和应用程序。职能顾问使用开箱即用的功能、无代码扩展性、应用程序和服务集成来实现解决方案。
+  Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、吸引主题内容专家和利益相关者、转换需求，并配置该解决方案和应用程序。“功能顾问”通过使用现成的功能、无代码可扩展性、应用程序和服务集成来实施解决方案。
 prerequisitesSection: |-
   参加本课程之前，学生必须具备&#58;
   - Microsoft Windows 的常见知识
   - 将 Dynamics 365 for Finance and Operations 用于基本处理的能力
   - 基本的移动设备功能和导航知识
 outlineSection: |-
-  ### 模块 1&#58; Dynamics 365 for Finance and Operations入门
-  了解 Microsoft Dynamics 365 for Finance and Operations 如何支持企业管理其全球财务系统，运营业务流程以及简化的供应链，以使人们能够做出快速明智的决策。
-  作为从事财务和运营工作的第一步，无论您希望担任什么角色，都必须熟悉其功能。
-
+  ### 模块 1&#58; 课程概述
+  本课程涵盖了Dynamics 365 Finance and Operations应用程序的核心功能。在这里讨论的总体主题包括核心公共特性、核心配置、数据迁移和准备工作。本课程是功能顾问和技术顾问的基础课程。他们应该对Dynamics 365 Finance and Operations应用程序有着基本的了解。他们还应了解Dynamics 365 Finance and Operations应用程序是如何与包括Power Platform在内的外部系统和工具集成的。通过使用Lifecycle Services及其他Microsoft工具和平台，顾问积极地管理应用程序的生命周期。
   #### 课程
-  - 简介
-  - 行业聚焦
-  - 财务管理简介
-  - 员工管理简介
-  - 供应链管理简介
-  - 模块总结
+  - 学习目标
+  - 模块概述
 
-  您将了解什么是财务和运营
-  - 您将了解它支持的行业
-  - 您将熟悉财务和运营中的模块
-  - 您将熟悉这些模块中功能的用途
-  - 您将熟悉它们如何支持行业特定领域
+  您将学到本课程所涵盖的模块。
 
-
-  ### 模块 2&#58; 生命周期服务入门
-  若要在 Microsoft Azure 云中或本地安装和维护 Microsoft Dynamics 365 for Finance and Operations，您需要使用 Microsoft Dynamics Lifecycle Services（LCS）来管理该过程。
-  让我们开始研究 LCS 中可用的整体功能和工具。
-
-  Microsoft Dynamics Lifecycle Services（LCS）是一个协作工作区，客户及其合作伙伴可以使用它来管理Dynamics 365 for Finance and Operations项目，从售前到实施，最后到生产环境，无论是在云上还是在本地。它提供了清单和工具来帮助您管理项目，包括可以帮助您管理实施过程的方法。
-
+  
+  ### 模块 2&#58; 使用常用的功能和实施工具
+  在本模块中，您将学习如何&#58;
+  - 使用常用的功能和实施工具。
+  - 描述工作区的用例和功能。
+  - 使用并个性化操作工作区。
+  - 描述案例管理。
+  - 描述全局地址簿功能及其用例。
+  - 识别默认安装中可用的那些查询和报告类型
+  - 描述业务文档管理和电子报告特性的用例。
+  - 使用业务文档管理。
+  - 浏览并有效地使用搜索过滤和创建搜索查询。
+  - 了解并使用记录模板。
+  - 描述Power Platform应用程序及服务的用例。
+  - 识别何时在Dynamics 365 Finance应用程序中使用Power Platform。
+  - 将Power BI与Dynamics 365 Finance应用程序集成在一起
   #### 课程
-  - 了解生命周期服务的功能和工具
-  - 重复使用现有资产，复制和共享数据
-  - 了解任务记录器功能
-  - 创建业务流程模型
-  - 运行LCS问题搜索工具并分析结果
-  - 了解如何使用回归套件自动化工具
-  - 实习实验室
-  - 模块总结
-
-  了解财务和运营生命周期服务（LCS）的功能和工具
-  - 重复使用现有资产，复制和共享数据
-  - 了解任务记录器功能
-  - 创建业务流程模型
-
-
-  ### 模块 3&#58; 使用生命周期服务进行设计和规划
-  通过适当的计划，您的 Dynamics 365 for Finance and Operations 实施将会取得成功。客户签署购买财务和运营许可证的协议后，您作为职能顾问的工作首先是管理应用程序生命周期，并朝着可预测，可重复的高质量实施迈进。
+  - 介绍
+  - 识别和使用常见的Dynamics 365 Finance and Operations应用程序的特性和功能
+  - 描述Power Platform应用程序及服务的用例
+  - 模块概要
+  
+  #### 实验室&#58; 使用一个操作工作区
+  
+  #### 实验室&#58; 准备、开启并使用业务文档管理
+  
+  #### 实验室&#58; 执行搜索并使用过滤器
+  
+  #### 实验室&#58; 创建搜索查询，并保存为未来所用
+  
+  #### 实验室&#58; 使用记录模板
+  
+  你已经学会了如何&#58; 
+  - 使用常用的功能和实施工具。
+  - 描述工作区的用例和功能。
+  - 使用并个性化操作工作区。
+  - 描述案例管理。
+  - 描述全局地址簿功能及其用例。
+  - 识别默认安装中可用的那些查询和报告类型
+  - 描述业务文档管理和电子报告特性的用例。
+  - 使用业务文档管理。
+  - 浏览并有效地使用搜索过滤和创建搜索查询。
+  - 了解并使用记录模板。
+  - 描述Power Platform应用程序及服务的用例。
+  - 识别何时在Dynamics 365 Dynamics 365 Finance应用程序中使用Power Platform。
+  - 将Power BI与Dynamics 365 Dynamics 365 Finance应用程序集成在一起
+  
+  
+  ### 模块 3&#58; 配置安全性、进程和选项
+  在本模块中，您将学习如何&#58;
+  - 区分角色、职责、特权和权限。
+  - 针对用户运用安全角色。
+  - 描述职责划分。
+  - 运行并分析安全报告。
+  - 创建和使用审批流程。
+  - 配置工作流的属性和要素。
+  - 建立和配置法人实体和经营单位。
+  - 配置数列并排除故障。
+  - 创建组织层次结构并分配目标。
+  - 描述并应用用户选项。
+  - 配置附件的文档处理。
+  - 配置打印管理和表单设置功能。
+  - 描述Microsoft Excel Workbook Designer及Microsoft Dynamics Office插件的用例。
+  - 配置电子邮件(SMTP/Exchange)。
+  - 创建和维护电子邮件模板。
+  - 使用个性化功能。
+  - 设置并监控批量作业和警报。
   #### 课程
-  - 简介
-  - 云实施的各个阶段
-  - 本地实施的各个阶段
-  - 创建功能设计文档（FDD）
-  - 模块总结
-
-  使用 Lifecycle Services（LCS）中的方法为收集的需求准备文档
-  - 定义用例场景
-  - 参与功能需求文件（FRD）的创建
-  - 了解创建和维护文档流程的重要性
-  - 参与基于阶段的规划过程和解决方案设计
-  - 根据提出的解决方案设计未来的业务流程
-  - 决定何时构建或是购买
-  - 创建功能设计文件（FDD）
-
-
-  ### 模块 4&#58; 报告和分析概述
-  业务领导者需要对基础财务和运营数据进行准确的分析，从而在公司中制定重要决策。如果无法看到这些数据，那将是不可能的！
-  通过在 Dynamics 365 for Finance and Operations 中使用分析和报告，您可以根据其安全权限为每个业务用户授权，以获取他们所需的见解。
+  - 介绍
+  - 实现安全
+  - 设计和创建工作流程
+  - 配置组织管理特性
+  - 配置系统管理特性
+  - 模块概要
+  
+  #### 实验室&#58; 创建用户并分配安全角色
+  
+  #### 实验室&#58; 建立职责划分
+  
+  #### 实验室&#58; 运行一个安全报告并分析其输出
+  
+  #### 实验室&#58; 创建一个请购单流程
+  
+  #### 实验室&#58; 配置一个新的法人实体
+  
+  #### 实验室&#58; 创建一个经营单位
+  
+  #### 实验室&#58; 建立数列
+  
+  #### 实验室&#58; 创建一个“组织层次结构”并分配目标
+  
+  #### 实验室&#58; 使用Excel工作簿设计器
+  
+  #### 实验室&#58; 创建一个批量作业
+  
+  您已经学会了如何&#58; 
+  - 区分角色、职责、特权和权限。
+  - 针对用户运用安全角色。
+  - 描述职责划分。
+  - 运行并分析安全报告。
+  - 创建和使用审批流程。
+  - 配置工作流的属性和要素。
+  - 建立和配置法人实体和经营单位。
+  - 配置数列并排除故障。
+  - 创建组织层次结构并分配目标。
+  - 描述并应用用户选项。
+  - 配置附件的文档处理。
+  - 配置打印管理和表单设置功能。
+  - 描述Microsoft Excel Workbook Designer及Microsoft Dynamics Office插件的用例。
+  - 配置电子邮件(SMTP/Exchange)。
+  - 创建和维护电子邮件模板。
+  - 使用个性化功能。
+  - 设置并监控批量作业和警报。
+  
+  
+  ### 模块 4&#58; 管理Dynamics 365 Finance and Operation数据
+  在本模块中，您将学习如何&#58;
+  - 管理Dynamics 365 Finance and Operations应用程序中的数据。
+  - 描述数据管理的概念。
+  - 了解数据管理工作区的概观。
+  - 使用数据管理工作区中的模板。
+  - 准备导入数据或创建所有必要的启动数据，其中包括邮政编码数据、客户、供应商和产品。
+  - 描述数据实体的用例和类型。
+  - 从一个法人实体导出数据。
+  - 将数据导入一个法人实体。
+  - 通过使用数据管理框架在公司或法人实体之间复制配置数据。
+  - 描述双写特性的用例。
+  - 计划一个迁移策略。
+  - 在Dynamics 365 Finance and Operations应用程序中识别常见的迁移场景和工具。
+  - 确定一次迁移的范围。
+  - 根据给定的场景识别相关的数据实体和要素。
+  - 建立包括迁移范围在内的迁移策略流程。
+  - 准备即将迁移的数据并进行迁移。
+  - 在数据迁移之前，创建一个清单，用于对一个给定的场景进行适当的规划。
+  - 识别并提取源数据。
+  - 在一个给定的数据迁移场景中，识别用于创建源数据的可用数据类型。
+  - 在源数据和目标数据结构之间生成字段映射。
+  - 通过使用数据管理框架导入或导出数据。
+  - 支持现有系统和迁移系统之间的转换。
+  - 执行一次测试迁移并验证流程的输出。
+  - 实现数据任务自动化。
   #### 课程
-  - 理解报告和查询
-  - 了解财务报告
-  - 为您的实例配置 PowerBI
-  - 实习实验室
-  - 模块总结
-
-  Finance and Operations 中的不同类型的报告和查询
-  - 财务报告
-  - 为Microsoft Power Platform配置Finance and Operations
-
-
-  ### 模块 5&#58; 构建和测试移动应用程序
-  我们生活在数字时代。现在，很难想象没有智能设备的一天。您几乎每天都使用移动应用程序进行社交活动，在线银行业务以及预订酒店，飞机和租车。
-  您可以在智能设备上使用 Dynamics 365 for Finance and Operations 似乎是很自然的。
-
+  - 介绍
+  - 管理Dynamics 365 Finance and Operations应用程序中的数据
+  - 计划一个迁移策略
+  - 准备即将迁移的数据并进行迁移。
+  - 模块概要
+  
+  #### 实验室&#58; 使用数据管理工作区中的模板
+  
+  #### 实验室&#58; 导出和导入数据
+  
+  #### 实验室&#58; 在法人实体之间拷贝配置数据
+  
+  在本模块中，您已经学会了如何&#58; 
+  - 管理Dynamics 365 Finance and Operations应用程序中的数据。
+  - 描述数据管理的概念。
+  - 了解数据管理工作区的概观。
+  - 使用数据管理工作区中的模板。
+  - 准备导入数据或创建所有必要的启动数据，其中包括邮政编码数据及客户。
+  - 描述数据实体的用例和类型。
+  - 从一个法人实体导出数据。
+  - 将数据导入一个法人实体。
+  - 通过使用数据管理框架在公司或法人实体之间复制配置数据
+  - 描述dual-write特性的用例。
+  - 计划一个迁移策略。
+  - 在Finance and Operations应用程序中识别常见的迁移场景和工具。
+  - 确定一次迁移的范围。
+  - 根据给定的场景识别相关的数据实体和要素。
+  - 建立包括迁移范围在内的迁移策略流程。
+  - 准备即将迁移的数据并进行迁移
+  - 在数据迁移之前，创建一个清单，用于对一个给定的场景进行适当的规划。
+  - 识别并提取源数据。
+  - 在一个给定的数据迁移场景中，识别用于创建源数据的可用数据类型。
+  - 在源数据和目标数据结构之间生成字段映射。
+  - 通过使用数据管理框架导入或导出数据。
+  - 支持现有系统和迁移系统之间的转换。
+  - 执行一次测试迁移并验证流程的输出。
+  - 实现数据任务自动化。
+  
+  
+  ### 模块 5&#58; 验证并支持该解决方案
+  在本模块中，您将学习如何&#58;
+  - 描述测试用例和业务需求之间的相关性。
+  - 使用最佳实践来记录测试用例。
+  - 使用任务记录器。
+  - 创建一个用于验收测试的场景，并将其保存在一个Business process modeler (BPM)库中。
+  - 在Azure DevOps中同步并配置您的测试计划。
+  - 执行您的测试。
+  - 使用回归套件自动化工具(RSAT)。
+  - 创建用户验收测试(UAT)和测试计划
+  - 创建并使用BPM。
+  - 使用“问题”搜索。
   #### 课程
-  - 统一操作移动应用概述
-  - 构建和使用移动应用
-  - 实习实验室
-  - 模块总结
-
-  您将学习如何创建和发布移动应用程序
-  - 您还将了解到需要下载应用程序
-  - 如何运行 Dynamics 365 应用程序以连接到 Finance and Operations
-
-
-  ### 模块 6&#58; 创建、维护和使用工作流
-  某些组织要求特定过程必须由输入记录的人以外的用户批准。这些工作流过程可能需要手动批准、工作流批准或无须批准。
-  #### 课程
-  - 业务流程工作流
-  - 创建和设置工作流
-  - 将用户分配到工作流接触点
-  - 使用工作项
-  - 实习实验室
-  - 模块总结
-
-  您可以使用工作流程应用自动化
-  - 您了解了有关定义工作流程类型的知识
-  - 您知道工作流程可以批准多种日记帐类型
-  - 您了解了可以定义工作流程的多个版本
-  - 您了解了可以修改现有工作流程而无需删除原始工作流程
-  - 您学习了如何设置、配置和添加工作流程及其任务
-  - 您学会了配置批准流程
-
-
-  ### 模块 7&#58; 设置和配置法律实体
-  法人实体是通过向法律机构注册而确定的组织。法人实体可以签订合同，并需要准备报告其执行情况的声明。您必须计划和配置组织并创建法人实体，这是实现 Dynamics 365 for Finance and Operations 的第一步。
-
-  本模块介绍了Dynamics 365 for Finance and Operations中的法律实体和数字序列的设置和配置。
-  #### 课程
-  - 创建法律实体并生成数字序列
-  - 创建数字序列
-  - 创建组织层次结构
-  - 适用目的和策略
-  - 配置日历和日期间隔
-  - 实习实验室
-  - 模块总结
-
-  您已经了解了如何创建法人实体并生成数字序列
-  - 您还配置了日历和日期间隔。
-  - 您学习了如何创建组织层次结构，应用目的和设置策略
-
-
-  ### 模块 8&#58; 管理用户和安全性
-  如果您了解 Dynamics 365 for Finance and Operations 的安全体系结构，则可以对其进行自定义以适合您的业务需求。使用财务和运营，您可以确保敏感数据的安全，并确保用户始终专注于自己的角色。
-
-  Microsoft Dynamics 365 for Finance and Operations 具有一系列安全和配置选项，可帮助确保敏感数据的安全。这一切都意味着您的用户可以继续专注于自己的角色，而系统则保持尽可能的精简。
-
-  了解如何实现不同的安全选项将有助于公司满足其安全需求。了解财务和运营的安全体系结构后，您可以更轻松地自定义安全性以适合您的业务需求。
-
-  #### 课程
-  - 理解安全架构
-  - 管理用户和安全性
-  - 设置和应用责任划分
-  - 进行安全报告
-  - 设置批处理作业和警报
-  - 实习实验室
-  - 模块总结
-
-  了解 Finance and Operations 的安全架构
-  - 管理用户
-  - 管理安全性
-  - 应用责任划分
-  - 进行安全报告
-
-
-  ### 模块 9&#58; 执行个性化设置
-  通过个性化 Dynamics 365 for Finance and Operations 中的用户界面，可以使组织的员工更有效率地工作。个性化可以帮助部门经理为员工实施特定的用户界面，而无需进行自定义。
-  #### 课程
-  - 描述并应用用户选项
-  - 创建、导出和导入个性化设置
-  - 创建和维护记录模板
-  - 实习实验室
-  - 模块总结
-
-  如何使用和应用用户选项，创建个性化设置以及导出个性化设置
-  - 定制和个性化之间的区别
-  - 个性化如何帮助您节省时间
-  - 个性化如何帮助您创建和维护记录模板
-
-
-  ### 模块 10&#58; 实现通用集成特性
-  此模块提供有关如何在 Finance and Operations 中实现常用集成功能的信息。  默认情况下，Microsoft Office Excel 已与 Dynamics 365 for Finance and Operations 集成。这使您可以直接从 Finance and Operations 中提取数据，在 Excel 中处理数据，然后将其保存回 Finance and Operations 中。您还可以直接通过 Finance and Operations 或使用 Microsoft Outlook 发送电子邮件。
-
-  您可以从任何位置用浏览器在公司的网络打印机上打印文档，因此打印体验再简单不过了。
-
-  #### 课程
-  - Microsoft Office集成
-  - 配置电子邮件
-  - 创建和维护电子邮件模版
-  - 使用Power BI
-  - 设置网络打印
-  - 将数据集成到应用程序的通用数据服务中
-  - 实习实验室
-  - 模块总结
-
-  您将学习如何使用 Microsoft Office 集成
-  - 您可以远程使用公司网络打印机
-  - 如何将来自多个来源的数据集成到通用数据服务中
-
-
-  ### 模块 11&#58; 准备要迁移的数据并迁移数据
-  当数据迁移的时候，人们知道的越多，越容易控制操作复杂性和降低成本。必须优先考虑客户的业务连续性。了解如何通过使用数据管理框架管理 Dynamics 365 for Finance and Operations 中的数据实体和数据实体包以准备要迁移的数据。
-  #### 课程
-  - 简介
-  - 了解BYOD特性
-  - 执行测试迁移并验证输出。
-  - 模块总结
-
-  选择数据集成（导入/导出）策略
-  - 确定Finance and Operations中的常用迁移方案和工具
-  - 了解自带数据库（BYOD）功能
-  - 确定相关（遗留）系统
-  - 确定和导入行业间通用的静态数据
-  - 创建和检查数据迁移测试方案
-  - 识别和提取源数据
-  - 确定相关的数据实体和要素
-  - 生成源和目标数据结构之间的字段映射
-  - 执行测试迁移并验证输出。
-  - 支持现有系统和迁移系统之间的过渡
-
-
-  ### 模块 12&#58; 使用数据管理
-  您可以使用数据管理工作区在 Dynamics 365 for Finance and Operations 中导出或导入数据。通过暂存源数据来验证数据，然后将其移动到 Finance and Operations 数据库中的目标表。
-
-  在本模块中，您将概述数据管理平台的基本概念。学生还将学习如何使用数据管理工作区在Dynamics 365 for Finance and Operations中导入和导出数据。
-
-  最后，您将学习如何使用数据管理平台的异步循环集成功能。
-
-  #### 课程
-  - 简介
-  - 了解数据管理和集成
-  - 数据管理工作区
-  - 数据管理中的模版
-  - 向合法实体内导入、从其中导出和拷贝数据
-  - 实习实验室
-  - 模块总结
-
-  确定给定方案的正确模式
-  - 使用数据管理工作区
-  - 从合法实体导出数据
-  - 向合法实体导入数据
-
-
-  ### 模块 13&#58; 执行用户验收测试
-  通过配置，自定义以及与可能的第三方的集成解决了所有客户要求之后，您需要知道如何在 Microsoft Dynamics 365 for Finance and Operations 中执行用户验收测试（UAT）以验证解决方案。这是上线准备工作的关键步骤。
-
-  为了在上线之前测试和评估客户解决方案，您需要具有 Dynamics 365 for Finance and Operations 的环境，该环境具有所有配置，并可能通过扩展进行自定义。
-
-  拥有一种方法来确保为一个简短、高效和以角色为中心的测试用例场景正确地组织和规划创建和测试总是有益的。
-  #### 课程
-  - 简介
-  - 为用户验收创建并执行测试用例
-  - 实习实验室
-  - 模块总结
-
-  如何理解测试用例与业务需求之间的关联
-  - 记录测试用例的最佳实践
-  - 任务记录器
-  - 如何创建场景验收测试BPM库
-  - 如何在Azure DevOps中同步和配置测试方案
-  - 如何执行测试
-
-
-  ### 模块 14&#58; 准备上线
-  通过将 Dynamics 365 for Finance and Operations 中已实现的解决方案移至生产环境，您的所有辛勤工作将获得成功。  在这个重要的阶段（即上线），您需要一个满意的客户，一个优质的解决方案以及让您省心的方法。
-  了解如何通过使用 Microsoft Dynamics 生命周期服务（LCS）准备上线财务与运营项目。
-
-  #### 课程
-  - 简介
-  - 准备上线
-  - 模块总结
-
-  准备上线
-  - 完成生命周期服务（LCS）方法
-  - 为您的解决方案执行用户验收测试(UAT)
-  - 了解FastTrack上线评估
-  - 请求生产环境
-
-
-  ### 模块 15&#58; 课程总结
-  最终评估和课程总结，以及课程的课后调查。
-  #### 课程
-  - 最终评估
-  - 课程总结
-  - 课后调查
-
-  您已经完成课程。
+  - 介绍
+  - 在Dynamics 365 Finance and Operations应用程序中测试解决方案
+  - 实施Lifecycle Services工具
+  - 模块概要
+  
+  在本模块中，您学习了如何&#58;
+  - 了解测试用例和业务需求之间的相关性
+  - 构建测试用例来测试业务功能，而无需成为一名开发人员
+  - 使用任务记录器功能从而在Lifecycle Services中创建一个业务流程模型
+  - 通过使用BPM，识别并分析差异，以确定任何缺失的功能
+  - 使用Regression suite automation tool (RSAT)
+  - 了解何为FastTrack Go-live评估
+  - 如何协助客户对生产环境提出要求。
 

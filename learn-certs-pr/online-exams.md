@@ -118,7 +118,7 @@ ms.author: micsullivan
                 <p><strong>互联网浏览器</strong></p>
             </td>
             <td>
-                <p>使用最新版本的Microsoft <strong>Edge</strong>、<strong>Safari</strong>、<strong>Chrome</strong> 和 <strong>Firefox</strong> 进行网络注册，或下载安全浏览器或 <strong>Internet Explorer 11</strong>。</p>
+                <p>Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong>的最新版本, 以及<strong>Firefox</strong>.</p>
             </td>
         </tr>
         <tr>

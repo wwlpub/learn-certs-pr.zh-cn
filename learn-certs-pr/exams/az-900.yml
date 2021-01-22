@@ -18,7 +18,7 @@ summary: |-
   Azure Fundamentals 可用于准备其他基于 Azure 角色的或专业的认证，但这不是其中任何一项的先决条件。
   
   如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '此考试衡量您理解以下概念的能力：云概念；核心Azure服务；安全，隐私，合规和信任；以及 Azure 定价和支持。'
+subTitle: '该考试测试您描述以下概念的能力：cloud概念；Azure核心服务；Azure上的核心解决方案和管理工具；普通的安全和网络安全特性；身份、治理、隐私及合规特性；以及Azure成本管理和Service Level Agreements。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
