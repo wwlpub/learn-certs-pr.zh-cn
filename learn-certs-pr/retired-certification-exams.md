@@ -65,6 +65,9 @@ ms.prod: non-product-specific
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core|
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer|
 
+| 2021年6月30日停用 |
+| --- |
+| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
 
 ## 最近停用的考试
 
@@ -414,11 +417,11 @@ ms.prod: non-product-specific
 | 74-924 | Microsoft Office Communications Server 2007 R2 – U.C.Voice Specialization | 2010年10月31日
 | 77-891 | Office 365| 2014年12月31日
 | 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 2011年9月30日
-| 88-961 | MCM：SharePoint Server 2010: 第1周| 2013年8月25日
-| 88-962 | MCM：SharePoint Server 2010: 第2周| 2013年8月25日
-| 88-963 | MCM：SharePoint Server 2010: 第3周| 2013年8月25日
-| 88-972 | MCM：SharePoint Server 2010: Lab Exam | 2013年8月25日
-| 88-973 | MCM：SharePoint Server 2010, Knowledge Upgrade Exam | 2013年8月25日
+| 88-961 | MCM: SharePoint Server 2010: 第1周| 2013年8月25日
+| 88-962 | MCM: SharePoint Server 2010: 第2周| 2013年8月25日
+| 88-963 | MCM: SharePoint Server 2010: 第3周| 2013年8月25日
+| 88-972 | MCM: SharePoint Server 2010: Lab Exam | 2013年8月25日
+| 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 2013年8月25日
 | 88-965 | Windows Server 2008 R2: Directory Knowledge Exam | 2014年1月1日
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014年1月1日
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014年1月1日

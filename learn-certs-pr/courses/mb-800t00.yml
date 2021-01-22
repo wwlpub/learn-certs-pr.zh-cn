@@ -1,0 +1,55 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Business Central Functional Consultant
+metadata:
+  title: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+uid: course.mb-800t00
+courseNumber: 'MB-800T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解Business Central模块的用例
+- skill: 建立Business Central
+- skill: 配置财务
+- skill: 配置销售和采购
+- skill: 配置运营
+- skill: 了解集成和自动化场景
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-business-central
+- power-platform
+exams:
+- uid: exam.mb-800
+summary: |-
+  Dynamics 365 Business Central是为中小型企业构建并优化的应用程序，它适用于那些已超出入门级业务应用程序的公司。不断发展的企业往往超出其基本的会计软件或遗留的企业资源计划(ERP)系统，这些系统无法处理增加的库存和交易，缺乏与其他业务线系统的集成，并存在报告的局限性。企业还面临着提供服务的物流方面的挑战，这些服务在cloud中具有更多的可扩展性、增加的移动性以及可用性。借助Business Central，您可以管理财务、实现供应链的自动化并使其得到保护、更智能地进行销售、提高客户服务和项目绩效，并优化您的运营。
+
+  #### 受众概况
+  Dynamics 365 Business Central core Functional Consultant负责为中小型企业实施核心应用程序设置流程。
+prerequisitesSection: |-
+  本课程是为使用Dynamics 365 Business Central的功能顾问或者使用其他Dynamics 365应用程序的功能顾问而设计的，他们想要扩展自己在Business Central方面的知识。
+outlineSection: |-
+  ### 模块 1&#58; Business Central介绍
+  Business Central模块介绍
+
+  ### 模块 2&#58; 应用程序安装程序
+  
+  
+  ### 模块 3&#58; 配置财务
+  
+  
+  ### 模块 4&#58; 配置销售和采购
+  
+  
+  ### 模块 5&#58; 运营
+  
+  
+  ### 模块 6&#58; 集成和自动化
+  
+  #### 辅助读物 
+  Microsoft.com/learn

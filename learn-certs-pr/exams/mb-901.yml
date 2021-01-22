@@ -9,6 +9,7 @@ summary: |-
   <div>
   <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
   <div><strong>此考试的内容于 2020 年 7 月 10 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
+  <div><strong>该考试将于2021年6月30日停用。有两个替代考试，即MB-910和MB-920。欲了解更多信息，请访问<a href="/learn/certifications/exams/mb-910">MB-910</a>和<a href="/learn/certifications/exams/mb-920">MB-920</a>考试详细信息页面。注意&#58; 考试于中央标准时间晚上11点59分停用。</strong><br/><br/></div>
   </div>
 
   此考试将涵盖采用 Dynamics 365 的配置和优点。
@@ -19,7 +20,7 @@ summary: |-
 
   如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
 
-  <div><br/><strong>注释&#58; 目前，Microsoft 不会将“Common Data Service”的引用更新为“Microsoft Dataverse”。</strong></div>
+  <div><br/><strong>由于该考试将于2021年6月30日停用，Microsoft不会将“Common Data Service”的引用更新为“Microsoft Dataverse.”</strong></div>
 subTitle: 该考试衡量您了解 Microsoft Dynamics 365 的能力；人工智能；混合现实；动力平台；云概念；云安全； Dynamics 365中基于角色的安全性；通用数据服务；数据管理框架； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -44,6 +45,7 @@ skills:
 - 描述 Dynamics 365 中的人工智能和混合现实 (10-15%)
 - 描述模型驱动式应用程序 (25-30%)
 - 描述 Finance and Operations 应用程序 (25-30%)
+retirementDate: 06/30/2021
 roles:
 - business-owner
 - business-user
@@ -60,7 +62,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft Certified：Dynamics 365 Fundamentals。
+  description: '发现培训资源以获得Microsoft Certified: Dynamics 365 Fundamentals。'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

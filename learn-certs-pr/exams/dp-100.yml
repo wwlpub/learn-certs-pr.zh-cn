@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>本次考试的内容将于2020年12月8日更新。请下载以下的技能测试文档以查看将发生什么变化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>该考试的内容已于2020年12月8日进行了更新。请下载以下技能测量文档，来看看会发生哪些变化。</strong><br/><br/></div>
   </div>
 
   Azure Data Scientist 利用他们在数据科学和机器学习方面的知识在 Azure 上实施和运行机器学习工作负载；特别是使用 Azure 机器学习服务。这需要为 Azure 的数据科学工作负荷规划并创建合适的工作环境，运行数据实验和训练预测模型，管理和优化模型，以及将机器学习模型部署到生产中。
@@ -25,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2020年12月8日更新。请下载下述考试技巧以查看将发生什么变化。
+- 该考试的内容已于2020年12月8日进行了更新。请下载以下考试技巧大纲，来看看发生了哪些变化。
 - 设置 Azure 机器学习工作区 (30-35%)
 - 进行实验和训练模型 (25-30%)
 - 优化和管理模型 (20-25%)

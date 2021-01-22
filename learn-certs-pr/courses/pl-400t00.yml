@@ -37,43 +37,95 @@ prerequisitesSection: |-
 outlineSection: |-
   ### 模块 1&#58; 在Power Apps中创建模型驱动应用
   本模块将为您介绍在Power Apps中使用Common Data Service创建模型驱动应用程序的方法。
+  #### 课程概述
+  - 模型驱动应用程序和Common Data Service介绍
+  - 在Power Apps中开始使用模型驱动应用程序
+  - 在Common Data Service中创建并管理实体
+  - 在Common Data Service中创建并管理实体中的字段
+  - 在Common Data Service中使用选项集
+  - 在Common Data Service中创建实体之间的关系
+  - 在Common Data Service中定义并创建业务规则
+  - 在Common Data Service中创建并定义计算或汇总字段
+  - 在Common Data Service中从安全角色开始
+
   
-  
-  ### 模块 2&#58; 初步使用Common Data Service
-  本模块将说明Common Data Service背后的概念及其优势。还将讨论创建环境、实体、字段和选项集。
-  
-  
-  ### 模块 3&#58; 在Power Apps中创建画布应用程序
+  ### 模块 2&#58; 在Power Apps中创建一个canvas应用程序
   本模块将为您介绍Power Apps，帮助您创建和定制应用程序，然后管理和发布该应用。还将为您展示如何提供最佳应用导航和用主题、图标、图像、个性化、各种形状参数和控制器来建立最佳UI。
+  #### 课程概述
+  - 开始使用Power Apps
+  - 在Power Apps中定制一个canvas应用程序
+  - 在Power Apps中管理应用程序
+  - 在Power Apps的canvas应用程序中所进行的导航
+  - 如何在Power Apps的canvas应用程序中构建用户界面(UI)
+  - 在Power Apps的canvas应用程序中使用并了解控件
+  - 记录并测试您的Power Apps应用程序
+
+  
+  ### 模块 3&#58; 掌握canvas应用程序中的高级技术及数据选项
+  本模块将帮助您使用高级公式，并执行自定义更新、性能检查及测试。它还将帮您改进用户体验、使用自定义连接器并专注于处理数据源限制。
+  #### 课程概述
+  - 在Power Apps中使用必要的canvas应用程序开发技术
+  - 在Power Apps的canvas应用程序中编写一个使用表格、记录和集合的高级公式
+  - 在Power Apps canvas应用程序中执行自定义更新
+  - 在Power Apps canvas应用程序中完成测试和性能检查
+  - 在Power Apps canvas应用程序中使用关系数据
+  - 在Power Apps canvas应用程序中使用数据源限制（委托限制）
+  - 在Power Apps canvas应用程序中连接到其他数据
+  - 在Power Apps canvas应用程序中使用自定义连接器
   
   
   ### 模块 4&#58; 用Power Automate实现业务流程自动化
   本模块将为您介绍Power Automate，教您如何建立工作流，如何管理流程。
+  #### 课程概述
+  - 开始使用Power Automate
+  - 利用Power Automate构建更复杂的流程
+  - 介绍Power Automate中的业务流程
+  - 在Power Automate中创建沉浸式业务流程
+  - 了解Power Automate中的高级业务流程概念
+  - 介绍Power Automate中的表达式
+  
+  ### 模块 5&#58; 借助Power Platform进行开发的介绍
+  本模块是学习平台、工具以及Power Platform生态系统的第一步
+  #### 课程概述
+  - Power Platform开发人员资源介绍
+  - 使用开发人员工具来扩展Power Platform
+  - 扩展Microsoft Power Platform的介绍
   
   
-  ### 模块 5&#58; 在Power Automate中创建业务流程
-  本模块将为您介绍在Power Automate中创建业务流程的方法。
-  
-  
-  ### 模块 6&#58; Power Platform开发简介
-  本模块是了解Power Platform的平台、工具和生态系统的第一步。
+  ### 模块 6&#58; 扩展Power Platform Common Data Service
+  本模块介绍了扩展Power Platform所需的工具和资源。我们将从查看SDKs、可扩展性模型和事件框架开始。本学习路径还包括何时使用插件。插件的配置以及注册和部署插件。
+  #### 课程概述 
+  - 面向开发人员的Common Data Service介绍
+  - 扩展插件
   
   
   ### 模块 7&#58; 扩展Power Platform用户体验模型驱动应用程序 
   本模块描述了如何创建客户端脚本，执行客户端脚本常用操作，用客户端脚本实现业务流程自动化。了解客户端脚本的作用、规则和维护脚本。弄清楚何时应该使用客户端脚本以及何时不应使用客户端脚本。
-  
-  
+  #### 课程概述
+  - 网络资源介绍
+  - 借助客户端脚本进行常见操作
+  - 借助客户端脚本实现业务流程自动化
+
   ### 模块 8&#58; 用Power Apps Component Framework创建组件
   本模块描述了如何通过核心概念和组件的介绍模块来初步了解Power Apps Component Framework。随后，将为您展示如何建立组件和使用高级Power Apps Component Framework功能。
+  #### 课程概述
+  - 开始使用Power Apps组件框架
+  - 构建一个Power Apps组件
+  - 使用带有Power Apps组件框架的高级功能
   
   
-  ### 模块 9&#58; 扩展Power Platform Common Data Service
-  本模块关注扩展Power Platform所需的工具和资源。我们将初步关注SDK、扩展性模型和事件框架。该学习路径还包括何时使用插件。配置插件以及插件注册和部署。
+  ### 模块 9&#58; 扩展Power Apps门户网站
+  本模块描述如何将内容门户转换为与Common Data Service交互的完整的网络应用程序。我们还将介绍定制者和开发人员的可用选项，以扩展门户功能并与Office 365、Power Platform及Azure组件相集成。
+  #### 课程概述 
+  - Power Apps门户介绍
+  - 在Power Apps门户中访问Common Data Service
+  - 扩展Power Apps门户
+  - 构建定制的Power Apps门户网络模板
   
   
   ### 模块 10&#58; 集成Power Platform和Common Data Service
   本模块描述如何用代码通过了解Common Data Service API来集成Common Data Service。获取Common Data Service可用选项详细描述将数据和事件集成到Azure。
-  
-  
-  ### 模块 11&#58; 扩展Power Apps门户
-  本模块描述如何将内容门户转变为与Common Data Service交互的完整web应用。还将包含定制器和开发人员可用于扩展门户功能以及与Office 365、Power Platform和Azure集成的选项。
+  #### 课程概述
+  - 使用Common Data Service Web API
+  - 整合Common Data Service Azure解决方案
+

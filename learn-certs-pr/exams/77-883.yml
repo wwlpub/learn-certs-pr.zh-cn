@@ -6,7 +6,9 @@ metadata:
 uid: exam.77-883
 displayName: 77-883
 summary: |-
+  <div>
   <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
+  <div><strong>该考试已停用。对于目前可用的考试选项，请参考<a href="/learn/certifications/browse/">“浏览认证和考试”页面</a>。</strong><br/><br/></div>
 
   考试的典型候选人是需要在功能和功能级别导航 PowerPoint 2010 的学生，办公室工作人员或讲师。
 
@@ -14,7 +16,6 @@ summary: |-
 subTitle: 考试的典型候选人是需要在功能和功能级别导航 PowerPoint 2010 的学生，办公室工作人员或讲师。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - ar-sa
@@ -39,6 +40,7 @@ skills:
 - 在演示文稿上进行协作
 - 准备要交付的演示文稿
 - 交付演示文稿
+retirementDate: none
 roles:
 - business-user
 products:
