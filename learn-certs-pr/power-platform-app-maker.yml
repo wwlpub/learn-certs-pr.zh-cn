@@ -8,7 +8,17 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
 
-  该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
+  如果您是一位在解决方案领域拥有深厚专业知识的业务专家，并且希望利用您构建 Microsoft Power Platform 解决方案的热情来简化、自动化和转换团队的任务和流程，那么本认证就是为您而设计的。您必须具备完成关键技术业务分析师任务的技能，如数据建模、基本用户体验设计、需求分析和流程分析。 
+  
+  如果您是一个自我指导、专注于解决方案的人，并且使用 Microsoft Power Platform 的制作工具来解决业务问题，那么您就适合应用制作者角色。您可能有使用 Visual Basic for Applications、Excel PivotTables、Teams 的经验。尽管您可能没有接受过正式的 IT 培训，但您可以放心地与 IT 管理员和 Microsoft Power Platform 开发人员一起使用技术解决业务问题。您负责&#58;  
+  - 设计和创建应用程序和自动化工作流程。 
+  - 在应用程序或自动化工作流程的背景下分析和可视化数据。 
+  - 实施和管理应用程序和自动化工作流程。
+
+  要了解更多信息，请阅读我们的帖子&#58; [您是 Power Platform 应用制作者吗？现在是获得认证的时候了](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993)。如果您在尝试该认证之前需要更多经验，您可以&#58;
+  - 自愿参与一个项目，以获得数据建模、基本用户体验设计、需求分析或流程分析方面的实际经验。
+  - 在 Microsoft Learn 上进行学习。
+  - 报名参加讲师指导的培训课程。
 subTitle: 该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析和流程分析。
 levels:
 - intermediate

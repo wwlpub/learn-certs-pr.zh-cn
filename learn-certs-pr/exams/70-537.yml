@@ -7,7 +7,7 @@ uid: exam.70-537
 displayName: 70-537
 summary: |-
   <div><div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
+  <div><strong>本次考试将于2021年1月31日下午11时59分结束。在此日期之后，您将无法再参加考试。您可以参加替代考试，<a href='/learn/certifications/exams/AZ-600'>Az-600</a>该考试是新的 Microsoft Certified: Azure Stack Hub Operator Associate 认证所必需的。<br/><br/></strong></div>
   </div>
 
   该考试的考生是 Azure 管理员和 Azure Stack Hub 运营商，他们使用 Azure Stack Hub 为来自他们自己的数据中心的最终用户或客户提供云服务。

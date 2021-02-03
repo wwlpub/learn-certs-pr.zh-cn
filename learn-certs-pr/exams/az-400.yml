@@ -7,7 +7,7 @@ uid: exam.az-400
 displayName: AZ-400
 summary: |-
   <div><div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-  <div><strong>本次考试的内容于2020年11月24日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
+  <div><strong>本次考试的内容将于2021年1月27日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
   </div>
 
   参加该考试的考生应具有与人员，流程和技术一起工作的主题专业知识，以不断交付业务价值。
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容于2020年11月24日更新。请下载以下考试技能大纲，以了解有何变化。
+- 本次考试的内容将于2021年1月27日更新。请下载下面的考试技能大纲，看看将会改变什么。
 - 制定规范策略 (5-10%)
 - 制定站点可靠性设计(SRE)策略 (5-10%)
 - 制定安全和合规计划 (10-15%)
