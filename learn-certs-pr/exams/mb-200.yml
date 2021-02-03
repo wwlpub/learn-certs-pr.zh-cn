@@ -6,8 +6,8 @@ metadata:
 uid: exam.mb-200
 displayName: MB-200
 summary: |-
-  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>该考试的内容已于2020年7月1日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
-  <div><strong>该考试将于2020年12月31日停用。新的考试 <a href="/learn/certifications/exams/pl-200">Pl-200</a> 将于 2020 年 9 月推出。注意&#58;考试将于美国中部标准时间晚上11:59停用。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div>
+  <div><strong>本次考试将于2020年12月31日结束。您可以参加替代考试 PL-200。有关更多信息，请访问 <a href="/learn/certifications/exams/pl-200">PL-200 考试详细信息页面</a>。</strong><br/><br/></div>
   </div>
 
   本考试的考生是对企业已授权产品的特性和功能有访问权限的功能顾问。作为功能顾问，考生了解各个版本的捆绑特性，但并非主要使用这些捆绑产品进行工作。
@@ -15,21 +15,17 @@ summary: |-
   考生主要负责配置系统以满足客户需求，执行与新特性和功能的落实相关的设计任务，以及落实和测试系统更改。
 
   考生为解决方案规划功能设计，实施应用程序生命周期管理 (ALM) 流程，从传统和外部系统迁移数据，将 Power 平台与其他系统集成，以及管理 Power 平台环境。
-
-  <div><br/><strong>由于本次考试将于2020年12月31日结束，Microsoft 不会将“Common Data Service”的引用更新为“Microsoft Dataverse”。</strong></div>
   
 subTitle: '该考试衡量您完成以下技术任务的能力: 执行发现，计划和分析；管理用户体验设计；管理实体和数据；实施安全；实施整合；以及执行解决方案部署和测试。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
 levels:
 - intermediate
 skills:
-- 此考试的内容于 2020 年 7 月 1 日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 执行发现、规划和分析 (5-10%)
 - 管理用户体验设计 (20-25%)
 - 管理实体和数据 (15-20%)
@@ -46,12 +42,7 @@ products:
 - dynamics-field-service
 - dynamics-customer-service
 exams:
-- uid: exam.mb-210
-- uid: exam.mb-220
-- uid: exam.mb-230
-- uid: exam.mb-240
-courses:
-- uid: course.mb-200t00
+- uid: exam.mb-400
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -62,9 +53,7 @@ paths:
 - uid: learn-bizapps.extend-power-apps-portals
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-sales
-- related:
-    uid: certification.d365-functional-consultant-customer-service
+    uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

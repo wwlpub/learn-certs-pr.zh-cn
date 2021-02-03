@@ -34,7 +34,6 @@ ms.author: micsullivan
 | [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | 将于2021年1月31日停用 |
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 将于2021年1月31日停用 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | 将于2021年1月31日停用 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 将于2020年12月31日停用 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021年6月30日停用 |
 
 ## 已停用认证
@@ -45,6 +44,7 @@ ms.author: micsullivan
 
 | 基於角色                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020年12月31日 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 2020年8月31日 |
 
 | Microsoft Certified Solutions Developer                                            |

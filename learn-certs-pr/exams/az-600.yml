@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)
+metadata:
+  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+uid: exam.az-600
+displayName: AZ-600
+summary: |-
+  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
+  
+  考试 AZ-600 的候选人是 Azure administrators 或 Azure Stack Hub 操作员，他们使用 Azure Stack Hub 从自己的数据中心向最终用户或客户提供 cloud 服务。
+  
+  该考试的候选人应具有管理和操作 Azure Stack Hub 环境的丰富经验。除了一些虚拟化、网络和身份管理方面的知识外，他们还应该对 Azure 有很强的理解。他们需要了解 Azure Stack Hub 是如何启用 DevOps 进程和混合开发模型的。
+  
+  <div><strong><br/>Beta 考试不会立即得分，因为我们正在收集有关问题和考试质量的数据。了解<a href="/learn/certifications/certification-exams#participating-in-beta-exams">关于 beta 考试的价值和重要性</a>。</strong></div>
+subTitle: '本考试衡量您完成以下技术任务的能力：提供服务；实施数据中心集成；管理身份和访问；以及管理基础设施。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+locales:
+- en
+levels:
+- advanced
+skills:
+- 提供服务 (30-35%)
+- 实施数据中心集成 (15-20%)
+- 管理身份和访问 (10-15%)
+- 管理基础设施 (30-35%)
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+relatedCertifications:
+- related:
+    uid: certification.azure-stack-hub-operator
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: ../request-accommodations.md
+- title: 考试原则和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md

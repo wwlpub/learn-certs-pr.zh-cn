@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
-  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>该考试的内容已于2020年9月28日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>本次考试的内容将于2021年2月26日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
   </div>
 
   Microsoft Dynamics 365中财务和运营应用程序的解决方案架构师是受信任的顾问，他们了解业务推荐的实践和软件功能。他们带领团队成员实施可以实现预定义实施目标的Dynamics解决方案。
@@ -23,7 +23,7 @@ locales:
 levels:
 - advanced
 skills:
-- 此考试的内容于2020年9月28日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 本次考试的内容将于2021年2月26日更新。请下载下面的考试技能大纲，看看将会改变什么。
 - 确定解决方案要求 (30-35%)
 - 设计解决方案组件 (40-45%)
 - 定义解决方案测试和管理策略 (25-30%)
