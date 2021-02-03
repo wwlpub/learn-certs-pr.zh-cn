@@ -12,7 +12,7 @@ skillsGained:
 - skill: 解释Azure中关系型数据的概念
 - skill: 解释Azure中非关系型数据的概念
 - skill: 识别Azure中现代数据仓库的组件
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -55,25 +55,25 @@ outlineSection: |-
   ### 模块 2&#58;在Azure中浏览关系型数据
   学生将学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能，并在Microsoft Azure中建立有关云端数据服务的基础知识。学生将探索关系型数据产品，供应和部署关系型数据库，以及通过Azure的云端数据解决方案查询关系型数据。
   #### 课程
-  - 探索Azure中的关系型数据产品
-  - 探索Azure中的供应和部署关系型数据库产品
+  - 探索 Azure 中的关系数据服务
+  - 探索在 Azure 中配置和部署关系数据库服务
   - 在Azure中查询关系型数据
 
   学完本模块后，学生将能够&#58;
-  - 在Azure上描述关系型数据产品
+  - 描述 Azure 上的关系数据服务
   - 解释在Azure上配置和部署关系型数据库
   - 通过Azure中的云端数据解决方案查询关系型数据
 
 
   ### 模块 3&#58;在Azure中浏览非关系型数据
-  学生将学习云端环境中数据库概念的基础知识，掌握云端数据服务的基本技能，并在Azure中建立有关云端数据服务的基础知识。学生将使用Microsoft Azure探索非关系型数据产品，供应和部署非关系型数据库以及非关系型数据存储。
+  学员将学习 cloud 环境中数据库概念的基础知识，掌握 cloud 数据服务的基本技能，并建立 Azure 中 cloud 数据服务的基础知识。 学员将探索非关系数据服务、使用 Microsoft Azure 配置和部署非关系数据库以及非关系数据存储。
   #### 课程
-  - 探索Azure中的非关系型数据产品
+  - 探索 Azure 中的非关系数据服务
   - 探索在Azure上配置和部署非关系型数据服务
   - 在Azure中管理非关系型数据存储
 
   学完本模块后，学生将能够&#58;
-  - 描述Azure上的非关系型数据产品
+  - 描述 Azure 上的非关系数据服务
   - 解释在Azure上配置和部署非关系型数据库
   - 删除Azure上的非关系型数据存储
 

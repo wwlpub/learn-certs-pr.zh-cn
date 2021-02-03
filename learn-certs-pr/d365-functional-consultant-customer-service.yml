@@ -4,10 +4,11 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
   description: 'Microsoft Dynamics 365 客户服务功能顾问负责构建快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。'
 uid: certification.d365-functional-consultant-customer-service
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a>.</strong></font><br/><br/></div>
-  <div><strong>考试<a href="/learn/certifications/exams/mb-200">MB-200</a>正在被一个新的考试<a href="/learn/certifications/exams/pl-200">PL-200</a>所取代。在通过MB-200或PL-200以及MB-230考试的情况下，您将能够获得该证书，直至MB-200于2020年12月31日停用。在MB-200停用后，将需要通过PL-200和MB-230才能获得该证书。注意：考试于中央标准时间晚上11点59分停用。</strong><br/><br/></div></div>
+  </div>
 
   面向客户服务功能顾问的 Microsoft Dynamics 365 构建了快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。
 subTitle: Microsoft Dynamics 365 客户服务功能顾问负责构建快速、灵活且利用 AI 的 CX 解决方案，以推动可预测客户需求的可操作洞察。

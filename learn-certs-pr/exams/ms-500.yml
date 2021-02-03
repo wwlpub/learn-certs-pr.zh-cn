@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div><div><strong>本次考试的内容于2020年11月24日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
+  <div><div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解更多</a> 。</strong></font><br/><br/></div>  <div><strong>本次考试的内容将于2021年1月27日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
   </div>
 
   此考试的考生可以实施、管理和监控 Microsoft 365 和混合环境的安全性和合规性解决方案。Microsoft 365 安全管理员可以主动保护 Microsoft 365 企业环境的安全、响应威胁、执行调查并实施数据治理。Microsoft 365 安全管理员与 Microsoft 365 企业管理员，业务利益相关者和其他工作负荷管理员协作，以规划和实施安全策略，并确保解决方案符合组织的策略和法规。
@@ -28,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 考本次考试的内容于2020年11月24日更新。请下载以下考试技能大纲，以了解有何变化。
+- 本次考试的内容将于2021年1月27日更新。请下载下面的考试技能大纲，看看将会改变什么。
 - 实施和管理身份和访问权限（30-35%）
 - 实施和管理威胁防护（20-25%）
 - 实施和管理信息保护（15-20%）
