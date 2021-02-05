@@ -16,7 +16,7 @@ skillsGained:
 - skill: 操作Reliable集合
 - skill: 了解Azure容器注册表
 - skill: 使用Azure容器实例
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -22,7 +22,7 @@ skillsGained:
 - skill: 分析遥测以建立基线
 - skill: 执行实时站点审核并捕获系统中断的反馈
 - skill: 执行持续调整以减少无意义或不可操作的警报
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

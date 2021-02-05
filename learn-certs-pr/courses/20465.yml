@@ -12,7 +12,7 @@ skillsGained:
 - skill: 规划和实施基于策略的管理。
 - skill: 描述使用 SQL Server 2014 合并工作负载的注意事项。
 - skill: 描述在私有云中包括 SQL Server 2014 的注意事项。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -21,7 +21,7 @@ skillsGained:
 - skill: 实施组策略
 - skill: 通过使用组策略对象(GPO)保护 Windows 服务器。
 - skill: 通过使用 Hyper-V 实施服务器虚拟化。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

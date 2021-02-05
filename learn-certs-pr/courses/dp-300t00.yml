@@ -11,7 +11,7 @@ skillsGained:
 - skill: 计划、部署和配置 Azure SQL 产品
 - skill: 监视数据库效能并调整数据库和查询以获得最佳效能
 - skill: 规划并实施高可用性解决方案
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

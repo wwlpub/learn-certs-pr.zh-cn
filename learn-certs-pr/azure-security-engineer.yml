@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-
   Azure Security Engineer 证书的考生应具有实施安全控制和威胁防护、管理身份和访问以及保护云端和混合环境中的数据、应用程序和网络（作为端到端基础结构的一部分）等方面的主题知识。
 
   担任此角色的职责包括维护安全状况、使用各种安全工具识别和补救漏洞、实施威胁防护以及对安全事件升级做出响应。

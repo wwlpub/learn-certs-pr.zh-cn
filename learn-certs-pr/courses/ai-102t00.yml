@@ -16,7 +16,7 @@ skillsGained:
 - skill: 创建和管理Azure Cognitive Search解决方案
 - skill: 使用Bot Framework创建智能代理
 - skill: 实施Computer Vision解决方案
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

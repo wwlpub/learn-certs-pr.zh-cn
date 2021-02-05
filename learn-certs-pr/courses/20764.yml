@@ -23,7 +23,7 @@ skillsGained:
 - skill: 监视 SQL Server 基础结构
 - skill: 对 SQL Server 基础结构进行故障排除
 - skill: 汇入和导出数据
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

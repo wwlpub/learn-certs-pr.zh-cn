@@ -26,7 +26,7 @@ skillsGained:
 - skill: 使用 SignalR 启用客户端和服务器之间的双向通信。
 - skill: 描述什么是 Web API 以及为什么开发人员可能将 Web API 添加到应用程序。
 - skill: 描述如何将 ASP.NET Core MVC Web 应用程序从开发计算机打包和部署到 Web 服务器。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

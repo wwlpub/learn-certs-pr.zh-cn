@@ -20,7 +20,7 @@ skillsGained:
 - skill: 配置网络负载平衡（NLB）群集，并规划 NLB 的实施。
 - skill: 创建和管理部署映像。
 - skill: 管理、监视和维护虚拟机安装。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

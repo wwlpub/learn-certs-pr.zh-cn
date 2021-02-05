@@ -20,7 +20,7 @@ skillsGained:
 - skill: 对邮件流进行故障排除
 - skill: 对传输问题进行故障排除
 - skill: 使用日志进行故障排除
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

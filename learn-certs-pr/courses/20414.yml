@@ -21,7 +21,7 @@ skillsGained:
 - skill: 规划和实施 AD FS 服务器部署并声明感知应用程序访问
 - skill: 规划和实施动态访问控制 、Workplace Join 和工作文件夹。
 - skill: 规划和实施 AD RMS 部署，规划和管理 AD RMS 模版和存取，以及规划和实施对 AD RMS 服务的外部访问。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

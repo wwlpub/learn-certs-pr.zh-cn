@@ -6,8 +6,6 @@ metadata:
 uid: exam.98-361
 displayName: 98-361
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
-
   本考试面向希望证明自身核心软件开发技能的考生。建议考生通过参加相关培训课程或学习 MSDN 和 Microsoft Visual Studio 中的教程与示例来熟悉相关概念，积累此处所述技术的实践经验。考生应具备一定的 C# 或 Microsoft Visual Basic .NET 经验。
 subTitle: 本考试面向希望证明自身核心软件开发技能的考生。建议考生通过参加相关培训课程或学习 MSDN 和 Microsoft Visual Studio 中的教程与示例来熟悉相关概念，积累此处所述技术的实践经验。考生应具备一定的 C# 或 Microsoft Visual Basic .NET 经验。
 iconUrl: /media/learn/certification/badges/certification-exam.svg

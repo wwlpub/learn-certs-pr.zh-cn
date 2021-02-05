@@ -16,7 +16,7 @@ skillsGained:
 - skill: 将模型部署到Azure容器（Container）实例
 - skill: 通过访问Cosmos DB change feed的Azure函数来生成预测
 - skill: 使应用程序现代化，并将人工智能集成到应用程序中
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

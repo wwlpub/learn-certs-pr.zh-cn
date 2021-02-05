@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-
   SAP 工作负荷专业认证的考生应该是在 SAP 系统环境和行业标准方面具有丰富经验和知识的建筑师或工程师。这些标准是针对 Microsoft Azure 上 SAP 解决方案的长期运行而制定的。
 
   此职务的职责包括就服务提出建议并适当调整资源，以实现最佳弹性、性能、规模、供应、规模和监视。

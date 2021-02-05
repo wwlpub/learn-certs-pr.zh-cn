@@ -20,7 +20,7 @@ skillsGained:
 - skill: 了解什么是ALM应用程序生命周期管理
 - skill: 识别自动化测试和使用RSAT的机会
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -17,7 +17,7 @@ skillsGained:
 - skill: 检查开源软件包的安全性和许可证合规性，以符合公司标准
 - skill: 配置构建管道以访问软件包安全性和许可证等级
 - skill: 配置对包源的安全访问
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
