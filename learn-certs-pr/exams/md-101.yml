@@ -6,8 +6,6 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-
   如果您在2019年3月31日停用前通过了 [考试 70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您将仅需要参加MD-101考试即可获得现代桌面认证。
 
   本次考试的候选人员是在企业环境中部署、配置、保护、管理和监视设备和客户端应用程序的管理员。考试负责管理身份、访问、策略、更新和应用程序。

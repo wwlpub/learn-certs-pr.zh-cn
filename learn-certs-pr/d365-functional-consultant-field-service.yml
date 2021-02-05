@@ -7,10 +7,6 @@ uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-  </div>
-
   Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。
 subTitle: Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。
 levels:

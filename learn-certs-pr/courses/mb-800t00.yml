@@ -34,55 +34,22 @@ summary: |-
 prerequisitesSection: |-
   本课程是为使用Dynamics 365 Business Central的功能顾问或者使用其他Dynamics 365应用程序的功能顾问而设计的，他们想要扩展自己在Business Central方面的知识。
 outlineSection: |-
-  ### 模块 1&#58; Business Central 简介
-  Business Central 模块简介
-  #### 课程
-  - Business Central 简介
-  - 技术概述
-  - 浏览用户界面
-  - 销售和采购流程的主数据
+  ### 模块 1&#58; Business Central介绍
+  Business Central模块介绍
 
-
-  ### 模块 2&#58; 应用程序设置
-  #### 课程
-  - 创建和配置新公司
-  - 将数据迁移到 Business Central
-  - 管理安全性
-  - 设置核心应用程序功能
-  - 设置尺寸
-
-
+  ### 模块 2&#58; 应用程序安装程序
+  
+  
   ### 模块 3&#58; 配置财务
-  #### 课程
-  - 设立财务管理
-  - 设置会计科目表
-  - 设置过账组
-  - 通用日记帐
-  - 设置现金管理
-  - 设置应付账款
-  - 设置应收账款
-
-
+  
+  
   ### 模块 4&#58; 配置销售和采购
-  #### 课程
-  - 设置库存
-  - 配置价格和折扣
-
-
-  ### 模块 5&#58;  运营
-  #### 课程
-  - 采购项目
-  - 销售项目
-  - 处理财务交易
-  - 库存成本
-
-
+  
+  
+  ### 模块 5&#58; 运营
+  
+  
   ### 模块 6&#58; 集成和自动化
-  #### 课程
-  - 通过工作流程设置和使用批准
-  - 连接 Power Apps
-  - 连接 Power Automate
-  - 连接 Power BI
   
   #### 辅助读物 
   Microsoft.com/learn

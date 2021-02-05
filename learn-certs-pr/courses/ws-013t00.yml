@@ -16,7 +16,7 @@ skillsGained:
 - skill: 计划并实现Azure Stack HCI Storage，包括Storage QoS和Storage Replica。
 - skill: 为Azure Stack HCI网络作计划。
 - skill: 在Azure Stack HCI中实现Software Defined Network（软件定义网络）。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

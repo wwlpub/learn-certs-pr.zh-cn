@@ -20,7 +20,7 @@ skillsGained:
 - skill: 设计并实现Exchange Server组织之间的邮件共存。
 - skill: 规划并实施从早期版本的Exchange Server到Exchange Server 2019的升级。
 - skill: 规划混合Exchange部署。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

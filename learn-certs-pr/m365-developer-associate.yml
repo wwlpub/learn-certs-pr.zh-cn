@@ -6,8 +6,6 @@ metadata:
 uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-
   Microsoft 365 Developer 可设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案针对使用Microsoft 365平台的组织的生产力和协作需求进行了优化。
 
   Microsoft 365 Developer 精通Microsoft Identity和Microsoft Graph。他们对UI元素（包括Adaptive Cards和UI Fabric），集成点（包括Microsoft Teams，Office加载项，SharePoint Framework，Actionable Messages）以及确定工作负载平台目标具有一般了解。

@@ -24,7 +24,7 @@ skillsGained:
 - skill: 通过实现数据透视图、取消透视图、汇总和多维数据集来转换数据。
 - skill: 创建和实现存储程序。
 - skill: 向 T-SQL 代码添加编程构造，例如变量、条件和循环。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

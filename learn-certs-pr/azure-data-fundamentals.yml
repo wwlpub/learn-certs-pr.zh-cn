@@ -5,7 +5,7 @@ metadata:
   description: Azure Data Fundamentals 验证了核心数据概念的基础知识以及如何使用 Microsoft Azure 数据服务实施它们。
 uid: certification.azure-data-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</font></strong><br/><br/></div>\r\n\r\nAzure Data Fundamentals 认证的考生应具有核心数据概念的基本知识，以及如何使用 Microsoft Azure 数据服务实施这些知识。  \r\n\r\n该认证适用于开始使用云端中数据的考生。  \r\n\r\n考生应该熟悉关系型和非关系型数据的概念，以及不同类型的数据工作负荷，例如事务性或分析性。  \r\n\r\nAzure Data Fundamentals 可用于为其他基于 Azure 角色的认证做准备，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但这不是其中任何一个的先决条件。"
+summary: "Azure Data Fundamentals 认证的考生应具有核心数据概念的基本知识，以及如何使用 Microsoft Azure 数据服务实施这些知识。  \r\n\r\n该认证适用于开始使用云端中数据的考生。  \r\n\r\n考生应该熟悉关系型和非关系型数据的概念，以及不同类型的数据工作负荷，例如事务性或分析性。  \r\n\r\nAzure Data Fundamentals 可用于为其他基于 Azure 角色的认证做准备，例如 Azure Database Administrator Associate 或 Azure Data Engineer Associate，但这不是其中任何一个的先决条件。"
 subTitle: Azure Data Fundamentals 验证了核心数据概念的基础知识以及如何使用 Microsoft Azure 数据服务实施它们。
 levels:
 - beginner

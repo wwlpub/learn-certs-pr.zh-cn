@@ -13,7 +13,7 @@ skillsGained:
 - skill: 配置 SQL Server
 - skill: 管理数据库和文件（共享）
 - skill: 在云端中配置，迁移和管理数据库
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

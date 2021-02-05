@@ -14,7 +14,7 @@ skillsGained:
 - skill: 设计一个或多个虚拟机的可用性集。
 - skill: 描述故障域和更新域之间的差异。
 - skill: 编写一个VM Scale Set ARM模板。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

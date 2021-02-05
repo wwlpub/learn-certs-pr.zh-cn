@@ -20,7 +20,7 @@ skillsGained:
 - skill: 部署和管理 Windows 和 Hyper-V 容器。
 - skill: 实施故障转移集群。
 - skill: 使用虚拟机实施故障转移集群。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

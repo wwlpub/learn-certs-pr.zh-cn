@@ -6,8 +6,6 @@ metadata:
 uid: exam.70-797
 displayName: 70-797
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>.</strong><br/><br/></div>
-
   这门考试考察考生在构建可靠的身份、内容保护(数据丢失防护)、移动设备管理策略、使用 Hyper-V 虚拟化、使用公司门户和 Windows 应用商店管理应用程序方面具备的基本知识和技能。将考察考生对 Windows 10 安全和集成 Azure 功能的了解程度。
 
   除了其专业经验之外，参加本考试的考生也应具备以下技术知识：

@@ -14,7 +14,7 @@ skillsGained:
 - skill: 基于合规性策略配置条件访问规则
 - skill: 描述用于保护设备和数据的各种工具。
 - skill: 实施 Windows Defender 高级威胁防护。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

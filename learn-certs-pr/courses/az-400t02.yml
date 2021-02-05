@@ -21,7 +21,7 @@ skillsGained:
 - skill: 添加工具以衡量技术债
 - skill: 检测开源和其他许可问题
 - skill: 实施容器构建策略
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

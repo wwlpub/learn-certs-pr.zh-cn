@@ -13,7 +13,7 @@ skillsGained:
 - skill: 部署和管理VM
 - skill: 部署和管理虚拟网络
 - skill: 使用Azure Active Directory管理身份
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -14,7 +14,7 @@ skillsGained:
 - skill: 管理和部署应用程序，并计划移动应用程序管理策略。
 - skill: 使用 Azure AD 和 Active Directory DS 管理用户和身份验证。
 - skill: 描述并实现用于保护设备和数据的方法。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

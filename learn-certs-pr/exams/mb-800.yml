@@ -6,8 +6,6 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的培训和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div>
-
   该考试的应试者是职能顾问，他们为中小型企业实施了核心应用程序设置过程。他们实现和配置Dynamics 365商业中心应用程序，包括设置核心应用程序功能和模块以及将数据迁移到商业中心。
 
   应试者与实施团队协作运行用户界面，以为企业提供可管理性和导览便利性。他们配置角色中心，包括改编见解、提示、动作磁贴、报告、图表，以及使用Microsoft Power Platform组件扩展Business Central。

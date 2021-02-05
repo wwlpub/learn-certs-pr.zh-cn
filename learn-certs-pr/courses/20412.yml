@@ -22,7 +22,7 @@ skillsGained:
 - skill: 实施故障转移集群，以及配置及验证高可用性网络服务。
 - skill: 在故障转移集群中部署和管理 Hyper-V 虚拟机。
 - skill: 根据业务和技术要求实施备份和灾难恢复解决方案。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
