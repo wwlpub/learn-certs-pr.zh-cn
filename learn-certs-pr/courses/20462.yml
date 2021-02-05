@@ -21,7 +21,7 @@ skillsGained:
 - skill: 执行正在进行的数据库维护。
 - skill: 使用 SQL Server Agent 作业自动化 SQL Server 维护。
 - skill: 配置数据库邮件，警报和通知。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

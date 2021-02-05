@@ -12,7 +12,7 @@ skillsGained:
 - skill:  使用 Microsoft Graph 工作
 - skill: 确定工作负载平台目标
 - skill: 集成点，包括 Microsoft Teams、Office 加载项、以及 SharePoint Framework
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

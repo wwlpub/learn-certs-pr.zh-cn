@@ -16,7 +16,7 @@ skillsGained:
 - skill: 描述一般安全和网络安全特征，以及如何使用各种 Azure 服务来帮助确保 cloud 资源是安全和可信的。
 - skill: 讨论身份、治理、隐私和合规特征，以及 Azure 如何帮助你安全访问 cloud 资源，构建 cloud 治理战略意味着什么，以及 Azure 如何遵守常见的监管和合规标准。
 - skill: 讨论影响成本的因素、帮助估计和管理 cloud 开销的工具，以及 Azure 的 service-level agreements（SLAs）如何影响应用程序设计决策。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

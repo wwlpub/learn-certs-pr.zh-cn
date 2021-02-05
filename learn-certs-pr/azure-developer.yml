@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
-
   Azure Developer Associate 认证的考生应具有在 Microsoft Azure 上设计、构建、测试和维护云端应用程序和服务的主题专业知识。
 
   担任此角色的职责包括参与云端开发的所有阶段，从需求定义和设计到开发、部署和维护、性能调整和监控。

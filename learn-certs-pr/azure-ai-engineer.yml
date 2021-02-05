@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-
   参加 Azure 人工智能工程师助理认证的考生应具备使用认知服务、机器学习和知识挖掘的主题专业知识，以构建和实施涉及自然语言处理、语音、计算机视觉和会话人工智能的 Microsoft 人工智能解决方案。
 
   这个角色的职责包括分析人工智能解决方案的需求，推荐合适的工具和技术，以及设计和实现满足可扩展性和性能需求的人工智能解决方案。

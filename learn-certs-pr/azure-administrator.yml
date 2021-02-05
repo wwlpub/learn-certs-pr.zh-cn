@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒（COVID-19）的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></font></div>
-
   Azure Administrator Associate 认证的考生应具有在实施、管理和监控组织的 Microsoft Azure 环境方面的主题专业知识。
 
   担任此角色的职责包括在云端环境中实施、管理和监控身份，治理、存储、计算和虚拟网络，以及在需要时提供、重设大小、监控和调整资源。

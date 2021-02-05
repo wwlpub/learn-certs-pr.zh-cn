@@ -20,7 +20,7 @@ skillsGained:
 - skill: 配置 Azure AD 应用程序代理
 - skill: 设计外部访问解决方案
 - skill: 管理他们的Microsoft 365租户健康和服务
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

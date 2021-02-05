@@ -6,8 +6,6 @@ metadata:
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>针对冠状病毒(COVID-19)的情况，Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong></font><br/><br/></div>
-
   使用Microsoft Dynamics 365中的Finance and Operations应用程序的开发人员可以实施并扩展应用程序以满足业务需求。考生可以使用标准化的应用程序编码模式、可扩展的功能以及外部集成来提供可以完全实现的解决方案。
 subTitle: 使用Microsoft Dynamics 365中的Finance and Operations应用程序的开发人员可以实施并扩展应用程序以满足业务需求。
 levels:

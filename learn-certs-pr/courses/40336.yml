@@ -17,7 +17,7 @@ skillsGained:
 - skill: 了解Windows 10的总体安全功能
 - skill: 列出设备保护（Device Guard）的功能
 - skill: 了解部署设备保护（Device Guard）的方法
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

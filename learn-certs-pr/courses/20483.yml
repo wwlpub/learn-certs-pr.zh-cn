@@ -21,7 +21,7 @@ skillsGained:
 - skill: 将非托管库和动态组件集成到 Visual C# 应用程序中。
 - skill: 通过使用反射检查类型的元数据，创建和使用自定义属性，在运行时生成代码，以及管理程序集版本。
 - skill: 通过使用对称和非对称加密来加密和解密数据。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

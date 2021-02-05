@@ -6,8 +6,6 @@ metadata:
 uid: exam.98-367
 displayName: 98-367
 summary: |-
-  <div style='color&#58; red;'><strong>针对冠状病毒(COVID-19)的情况， Microsoft 正在对我们的训练和认证计划实行一些临时变更。<a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>了解详细信息</a>。</strong><br/><br/></div>
-
   本考试将考察考生的基本安全知识和技能。还可作为通向 Microsoft 认证解决方案专员 (MCSA) 考试的敲门砖。建议考生通过参加相关培训课程熟悉这里介绍的概念和技术。考生应具备一定的 Windows Server、基于 Windows 的网络、Active Directory、防恶意产品、防火墙、网络拓扑与设备和网络端口方面的实践经验。
 
   <div style='font-weight&#58; bold;'><br/>自 2016 年 6 月 23 日起，除了安全和威胁术语更新之外，这门考试还将包括 Windows 10 的更新。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试98-367变更文档。</div>

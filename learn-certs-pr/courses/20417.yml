@@ -20,7 +20,7 @@ skillsGained:
 - skill: 实施 Active Directory® 域服务 (AD DS)。
 - skill: 实施 Active Directory 联合身份验证服务 (AD FS)
 - skill: 监控和维护 Windows Server 2012。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

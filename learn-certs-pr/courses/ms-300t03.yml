@@ -14,7 +14,7 @@ skillsGained:
 - skill: 管理用户对Teams的访问
 - skill: 配置Teams，举行会议
 - skill: 为Teams数据建立数据治理策略
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

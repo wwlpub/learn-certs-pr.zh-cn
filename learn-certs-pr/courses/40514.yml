@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 在研习会结束时，您将能够更好地进行站点分析，比较从Oracle迁移到SQL Server或PostgreSQL所需的成本、性能和工作量。鉴于完成研习会所需的时间，建议学员和培训师选择一条单一的迁移路径。
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -12,7 +12,7 @@ skillsGained:
 - skill: 利用Azure门户，Cloud Shell，Azure PowerShell，CLI和资源管理器
 - skill: 使用站点间连接功能，包括VNet对等和VNet到VNet连接
 - skill: 使用Azure Active Directory（AAD）和Azure AD Connect
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

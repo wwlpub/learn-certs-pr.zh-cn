@@ -11,7 +11,7 @@ skillsGained:
 - skill: 使用Cosmos DB构建全球分布式应用程序
 - skill: 将MongoDB工作负载迁移到Cosmos DB
 - skill: 将Cassandra DB工作负载迁移到Cosmos DB
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
