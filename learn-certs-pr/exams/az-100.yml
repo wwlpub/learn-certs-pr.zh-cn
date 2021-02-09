@@ -5,7 +5,7 @@ metadata:
   description: '考试 AZ-100: Microsoft Azure Infrastructure and Deployment'
 uid: exam.az-100
 displayName: AZ-100
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>该考试已于2019年5月01日停用。注意&#58; 考试将于美国中部标准时间晚上11:59停用</div>\n<br/>   \n此考试的考生是 Azure 管理员，他们管理跨越存储、安全性、网络和计算 Cloud 功能的 Cloud 服务。考生对整个 IT 生命周期中的每项服务都有深入的了解并接受基础架构服务、应用程序和环境的请求。他们针对最佳性能和规模使用服务提出建议，并适当地提供、设置大小、监控和调整资源。此考试的考生应熟练使用 PowerShell、命令行界面、Azure 门户、ARM 模板、操作系统、虚拟化、Cloud 基础架构、存储结构和网络。"
+summary: "<div><strong>该考试已于2019年5月01日停用。注意&#58; 考试将于美国中部标准时间晚上11:59停用</strong></div>\n<br/>   \n此考试的考生是 Azure 管理员，他们管理跨越存储、安全性、网络和计算 Cloud 功能的 Cloud 服务。考生对整个 IT 生命周期中的每项服务都有深入的了解并接受基础架构服务、应用程序和环境的请求。他们针对最佳性能和规模使用服务提出建议，并适当地提供、设置大小、监控和调整资源。此考试的考生应熟练使用 PowerShell、命令行界面、Azure 门户、ARM 模板、操作系统、虚拟化、Cloud 基础架构、存储结构和网络。"
 subTitle: 此考试衡量您完成以下技术任务的能力：管理Azure订阅和资源，实施和管理存储，部署和管理虚拟机（VM），配置和管理虚拟网络以及管理身份。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRLp
