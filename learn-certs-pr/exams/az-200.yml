@@ -5,7 +5,7 @@ metadata:
   description: '考试 AZ-200: Microsoft Azure Developer Core Solutions (beta)'
 uid: exam.az-200
 displayName: AZ-200
-summary: "<div style='color&#58; red; font-weight&#58; bold;'>该考试已于2019年1月03日停用。注意&#58; 考试将于美国中部标准时间晚上11:59停用</div>\n<br/>   \n这次考试的考生是 Azure 开发者，他们设计和构建 Cloud 解决方案，如应用程序和服务。他们参与开发的各个阶段，从解决方案设计，开发部署，到测试和维护。他们与 Cloud 解决方案架构师、 Cloud 数据库、 Cloud 管理员和客户合作，以实现解决方案。\n\n考生应熟练使用 Azure 工具和技术开发应用程序和服务，包括存储、安全、计算和通信。\n\n考生必须具有至少一年的开发软件开发所有阶段可扩展解决方案的经验，并熟练使用至少一种 Cloud 支持的编程语言。"
+summary: "<div><strong>该考试已于2019年1月03日停用。注意&#58; 考试将于美国中部标准时间晚上11:59停用</strong></div>\n<br/>   \n这次考试的考生是 Azure 开发者，他们设计和构建 Cloud 解决方案，如应用程序和服务。他们参与开发的各个阶段，从解决方案设计，开发部署，到测试和维护。他们与 Cloud 解决方案架构师、 Cloud 数据库、 Cloud 管理员和客户合作，以实现解决方案。\n\n考生应熟练使用 Azure 工具和技术开发应用程序和服务，包括存储、安全、计算和通信。\n\n考生必须具有至少一年的开发软件开发所有阶段可扩展解决方案的经验，并熟练使用至少一种 Cloud 支持的编程语言。"
 subTitle: 这次考试的考生是 Azure 开发者，他们设计和构建 Cloud 解决方案，如应用程序和服务。他们参与开发的各个阶段，从解决方案设计，开发部署，到测试和维护。他们与 Cloud 解决方案架构师、 Cloud 数据库、 Cloud 管理员和客户合作，以实现解决方案。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHB
