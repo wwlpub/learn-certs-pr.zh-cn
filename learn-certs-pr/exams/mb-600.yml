@@ -7,13 +7,14 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
+  <div><font color='red'><strong>本考试的新版本 <a href="/learn/certifications/exams/pl-600">Pl-600</a> 将于2021年3月推出。在2021年6月30日考试结束前，你可以一直参加本考试。</strong></font><br/><br/></div>
   <div><strong>此考试的内容于 2020 年 7 月 30 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
-
+  
   Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
-
+  
   Solution Architect具有Dynamics 365中Power Platform模型驱动的应用程序的功能和技术知识，例如 Dynamics 365客户服务，Dynamics 365现场服务，Dynamics 365 Marketing 和 Dynamics 365 Sales，相关的 Microsoft云解决方案以及其他第三方技术。Solution Architect 在整个参与过程中运用知识和经验。Solution Architect 执行主动性的和预防性的工作，以增加客户投资的价值并促进组织健康。该角色要求具有识别解决业务问题机会的能力。
-
+  
   Solution Architect 在Power平台的功能和技术学科以及Dynamics 365中的模型驱动的应用程序方面拥有丰富的经验。Solution Architect 应该能够促进跨开发、配置、集成、基础架构、安全性、可用性、存储和变更管理的设计决策。该角色可以平衡项目的业务需求，同时满足功能和非功能需求。
 subTitle: '这项考试衡量您完成以下技术任务的能力：执行解决方案设想和需求分析；设计解决方案；以及实施解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -28,6 +29,7 @@ skills:
 - 执行解决方案构想和需求分析(30-35%)
 - 架构解决方案(45-50%)
 - 实施解决方案(20-25%)
+retirementDate: 06/30/2021
 roles:
 - solution-architect
 products:

@@ -6,15 +6,13 @@ metadata:
 uid: exam.mb-240
 displayName: MB-240
 summary: |-
-  <div>
-  <div><strong>本次考试的内容将于2021年1月15日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
-  </div>
-
-  本次考试的报考人是具有Field Service专业经验的Dynamics 365 Customer Engagement功能顾问。报考人负责实现管理用于完成现场服务生命周期的资源的解决方案。
-
+  <div><strong>本考试的内容更新于2021年1月15日。请下载下面的技能评估文档，看看发生了什么变化。</strong><br/><br/></div>
+  
+  本考试的候选人是具有 Field Service 专业技能的 Microsoft Dynamics 365 Customer Engagement 职能顾问。候选人负责实施管理完成 Field Service 生命周期的资源的解决方案。
+  
   报考人实施与内部和外部团队协作设计的现场服务流程。本次协作包括配置Field Service应用的默认管理区，部署Connected Field Service (IoT)解决方案及移动应用，实施所需的其他定制化。报考人负责配置和部署结合核心客户服务应用的Field Service应用。
-
-  考生必须了解如何配置和自定义现场服务应用程序的组件，包括配置服务、资源、特征、事件、库存集成、服务协议、资源调度、工作单、服务任务、现场服务用户角色、现场服务设置、连接现场服务(IoT)解决方案，以及现场服务移动应用程序的配置。
+  
+  候选人必须了解如何配置和定制 Field Service 应用程序的组件，包括配置服务、资源、特性、事件、库存集成、服务协议、资源调度、工作订单、服务任务、现场服务用户角色、现场服务设置、Connected Field Service(IoT)解决方案和 Field Service Mobile 应用程序的配置。候选人必须熟悉基于 Microsoft Power Apps 的移动应用程序。基于 Xamarin 的移动应用程序将不包括在本考试中。
 subTitle: '本次考试将衡量您完成以下技术任务的能力：配置现场服务应用；管理工作订单；计划和派遣工作订单；管理现场服务移动性；管理库存和采购；实施Connected Field Service。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2021年1月15日更新。请下载下面的考试技能大纲，看看将会改变什么。
+- 本考试的内容更新于2021年1月15日。请下载下面的考试技能大纲，看看发生了什么变化。
 - 配置现场服务应用 (15-20%)
 - 管理工作订单 (15-20%)
 - 计划和派遣工作订单 (25-30%)
@@ -38,7 +36,7 @@ products:
 - dynamics-365
 - dynamics-field-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-240t00
 paths:

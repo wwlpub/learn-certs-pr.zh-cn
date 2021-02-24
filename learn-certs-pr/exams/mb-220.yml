@@ -6,14 +6,12 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div>
-  <div> <strong>该考试的内容将于2021年1月15日进行更新。请下载以下技能测量文档，来看看会发生哪些变化。</strong><br/><br/></div>
-  </div>
-
+  <div><strong>本考试的内容更新于2021年1月15日。请下载下面的技能评估文档，看看发生了什么变化。</strong><br/><br/></div>
+  
   本次考试的报考人是Dynamics 365市场营销功能顾问。报考人负责实施吸引和改变线索、打造品牌知名度、标准化全渠道消息传递和提供市场营销洞察的解决方案。
-
+  
   考生负责配置和扩展核心营销应用程序，包括电子邮件营销、设置，交互式客户旅程，带有个性化体验的潜在客户培训，LinkedIn 集成，活动，调查，登陆页面，细分和评分以及维护通用数据保护监管(GDPR)合规。
-
+  
   报考人应了解一些市场营销原则和应用Dynamics 365套件相关的市场营销应用角色，包括与Dynamics 365和Microsoft 365应用的集成。
 subTitle: '本次考试将衡量您完成以下技术任务的能力：配置市场营销应用；管理节段和列表；创建和管理市场营销表单；管理线索、联系人和客户；创建和管理市场营销email；管理客户旅程；管理事件和在线研讨会；配置Dynamics 365 Customer Voice。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 该考试的内容将于2021年1月15日进行更新。请下载以下考试技巧大纲，来看看会发生哪些变化。
+- 本考试的内容更新于2021年1月15日。请下载下面的考试技能大纲，看看发生了什么变化。
 - 配置市场营销应用 (20-25%)
 - 管理细分市场和列表 (5-10%)
 - 创建和管理营销表单和页面 (10-15%)
@@ -40,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-marketing
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-220t00
 paths:

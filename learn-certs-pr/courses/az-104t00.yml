@@ -25,48 +25,57 @@ exams:
 - uid: exam.az-104
 summary: |-
   本课程传授 IT 专业人员如何管理其 Azure 订阅、保护身份识别、管理基础结构、配置虚拟联网、连接 Azure 和内部部署网站、管理网络流量、实施存储器解决方案、建立和扩充虚拟机、实施 Web 应用程序和容器、备份和共享数据以及监控您的解决方案。
-
+  
   #### 受众概况
   本课程适用于 Azure Administrator。Azure Administrator 在云环境中实现、管理和监控身份，治理，存储，计算和虚拟网络。Azure Administrator 将根据需要设置、调整大小、监控和调整资源。
 prerequisitesSection: |-
-  成功的Azure Administrator将从在虚拟化、联网、身份和存储方面的经验开始担任此角色。
-  - 对本地虚拟化技术,包括&#58; VM、虚拟联网和虚拟硬盘的了解。
-  - 了解网络配置，包括TCP/IP、域名系统（DNS）、虚拟专用网络（VPN）、防火墙和加密技术。
-  - 了解Active Directory概念，包括使用者、组和基于角色的访问控制。
-  - 了解复原和灾难恢复，包括备份和还原操作。
-
-  您可以通过参加[AZ-104&#58; Prerequisites for Azure Administrators](/learn/paths/az-104-administrator-prerequisites/)获得必要条件并更好地了解Azure。这项免费的在线培训将为您提供成功完成本课程所需的经验。
+  成功的 Azure 管理员从虚拟化、网络、身份和存储方面的经验开始该角色。
+  - 了解本地虚拟化技术，包括&#58;VMs、虚拟网络和虚拟硬盘。
+  - 了解网络配置，包括 TCP/IP、域名系统(DNS)、虚拟专用网络(VPNs)、防火墙和加密技术。
+  - 了解 Active Directory 概念，包括用户、组和基于角色的访问控制。
+  - 了解恢复能力和灾难恢复，包括备份和恢复操作。
+  
+  先决条件课程(或同等知识及实际经验)&#58;
+  
+  这项免费的在线培训将为你提供在本课程中取得成功所需的经验。
+  - [Azure Fundamentals 第1部分&#58; 描述 Azure 概念 - 学习 | Microsoft Docs](/learn/paths/az-900-describe-cloud-concepts/)
+  - [Azure Fundamentals 第2部分&#58; 描述核心 Azure services - 学习 | Microsoft Docs](/learn/paths/az-900-describe-core-azure-services/)
+  - [Azure Fundamentals 第3部分&#58; 描述 Azure 上的核心解决方案和管理工具 - 学习 | Microsoft Docs](/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+  - [Azure Fundamentals 第4部分&#58; 描述一般的安全性和网络安全性功能 - 学习 | Microsoft Docs](/learn/paths/az-900-describe-general-security-network-security-features/)
+  - [Azure Fundamentals 第5部分&#58; 描述身份、治理、隐私和合规性功能](/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
+  - [Azure Fundamentals 第6部分&#58; 描述 Azure 成本管理和服务水平协议](/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
+  - [AZ-104&#58; Azure 管理员的先决条件 - 学习 | Microsoft Docs](/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### 模块 1&#58; 身份识别
   在本模块中，您将学习如何使用 Azure Active Directory 保护身分并实现用户和群组功能。
   #### 课程
   - Azure Active Directory
   - 用户和群组
-
+  
   #### 实验&#58; 管理 Azure Active Directory Identities
-
+  
   学完本模块后，学生将能够&#58;
   - 使用 Azure Active Directory 保护和管理身份识别。
   - 实施和管理用户和群组。
-
-
+  
+  
   ### 模块 2&#58; 治理与合规
   在本模块中，您将了解管理订阅和账户，实施 Azure 原则以及使用角色型的访问控制。
   #### 课程
   - 订阅和账户
   - Azure Policy
-  - 基于角色的访问控制（RBAC）
-
+  - 基于角色的访问控制(RBAC)
+  
   #### 实验&#58; 管理订阅和 RBAC
-
+  
   #### 实验&#58; 通过 Azure Policy 管理治理
-
-  学完本模块后，学生将能够&#58; 
+  
+  学完本模块后，学生将能够&#58;
   - 实施和管理 Azure 订阅和账户。
   - 实施 Azure Policy，包括自定义原则。
   - 使用 RBAC 指派权限。
-
-
+  
+  
   ### 模块 3&#58; Azure 管理
   在本模块中，您将了解 Azure Administrator 用来管理其基础结构的工具。这包括 Azure 入口网站、Cloud Shell、Azure PowerShell、CLI 和资源管理器范本。本模块包括&#58;
   #### 课程
@@ -74,22 +83,22 @@ outlineSection: |-
   - Azure 入口网站和 Cloud Shell
   - Azure PowerShell 和 CLI
   - ARM 模板
-
+  
   #### 实验&#58; 使用 Azure 入口网站管理 Azure 资源
-
+  
   #### 实验&#58; 使用 ARM 模板管理 Azure 资源
-
-  #### 实验&#58;使用Azure PowerShell管理Azure资源（可选）
-
-  #### 实验&#58;使用Azure CLI管理Azure资源（可选）
-
-  学完本模块后，学生将能够&#58; 
+  
+  #### 实验&#58; 使用Azure PowerShell管理Azure资源(可选)
+  
+  #### 实验&#58; 使用Azure CLI管理Azure资源(可选)
+  
+  学完本模块后，学生将能够&#58;
   - 利用 Azure 资源管理员组织资源。
   - 使用 Azure 入口网站和 Cloud Shell。
   - 使用 Azure PowerShell 和 CLI。
   - 使用 ARM 模板部署资源。
-
-
+  
+  
   ### 模块 4&#58; 虚拟网络
   在本模块中，您将了解基本的虚拟网络概念，例如虚拟网络和子网、IP地址、网络安全组、Azure 防火墙和 Azure DNS。
   #### 课程
@@ -98,47 +107,47 @@ outlineSection: |-
   - 网络安全组
   - Azure 防火墙
   - Azure DNS
-
-  #### 实验&#58;实施虚拟联网
-
-  学完本模块后，学生将能够&#58; 
+  
+  #### 实验&#58; 实施虚拟联网
+  
+  学完本模块后，学生将能够&#58;
   - 实施虚拟网络和子网。
   - 配置公用和私人 IP 寻址。
   - 配置网络安全组。
   - 配置 Azure 防火墙。
   - 配置私人和公用 DNS 区域。
-
-
+  
+  
   ### 模块 5&#58; 站点间连接性
   在本模块中，您将了解站点间连接功能，包括 VNet Peering、虚拟网络网关和站对站连接。
   #### 课程
   - VNet Peering
   - VPN 网关联机
   - ExpressRoute 和虚拟 WAN
-
-  #### 实验&#58;实施站点间连接性
-
-  学完本模块后，学生将能够&#58; 
+  
+  #### 实验&#58; 实施站点间连接性
+  
+  学完本模块后，学生将能够&#58;
   - 配置 VNet Peering。
   - 配置 VPN 网关。
   - 选择适当的站点间连接性解决方案。
-
-
+  
+  
   ### 模块 6&#58; 网络流量管理
   在本模块中，您将了解网络流量策略，包括网络路由和服务终结点，Azure负载平衡器和Azure应用程序网关。
   #### 课程
   - 网络路由和端点
   - Azure 负载平衡器
   - Azure 应用程序网关
-
-  #### 实验&#58;实施网络流量管理
-
-  学完本模块后，学生将能够&#58; 
+  
+  #### 实验&#58; 实施网络流量管理
+  
+  学完本模块后，学生将能够&#58;
   - 配置网络路由，包括自定义由和服务端点。
   - 配置 Azure 负载平衡器。
   - 配置和 Azure 应用程序网关。
-
-
+  
+  
   ### 模块 7&#58; Azure 存储器
   在本模块中，您将了解基本的存储器功能，包括存储器帐户、blob 存储器、Azure文件和文件同步、存储器安全性和存储器工具。
   #### 课程
@@ -147,17 +156,17 @@ outlineSection: |-
   - 存储器安全性
   - Azure 文件和文件同步
   - 管理存储器
-
-  #### 实验&#58;管理 Azure 存储器
-
-  学完本模块后，学生将能够&#58; 
+  
+  #### 实验&#58; 管理 Azure 存储器
+  
+  学完本模块后，学生将能够&#58;
   - 建立 Azure 存储器账户。
   - 配置 Blob 容器。
   - 安全的 Azure 存储器。
   - 配置 Azure 档案共享和档案同步。
   - 使用诸如存储器总管之类的工具管理存储器。
-
-
+  
+  
   ### 模块 8&#58; Azure 虚拟机
   在本模块中，您将了解 Azure 虚拟机，包括规划、建立、可用性和扩充性。
   #### 课程
@@ -165,16 +174,16 @@ outlineSection: |-
   - 建立虚拟机
   - 虚拟机可用性
   - 虚拟机扩充性
-
+  
   #### 实验&#58; 管理虚拟机
-
-  学完本模块后，学生将能够&#58; 
+  
+  学完本模块后，学生将能够&#58;
   - 规划虚拟机实施。
   - 建立虚拟机。
   - 配置虚拟机可用性，包括规模集。
   - 使用虚拟机扩充性。
-
-
+  
+  
   ### 模块 9&#58; 无服务器运算
   在本模块中，您将学习如何管理无服务器计算功能，例如Azure App Service，Azure容器实例和Kubernetes。
   #### 课程
@@ -182,33 +191,33 @@ outlineSection: |-
   - Azure 应用程序服务
   - 容器服务
   - Azure Kubernetes服务
-
+  
   #### 实验&#58; 实施 Web 应用程序
-
+  
   #### 实验&#58; 实施 Azure 容器实例
-
+  
   #### 实验&#58; 实施 Azure Kubernetes服务
-
-  学完本模块后，学生将能够&#58; 
+  
+  学完本模块后，学生将能够&#58;
   - 建立 App Service 规划。
   - 建立 Web 应用程序。
   - 实施 Azure 容器实例。
   - 实施 Azure Kubernetes服务。
-
-
-  ### 模块 10&#58;数据保护
+  
+  
+  ### 模块 10&#58; 数据保护
   在本模块中，您将了解备份文件和文件夹以及虚拟机备份。
   #### 课程
   - 文件和文件夹备份
   - 虚拟机备份
-
+  
   #### 实验&#58; 实施数据保护
-
-  学完本模块后，学生将能够&#58; 
+  
+  学完本模块后，学生将能够&#58;
   - 备份和还原文件及文件夹。
   - 备份和还原虚拟机。
-
-
+  
+  
   ### 模块 11&#58; 监控
   在本模块中，您将了解监视 Azure 基础结构，包括 Azure 监视器、警示和记录分析。
   #### 课程
@@ -216,10 +225,10 @@ outlineSection: |-
   - Azure 警示
   - 记录分析
   - 网络查看器
-
+  
   #### 实验&#58; 实施监控
-
-  学完本模块后，学生将能够&#58; 
+  
+  学完本模块后，学生将能够&#58;
   - 使用 Azure 监控。
   - 创建 Azure 警报。
   - 使用记录分析查询。

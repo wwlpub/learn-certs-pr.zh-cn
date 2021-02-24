@@ -12,17 +12,17 @@ subTitle: Microsoft Dynamics 365 现场服务功能顾问负责配置现场服�
 levels:
 - intermediate
 skills:
-- 配置Common Data Service
-- 利用Power Apps来创建应用程序
-- 创建和管理Power Automate
-- 实现Power Virtual Agents聊天机器人
-- 将Power Apps与其他应用程序和服务集成在一起
 - 配置现场服务应用程序
 - 管理工作订单
 - 安排和派遣工单
 - 管理现场服务流动性
 - 管理库存和采购
 - 实现Connected Field Service
+- 配置Common Data Service
+- 利用Power Apps来创建应用程序
+- 创建和管理Power Automate
+- 实现Power Virtual Agents聊天机器人
+- 将Power Apps与其他应用程序和服务集成在一起
 roles:
 - functional-consultant
 type: role-based
