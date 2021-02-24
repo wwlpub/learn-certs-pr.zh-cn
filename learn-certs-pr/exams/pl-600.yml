@@ -1,0 +1,71 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Solution Architect (beta)'
+metadata:
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+uid: exam.pl-600
+displayName: PL-600
+summary: |-
+  Microsoft Power Platform 解决方案架构师领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
+  
+  解决方案架构师拥有 Power Platform、Dynamics 365 客户参与应用、相关 Microsoft cloud 解决方案和其他第三方技术的功能和技术知识。解决方案架构师在整个参与过程中应用知识和经验。解决方案架构师执行主动和预防性工作，以增加客户投资的价值并促进组织健康。该角色需要能够识别解决业务问题的机会。
+  
+  解决方案架构师拥有 Power Platform 的功能和技术学科方面的经验。解决方案架构师应该能够促进跨开发、配置、集成、基础设施、安全性、可用性、存储和变更管理的设计决策。该角色平衡项目的业务需求，并同时满足功能性和非功能性需求。
+  
+  <div><br/><font color='red'><strong>注释&#58;本考试将2021年3月开始。</strong></font></div>
+subTitle: '本考试将2021年3月开始。本考试将衡量你完成以下技术任务的能力：执行解决方案设想和需求分析；设计解决方案；以及实施解决方案。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+locales:
+- en
+levels:
+- advanced
+skills:
+- 执行解决方案设想和需求分析(35-40%)
+- 设计解决方案(40-45%)
+- 实施解决方案(15-20%)
+roles:
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-solution-architect-expert
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: ../request-accommodations.md
+- title: 考试原则和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md

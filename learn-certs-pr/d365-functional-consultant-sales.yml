@@ -7,19 +7,27 @@ uid: certification.d365-functional-consultant-sales
 certificationRenewalUid: renewal.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
+  如果你是职能顾问、使用 Microsoft Dynamics 365 Sales 的专业人士，或者是希望磨练咨询技巧的开发人员，此认证将有助于提升你的职业生涯。它可以让你更有效地针对项目进行营销，并向你的组织展示你可以使用 Dynamics 365 Sales 来增强销售人员的能力。
+  
+  作为此认证的候选人，你拥有配置 Microsoft Power Platform 的经验，并且了解 Dynamics 365 模型驱动的应用程序和数据建模原则。你有与组织的利益相关者合作收集需求和实施 Dynamics 365 Sales 解决方案。你管理潜在客户、商机、报价和订单，并配置产品目录和价目表。此外，你还配置 Dynamics 365 Sales 以匹配组织独特的业务流程，并对 Dynamics 365 Sales 数据进行建模。你甚至使用 Power Platform 组件(如 Power Automate 和 Power Apps)扩展 Dynamics 365 解决方案。
+  
+  如果你在尝试获得此认证之前需要更多经验，以下是一些建议&#58;
+  - 从事 Dynamics 365 模型驱动的应用程序实施项目。
+  - 跟随使用 Dynamics 365 Sales 的职能顾问或解决方案架构师。
+  - 在 Microsoft Learn 上采取可用的学习路径。
+  - 报名参加讲师指导的培训课程。
 subTitle: Microsoft Dynamics 365 Sales Functional Consultants 实施的解决方案可预测和规划客户连接，通过处理和关闭来管理交易，并使用数据分析加速销售团队的绩效。
 levels:
 - intermediate
 skills:
+- 进行设定
+- 管理核心销售实体
+- 设定其他工具和服务
 - 配置Common Data Service
 - 利用Power Apps来创建应用程序
 - 创建和管理Power Automate
 - 实现Power Virtual Agents聊天机器人
 - 将Power Apps与其他应用程序和服务集成在一起
-- 进行设定
-- 管理核心销售实体
-- 设定其他工具和服务
 roles:
 - functional-consultant
 type: role-based
