@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: '更新 Microsoft Certified: Azure Solutions Architect Expert'
+metadata:
+  title: '更新 Microsoft Certified: Azure Solutions Architect Expert'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.azure-solutions-architect
+certificationUid: certification.azure-solutions-architect
+assessmentId: 16c15d1b-16a4-4eaa-aac3-d6c42189bc3c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。通过更新评估，表明您了解最新的 Azure 更新内容。您还可以学习精选的学习模块，以为更新评估作好准备。
+skills:
+- 在 Azure 上设计整体监控策略
+- Microsoft Azure Well-Architected Framework - 性能效率
+- Microsoft Azure 架构完善的框架——安全性
+- 使用 Azure 站点恢复保护 Azure 基础架构
+- 使用 Azure 备份保护虚拟机
+- 备份和还原您的 Azure SQL 数据库
+- 使用监控和分析获取成本洞见信息
+- 使用 Azure Monitor 日志分析 Azure 基础架构
+examsPassed:
+- az-303, az-304
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Azure Solutions Architect Expert 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
