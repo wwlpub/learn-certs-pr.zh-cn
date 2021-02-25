@@ -1,0 +1,26 @@
+### YamlMime:Certification
+title: '更新 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+metadata:
+  title: '更新 Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.d365-functional-consultant-customer-service
+certificationUid: certification.d365-functional-consultant-customer-service
+assessmentId: ff363f9d-4af6-4e37-9a0d-f6cfe4d45293
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。通过更新评估，表明您了解最新的 Dynamics 365 Customer Service 更新内容。您还可以学习精选的学习模块，以为更新评估作好准备。
+skills:
+- 使用 Microsoft Dynamics 365 Customer Service 队列来管理案例工作量
+- Omnichannel for Customer Service 入门
+- 集成 Power Virtual Agents 机器人与 Omnichannel for Customer Service
+- 使用 Omnichannel for Dynamics 365 Customer Service 部署聊天微件
+- 在 Omnichannel for Dynamics 365 Customer Service 中进行传递和工作分配
+- Customer Service Insights 入门
+examsPassed:
+- pl-200, mb-230
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Dynamics 365 Customer Service Functional Consultant Associate 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: '更新 Microsoft Certified: Azure Administrator Associate'
+metadata:
+  title: '更新 Microsoft Certified: Azure Administrator Associate'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.azure-administrator
+certificationUid: certification.azure-administrator
+assessmentId: 5a6a0e34-b4e6-4690-af91-962c75421067
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。通过更新评估，表明您了解最新的 Azure 更新内容。您还可以学习精选的学习模块，以为更新评估作好准备。
+skills:
+- 使用 Azure 应用服务托管 Web 应用程序
+- 使用 Docker 构建容器化的 Web 应用程序
+- 保护存储帐户
+- 在 Azure DNS 上托管域
+- 通过使用网络安全组和服务终结点来保护和隔离对 Azure 资源的访问
+- 使用 Azure Backup 保护计算机
+- 介绍 Kubernetes
+- 在 Azure Active Directory 中管理用户和组
+examsPassed:
+- az-104
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Azure Administrator Associate更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

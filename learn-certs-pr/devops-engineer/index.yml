@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: DevOps Engineer Expert'
+metadata:
+  title: 'Microsoft Certified: DevOps Engineer Expert'
+  description: 'Microsoft DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。'
+uid: certification.devops-engineer
+certificationRenewalUid: renewal.devops-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  DevOps Engineer Expert 认证的应试者应具有与人员，流程和技术一起工作的主题专业知识，以不断交付业务价值。
+
+  担任此角色的职责包括设计和实施协作、代码、基础结构、源代码控制、安全性、合规性、持续整合、测试、交付、监视和反馈的策略。
+
+  本认证的应试者必须熟悉 Azure 管理和 Azure 开发，并且至少精通其中一个领域。
+subTitle: Microsoft DevOps 专业人员将人员、流程和技术相结合，不断提供有价值的产品和服务，以满足最终用户的需求和业务目标。
+levels:
+- advanced
+skills:
+- 制定规范策略
+- 制定站点可靠性设计(SRE)策略
+- 制定安全和合规计划
+- 管理源代码管理
+- 促进沟通与协作
+- 定义并实施持续整合
+- 定义并实施持续的交付和发布管理策略
+roles:
+- devops-engineer
+type: role-based
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+paths:
+- uid: learn.az-400-develop-instrumentation-strategy
+- uid: learn.az-400-develop-sre-strategy
+- uid: learn.az-400-develop-security-compliance-plan
+- uid: learn.az-400-manage-source-control
+- uid: learn.az-400-facilitate-communication-collaboration
+- uid: learn.az-400-define-implement-continuous-integration
+courses:
+- uid: course.az-400t00
+prerequisites:
+- uid: certification.azure-administrator
+  isOptional: false
+- uid: certification.azure-developer
+  isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP84
+exams:
+- uid: exam.az-400
+resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索获得 DevOps Engineer Expert 认证的步骤，以及可用来帮助您准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

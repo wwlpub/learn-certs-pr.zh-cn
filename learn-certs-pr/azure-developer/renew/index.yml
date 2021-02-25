@@ -1,0 +1,25 @@
+### YamlMime:Certification
+title: '更新 Microsoft Certified: Azure Developer Associate'
+metadata:
+  title: '更新 Microsoft Certified: Azure Developer Associate'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.azure-developer
+certificationUid: certification.azure-developer
+assessmentId: d0dbfae9-07f5-4dfa-97c1-98cad082c78c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。通过更新评估，表明您了解最新的 Azure 更新内容。您还可以学习精选的学习模块，以为更新评估作好准备。
+skills:
+- 创建具有持久功能的长时运行无服务器工作流程
+- 使用触发器执行 Azure 功能
+- 为 Azure Cosmos 数据库选择合适的 API
+- 通过使用分区和索引策略优化 Azure Cosmos 数据库的性能
+- 使用 Azure API 管理控制 API 身份验证
+examsPassed:
+- az-204
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Azure Developer Associate 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
