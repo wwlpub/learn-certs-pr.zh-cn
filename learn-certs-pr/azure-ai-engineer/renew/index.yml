@@ -18,7 +18,7 @@ skills:
 - 创建对话式 AI 解决方案
 - 使用 Azure Cognitive Search 实施知识挖掘
 examsPassed:
-- ai-100, ai-102
+- ai-100 或 ai-102
 studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Azure AI Engineer Associate 更新评估。'
 resources:
 - title: 关于认证更新

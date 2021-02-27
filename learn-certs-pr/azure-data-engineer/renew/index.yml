@@ -14,7 +14,7 @@ skills:
 - 使用 Azure Data Factory 进行 PB 级数据摄取
 - 使用 Azure Data Factory 进行大规模的无代码转换
 examsPassed:
-- dp-200, dp-201, dp-203
+- dp-200, dp-201 或 dp-203
 studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Azure Data Engineer Associate 更新评估。'
 resources:
 - title: 关于认证更新

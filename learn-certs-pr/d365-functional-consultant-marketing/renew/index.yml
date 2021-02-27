@@ -17,7 +17,7 @@ skills:
 - 使用 Power Automate 自动执行 Dynamics 365 Customer Voice 问卷调查
 - 发送 Dynamics 365 Customer Voice 问卷调查
 examsPassed:
-- mb-220
+- pl-200, mb-220
 studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Dynamics 365 Marketing Functional Consultant Associate 更新评估。'
 resources:
 - title: 关于认证更新
