@@ -56,5 +56,5 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 认证支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
-  href: help.md
+  href: ../help.md
 
