@@ -72,7 +72,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
-  href: deals.md
+  href: ../deals.md
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
