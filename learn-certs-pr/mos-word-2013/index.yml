@@ -1,0 +1,41 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Word 2013'
+metadata:
+  title: 'Microsoft Office Specialist: Word 2013'
+  description: 'Microsoft Office Specialist: Word 2013'
+uid: certification.mos-word-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  本认证证明您对Microsoft Word 2013 环境有基本了解并能独立完成工作。应试者应了解及示范 Word 2013 主要功能的正确应用。
+subTitle: 证明您获得特定 Office 程序的 Microsoft Office Specialist (MOS) 认证，具备充分利用 Office 所需的技能。
+levels:
+- intermediate
+skills:
+- 创建和管理文档
+- 设置文本、段落和部分的格式
+- 创建表格和列表
+- 应用参考
+- 插入和格式化对象
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-word
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJC
+exams:
+- uid: exam.77-418
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

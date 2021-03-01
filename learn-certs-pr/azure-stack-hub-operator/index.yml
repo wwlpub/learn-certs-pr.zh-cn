@@ -1,0 +1,57 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+  description: 'Azure Stack Hub Operator Associate 认证的候选人是 Azure 管理员或 Azure Stack Hub 操作员，他们使用 Azure Stack Hub 从自己的数据中心向最终用户或客户提供 cloud 服务。'
+uid: certification.azure-stack-hub-operator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure Stack Hub Operator Associate 认证的候选人是 Azure 管理员或 Azure Stack Hub 操作员，他们使用 Azure Stack Hub 从自己的数据中心向最终用户或客户提供 cloud 服务。
+  
+  他们的职责是计划、部署、包装、更新和维护 Azure Stack Hub 基础设施。 他们还提供混合 cloud 资源和请求的服务，并管理基础设施即服务 (PaaS) 和平台即服务 (IaaS)。
+  
+  他们是致力于基于云的管理和安全的大型团队的一部分，或者是作为端到端基础设施的混合环境的一部分。
+  
+  该认证的候选人应具有管理和操作 Azure Stack Hub 环境的丰富经验。除了一些虚拟化、网络和身份管理方面的知识外，他们还应该对 Azure 有很强的理解。他们需要了解 Azure Stack Hub 是如何启用 DevOps 进程和混合开发模型的。
+subTitle: Azure Stack Hub Operator Associate 认证的候选人是 Azure 管理员或 Azure Stack Hub 操作员，他们使用 Azure Stack Hub 从自己的数据中心向最终用户或客户提供 cloud 服务。
+levels:
+- advanced
+skills:
+- 提供服务
+- 实施数据中心集成 
+- 管理身份和访问
+- 管理基础设施
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
+exams:
+- uid: exam.az-600
+resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx

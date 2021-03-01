@@ -1,0 +1,60 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist 2016 Master'
+metadata:
+  title: 'Microsoft Office Specialist 2016 Master'
+  description: 'Microsoft Office Specialist 2016 Master'
+uid: certification.microsoft-office-specialist-master-certification-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  获得 Microsoft Office Specialist Master 认证，本认证证明您具备精湛运用 Office 程序的最高级别技能。
+  
+  要获得 Microsoft Office Specialist&#58; Expert 认证，请完成以下要求&#58;
+  
+  - 通过三项必需的考试&#58;
+    - [77-726&#58; Word 2016 Expert&#58; Creating Documents for Effective Communication](/learn/certifications/exams/77-726)
+    - [77-728&#58; Excel 2016 Expert&#58; Interpreting Data for Insights](/learn/certifications/exams/77-728)
+    - [77-729&#58; PowerPoint 2016&#58; Core Presentation Design and Delivery Skills](/learn/certifications/exams/77-729)
+  - 需要通过下列选修考试&#58;
+    - [77-730&#58; Access 2016&#58; Core Database Management, Manipulation, and Query Skills](/learn/certifications/exams/77-730)
+    - [77-731&#58; Outlook 2016&#58; Core Communication, Collaboration, and Email Skills](/learn/certifications/exams/77-731)
+subTitle: 获得 Microsoft Office Specialist Master 认证，本认证证明您具备精湛运用 Office 程序的最高级别技能。
+levels:
+- advanced
+skills:
+- 管理文文件选项和设置
+- 设计高级文档
+- 创建高级引用
+- 创建自定义Word元素
+- 管理工作簿选项和设置
+- 应用自定义数据格式和布局
+- 创建高级公式
+- 创建高级图表和表格
+- 创建和管理演示文稿
+- 插入和设置文本，形状和图像的格式
+- 插入表格、图表、SmartArt 和媒体
+- 应用过渡和动画
+- 管理多个演示文稿
+- 其他由所选选修考试确定
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-726
+- uid: exam.77-728
+- uid: exam.77-729
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

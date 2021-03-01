@@ -1,0 +1,72 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Database Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Database Administrator Associate'
+  description: 'Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。'
+uid: certification.azure-database-administrator-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。Azure 数据库管理员使用各种方法和工具来执行日常操作，包括应用有关使用 T-SQL 进行行政管理的知识。
+  
+  <div></br>
+  此角色的候选人应了解 <a href='/learn/certifications/exams/dp-900'>Exam DP-900&#58; Microsoft Azure Data Fundamentals</a> 中包含的所有概念。
+  </div>
+subTitle: Azure Database Administrator 实现和管理基于 Microsoft Azure 数据服务和 Microsoft SQL Server 的云原生和混合数据平台解决方案的操作。
+levels:
+- intermediate
+skills:
+- 规划和实施资料平台资源
+- 实施一个安全环境
+- 监控和优化运营资源
+- 优化查询性能
+- 执行任务自动化
+- 规划和实施高可用性和灾难恢复（HADR）环境
+- 使用 T-SQL 执行管理
+roles:
+- database-administrator
+type: role-based
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+courses:
+- uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
+exams:
+- uid: exam.dp-300
+resources:
+- title: Azure认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索获得 Azure Database Administrator Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

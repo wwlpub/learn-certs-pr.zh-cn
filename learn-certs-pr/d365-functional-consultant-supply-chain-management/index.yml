@@ -1,0 +1,71 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: 'Dynamics 365供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。'
+uid: certification.d365-functional-consultant-supply-chain-management
+certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Dynamics 365供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。
+subTitle: 'Dynamics 365供应链管理职能顾问为客户简化成本会计，库存管理，总体规划和仓库管理。'
+levels:
+- intermediate
+skills:
+- 使用通用功能和实现工具
+- 配置安全性，进程和选项
+- 管理Finance and Operations数据
+- 验证并支持解决方案
+- 实施产品信息管理
+- 实施库存管理
+- 实现和管理Supply Chain流程
+- 实施仓库管理和运输管理
+- 实施主计划
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-finance-operations
+courses:
+- uid: course.mb-300t00
+- uid: course.mb-330t00
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
+- uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
+- uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
+- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+- uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
+- uid: learn-dynamics.master-planning-supply-chain-management
+- uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUY
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-330
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证学习路径
+  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+

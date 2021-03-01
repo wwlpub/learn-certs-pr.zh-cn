@@ -1,0 +1,25 @@
+### YamlMime:CertificationRenewalRenewal
+title: '更新 Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+metadata:
+  title: '更新 Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.d365-functional-consultant-marketing
+certificationUid: certification.d365-functional-consultant-marketing
+assessmentId: ce559cae-50e0-48a2-b43a-e6cf0399e559
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您拥有此证书，并且您的证书将在六个月内过期，则您有资格进行更新。通过更新评估，表明您保持最新的 Dynamics 365 Marketing 和 Customer Voice 更新。您还可以借助精选学习模块为更新做好准备。
+skills:
+- 在 Dynamics 365 Marketing 中管理客户
+- 使用 Dynamics 365 Customer Voice 创建一个问卷调查项目
+- 使用 Dynamics 365 Customer Voice 创建多个问卷调查
+- 使用 Power Automate 自动执行 Dynamics 365 Customer Voice 问卷调查
+- 发送 Dynamics 365 Customer Voice 问卷调查
+examsPassed:
+- pl-200, mb-220
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Dynamics 365 Marketing Functional Consultant Associate 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

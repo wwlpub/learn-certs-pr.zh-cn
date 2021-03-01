@@ -1,0 +1,26 @@
+### YamlMime:CertificationRenewalRenewal
+title: '更新 Microsoft Certified: Azure AI Engineer Associate'
+metadata:
+  title: '更新 Microsoft Certified: Azure AI Engineer Associate'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.azure-ai-engineer
+certificationUid: certification.azure-ai-engineer
+assessmentId: b7cbd4cb-022d-4be3-94f1-95b2206f91c0
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您拥有此证书，并且您的证书将在六个月内过期，则您有资格进行更新。通过更新评估，说明您已掌握 Azure AI 的最新更新。您还可以借助精选学习模块为更新做好准备。
+skills:
+- 使用 Azure Cognitive Language Services 评估文本
+- 使用 Azure Cognitive Speech Services 处理和转换语音
+- 使用 Azure Cognitive Vision Services 进行图像处理和分类
+- 使用 Azure Cognitive Language Services 自然语言
+- 创建对话式 AI 解决方案
+- 使用 Azure Cognitive Search 实施知识挖掘
+examsPassed:
+- ai-100 或 ai-102
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Azure AI Engineer Associate 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

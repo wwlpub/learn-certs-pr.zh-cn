@@ -1,0 +1,29 @@
+### YamlMime:CertificationRenewal
+title: '更新 Microsoft 365 Certified: Enterprise Administrator Expert'
+metadata:
+  title: '更新 Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.m365-enterprise-administrator
+certificationUid: certification.m365-enterprise-administrator
+assessmentId: f28a7832-30d9-4fe7-afea-e88ec7ab4e5a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。通过更新评估，表明您了解最新的 Microsoft 365 更新内容。您还可以学习精选的学习模块，以为更新评估作好准备。
+skills:
+- 使用系统中心配置管理器通过共同管理来管理 Windows 10
+- 使用 Microsoft Endpoint Manager 简化设备管理
+- 使用 Azure Active Directory 简化访问和身份配置
+- 使用连接器将邮件传递到 Microsoft 365 外部的邮箱
+- 通过 Microsoft 威胁保护防御威胁
+- 在 Microsoft 365 中迁移用户文件和设置
+- 交付 Microsoft 365 应用和业务应用
+- 使用灵敏度标签保护数据
+- 在 Microsoft 365 中管理内部人员风险
+examsPassed:
+- ms-100, ms-101
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 365 认证做准备：Enterprise Administrator Expert 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

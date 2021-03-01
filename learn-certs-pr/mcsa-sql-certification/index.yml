@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: 'MCSA: SQL Server 2012/2014'
+metadata:
+  title: 'MCSA: SQL Server 2012/2014'
+  description: 'MCSA: SQL Server 2012/2014'
+uid: certification.mcsa-sql-certification
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div><strong>该认证于2021年1月31日停用。在此日期之后，您将无法再获得此认证。您在他们停止提供日期之前获得的任何认证将继续显示在认证控制面板的 <a href='https://www.microsoft.com/learning/dashboard.aspx'>成绩证明中。</a>.您也可以 <a href='/learn/certifications/retired-certifications'>浏览所有已停用认证</a>。</strong><br/><br/></div>
+  </div>
+
+  此认证证明您在开发和维护新一代关键性任务环境方面的技能和突破性见解。
+subTitle: 此认证证明您在开发和维护新一代关键性任务环境方面的技能和突破性见解。
+levels:
+- advanced
+skills:
+- none
+roles:
+- database-administrator
+type: mcsa
+products:
+- sql-server
+courses:
+- uid: course.20461
+- uid: course.20462
+- uid: course.20463
+exams:
+- uid: exam.70-461
+- uid: exam.70-462
+- uid: exam.70-463
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

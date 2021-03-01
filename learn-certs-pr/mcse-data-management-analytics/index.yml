@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'MCSE: Data Management and Analytics'
+metadata:
+  title: 'MCSE: Data Management and Analytics'
+  description: 'MCSE: Data Management and Analytics'
+uid: certification.mcse-data-management-analytics
+iconUrl: /media/learn/certification/badges/mcse-badge.svg
+summary: |-
+  <div>
+  <div><strong>该认证于2021年1月31日停用。在此日期之后，您将无法再获得此认证。您在他们停止提供日期之前获得的任何认证将继续显示在认证控制面板的 <a href='https://www.microsoft.com/learning/dashboard.aspx'>成绩证明中</a>。您也可以 <a href='/learn/certifications/retired-certifications'>浏览所有已停用认证</a>。</strong><br/><br/></div>
+  </div>
+
+  此认证证明您拥有运行高效与现代化的数据中心，份管理、系统管理、虚拟化、存储和网络所需的技能。
+
+  要获得 MCSE&#58; Data Management & Analytics认证，请完成以下要求：
+  - 赢取一项先决条件认证：
+    - 必备选项1&#58; [MCSA&#58; SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
+    - 必备选项2&#58; [MCSA&#58; SQL 2016 Database Development](/learn/certifications/mcsa-sql2016-database-development-certification)
+    - 必备选项3&#58; [MCSA&#58; SQL 2016 Database Administration](/learn/certifications/mcsa-sql2016-database-administration-certification)
+    - 必备选项4&#58; [MCSA&#58; QL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
+    - 必备选项5&#58; [MCSA：BI Reporting](/learn/certifications/mcsa-bi-reporting)
+  - 通过一项有效考试&#58;
+    - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
+    - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
+    - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
+    - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
+    - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
+    - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
+    - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
+    - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
+subTitle: 证明您在 SQL 管理、在本地和云环境中构建企业级数据解决方案和利用商业智能数据方面的丰富技能组合。
+levels:
+- intermediate
+skills:
+- none
+roles:
+- database-administrator
+type: mcse
+products:
+- sql-server
+courses:
+- uid: course.20464
+- uid: course.20465
+- uid: course.20466
+- uid: course.20467
+- uid: course.20762
+- uid: course.20767
+- uid: course.20768
+- uid: course.20777
+exams:
+- uid: exam.70-464
+- uid: exam.70-465
+- uid: exam.70-466
+prerequisites:
+- uid: certification.mcsa-sql-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-development-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-administration-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-business-intelligence-certification
+  isOptional: false
+- uid: certification.mcsa-bi-reporting
+  isOptional: false
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

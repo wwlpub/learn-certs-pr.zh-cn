@@ -1,0 +1,89 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 Marketing Functional Consultants 实施的解决方案可吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递并提供营销洞察。'
+uid: certification.d365-functional-consultant-marketing
+certificationRenewalUid: renewal.d365-functional-consultant-marketing
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果你是职能顾问、在组织的日常业务运营中使用 Microsoft Dynamics 365 Marketing 的专业人士，或者是希望磨练咨询技巧的开发人员，此认证将有助于提升你的职业生涯，并使你能够更有效地为项目和促销活动做好准备。
+  
+  作为此认证的候选人，你了解 Dynamics 365 模型驱动的应用程序和数据建模原则，并且可以配置 Microsoft Power Platform。你实施营销计划，例如活动、电子邮件和客户旅程。你有与组织的利益相关者合作收集需求和实施 Dynamics 365 Marketing 解决方案的经验。此外，你还配置 Dynamics 365 Marketing 并设置 Dynamics 365 组织安全性。你甚至使用 Power Platform 组件(如 Power Automate 和 Power Apps)扩展 Dynamics 365 解决方案。
+  
+  如果你在尝试获得此认证之前需要更多经验，以下是一些建议&#58;
+  - 从事 Dynamics 365 模型驱动的应用程序实施项目。
+  - 跟随使用 Dynamics 365 Marketing 的职能顾问或解决方案架构师。
+  - 在 Microsoft Learn 上采取可用的学习路径。
+  - 报名参加讲师指导的培训课程。
+subTitle: Microsoft Dynamics 365 Marketing Functional Consultants 实施的解决方案可吸引和转换潜在客户，建立品牌知名度，标准化全渠道消息传递并提供营销洞察。
+levels:
+- intermediate
+skills:
+- 配置市场营销应用
+- 管理细分市场和列表
+- 创建和管理营销表单和页面
+- 管理线索、联系人、客户
+- 创建和管理营销电子邮件
+- 管理客户旅程
+- 管理活动和网络研讨会
+- 配置Dynamics 365 Customer Voice
+- 配置Common Data Service
+- 利用Power Apps来创建应用程序
+- 创建和管理Power Automate
+- 实现Power Virtual Agents聊天机器人
+- 将Power Apps与其他应用程序和服务集成在一起
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-marketing
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-220t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.set-up-dynamics-365-marketing
+- uid: learn-dynamics.work-core-features-marketing
+- uid: learn-dynamics.manage-events-dynamics-marketing
+- uid: learn-dynamics.analyze-marketing-insights
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj1
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-220
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证学习路径
+  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+

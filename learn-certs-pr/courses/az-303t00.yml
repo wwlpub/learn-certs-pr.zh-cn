@@ -28,7 +28,7 @@ exams:
 - uid: exam.az-303
 summary: |-
   本课程教 Solutions Architects 如何将业务需求转换为安全、可扩充和可靠的解决方案。课程包括虚拟化、自动化、联网、存储、身份、安全性、数据平台和应用程序基础结构。本课程概述了这些领域的决策如何影响整体解决方法。
-
+  
   #### 受众概况
   本课程面向具有设计和实施在 Microsoft Azure 上运行的解决方案的专业知识的 IT Professionals。应试者应具备跨 IT 运营各个方面的高级经验和知识，包括网络、虚拟化、身份、安全性、业务连续性、灾难恢复、数据管理、预算和治理。Azure解决方案架构师使用 Azure 门户，并且随着他们变得更加熟练，他们使用命令行界面。考生必须具有 Azure 管理方面的专家级技能，并且具有 Azure 开发流程和 DevOps 流程的相关经验。
 prerequisitesSection: |-
@@ -40,6 +40,7 @@ prerequisitesSection: |-
   如果你是 Azure 和 cloud 计算的新手，请考虑以下资源之一&#58;
   - 免费在线&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
   - 讲师指导课程&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Azure 管理员的先决条件 (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### 模块 1&#58; 实施 Azure Active Directory
   在本模块中，你将学习如何使用 Azure Active Directory 保护身份，以及实现用户和组。本模块包括&#58;
@@ -174,7 +175,7 @@ outlineSection: |-
   - 实施 Azure SQL 数据库托管实例
   - 高可用性和 Azure SQL 数据库
   - 在本单元中，你将学习如何 
-  - 创建 Azure SQL 数据库（单个数据库）
+  - 创建 Azure SQL 数据库(单个数据库)
   - 创建 Azure SQL 数据库托管实例
   - 推荐 Azure SQL 数据库中使用的高可用性架构模型
   
@@ -257,6 +258,7 @@ outlineSection: |-
   - 了解 Azure VM 备份架构
   - 管理 Azure Vms 的更新和补丁
   
+  
   ### 模块 13&#58; 实现基于容器的应用程序
   在本模块中，你将学习如何运行 Azure Container 实例以及如何使用 AKS 部署 Kubernetes。
   #### 课程
@@ -282,7 +284,6 @@ outlineSection: |-
   #### 实验&#58;配置基于消息的整合体系结构
   - 配置和验证Azure Function App Storage Blob触发器
   - 配置和验证基于Azure Event Grid订阅的队列消息传递
-  
   
   #### 实验&#58;实施带有暂存槽的Azure App Service Web应用
   - 通过使用Azure App Service Web应用程序的部署插槽实施蓝/绿部署模式
@@ -312,4 +313,3 @@ outlineSection: |-
   完成本模块后，学员将能够&#58;
   - 了解Azure日志分析
   - 了解Azure服务运行状况
-

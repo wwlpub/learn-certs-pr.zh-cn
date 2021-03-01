@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: 证明您了解 Power Platform 的核心功能 - 从业务价值和核心产品功能到构建简单的 Power Apps 画布应用程序，连接数据源，使用 Power Automate 实现基本业务流程自动化，创建 Power BI 控制面板以及使用 Power Virtual Agents 功能创建强大的聊天机器人。
+uid: certification.power-platform-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  如果您是一名学生、商业用户或刚入门的专业技术人士，该认证可以使您进步加速，并促进您的职业生涯，这是因为您可以使用Microsoft Power Platform的技能来提高您所在团队的生产力。该认证的培训无需经验，只要基本熟悉计算机技术、数据分析、cloud计算和互联网即可。可以考虑将基础认证视为提高您的技能组合和晋升其他认证（如Microsoft Power Platform Functional Consultant）的第一步。
+  
+  如果您愿意，Microsoft Power Platform Fundamentals认证可能非常适合您&#58;
+  - 使用Microsoft Power Platform来构建解决方案。
+  - 借助Power Automate来实现基本业务流程自动化。
+  - 通过Power BI进行数据分析。 
+  - 创建简单的Power Apps体验。
+  - 借助Power Virtual Agents来构建实用的聊天机器人。
+  
+  该认证没有前提条件。然而，如果您想获得更多的经验，你可以&#58;
+  - 在您的团队中跟随一位借助Microsoft Power Platform工作的人。
+  - 在Microsoft Learn上探究可用的学习途径。
+  - 报名参加由导师指导的培训课程。
+subTitle: 证明您了解 Power Platform 的核心功能 - 从业务价值和核心产品功能到构建简单的 Power Apps 画布应用程序，连接数据源，使用 Power Automate 实现基本业务流程自动化，创建 Power BI 控制面板以及使用 Power Virtual Agents 功能创建强大的聊天机器人。
+levels:
+- beginner
+skills:
+- 描述 Power Platform 的业务价值
+- 识别 Power Platform 的核心组件
+- 演示Power BI的功能
+- 描述Power Apps的功能
+- 演示Power Automate的功能
+- 展示 Power Virtual Agents 的业务价值
+roles:
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KLw
+exams:
+- uid: exam.pl-900
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4HabX
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证学习路径
+  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+

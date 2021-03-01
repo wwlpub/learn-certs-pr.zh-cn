@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewalRenewal
+title: '更新 Microsoft Certified: Azure Data Engineer Associate'
+metadata:
+  title: '更新 Microsoft Certified: Azure Data Engineer Associate'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.azure-data-engineer
+certificationUid: certification.azure-data-engineer
+assessmentId: acbdf90d-e45d-42fc-b8f0-d8d5fa2726e3
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您拥有此证书，并且您的证书将在六个月内过期，则您有资格进行更新。通过更新评估，说明您已掌握 Azure Data Factory 的最新更新。您还可以借助精选学习模块为更新做好准备。
+skills:
+- 使用 Azure Data Factory 进行 PB 级数据摄取
+- 使用 Azure Data Factory 进行大规模的无代码转换
+examsPassed:
+- dp-200, dp-201 或 dp-203
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Azure Data Engineer Associate 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

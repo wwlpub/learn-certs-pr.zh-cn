@@ -1,0 +1,77 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。'
+uid: certification.d365-functional-consultant-field-service
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。
+subTitle: Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。
+levels:
+- intermediate
+skills:
+- 配置现场服务应用程序
+- 管理工作订单
+- 安排和派遣工单
+- 管理现场服务流动性
+- 管理库存和采购
+- 实现Connected Field Service
+- 配置Common Data Service
+- 利用Power Apps来创建应用程序
+- 创建和管理Power Automate
+- 实现Power Virtual Agents聊天机器人
+- 将Power Apps与其他应用程序和服务集成在一起
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-field-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-240t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-240
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证学习路径
+  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+

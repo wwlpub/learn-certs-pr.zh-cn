@@ -1,0 +1,67 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure AI Engineer Associate'
+  description: 'Azure AI 工程师构建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解决方案。'
+uid: certification.azure-ai-engineer
+certificationRenewalUid: renewal.azure-ai-engineer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>考试 AI-100 将于2021年2月23日替换为 <a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a>。在2021年6月30日考试结束前，若通过考试 AI-100，你仍然可以获得此认证。</strong></font><br/><br/></div>
+  
+  参加 Azure 人工智能工程师助理认证的考生应具备使用认知服务、机器学习和知识挖掘的主题专业知识，以构建和实施涉及自然语言处理、语音、计算机视觉和会话人工智能的 Microsoft 人工智能解决方案。
+  
+  这个角色的职责包括分析人工智能解决方案的需求，推荐合适的工具和技术，以及设计和实现满足可扩展性和性能需求的人工智能解决方案。
+  
+  Azure AI Engineer 将解决方案架构师的愿景转化为事实，并与数据科学家、数据工程师、IoT 专家和软件开发人员合作，以构建完整的端到端解决方案。
+  
+  参加本认证的考生应具备设计和实现使用 Microsoft Azure 认知服务、Azure Bot 服务、Azure 认知搜索和 Azure 数据存储的人工智能应用程序和代理的知识和经验。此外，考生应该能够推荐使用开源技术的解决方案，了解组成 Azure AI 产品组合的组件和可用的数据存储选项，并了解何时应开发自定义 API 以满足特定需求。
+subTitle: Azure AI 工程师构建、管理和部署利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架的 AI 解决方案。
+levels:
+- intermediate
+skills:
+- 分析解决方案要求
+- 设计 AI 解决方案
+- 实施和监控 AI 解决方案
+roles:
+- ai-engineer
+type: role-based
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-studio
+- azure-search
+courses:
+- uid: course.ai-100t01
+paths:
+- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
+- uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
+exams:
+- uid: exam.ai-100
+resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索获得 Azure AI Engineer Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

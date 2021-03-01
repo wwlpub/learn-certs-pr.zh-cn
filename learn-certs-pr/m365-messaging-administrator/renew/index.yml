@@ -1,0 +1,27 @@
+### YamlMime:CertificationRenewal
+title: '更新 Microsoft 365 Certified: Messaging Administrator Associate'
+metadata:
+  title: '更新 Microsoft 365 Certified: Messaging Administrator Associate'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.m365-messaging-administrator
+certificationUid: certification.m365-messaging-administrator
+assessmentId: d87d7bd1-2890-481f-9ec4-9ba03d75719a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。通过更新评估，表明您了解最新的 Exchange 和 Microsoft 365 更新内容。您还可以学习精选的学习模块，以为更新评估作好准备。
+skills:
+- 使用 Exchange Online 规划和管理组织设置
+- 使用 Exchange 计划和管理客户端访问
+- 在 Microsoft 365 Messaging 中管理基于角色的权限
+- 使用连接器将邮件传递到 Microsoft 365 外部的邮箱
+- 使用 Exchange Online 和 Microsoft 365 Advanced Threat Protection 管理邮件卫生
+- 管理 Microsoft 365 和 Exchange Online 中的合规性
+- 使用 Exchange 对邮件流进行故障排除
+examsPassed:
+- ms-203
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 365 认证做准备：Messaging Administrator Associate 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

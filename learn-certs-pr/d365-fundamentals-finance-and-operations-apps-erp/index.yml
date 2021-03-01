@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  description: '该证书将于2021年2月生效。如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。'
+uid: certification.d365-fundamentals-finance-and-operations-apps-erp
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。
+  
+  那些熟悉业务运营，对金融原理有基本了解，并且精通信息技术的人——无论是一般的还是通过工作经验——都可以使用该证书来验证这些技能，并帮助打开其职业之门。
+  
+  处于不同职业生涯阶段的人们均可以各种方式使用该基础认证。以下是一些例子&#58;
+  - 想要强调他们对所使用的应用程序具有广泛了解的IT专业人员
+  - 技术专业人士和商业决策者，他们正在探索如何将Dynamics 365的功能性与他们正在使用的应用程序集成在一起
+  - 业务涉众和其他使用Dynamics 365并想要证明他们理解该平台的基本原理的人
+  - 想要对业务运营、财务和ERP有更加深入了解的开发人员
+  - 想要利用Dynamics 365财务和运营应用程序更上一层楼的学生、应届毕业生和正在转行的人士
+  
+  <div><br/><strong>注意&#58; 该证书将于2021年2月生效。</strong></div>
+subTitle: '该证书将于2021年2月生效。如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。'
+levels:
+- beginner
+skills:
+- 描述Dynamics 365 Supply Chain Management (25-30%)
+- 描述Dynamics Finance (25-30%)
+- 描述Dynamics 365 Commerce (10-15%)
+- 描述Dynamics 365 Human Resources (5-10%)
+- 描述Project Operations (10-15%)
+- 描述Dynamics 365 Business Central (5-10%)
+- 描述共享的特性 (10-15%)
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products: 
+- dynamics-365
+- dynamics-finance-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
+exams:
+- uid: exam.mb-920
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md

@@ -6,15 +6,16 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div><div><strong>该考试的内容已于2020年10月2日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
+  <div>
+  <div><strong>该考试的内容已于2020年10月2日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
   </div>
-
+  
   Dynamics 365 客户服务功能顾问负责实施全渠道解决方案，重点关注服务、质量、可靠性、效率和客户满意度。
   <br/>
-
+  
   Dynamics 365客户服务功能顾问可实施和设计由解决方案架构师提供的协作服务可视化和报告。功能顾问与客户参与管理员合作，以实施和升级Power Platform组件，包括知识管理，客户反馈和连接的服务。
-
-  Dynamics 365客户服务职能顾问必须具有丰富的客户服务应用知识，包括&#58;了解行业术语、优先级、标准、方法、客户服务运营和最佳实践。具有客户服务专业知识的功能顾问必须具有通过Dynamics 365客户服务满足用户需求的强大应用知识，包括对案例，知识管理，队列，权利，资源调度，服务水平协议（SLA），可视化，已连接服务，客户服务见解，Power Virtual Agents和用于客户服务的Omnichannel。应试者应该包括对客户服务应用程序在 Dynamics 365 应用程序套件中的角色的全面理解，以及对解决方案体系结构和质量保证的基本理解。
+  
+  Dynamics 365客户服务职能顾问必须具有丰富的客户服务应用知识，包括&#58;了解行业术语、优先级、标准、方法、客户服务运营和最佳实践。具有客户服务专业知识的功能顾问必须具有通过Dynamics 365客户服务满足用户需求的强大应用知识，包括对案例，知识管理，队列，权利，资源调度，服务水平协议(SLA)，可视化，已连接服务，客户服务见解，Power Virtual Agents和用于客户服务的Omnichannel。应试者应该包括对客户服务应用程序在 Dynamics 365 应用程序套件中的角色的全面理解，以及对解决方案体系结构和质量保证的基本理解。
 subTitle: '该考试评估您完成以下技术任务的能力: 管理案例和知识管理；管理队列，权利和服务级别协议；执行调度；实施全渠道客户服务；和管理分析。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
@@ -37,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-customer-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-230t01
 paths:

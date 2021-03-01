@@ -1,0 +1,72 @@
+### YamlMime:Examination
+title: Designing and Implementing a Microsoft Azure AI Solution (beta)
+metadata:
+  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+uid: exam.ai-102
+displayName: AI-102
+summary: |-
+  考试 AI-102 的候选人应拥有利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架构建、管理和部署 AI 解决方案的学科知识专长。
+  
+  本考试的候选人应精通 C#、Python 或 JavaScript 并应能够使用基于 REST 的 APIs 和 SDKs 在 Azure 上构建计算机视觉、自然语言处理、知识挖掘和会话 AI 解决方案。他们还应该了解组成 Azure AI 组合的组件和可用的数据存储选项。另外，候选人需要了解并能够应用负责任的 AI 原则。
+  
+  <div><br/><font color='red'><strong>注释&#58; 本考试将于2021年2月23日开始。</strong></font></div>
+subTitle: '本考试将于2021年2月23日开始。本考试衡量你完成以下技术任务的能力：规划和管理 Azure Cognitive Services 解决方案；实施计算机视觉解决方案；实施自然语言处理解决方案；实施知识挖掘解决方案；以及实施会话 AI 解决方案。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 规划和管理 Azure Cognitive Services 解决方案(15-20%)
+- 实施计算机视觉解决方案(20-25%)
+- 实施自然语言处理解决方案(20-25%)
+- 实施知识挖掘解决方案(15-20%)
+- 实施对话 AI 解决方案(15-20%)
+roles:
+- ai-engineer
+products:
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-engineer
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 请求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: ../request-accommodations.md
+- title: 考试政策和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md

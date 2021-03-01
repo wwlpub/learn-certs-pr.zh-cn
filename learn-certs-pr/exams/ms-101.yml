@@ -7,12 +7,12 @@ uid: exam.ms-101
 displayName: MS-101
 summary: |-
   <div>
-  <div><strong>本次考试的内容于2020年11月24日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
+  <div><font color='red'><strong>本考试的内容将于2021年2月24日更新。请下载下面的技能评估文档，看看将会发生什么变化。</strong></font><br/><br/></div>
   </div>
-
+  
   此考试面向的考生是参与评估、规划、迁移、部署和管理 Microsoft 365 服务的 Microsoft 365 企业管理员。他们为企业执行 Microsoft 365 租户管理任务，包括其身份、安全性、合规性和支持技术。
-
-  考生应具有 Microsoft 365 工作负荷应用知识，应该是至少一个 Microsoft 365 工作负荷 （Exchange，SharePoint，Skype for Business， Windows即服务） 的管理员。考生还具备网络、服务器管理和IT基础知识 （如DNS，Active Directory和PowerShell）的应用知识。
+  
+  考生应具有 Microsoft 365 工作负荷应用知识，应该是至少一个 Microsoft 365 工作负荷 (Exchange，SharePoint，Skype for Business， Windows即服务) 的管理员。考生还具备网络、服务器管理和IT基础知识 (如DNS，Active Directory和PowerShell)的应用知识。
 subTitle: '该考试衡量您完成以下技术任务的能力: 实施现代设备服务；实施 Microsoft 365 安全和威胁管理；以及管理 Microsoft 365 治理和合规性。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -24,10 +24,10 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容于2020年11月24日更新。请下载以下考试技能大纲，以了解有何变化。
-- 实施现代设备服务（30-35%）
-- 实施Microsoft 365安全和威胁管理（30-35%）
-- 管理Microsoft 365治理和合规性（35-40%）
+- 本考试的内容将于2021年2月24日更新。请下载下面的考试技能大纲，看看将会发生什么变化。
+- 实施现代设备服务(30-35%)
+- 实施Microsoft 365安全和威胁管理(30-35%)
+- 管理Microsoft 365治理和合规性(35-40%)
 roles:
 - administrator
 products:

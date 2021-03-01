@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewal
+title: '更新 Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+metadata:
+  title: '更新 Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: '如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。'
+uid: renewal.d365-functional-consultant-supply-chain-management
+certificationUid: certification.d365-functional-consultant-supply-chain-management
+assessmentId: 14ca194d-04da-4e2a-902c-b27cd9c7e7d8
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您拥有此证书，并且该证书将在六个月内过期，那么您就符合更新的条件。通过更新评估，表明您了解最新的 Dynamics 365 供应链管理更新内容。您还可以学习精选的学习模块，以为更新评估作好准备。
+skills:
+- 在 Dynamics 365 供应链管理中使用成本核算表
+- 在 Dynamics 365 Supply Chain Management 中使用规划优化
+examsPassed:
+- mb-300, mb-330
+studyGuideDescription: '使用此学习模块合集可以帮助您为以下 Microsoft 认证做准备：Dynamics 365 Supply Chain Management Functional Consultant Associate 更新评估。'
+resources:
+- title: 关于认证更新
+  summary: 了解在线更新证书的过程和要求
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

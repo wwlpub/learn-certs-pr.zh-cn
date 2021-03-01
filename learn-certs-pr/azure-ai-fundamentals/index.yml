@@ -1,0 +1,73 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure AI Fundamentals'
+  description: Azure AI Fundamentals 验证机器学习和人工智能概念以及相关 Microsoft Azure 服务的基础知识。
+uid: certification.azure-ai-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: "Azure AI Fundamentals认证的考生应具有机器学习 (ML) 和人工智能  (AI) 概念以及相关 Microsoft Azure 服务的基础知识。  \r\n\r\n该认证是一个展示常见的 ML 和 AI 工作负荷以及如何在 Azure 上实施知识的机会。  \r\n\r\n该认证适用于具有技术和非技术背景的考生。不需要数据科学和软件工程经验；但是，一些通用的编程知识或经验将是有益的。  \r\n\r\nAzure AI Fundamentals 可用于准备其他基于 Azure 角色的认证，例如 Azure Data Scientist Associate 或 Azure AI Engineer Associate，但这不是其中任何一个的先决条件。"
+subTitle: Azure AI Fundamentals 验证机器学习和人工智能概念以及相关 Microsoft Azure 服务的基础知识。
+levels:
+- beginner
+skills:
+- 描述 AI 工作负荷和注意事项
+- 描述 Azure 上机器学习的基本原理
+- 描述 Azure 上的计算机视觉工作负荷的功能
+- 描述Azure上自然语言处理（NLP）工作负荷的特性
+- 描述 Azure 上的对话式 AI 工作负荷的功能
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+type: fundamentals
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+courses:
+- uid: course.ai-900t00
+paths:
+- uid: learn.wwl.get-started-with-artificial-intelligence-on-azure
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.wwl.explore-computer-vision-microsoft-azure
+- uid: learn.wwl.explore-natural-language-processing
+- uid: learn.wwl.explore-conversational-ai
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
+exams:
+- uid: exam.ai-900
+resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索Azure AI Fundamentals 的步骤以及助您备考的可用资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+
