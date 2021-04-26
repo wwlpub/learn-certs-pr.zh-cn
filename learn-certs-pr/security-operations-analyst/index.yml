@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security Operations Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Security Operations Analyst Associate'
+  description: Microsoft安全操作分析师与组织利益相关方协作，为该组织的信息技术系统提供安全防护。他们的目标是通过快速修复环境中的主动攻击，对威胁防护实践的改进提出建议，并将违反组织策略的行为提交给适当的利益相关者，从而降低组织风险。
+uid: certification.security-operations-analyst
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoft安全操作分析师与组织利益相关方协作，为该组织的信息技术系统提供安全防护。他们的目标是通过快速修复环境中的主动攻击，对威胁防护实践的改进提出建议，并将违反组织策略的行为提交给适当的利益相关者，从而降低组织风险。
+
+  职责包括通过在其环境中使用各种安全解决方案进行威胁管理、监控及响应。通过使用Microsoft Azure Sentinel、Azure Defender、Microsoft 365 Defender以及第三方安全产品，该角色主要调查、回应并搜索各种威胁。由于安全操作分析师使用这些工具的操作输出，所以他们也是这些技术的配置和部署中的关键利益相关者。
+subTitle: Microsoft安全操作分析师与组织利益相关方协作，为该组织的信息技术系统提供安全防护。他们的目标是通过快速修复环境中的主动攻击，对威胁防护实践的改进提出建议，并将违反组织策略的行为提交给适当的利益相关者，从而降低组织风险。
+levels:
+- intermediate
+skills:
+- 使用Microsoft 365 Defender来降低威胁 
+- 使用Azure Defender来降低威胁 
+- 使用Azure Sentinel来降低威胁 
+roles:
+- security-engineer
+- security-operations-analyst
+type: role-based
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+courses:
+- uid: course.sc-200t00
+paths:
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
+- uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
+- uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
+- uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
+- uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
+- uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
+- uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp4
+exams:
+- uid: exam.sc-200
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md

@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
-  description: '该证书将于2021年2月生效。如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。'
+  description: '如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -17,18 +17,16 @@ summary: |-
   - 想要对业务运营、财务和ERP有更加深入了解的开发人员
   - 想要利用Dynamics 365财务和运营应用程序更上一层楼的学生、应届毕业生和正在转行的人士
   
-  <div><br/><strong>注意&#58; 该证书将于2021年2月生效。</strong></div>
-subTitle: '该证书将于2021年2月生效。如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。'
+subTitle: '如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。'
 levels:
 - beginner
 skills:
-- 描述Dynamics 365 Supply Chain Management (25-30%)
-- 描述Dynamics Finance (25-30%)
-- 描述Dynamics 365 Commerce (10-15%)
-- 描述Dynamics 365 Human Resources (5-10%)
-- 描述Project Operations (10-15%)
-- 描述Dynamics 365 Business Central (5-10%)
-- 描述共享的特性 (10-15%)
+- 描述Dynamics 365 Supply Chain Management 
+- 描述Dynamics Finance 
+- 描述Dynamics 365 Commerce 
+- 描述Dynamics 365 Human Resources 
+- 描述Project Operations 
+- 描述共享的特性
 roles:
 - business-owner
 - business-user
@@ -38,6 +36,12 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
 exams:
 - uid: exam.mb-920
@@ -45,9 +49,15 @@ resources:
 - title: 认证海报
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及帮助您进行准备的可用资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAmVj
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证学习路径
+  description: 推荐的培训资源可助您准备必需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Identity and Access Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Identity and Access Administrator Associate'
+  description: 通过使用Azure AD，Microsoft身份和访问管理员设计、实施并操作一个组织的身份和访问管理系统。他们管理一些任务，例如为企业应用程序提供安全的身份验证及授权访问。
+uid: certification.identity-and-access-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  通过使用Azure Active Directory (Azure AD)，“Microsoft身份和访问管理员”设计、实施并操作一个组织的身份和访问管理系统。他们管理一些任务，例如为企业应用程序提供安全的身份验证及授权访问。该管理员为所有用户提供无缝体验及自助服务管理能力。适应性访问和治理是该角色的核心元素。该角色还负责标识和访问环境的故障排除、监控及报告。
+
+  身份和访问管理员可以是单独的个体，或是较大团队的成员。该角色与组织中的许多其他角色协作，以推动战略身份项目，从而实现身份解决方案的现代化，实施混合标识解决方案，并实施身份治理。
+subTitle: 通过使用Azure AD，Microsoft身份和访问管理员设计、实施并操作一个组织的身份和访问管理系统。他们管理一些任务，例如为企业应用程序提供安全的身份验证及授权访问。
+levels:
+- advanced
+skills:
+- 实施身份管理解决方案
+- 实施身份验证及访问管理解决方案 
+- 实施应用程序访问管理 
+- 计划并实施身份治理战略 
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr7Z
+exams:
+- uid: exam.sc-300
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: ../deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+

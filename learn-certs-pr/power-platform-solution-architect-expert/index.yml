@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Power Platform Solution Architect Expert'
-  description: 本认证将2021年3月开始。Power Platform Solution Architect Experts 与利益相关者合作，专注于影响其组织广泛业务和技术需求的解决方案。
+  description: Power Platform 解决方案架构师专家与利益相关者合作，专注于影响其组织广泛业务和技术需求的解决方案。候选人拥有 Power Platform、Dynamics 365 客户参与应用、相关 Microsoft cloud 解决方案和第三方技术的功能和技术知识。
 uid: certification.power-platform-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -15,8 +15,7 @@ summary: |-
   - 报名参加讲师指导的培训课程。
   - 在[Microsoft Learn](/learn/paths/become-solution-architect/)上探索可用的学习路径。
   
-  <div><font color='red'><strong>注释&#58;本认证将2021年3月开始。</strong></font></div>
-subTitle: 本认证将2021年3月开始。Power Platform 解决方案架构师专家与利益相关者合作，专注于影响其组织广泛业务和技术需求的解决方案。候选人拥有 Power Platform、Dynamics 365 客户参与应用、相关 Microsoft cloud 解决方案和第三方技术的功能和技术知识。
+subTitle: Power Platform 解决方案架构师专家与利益相关者合作，专注于影响其组织广泛业务和技术需求的解决方案。候选人拥有 Power Platform、Dynamics 365 客户参与应用、相关 Microsoft cloud 解决方案和第三方技术的功能和技术知识。
 levels:
 - advanced
 skills:
