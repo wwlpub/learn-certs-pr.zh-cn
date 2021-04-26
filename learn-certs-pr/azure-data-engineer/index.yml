@@ -7,19 +7,28 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>考试 DP-200 和 DP-201 将于2021年2月23日替换为 <a href='/learn/certifications/exams/dp-203'>EXAM DP-203</a>。在2021年6月30日考试结束前，若通过考试 DP-200 和 DP-201，你仍然可以获得此认证。</strong></font><br/><br/></div>
-  
-  Azure 数据工程师使用完整的 Azure 数据服务堆栈来设计和实施数据的管理、监控、安全性和隐私、以满足业务需求。
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>考试 Dp-203</a> 正在取代DP-200和DP-201考试。DP-200和DP-201将于2021年6月30日失效。</strong></font><br/><br/></div>
+
+  Azure Data Engineer Associate认证的考生应具备专业技能，这些技能可将各种结构化及非结构化数据系统中的数据集成、转换并整合为适于构建分析解决方案的结构。
+
+  该角色的职责包括帮助利益相关者借助探索了解数据，并通过使用不同的工具和技术，构建和维护安全及合规的数据处理管道。该专业人士使用各种Azure数据服务和语言来存储和生成用于分析的经过清理和增强的数据集。
+
+  鉴于一组特定的业务需求和约束，“Azure数据工程师”还可帮助确保数据管道及数据存储是高性能、高效、有组织和可靠的。该专业人士可快速处理未预料到的问题，并最大限度地减少数据丢失。“Azure数据工程师”还可设计、实施、监控并优化数据平台，以满足数据管道的需求。
+
+  该认证的考生必须具备扎实的数据处理语言知识，如SQL, Python, 或Scala, 而且需要了解并行处理及数据体系结构模式。
+
+  <Div><br/><strong>如果您完成以下选项之一，您将会获得该证书&#58;</strong><br/>
+  <ul>
+  <li>通过 <a href="/learn/certifications/exams/dp-200">Dp-200</a> 和 <a href="/learn/certifications/exams/dp-201">DP-201</a> （2021年6月30日失效） <strong>或者</strong></li>
+  <li>通过 <a href="/learn/certifications/exams/dp-203">DP-203</a> （测试版于2021年2月23日发布）</li></ul></div>
 subTitle: Azure 数据工程师将来自各种结构化和非结构化数据系统的数据集成、转换和整合到适合构建分析解决方案的结构中。
 levels:
 - intermediate
 skills:
-- 实施数据存储解决方案
-- 管理和开发数据处理
-- 监控和优化数据解决方案
-- 设计 Azure 数据存储解决方案
-- 设计数据处理解决方案
-- 设计数据安全性和合规性
+- 设计并实施数据存储
+- 设计并开发数据处理
+- 设计并实施数据安全
+- 监控并优化数据存储及数据处理
 roles:
 - data-engineer
 type: role-based
@@ -30,29 +39,27 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
-courses:
-- uid: course.dp-200t01
-- uid: course.dp-201t01
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
-- uid: learn.work-with-relational-data-in-azure
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.wwl.data-integration-scale-azure-data-factory
+- uid: learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
+- uid: learn.wwl.work-with-data-warehouses-using-azure-synapse-analytics
+- uid: learn.wwl.perform-data-engineering-with-azure-synapse-apache-spark-pools
+- uid: learn.wwl.work-with-hybrid-transactional-analytical-processing-solutions
+- uid: learn.wwl.data-engineer-azure-databricks
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
-- uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.wwl.data-engineer-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
-- uid: exam.dp-200
-- uid: exam.dp-201
+- uid: exam.dp-203
 resources:
+- title: 认证之旅
+  description: 探索获得 Azure Data Engineer Associate 认证的步骤以及可帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Azure 认证海报
   description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 认证之旅
-  description: 探索获得 Azure Data Engineer Associate 认证的步骤以及可帮助您进行准备的资源。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
