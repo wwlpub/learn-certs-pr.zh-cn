@@ -12,10 +12,11 @@ summary: |-
   
   解决方案架构师拥有 Power Platform 的功能和技术学科方面的经验。解决方案架构师应该能够促进跨开发、配置、集成、基础设施、安全性、可用性、存储和变更管理的设计决策。该角色平衡项目的业务需求，并同时满足功能性和非功能性需求。
   
-  <div><br/><font color='red'><strong>注释&#58;本考试将2021年3月开始。</strong></font></div>
-subTitle: '本考试将2021年3月开始。本考试将衡量你完成以下技术任务的能力：执行解决方案设想和需求分析；设计解决方案；以及实施解决方案。'
+  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
+subTitle: '本考试将衡量你完成以下技术任务的能力：执行解决方案设想和需求分析；设计解决方案；以及实施解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:

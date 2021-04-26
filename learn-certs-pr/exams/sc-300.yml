@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: 'Microsoft Identity and Access Administrator （安全考试测试版）'
+metadata:
+  title: 'Exam SC-300: Microsoft Identity and Access Administrator （安全考试测试版）'
+  description: 'Exam SC-300: Microsoft Identity and Access Administrator （安全考试测试版）'
+uid: exam.sc-300
+displayName: SC-300
+summary: |-
+  通过使用Azure Active Directory (Azure AD)，“Microsoft身份和访问管理员”设计、实施并操作一个组织的身份和访问管理系统。他们管理一些任务，例如为企业应用程序提供安全的身份验证及授权访问。该管理员为所有用户提供无缝体验及自助服务管理能力。适应性访问和治理是该角色的核心元素。该角色还负责标识和访问环境的故障排除、监控及报告。
+
+  身份和访问管理员可以是单独的个体，或是较大团队的成员。该角色与组织中的许多其他角色协作，以推动战略身份项目，从而实现身份解决方案的现代化，实施混合标识解决方案，并实施身份治理。
+  
+  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
+subTitle: '该考试可衡量您完成以下技术任务的能力：实施身份管理解决方案；实施身份验证及访问管理解决方案；实施应用程序访问管理；以及计划并实施身份治理战略。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
+locales:
+- en
+levels:
+- advanced
+skills:
+- 实施身份管理解决方案 (25-30%)
+- 实施身份验证及访问管理解决方案 (25-30%)
+- 实施应用程序访问管理 (10-15%)
+- 计划并实施身份治理战略 (25-30%)
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+relatedCertifications:
+- related:
+    uid: certification.identity-and-access-administrator
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: ../request-accommodations.md
+- title: 考试原则和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
