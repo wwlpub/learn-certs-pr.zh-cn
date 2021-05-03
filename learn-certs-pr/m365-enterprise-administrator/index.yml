@@ -8,8 +8,6 @@ certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   Microsoft 365 Enterprise Administrators 参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
-
-  <div><br/><strong>The MCSE&#58; Productivity Solutions Expert 认证将于 2021 年 1 月 31 日停用。在2022年1月31日之前（证书到期后一年），它将继续有资格作为此证书的必备选项。</strong></div>
 subTitle: Microsoft 365 Enterprise Administrators 参与评估、规划、迁移、部署和管理 Microsoft 365 服务。
 levels:
 - advanced
@@ -49,10 +47,10 @@ prerequisites:
 - uid: certification.m365-security-administrator
   isOptional: false
 - uid: certification.m365-messaging-administrator
-  isOptional: false
-- uid: certification.mcse-productivity-certification
-  isOptional: false
+  isOptional: false												   
 - uid: certification.m365-teams-administrator-associate
+  isOptional: false
+- uid: certification.identity-and-access-administrator
   isOptional: false
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi7
 exams:
@@ -74,4 +72,7 @@ resources:
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 分享您的认证徽章
+  description: 在您的网络中庆祝您取得的成就。索取您的 Microsoft Certification 徽章，并将其加入 LinkedIn, 您的简历等。
+  href: ../badges.md
 
