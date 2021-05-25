@@ -12,7 +12,7 @@ summary: |-
 
   参加本次考试的考生必须具备专家级Azure管理技能。
   
-  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
+  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
 subTitle: '本次考试可衡量您完成以下技术任务的能力：规划Windows Virtual Desktop架构；实施Windows Virtual Desktop基础架构；管理访问和安全；管理用户环境和应用程序；并监控和维护Windows Virtual Desktop基础架构。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
@@ -58,10 +58,10 @@ relatedCertifications:
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

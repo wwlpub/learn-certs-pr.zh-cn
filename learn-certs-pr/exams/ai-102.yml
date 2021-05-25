@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Designing and Implementing a Microsoft Azure AI Solution (beta)
+title: Designing and Implementing a Microsoft Azure AI Solution
 metadata:
-  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
-  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution'
+  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution'
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
@@ -10,7 +10,6 @@ summary: |-
   
   本考试的候选人应精通 C#、Python 或 JavaScript 并应能够使用基于 REST 的 APIs 和 SDKs 在 Azure 上构建计算机视觉、自然语言处理、知识挖掘和会话 AI 解决方案。他们还应该了解组成 Azure AI 组合的组件和可用的数据存储选项。另外，候选人需要了解并能够应用负责任的 AI 原则。
   
-  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
 subTitle: '本次考试可衡量您完成以下技术任务的能力：计划并管理Azure Cognitive Services解决方案；实施计算机视觉解决方案；实施自然语言处理解决方案；实施知识挖掘解决方案；以及实施对话式AI解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
@@ -64,10 +63,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Security Operations Analyst (beta)'
+title: 'Microsoft Security Operations Analyst'
 metadata:
-  title: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
-  description: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+  title: 'Exam SC-200: Microsoft Security Operations Analyst'
+  description: 'Exam SC-200: Microsoft Security Operations Analyst'
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
@@ -10,7 +10,6 @@ summary: |-
 
   职责包括通过在其环境中使用各种安全解决方案进行威胁管理、监控及响应。通过使用Microsoft Azure Sentinel、Azure Defender、Microsoft 365 Defender以及第三方安全产品，该角色主要调查、回应并搜索各种威胁。由于安全操作分析师使用这些工具的操作输出，所以他们也是这些技术的配置和部署中的关键利益相关者。
   
-  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
 subTitle: '本次考试可衡量您完成以下技术任务的能力：使用Microsoft 365 Defender来降低威胁；使用Azure Defender来降低威胁；并使用Azure Sentinel来降低威胁。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
@@ -47,10 +46,10 @@ relatedCertifications:
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md
