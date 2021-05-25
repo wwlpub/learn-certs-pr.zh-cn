@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
   description: '如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -15,7 +15,7 @@ summary: |-
   - 技术专业人士和商业决策者，他们正在探索如何将Dynamics 365的功能性与他们正在使用的应用程序集成在一起
   - 业务涉众和其他使用Dynamics 365并想要证明他们理解该平台的基本原理的人
   - 想要对业务运营、财务和ERP有更加深入了解的开发人员
-  - 想要利用Dynamics 365财务和运营应用程序更上一层楼的学生、应届毕业生和正在转行的人士
+  - 学生、应届毕业生及转行人士，他们想要充分利用 Dynamics 365 的财务和运营应用程序，以达到更高水平
   
 subTitle: '如果您对Dynamics 365的企业资源规划(ERP)能力有广泛的了解，并且了解财务和运营应用程序如何在Microsoft整体生态系统中发挥作用的基本原理，那么该证书就是为您而量身定制的。'
 levels:
@@ -36,6 +36,8 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance

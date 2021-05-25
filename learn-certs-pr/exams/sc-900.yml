@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+title: 'Microsoft Security, Compliance, and Identity Fundamentals'
 metadata:
-  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
-  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
@@ -12,7 +12,6 @@ summary: |-
 
   考生应熟悉Microsoft Azure和Microsoft 365，并了解Microsoft安全、合规及标识解决方案如何能够跨越这些解决方案领域，以提供一个整体和端到端的解决方案。
   
-  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/certification-exams#participating-in-beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
 subTitle: '本次考试可衡量您描述以下内容的能力：安全、合规及标识的概念；Microsoft身份和访问管理解决方案的能力；Microsoft安全解决方案的能力；以及Microsoft合规解决方案的能力。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
@@ -60,10 +59,10 @@ relatedCertifications:
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

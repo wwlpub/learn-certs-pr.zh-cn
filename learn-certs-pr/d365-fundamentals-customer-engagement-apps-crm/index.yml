@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Customer Engagement Apps (CRM)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
   description: '如果您熟悉业务操作、客户关系管理(CRM)，并且精通IT——不管是一般的还是通过工作经验——那么就可以利用该证书来突出这些技能。验证您对广泛接触Dynamics 365的客户参与能力，从而提升您的职业生涯。'
 uid: certification.d365-fundamentals-customer-engagement-apps-crm
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -53,7 +53,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAmVj
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证学习路径
   description: 推荐的培训资源可助您准备必需的考试并获得认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
