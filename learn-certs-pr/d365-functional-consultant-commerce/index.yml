@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+  description: 'Dynamics 365 Commerce “功能顾问”在 Dynamics 365 Commerce 中设置和使用应用程序功能，并为应用程序提供支持。'
+uid: certification.d365-functional-consultant-commerce
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  如果您是一位借助 Dynamics 365 Commerce 来支持您的团队和组织的功能顾问、开发人员、信息工作者或 IT 或商务专业人士，那么该认证可助您提升职业生涯。作为该认证的考生，您需要配置、部署并维护 Dynamics 365 Commerce 应用程序。
+  
+  考生必须对统一的商务运作有着较强的理解。他们可配置 Dynamics 365 Commerce 指挥部；配置并管理商务呼叫中心，在商务中管理“销售终端”(POS)，管理电子商务，并配置产品、价格、折扣、忠诚度及附属机构。
+  
+  如果您在尝试获得该认证之前需要更多的经验，这里有一些建议&#58;
+  
+  - 在一些 Dynamics 365 Commerce 项目上与功能顾问一起工作。
+  - 在 Microsoft Learn 上采用自主学习路径。
+  - 报名参加一项由教师指导的培训课程。
+  
+subTitle: 'Dynamics 365 Commerce “功能顾问”在 Dynamics 365 Commerce 中设置和使用应用程序功能，并为应用程序提供支持。'
+levels:
+- intermediate
+skills:
+- 配置Dynamics 365 Commerce “指挥部”
+- 配置产品、价格、折扣、忠诚度及附属机构
+- 在 Dynamics 365 Commerce 中管理“销售终端”(POS)
+- 配置并管理 Dynamics 365 Commerce 呼叫中心
+- 管理电子商务
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-340
+resources:
+- title: Certification poster
+  description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Training and certification guide
+  description: Explore all certifications in a concise training and certifications guide.
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: See two great offers to help boost your odds of success.
+  href: ../deals.md
+- title: Certification dashboard
+  description: Review and manage your scheduled appointments, certificates, and transcripts.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Support for certifications
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: ../help.md
+- title: Share your certification badges
+  description: Celebrate your accomplishment with your network. Claim your Microsoft Certification badge, and add it to LinkedIn, your résumé, and more.
+  href: ../badges.md

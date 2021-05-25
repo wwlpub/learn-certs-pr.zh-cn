@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Commerce Functional Consultant (beta)
+metadata:
+  title: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)'
+  description: 'MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)'
+uid: exam.mb-340
+displayName: MB-340
+summary: |-
+  参加本考试的考生在 Dynamics 365 Commerce 中设置和使用应用程序功能，并为应用程序提供支持。
+  
+  考生对于统一的商务运作有着较强的理解。他们可能具备配置、部署和维护 Dynamics 365 Commerce 的经验。
+  
+  <div><font color='red'><strong>注意：本考试将于2021年6月或7月开始。</strong></font><br/><br/></div>
+subTitle: '本考试将于2021年6月或7月开始。本考试可测试您完成以下技术任务的能力：配置 Dynamics 365 Commerce “指挥部”；配置产品、价格、折扣、忠诚度及附属机构；在 Dynamics 365 Commerce 中管理“销售终端”(POS)；配置并管理 Dynamics 365 Commerce 呼叫中心；以及管理电子商务。'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 配置Dynamics 365 Commerce “指挥部”(20-25%)
+- 配置产品、价格、折扣、忠诚度及附属机构(20-25%)
+- 在 Dynamics 365 Commerce 中管理“销售终端”(POS)(15-20%)
+- 配置并管理 Dynamics 365 Commerce 呼叫中心(10-15%)
+- 管理电子商务(15-20%)
+roles:
+- functional-consultant
+products: 
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+exams:
+- uid: exam.mb-300
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-commerce
+resources:
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://aka.ms/TrainingCertDeck
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: 查看两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证考试支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 要求住宿
+  description: 了解更多关于申请考试住宿的信息。
+  href: ../request-accommodations.md
+- title: 考试原则和常见问题
+  description: 查看考试规则和常见问题。
+  href: ../certification-exam-policies.md
