@@ -1,0 +1,134 @@
+### YamlMime:Course
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
+metadata:
+  title: 'Course MB-910T00--A: Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
+  description: 'Course MB-910T00--A: Microsoft Certified: Dynamics 365 Fundamentals (CRM)'
+uid: course.mb-910t00
+courseNumber: 'MB-910T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Dynamics 365 Marketing 的能力和功能
+- skill: 描述 Dynamics 365 Sales 的能力和功能
+- skill: 描述 Dynamics 365 Customer Service 的能力和功能
+- skill: 描述 Dynamics 365 Field Service 的能力和功能
+- skill: 描述 Dynamics 365 Project Operations (CRM) 的能力和功能
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+summary: |-
+  本课程将为您提供 Dynamics 365 客户参与能力的广泛介绍。您将熟悉客户参与的概念和每个客户参与的应用程序，这些应用程序包括 Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, 以及 Dynamics 365 项目运作的客户关系管理 (CRM) 能力。本课程将包括讲座和操作实验室。
+
+  #### 视听众群体
+  在职业生涯中处于不同角色和不同阶段的人们可以从这门基础课程中受益。这个群体包括 IT 专业人员、业务利益相关者及其他希望接触 Dynamics 365 客户参与能力的人、学生、应届毕业生，以及希望借助 Dynamics 365 提升到下一层次的正在转行的那些人。
+prerequisitesSection: |-
+  学习者应该对客户参与原则和业务运作有着基本的了解。了解 cloud 计算是有帮助的，但并不是必需的。
+outlineSection: |-
+  ### 模块1&#58; 学习 Dynamics 365 Marketing 的基本原理
+  在钻研 Dynamics 365 Marketing 之前，本模块涵盖了客户参与的基本概念以及客户参与应用程序的共同点。我们从标准的营销业务流程以及“营销”如何处理这些流程开始。然后我们检查产品能力。最后，我们介绍其他市场营销应用程序，比如 LinkedIn Campaign Manager, Dynamics 365 Customer Voice 以及 Dynamics 365 Customer Insights.
+  #### 课程
+  - 介绍 Dynamics 365 客户参与应用程序
+  - 检查 Dynamics 365 Marketing
+  - 描述 Dynamics 365 Marketing 能力
+  - 查看其他营销应用程序
+
+  #### 实验室&#58; 使用客户参与应用程序
+  
+  #### 实验室&#58; 管理客户和活动
+  
+  #### 实验室&#58; 搜索并过滤数据
+  
+  #### 实验室&#58; Dynamics 365 Marketing Capstone Lab
+  - 创建营销电子邮件
+  - 在 Dynamics 365 Marketing 中创建细分市场
+  - 创建消费者旅程
+  
+  完成此模块后，学生们将能够&#58;
+  - 描述客户参与应用程序及其共同点
+  - 描述标准的营销流程以及 Dynamics 365 Marketing 如何处理它们
+  - 描述 Dynamics 365 Marketing 的特点和能力
+  - 描述更多的营销应用程序
+  
+  
+  ### 模块2&#58; 学习 Dynamics 365 Sales 的基本原理
+  本模块介绍了 Dynamics 365 Sales. 我们从标准的销售业务流程以及“销售”如何处理这些流程开始。然后我们检查产品能力。最后，我们介绍其他销售应用程序，比如 Sales Insights 和 Sales Navigator。
+  #### 课程
+  - 探索 Dynamics 365 Sales
+  - 借助 Dynamics 365 Sales 来管理销售生命周期
+  - 查看其他销售应用程序
+  
+  #### 实验室&#58; Dynamics 365 Sales Capstone Lab
+  - 创建并限定主管
+  - 管理销售机会
+  
+  完成此模块后，学生们将能够&#58;
+  - 描述标准的销售流程以及 Dynamics 365 Sales 如何处理这些流程
+  - 描述 Dynamics 365 Sales 能力
+  - 描述其他销售应用程序，比如 Sales Insights 和 Sales Navigator
+  
+  
+  ### 模块3&#58; 学习 Dynamics 365 Customer Service 的基本原理
+  本模块介绍了 Dynamics 365 Customer Service。我们从标准的客户服务业务流程以及“客户服务”如何处理这些流程开始。然后我们检查产品能力。最后，我们介绍其他的客户服务应用程序，比如 Omnichannel for Customer Service、Dynamics 365 Customer Service Insights、“客户服务调度”以及 “联系客户服务”。
+  #### 课程
+  - 检查 Dynamics 365 Customer Service
+  - 描述 Dynamics Customer Service 能力
+  - 查看其他客户服务应用程序
+  
+  #### 实验室&#58; Dynamics 365 Capstone Lab
+  - 创建并发布一篇知识文章
+  - 管理支持案例的整个生命周期
+  
+  完成此模块后，学生们将能够&#58;
+  - 描述标准的客户服务流程以及 Dynamics 365 Customer Service 如何处理这些流程
+  - 描述 Dynamics Customer Service 能力
+  - 描述其他销售应用程序，比如 Sales Insights 和 Sales Navigator
+  
+  
+  ### 模块4&#58; 学习 Dynamics 365 Field Service 的基本原理
+  本模块介绍了 Dynamics 365 Field Service。我们从标准的现场服务业务流程以及“现场服务”如何处理这些业务流程开始。然后我们检查产品能力，包括工作订单生成、调度、库存管理和资产管理。
+  #### 课程
+  - 检查 Dynamics Field Service
+  - 在 Dynamics 365 Field Service 中生成工作订单
+  - 描述 Dynamics 365 Field Service 的调度能力
+  - 检查 Dynamics 365 Field Service 的库存管理能力
+  - 查看 Dynamics 365 Field Service 的资产管理能力
+  
+  #### 实验室&#58; Dynamics 365 Capstone Lab
+  - 创建一个案例并升级到工作订单
+  - 借助 Dynamics 365 Field Service 来安排项目
+  
+  完成此模块后，学生们将能够&#58;
+  - 描述标准的现场服务业务流程以及 Dynamics 365 Field Service 如何处理这些流程
+  - 描述如何生成工作订单
+  - 描述 Dynamics 365 Field Service 的调度能力
+  - 描述 Dynamics 365 Field Service 的库存管理能力
+  - 描述 Dynamics 365 Field Service 的资产管理能力
+  
+  
+  ### 模块5&#58; 学习 Dynamics 365 Project Operations (CRM) 的基本原理
+  本模块介绍了 Dynamics 365 Project Operations 的客户参与方面。我们从标准的基于项目的业务流程以及“项目运营”如何处理这些业务流程开始。然后我们检查产品能力，包括销售、项目管理和资源利用。
+  #### 课程
+  - 检查 Dynamics 365 Project Operations
+  - 描述 Dynamics 365 Project Operations 的销售能力
+  - 利用 Dynamics 365 Project Operations 计划项目
+  - 审查 Dynamics 365 Project Operations 的资源利用能力
+  
+  #### 实验室&#58; Dynamics 365 Project Operations Capstone Lab
+  - 创建基于项目的主管
+  - 管理基于项目的机会
+  - 创建项目报价和项目估算
+  
+  完成此模块后，学生们将能够&#58;
+  - 描述 Dynamics 365 Project Operations 所处理的基于项目的客户参与过程
+  - 描述 Dynamics 365 Project Operations 的销售能力
+  - 描述 Dynamics 365 Project Operations 的项目管理能力
+  - 描述 Dynamics 365 Project Operations 的资源利用能力
+  
+  #### 课外阅读
+  请在 Microsoft Learn 上查看与本课程相关的内容。请注意，每个产品都有一个单独的学习路径。

@@ -1,0 +1,225 @@
+### YamlMime:Course
+title: Power Platform Solution Architect
+metadata:
+  title: 'Course PL-600T00--A: Power Platform Solution Architect'
+  description: 'Course PL-600T00--A: Power Platform Solution Architect'
+uid: course.pl-600t00
+courseNumber: 'PL-600T00'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- power-platform
+summary: |-
+  解决方案架构师负责顺利地设计、实现、部署和采用整体方案。解决方案架构师确保该解决方案满足客户当前和未来的需求。在本课程中，学生将了解解决方案架构师在实现过程中所做出的决定，包括安全性、集成、Power Apps体系结构、Power Automate体系结构等。本课程专门为您介绍解决方案架构师角色。
+
+  #### 受众人群
+  有意向成为解决方案架构师的高级顾问（同时包括职能型和技术型），或者新晋解决方案架构师。
+outlineSection: |-
+  ### 模块 1: 成为解决方案架构师/了解您的客户
+
+  #### 课程
+
+  *   定义解决方案架构师
+
+  *   解决方案架构师在项目中的角色
+
+  *   项目化教学法
+
+  *   了解您的客户
+
+  *   小组作业 - 了解您的客户
+
+  ### 模块 2: 根据需求形成设计概念
+
+  #### 课程
+
+  *   如何引导需求收集工作
+
+  *   采用适度差异分析
+
+  *   良好体系结构的支柱
+
+  *   规划解决方案体系结构
+
+  *   小组作业 - 基于需求进行设计。
+
+  ### 模块 3: 项目治理和团队合作
+
+  #### 课程
+
+  *   解决方案架构师在项目治理中的角色
+
+  *   保证项目正常运行的技巧
+
+  *   可能会导致项目失败的场景
+
+  *   小组作业 - 项目治理和团队合作
+
+  ### 模块 4: Power Platform Architecture
+
+  #### 课程
+
+  *   关键Power Platform体系结构组件
+
+  *   了解平台设计和限制如何影响解决方案体系结构。
+
+  *   更新和功能发布
+
+  *   了解如何就平台怎样满足客户需求进行沟通
+
+  ### 模块 5: 数据建模
+
+  #### 课程
+
+  *   数据模型的影响
+
+  *   数据模型策略
+
+  *   数据类型
+
+  *   数据关系
+
+  *   小组作业 - 数据建模
+
+  ### 模块 6: 分析法和人工智能
+
+  #### 课程
+
+  *   规划和评估需求
+
+  *   运行报告
+
+  *   Power BI
+
+  *   Enterprise BI
+
+  *   预先构建的洞察力并自定义AI
+
+  ### 模块 7: Power Apps Architecture
+
+  #### 课程
+
+  *   讨论应用程序的选项以及如何选择起点
+
+  *   讨论应用程序组合选项
+
+  *   将组件用作您应用程序体系结构的一部分。
+
+  *   将门户作为应用程序包含到您体系结构中的注意事项
+
+  *   小组作业 - Power Apps Architecture主题
+
+  ### 模块 8: 应用程序生命周期管理。（ALM）
+
+  #### 课程
+
+  *   Microsoft公司愿景以及解决方案架构师在 ALM中的角色
+
+  *   环境策略
+
+  *   为您的交付成果定义解决方案结构
+
+  #### 实验室: ALM上机实验
+
+  ####
+
+  ### 模块 9: Power Automate Architecture
+
+  #### 课程
+
+  *   讨论自动执行选项并自定义逻辑
+
+  *   查阅使用触发器和常见操作的注意事项
+
+  *   探索使用业务流程流(BPF)通过业务流程来指导用户。
+
+  *   小组作业 - 评估使用Power Automate的场景
+
+  ### 模块 10: 安全威胁建模
+
+  #### 课程
+
+  *   解决方案架构师在安全威胁建模中的角色
+
+  *   发现和了解您的客户端环境
+
+  *   控制对环境和资源的访问
+
+  *   控制对CDS数据的访问
+
+  *   小组作用 - 安全威胁建模
+
+  ### 模块 11: 集成
+
+  #### 课程
+
+  *   解决方案架构师在集成中的角色
+
+  *   什么是集成及我们需要集成的原因
+
+  *   启用集成的平台功能
+
+  *   CDS 事件发布
+
+  *   用于小组讨论的场景
+
+  ### 模块 12: Dynamics 365 Applications Architecture
+
+  #### 课程
+
+  *   解决方案架构师在部署 Dynamics 365应用程序时的角色
+
+  *   主应用程序的体系结构注意事项
+
+  *   小组作业 - 应用程序特定工作组评估需求
+
+  ### 模块 13: Power Virtual Agents 体系结构
+
+  #### 课程
+
+  *   简介
+
+  *   聊天机器人选项
+
+  *   聊天机器人选项
+
+  *   最佳做法
+
+  *   集成聊天机器人
+
+  *   Microsoft Teams中的Power Virtual Agents
+
+  ### 模块 14: 机器人流程自动化
+
+  #### 课程
+
+  *   简介
+
+  *   Power Automate Desktop
+
+  *   记录和编辑任务
+
+  *   运行桌面流
+
+  *   流程顾问（Process advisor）
+
+  ### 模块 15: 测试和上线
+
+  #### 课程
+
+  *   解决方案架构师在测试和上线时的角色
+
+  *   规划测试
+
+  *   规划上线
+
+  #### 课外阅读
+
+  https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

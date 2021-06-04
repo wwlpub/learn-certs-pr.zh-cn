@@ -91,7 +91,6 @@ outlineSection: |+
   - 规划和实现Storage Replica
 
   #### 实验室&#58; 实现直接存储空间群集
-  - 通过Windows Admin Center实现直接存储空间
   - 通过Windows PowerShell实现直接存储空间
   - 通过Windows Admin Center和Windows PowerShell来管理直接存储空间群集
   - 管理和监视直接存储空间群集的弹性

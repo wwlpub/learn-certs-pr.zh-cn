@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: Querying Data with Microsoft Transact-SQL
+metadata:
+  title: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+  description: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+uid: course.dp-080T00
+courseNumber: 'DP-080T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用SQL服务器查询工具
+- skill: 编写SELECT语句以检索一个或多个表格中的列。
+- skill: 选定数据的排序和筛选
+- skill: 使用内置函数返回数据值
+- skill: 创建数据组并得出聚合结果
+- skill: 用Transact-SQL通过使用INSERT、UPDATE、DELETE 和MERGE来修改数据
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- database-administrator
+products:
+- azure
+summary: |-
+  本课程将介绍标准SQL语言的Microsoft方言基础知识&#58; Transact-SQL。主题包括在基于Microsoft SQL Server的数据库系统所托管的关系数据库中查询和修改数据，包括&#58; Microsoft SQL Server、Azure SQL Database和Azure Synapse Analytics。
+
+  #### 受众人群
+  本课程对于任何需要撰写基本SQL或 Transact-SQL查询的人员都具有价值。包括使用数据的任何人，如数据分析师、数据工程师、数据科学家、数据库管理员或数据库开发人员。本课对其他间接使用数据或需要了解更多数据使用信息的人员也很有用，如解决方案架构师、学生和技术主管。
+outlineSection: |-
+  ### 模块 1&#58; 从Transact-SQL开始
+  在本模块中您将了解到Transact-SQL (T-SQL)语言的基础知识以及关系数据库的一般属性和术语。本模块将介绍用于检索表格数据的基本SELECT语句。
+  #### 课程
+  - Transact-SQL简介
+  - 使用SELECT语句
+
+  #### 实验室 &#58; 从SQL服务器查询工具开始并用T-SQL撰写查询
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用查询工具以用Transact-SQL撰写和执行查询
+  - 了解关系数据库基本概念及T-SQL 语言
+  - 撰写SELECT语句以检索关系数据库表格中的数据
+  - 了解基本数据类型及其使用方法
+  - 了解NULL值的基础知识
+  
+  
+  ### 模块 2&#58; 查询结果排序和筛选
+  在本模块中，您将学习如何控制返回哪些数据以及返回顺序。
+
+  您将使用ORDER BY子句，分页或不分页。您将了解可用于WHERE子句中以控制返回哪些数据行的各种筛选程序。您还将学习如何通过用DISTINCT删除重复项来管理结果。
+  #### 课程
+  - 查询结果排序
+  - 数据筛选
+  
+  #### 实验室 &#58; SELECT 查询返回数据的排序和筛选
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用 ORDER BY对 T-SQL SELECT语句的结果进行排序
+  - 添加TOP子句来限制返回的命令行
+  - 用OFFSET-FET给已排序数据分页
+  - 撰写WHERE子句以筛选返回行
+  - 使用DISTINCT以消除结果中的重复行
+  
+  
+  ### 模块 3&#58; 使用连接和子查询
+  在本模块中，您将探索 T-SQL查询，其用各种JOIN操作和简单的子查询访问多个表格中的数据。
+  #### 课程
+  - 使用JOIN操作
+  - 使用子查询
+  
+  #### 实验室 &#58; 用JOIN操作撰写查询
+  
+  #### 实验室 &#58; 用子查询撰写SELECT语句
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用JOIN操作来撰写访问多个表格数据的查询
+  - 了解各种JOIN操作&#58之间的差异；INNER JOIN、OUTER JOIN、CROSS JOIN
+  - 了解如何用自连接将表格连接到表本身。
+  - 在SELECT语句内撰写子查询。
+  - 了解标量子查询和多值子查询之间的差异
+  - 了解相关子查询和独立子查询之间的差异
+  
+  
+  ### 模块 4&#58; 使用内置函数
+  在本模块中，您将探索将内置函数用于返回SELECT列表中或WHERE子句中的计算值或特殊值。函数包括数学函数、字符串函数和系统函数。还会提到其他类型的函数，但不会详细讨论。您还将学习如何将数据行合并到单个组中，为该组提供汇总信息，如SUM、MIN或MAX。
+  #### 课程
+  - 从标量函数开始
+  - 聚合结果分组
+  
+  #### 实验室 &#58; 内置函数
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用标量函数撰写查询
+  - 使用聚合函数撰写查询
+  - 根据公共列值使用GROUP BY将数据合并到组
+  - 了解如何使用HAVING筛选行组
+  
+  
+  ### 模块 5&#58; 修改数据
+  在本模块中您将学习用于表格数据的T-SQL语句，包括UPDATE、DELETE和MERGE以及各种用于INSERT的选项，包括用现有表格中的数据来创建新的表格。您还将了解到如何让系统在插入数据时自动为列提供值。
+  #### 课程
+  - 将数据插入表格
+  - 修改和删除数据
+  
+  #### 实验室 &#58; 修改数据
+  
+  完成本模块学习后，学生将能&#58; 
+  - 将数据插入现有表格
+  - 指定应使用IDENTITY或SEQUENCE值自动填充列
+  - 使用UPDATE语句修改数据
+  - 使用DELETE语句删除数据
+  - 使用MERGE修改数据以同步两个表格
+

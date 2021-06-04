@@ -6,19 +6,17 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div>
-  <div><strong>本次考试的内容将于2021年1月27日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考试的内容将于2021年5月25日进行更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
 
   参加该考试的考生应具有与人员，流程和技术一起工作的主题专业知识，以不断交付业务价值。
 
   担任此角色的职责包括设计和实施协作、代码、基础结构、源代码控制、安全性、合规性、持续整合、测试、交付、监视和反馈的策略。
 
   他们必须熟悉 Azure 管理和 Azure 开发，并且至少精通其中一个领域。
-subTitle: '这项考试衡量您完成以下技术任务的能力：制定规范策略；制定站点可靠性工程(SRE)策略；制定安全和合规计划；管理源代码控制；促进沟通与协作；定义并实施持续整合；并定义并实施持续的交付和发布管理策略。'
+subTitle: '这项考试衡量您完成以下技术任务的能力:制定规范策略；制定站点可靠性工程(SRE)策略；制定安全和合规计划；管理源代码控制；促进沟通与协作；定义并实施持续整合；并定义并实施持续的交付和发布管理策略。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
@@ -28,7 +26,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容将于2021年1月27日更新。请下载下面的考试技能大纲，看看将会改变什么。
+- 本次考试的内容将于2021年5月25日进行更新。请下载下面的考试技巧大纲，看看将有何变化。
 - 制定规范策略 (5-10%)
 - 制定站点可靠性设计(SRE)策略 (5-10%)
 - 制定安全和合规计划 (10-15%)
@@ -62,10 +60,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

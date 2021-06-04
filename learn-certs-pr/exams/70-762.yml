@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-762
 displayName: 70-762
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试面向跨组织构建和实施数据库并确保高级别数据可用性的数据库专业人员。其职责包括创建数据库文件、数据类型和表格；规划、创建和优化索引；确保数据完整性；实施视图、存储过程和函数；以及管理事务和锁。
 subTitle: 本考试面向跨组织构建和实施数据库并确保高级别数据可用性的数据库专业人员。其职责包括创建数据库文件、数据类型和表格；规划、创建和优化索引；确保数据完整性；实施视图、存储过程和函数；以及管理事务和锁。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXU
 practiceTestUrl: https://www.mindhub.com/70-762-Developing-SQL-Databases-p/mu-70-762_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=762&examname=Developing%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-762
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - 实施可编程性对象 (20–25%)
 - 管理数据库并发性 (25–30%)
 - 优化数据库对象和 SQL 基础结构 (20–25%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

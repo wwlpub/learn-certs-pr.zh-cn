@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Microsoft Security, Compliance, and Identity Fundamentals
+metadata:
+  title: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+uid: course.sc-900t00
+courseNumber: 'SC-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 说明安全性、合规性和身份的基本概念。
+- skill: 说明Microsoft身份和权限管理解决方案的概念和功能。
+- skill: 说明Microsoft安全解决方案的功能。
+- skill: 说明Microsoft中的合规管理功能。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- student
+products:
+- m365
+exams:
+- uid: exam.sc-900
+summary: |-
+  本课程提供关于安全性、合规性和身份概念的基础阶段知识及相关的基于cloud的Microsoft解决方案。
+
+  #### 受众人群
+  本课程的听众希望自己能熟悉贯穿基于cloud的及相关Microsoft服务中的安全性、合规性和身份（SCI）基础知识。本课程的内容与SC-900 考试的目标领域一致。 申请人应熟悉Microsoft Azure 和Microsoft 365并了解Microsoft安全性、合规性和身份解决方案如何能跨越此类解决方案领域提供整体的端到端解决方案。
+prerequisitesSection: |-
+  参加本课程之前，学生必须&#58; 
+  - 大致了解网络和cloud计算概念。
+  - 具备一般的IT知识或一般的IT环境工作经验。
+  - 大致了解Microsoft Azure和Microsoft 365。
+outlineSection: |-
+  ### 模块 1&#58; 说明安全性、合规性和身份的基本概念。
+  了解安全性，合规性和身份解决方案，基本的核心概念原理和方法，包括零信任、责任分担、我们的隐私原则等等。
+  #### 课程
+  - 说明安全性概念和方法。
+  - 说明Microsoft全性和合规性原则。
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明安全性概念和方法。
+  - 探索服务信任门户。
+  - 知道去哪里寻找和查看Azure合规性文档。
+  
+  
+  ### 模块 2&#58; 说明Microsoft身份和访问管理解决方案的概念和功能
+  了解Azure AD服务和身份主体、安全验证、访问管理功能以及身份保护和治理。
+  #### 课程
+  - 说明身份概念
+  - 说明Azure AD的基本服务和身份类型
+  - 说明Azure AD的身份验证功能
+  - 说明Azure AD的访问管理功能
+  - 说明Azure AD的身份保护和治理功能
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明基本的身份概念。
+  - 说明Azure AD的基本服务和身份类型
+  - 说明 Azure AD的身份验证功能。
+  - 说明Azure AD的访问管理功能。
+  - 说明Azure AD的身份保护和治理功能
+  
+  
+  ### 模块 3&#58; 说明Microsoft安全性解决方案的功能
+  了解Microsoft中的安全性功能涉及的主题将包括Azure的网络和平台功能、 Azure安全管理和Sentinel。您将了解使用Microsoft 365 Defender和Microsoft 365安全管理进行威胁防护，您将探索用Intune进行端点保护。
+  #### 课程
+  - 说明Azure中的基本安全功能
+  - 说明Azure的安全管理功能
+  - 说明Azure Sentinel的安全功能
+  - 说明Microsoft 365的威胁防护功能
+  - 说明Microsoft 365的安全管理功能
+  - 说明使用 Microsoft Intune的端点安全性
+  - 模块小结
+  
+  完成本模块学习后，学生将能&#58;
+  - 说明Azure中的基本安全功能。
+  - 说明Azure的安全管理功能。
+  - 说明Azure Sentinel的安全功能。
+  - 说明Microsoft 365的威胁防护功能。
+  - 说明Microsoft 365的安全管理功能。
+  - 说明使用 Microsoft Intune的端点安全性。
+  
+  
+  ### 模块 4&#58; 说明Microsoft合规性解决方案的功能
+  了解Microsoft中的合规性解决方案。涉及的主题包括合规中心、Microsoft 365中的信息保护和治理、内部风险、审计和eDiscovery解决方案。。还涉及Azure资源治理功能。
+  #### 课程
+  - 说明Microsoft中的合规管理功能
+  - 说明Microsoft 365的信息保护和智力功能
+  - 说明Microsoft 365中的内部风险功能
+  - 说明Microsoft 365的eDiscovery功能
+  - 说明Microsoft 365的审计功能
+  - 说明Azure中的资源治理功能
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明Microsoft中的合规管理功能。
+  - 说明Microsoft 365的信息保护和治理功能。
+  - 说明Microsoft 365中的内部风险功能。
+  - 说明Microsoft 365的eDiscovery功能。
+  - 说明Microsoft 365的审计功能。
+  - 说明Azure中的资源治理功能。

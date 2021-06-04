@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-388
 displayName: 98-388
 summary: |-
+  <div><font color='red'><strong>本次 MTA 考试必须在2021年6月30日前购买。如果您目前正在学习这门考试，那么您必须在一年内，即2022年6月30日之前参加考试，因为到那时它就会失效。请参阅<a href="/learn/certifications/mta-retirement-faqs">这个 FAQ</a> 以获取更多详情。</strong></font></br></br></div>
+
   本考试的考生是使用 Java 6 SE 或更高版本的应用程序开发人员，软件开发人员的中学和大专学生，或入门级软件开发人员。
 
   考生应具有至少 150 小时或者具有 Java 指导或实际操作经验，熟悉 Java 的特性和功能，并且懂得如何编写、调试和维护格式良好，有文档的 Java 代码。
@@ -36,6 +38,7 @@ skills:
 - 实施流量控制(15-20%)
 - 执行面向对象的编程(10-15%)
 - 编译和调试代码(5-10%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

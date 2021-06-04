@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
-  <div>
-  <div><strong>本次考试的内容将于2021年1月27日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考试的内容将于2021年5月25日进行更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
 
   参加该考试的考生应具有设计和实施可在 Microsoft Azure 上运行的解决方案的主题专业知识，包括计算、网络、存储和安全性等方面。候选人应具备管理 Azure 的中级技能。候选人应了解 Azure 开发和 DevOps 流程。
 
@@ -30,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容将于2021年1月27日更新。请下载下面的考试技能大纲，看看将会改变什么。
+- 本次考试的内容将于2021年5月25日进行更新。请下载下面的考试技巧大纲，看看将有何变化。
 - 实施和监控 Azure 基础结构 (50-55%)
 - 实施管理和保护解决方案 (25-30%)
 - 为应用程序实施解决方案 (10-15%)
@@ -63,10 +61,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

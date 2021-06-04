@@ -1,0 +1,352 @@
+### YamlMime:Course
+title: Data Engineering on Microsoft Azure
+metadata:
+  title: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
+  description: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
+  iltScheduling: true
+uid: course.dp-203t00
+courseNumber: 'DP-203T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 探索Azure中数据工程工作负载的计算和存储选项
+- skill: 设计和实现服务层
+- skill: 了解数据工程的注意事项
+- skill: 使用无服务器SQL池运行交互式查询
+- skill: 使用Apache Spark探索、转换数据，并将其加载到数据仓库中
+- skill: 在Azure Databricks中进行数据探索和转换
+- skill: 摄取数据并将其加载到数据仓库中
+- skill: 使用Azure Data Factory或 Azure Synapse Pipelines转换数据
+- skill: 使用Azure Data Factory 或Azure Synapse Pipelines集成笔记本的数据
+- skill: 使用Azure Synapse中的专用SQL池优化查询性能
+- skill: 分析和优化数据仓库存储
+- skill: 使用Azure Synapse Link支持混合事务分析处理（HTAP）
+- skill: 使用Azure Synapse Analytics实现端到端安全性
+- skill: 使用Stream Analytics执行实时流处理
+- skill: 使用Event Hubs和Azure Databricks创建流处理解决方案
+- skill: 使用与Azure Synapse Analytics集成的Power BI构建报表
+- skill: 在Azure Synapse Analytics中执行集成的机器学习过程
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure-data-factory
+- azure-synapse-analytics
+- azure-stream-analytics
+- azure-event-hubs
+- azure-data-lake
+- azure-databricks
+exams:
+- uid: exam.dp-203
+summary: |-
+  在本课中，学生将了解数据工程模式和实践，因为这涉及使用Azure数据平台技术处理批量和实时分析解决方案。学生将从了解用于构建分析性解决方案的核心计算和存储技术开始。随后，他们将探讨如何设计分析服务层并重点关注使用源文件的数据工程注意事项。学生将学习如何交互式地探索数据湖文件中存储的数据。他们还将学习可用于使用Azure Synapse Analytics或Azure Databricks中发现的Apache Spark 功能加载数据的各种摄取技术， 或如何 使用Azure Data Factory或Azure Synapse 管道进行摄取。学生还将学习使用与摄取数据相同的技术来转换数据的各种方法。学生将花时间在课上学习如何监控和分析分析系统的性能，以便能优化数据加载性能或针对系统发出的查询。他们将了解实现安全性以确保静止状态或传输中的数据受到保护的重要性。然后学生将展示如何使用分析系统中的数据来创建展示板，或在Azure Synapse Analytics中构建预测模型。
+
+  #### 受众人群
+  本课程的主要受众是希望了解数据工程和使用Microsoft Azure上现有的数据平台技术构建分析解决方案的数据专业人员、数据架构师和商业情报专业人员。本课程的次要受众是使用基于Microsoft Azure构见的分析解决方案的数据分析师和数据科学家。
+prerequisitesSection: |-
+  成功完成课程学习的学生在开始学习时已具备cloud计算和核心数据概念以及数据解决方案的工作经验。
+  
+  具体完成&#58;
+  
+  - AZ-900 - Azure Fundamentals
+  - DP-900 - Microsoft Azure Data Fundamentals
+outlineSection: |-
+  ### 模块 1&#58; 探索数据工程工作负载的计算和存储选项
+  本模块概述了构建分析工作负载的数据工程师可用的Azure计算和存储技术选项。本模块介绍了构建数据湖的方法以及用于探索、流处理和批处理工作负载的文件优化方法。学生将学习如何将数据湖组织为各级数据细化，因为他们将通过批处理和流处理转换文件。然后，他们将学习如何在数据集上创建指标，如CSV、JSON,和Parquet文件，以及如何将指标用于潜在的查询和工作负载加速。
+  #### 课程
+  - Azure Synapse Analytics简介
+  - 说明Azure Databricks
+  - Azure Data Lake存储介绍
+  - 说明Delta Lake体系结构
+  - 使用Azure Stream Analytics处理数据流
+
+  #### 实验室 &#58; 探索用于数据工程工作负载的计算和存储选项
+  - 将流处理和批处理与单一管道进行组合
+  - 数据湖组织为各级文件转换
+  - 索引用于查询和工作负载加速的数据库存储
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明Azure Synapse Analytics
+  - 说明Azure Databricks
+  - 说明Azure Data Lake存储
+  - 说明Delta Lake体系结构
+  - 说明Azure Stream Analytics
+  
+  
+  ### 模块 2&#58; 设计和实现服务层
+  本模块介绍了如何在现代数据仓库中设计和实现数据存储以优化分析工作负载。学生将学习如何设计一个多维模式来存储事实和维度数据。然后学生将学习如何通过来自 Azure Data Factory的增量数据加载来填充缓慢变化维度。
+  #### 课程
+  - 设计一个多维模式来优化分析工作负载
+  - 使用Azure Data Factory进行大规模的无代码转换
+  - 在Azure Synapse Analytics管道中填充缓慢变化维度
+  
+  #### 实验室 &#58; 设计和实现服务层
+  - 设计用于分析工作负载的星型模式
+  - 使用Azure Data Factory和映射数据流来填充缓慢变化维度
+  
+  完成本模块学习后，学生将能&#58; 
+  - 设计用于分析工作负载的星型模式
+  - 使用Azure Data Factory和映射数据流来填充缓慢变化维度
+  
+  
+  ### 模块 3&#58; 源文件的数据工程注意事项
+  本模块探讨了从Azure Data Lake所储存的文件加载数据到现代数据仓库分析时常见的数据工程注意事项，以及对数据湖中存储的存储文件相关安全注意事项的理解。
+  #### 课程
+  - 使用Azure Synapse Analytics设计现代数据仓库
+  - 保护Azure Synapse Analytics中的数据仓库
+  
+  #### 实验室 &#58; 数据工程注意事项
+  - 管理Azure数据湖中的文件
+  - 保护Azure数据湖中存储的文件
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用Azure Synapse Analytics来设计现代数据仓库
+  - 保护Azure Synapse Analytics中的数据仓库
+  
+  
+  ### 模块 4&#58; 使用Azure Synapse Analytics无服务器SQL池来运行交互式查询
+  在本模块中，学生将学习如何通过由Azure Synapse Analytics中的无服务器SQL池执行的 T-SQL语句来使用数据湖中存储的文件和外部文件源。学生将查询存储于数据糊中的Parquet文件以及存储于外部数据存储区的CSV文件。接下来，他们将创建Azure Active Directory 安全组，并通过基于角色的访问控制（RBAC）和访问控制列表（ACL）来强制访问数据湖里的文件。
+  #### 课程
+  - 探索Azure Synapse无服务器SQL池功能
+  - 使用Azure Synapse无服务器SQL池来查询数据湖里的数据
+  - 在Azure Synapse无服务器SQL池中创建元数据对象
+  - 保护Azure Synapse无服务器SQL池中的数据并管理其用户
+  
+  #### 实验室 &#58; 使用无服务器SQL池来运行交互式查询
+  - 使用无服务器SQL池来查询Parquet数据
+  - 创建用于Parquet和CSV文件的外部表格
+  - 使用无服务器SQL池来创建视图
+  - 使用无服务器SQL池时，保护对数据湖中数据的访问
+  - 使用基于角色的访问控制（RBAC）和访问控制列表来配置数据湖安全性
+  
+  完成本模块学习后，学生将能&#58; 
+  - 了解Azure Synapse无服务器SQL池功能
+  - 使用Azure Synapse无服务器SQL池查询数据湖中的数据
+  - 在Azure Synapse无服务器SQL池中创建元数据对象
+  - 保护Azure Synapse无服务器SQL池中的数据并管理其用户
+  
+  
+  ### 模块 5&#58; 使用Apache Spark来探索、转换数据，并将数据加载到数据仓库中。
+  本模块介绍了如何探索数据壶中存储的数据转换数据，并将数据加载到关系数据存储区。学生将探索Parquet和JSON文件并使用技术来查询和转换具有层次结构的JSON文件。然后，学生将使用Apache Spark 将数据加载到数据仓库并将数据湖中的Parquet数据与专用SQL池中的数据进行连接。
+  #### 课程
+  - 了解使用Azure Synapse Analytics中的Apache Spark的大数据工程
+  - 使用Azure Synapse Analytics中的Apache Spark笔记本摄取数据
+  - 使用Azure Synapse Analytics中的Apache Spark Pools中的DataFrames转换数据
+  - 集成Azure Synapse Analytics中的SQL和Apache Spark池
+  
+  #### 实验室 &#58; 使用Apache Spark探索、转换数据，并将数据加载到数据仓库
+  - 在Synapse Studio中执行数据探索
+  - 使用Azure Synapse Analytics中的Spark笔记本摄取数据
+  - 使用Azure Synapse Analytics中的Spark池中的DataFrames来转换数据
+  - 集成Azure Synapse Analytics中的SQL和Spark池
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明使用Azure Synapse Analytics中的Apache Spark的大数据工程
+  - 使用Azure Synapse Analytics中的Apache Spark笔记本摄取数据
+  - 使用Azure Synapse Analytics中的Apache Spark池中的DataFrames转换数据
+  - 集成Azure Synapse Analytics 中的SQL和Apache Spark池
+  
+
+  ### 模块 6&#58; Azure Databricks中的数据探索和转换
+  本模块介绍了如何使用各种Apache Spark DataFrame方法来探索和转换Azure Databricks中的数据。学生将学习如何执行标准的DataFrame方法来探索和转换数据。他们还将学习如何执行更高级的任务，如删除重复数据、操作日期/时间值、重命名列及聚合数据。
+  #### 课程
+  - 说明 Azure Databricks
+  - 在Azure Databricks中读写数据
+  - 在Azure Databricks中使用DataFrames
+  - 在Azure Databricks中使用DataFrames高级方法
+  
+  #### 实验室 &#58; Azure Databricks中的数据探索和转换
+  - 在Azure Databricks中使用DataFrames来探索和筛选数据
+  - 缓存DataFrame加快后续查询速度
+  - 删除重复数据
+  - 操作日期/时间值
+  - 删除和重命名DataFrame列
+  - 聚集存储于DataFrame中的数据
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明Azure Databricks
+  - 在Azure Databricks中读写数据
+  - 在Azure Databricks中使用DataFrames
+  - 在Azure Databricks中使用DataFrames高级方法
+  
+  
+  ### 模块 7&#58; 摄取数据并将其载入数据仓库
+  本模块教学生如何通过T-SQL脚本和Synapse Analytics集成管道将数据摄取到数据仓库中。学生将学习如何使用T-SQL通过PolyBase和COPY将数据载入Synapse专用SQL池。学生还将学习如何使用Azure Synapse管道中的工作负载管理以及Copy活动进行PB级数据摄取。
+  #### 课程
+  - 使用Azure Synapse Analytics中的数据加载最佳做法
+  - 使用Azure Data Factory进行PB级摄取
+  
+  #### 实验室 &#58; 摄取数据并将其载入数据仓库
+  - 使用Azure Synapse Pipelines进行PB级摄取
+  - 使用T-SQL通过PolyBase和COPY导入数据
+  - 使用Azure Synapse Analytics中的数据加载最佳做法
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用Azure Synapse Analytics中的数据加载最佳做法
+  - 使用Azure Data Factory进行PB级摄取
+  
+  
+  ### 模块 8&#58; 使用Azure Data Factory或Azure Synapse Pipelines转换数据
+  本模块教学生如何构建数据集成管道，以摄取来自多个数据源的数据，使用映射数据流转换数据，并将数据移动到一个或多个数据接收器中。
+  #### 课程
+  - 使用Azure Data Factory或Azure Synapse Pipelines集成数据
+  - 使用Azure Data Factory 或Azure Synapse Pipelines进行大规模无代码转换
+  
+  #### 实验室 &#58; 使用Azure Data Factory或Azure Synapse Pipelines转换数据
+  - 使用Azure Synapse Pipelines执行大规模无代码转换
+  - 创建数据管道以导入格式不正确的CSV文件
+  - 创建映射数据流
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用Azure Data Factory执行数据集成
+  - 使用Azure Data Factory执行大规模无代码转换
+  
+  
+  ### 模块 9&#58; 在Azure Synapse Pipelines中编排数据移动和转换
+  在本模块中，您将学习如何创建链接服务以及使用笔记本在Azure Synapse Pipelines中编排数据移动和转换。
+  #### 课程
+  - 在Azure Data Factory中编排数据移动和转换
+  
+  #### 实验室 &#58; 在Azure Synapse Pipelines中编排数据移动和转换
+  - 使用Azure Data Factory或Azure Synapse Pipelines集成来自笔记本的数据
+  
+  完成本模块学习后，学生将能&#58; 
+  - 在Azure Synapse Pipelines中编排数据移动和转换
+  
+  
+  ### 模块 10&#58; 使用Azure Synapse中的专用SQL池来优化查询性能
+  在本模块中，学生将学习使用Azure Synapse Analytics中的专用SQL池时的数据存储和处理优化策略。学生将了解如何使用开发者功能，如开窗和HyperLogLog功能，采用数据加载最佳做法以及优化和提高查询性能。
+  #### 课程
+  - 优化Azure Synapse Analytics中的数据仓库查询性能
+  - 了解Azure Synapse Analytics的数据仓库开发者功能
+  
+  #### 实验室 &#58; 使用Azure Synapse中的专用SQL池优化查询性能
+  - 了解Azure Synapse Analytics的开发者功能
+  - 优化Azure Synapse Analytics中的数据仓库查询性能
+  - 提高查询性能
+  
+  完成本模块学习后，学生将能&#58; 
+  - 优化Azure Synapse Analytics中的数据仓库查询性能
+  - 了解Azure Synapse Analytics的数据仓库开发者功能
+  
+  
+  ### 模块 11&#58; 分析和优化数据仓库存储
+  在本模块中，学生将学习如何先分析再优化Azure Synapse专用SQL池的数据存储。学生将了解技术以了解表空间的使用和列存储的存储详情。接下来，学生将了解如何比较使用不同数据类型的相同表格之间的存储需求。最后，学生将观察物化视图在替代复杂查询时产生的影响，并学习如何通过优化删除操作来避免产生大量日志记录。
+  #### 课程
+  - 分析和优化Azure Synapse Analytics中的数据仓库存储
+  
+  #### 实验室 &#58; 分析和优化数据仓库存储
+  - 查看偏斜数据和空间使用情况
+  - 了解列存储的存储详情
+  - 研究物化视图的影响
+  - 探索最小化日志记录操作规则
+  
+  完成本模块学习后，学生将能&#58; 
+  - 分析和优化Azure Synapse Analytics中的数据仓库存储
+  
+  
+  ### 模块 12&#58; 使用Azure Synapse Link支持Hybrid Transactional Analytical Processing (HTAP)
+  在本模块中，学生将了解Azure Synapse Link如何使Azure Cosmos DB账户无缝连接到Synapse工作区。学生将了解如何启用和配置Synapse链接，然后了解如何使用Apache Spark和无服务器SQL来查询Azure Cosmos DB分析存储。
+  #### 课程
+  - 使用Azure Synapse Analytics设计混合事物和分析处理
+  - 使用Azure Cosmos DB配置Azure Synapse Link
+  - 使用Apache Spark池查询Azure Cosmos DB
+  - 使用无服务器SQL池查询Azure Cosmos DB
+  
+  #### 实验室 &#58; Support 使用Azure Synapse Link支持Hybrid Transactional Analytical Processing (HTAP)
+  - 使用 Azure Cosmos DB配置Azure Synapse Link
+  - 使用Apache Spark for Synapse Analytics查询Azure Cosmos DB 
+  - 使用Azure Synapse Analytics中的无服务器SQL池查询Azure Cosmos DB
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用Azure Synapse Analytics设计混合事物和分析处理
+  - 使用Azure Cosmos DB配置Azure Synapse Link
+  - 使用Apache Spark for Azure Synapse Analytics查询Azure Cosmos DB
+  - 使用Azure Synapse Analytics中的无服务器SQL查询Azure Cosmos DB
+  
+  
+  ### 模块 13&#58; 使用Azure Synapse Analytics实现端到端安全性
+  在本模块中，学生将学习如何保护Synapse Analytics工作区及其支持基础设施。学生将观察SQL Active Directory Admin，管理IP防火墙规则，用Azure Key Vault管理机密，并通过Key Vault链接服务和管道活动访问此类机密。学生将了解如何在使用专用SQL池时实现列级安全性、行级安全性和动态数据屏蔽。
+  #### 课程
+  - 保护Azure Synapse Analytics中的数据仓库
+  - 配置和管理Azure Key Vault中的机密
+  - 对敏感数据进行合规性控制。
+  
+  #### 实验室 &#58; 使用Azure Synapse Analytics实现端到端安全性
+  - 保护Azure Synapse Analytics支持基础设施
+  - 保护Azure Synapse Analytics工作区和托管服务
+  - 保护Azure Synapse Analytics工作区数据
+  
+  完成本模块学习后，学生将能&#58; 
+  - 保护Azure Synapse Analytics中的数据仓库
+  - 配置和管理Azure Key Vault中的机密
+  - 对敏感数据进行合规性控制
+  
+  
+  ### 模块 14&#58; 使用 Stream Analytics实现实时流处理
+  在本模块中，学生将学习如何使用Azure Stream Analytics处理流数据。学生将把车辆遥测数据设取至Event Hubs，然后使用Azure Stream Analytics中的各种窗口函数实时处理这些数据。他们将把数据输出至Azure Synapse Analytics。最后，学生将学习如何扩展流分析作业以增加吞吐量。
+  #### 课程
+  - 使用Azure Event Hubs启用Big Data应用程序的可靠消息传递
+  - 使用Azure Stream Analytics处理数据流
+  - 使用Azure Stream Analytics摄取数据流
+  
+  #### 实验室 &#58; 使用 Stream Analytics实现实时流处理
+  - 使用Stream Analytics来处理来自Event Hubs的实时数据
+  - 使用Stream Analytics窗口函数来构建向Synapse Analytics的聚合和输出
+  - 扩展Azure Stream Analytics作业，通过分区增加吞吐量
+  - 重新分区流输入以优化并行化
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用Azure Event Hubs来启用Big Data应用程序的可靠消息传递
+  - 使用Azure Stream Analytics处理数据流
+  - 使用Azure Stream Analytics摄取数据流
+  
+  
+  ### 模块 15&#58; 使用Event Hubs 和Azure Databricks创建流处理解决方案
+  在本模块中，学生将学习如何使用Azure Databricks中的Event Hubs和Spark结构化流来大规模摄取和处理流数据。学生将学习结构化流的主要功能和使用。学生将实现滑动窗口以聚合数据块并应用水印以删除过期数据。最后，学生将连接到Event Hubs以读写流。
+  #### 课程
+  - 使用Azure Databricks结构化流来处理流数据
+  
+  #### 实验室 &#58; 使用Event Hubs 和Azure Databricks来创建流处理解决方案
+  - 探索结构化瘤的主要功能和使用
+  - 将文件中的数据流化并将其写入分布式文件系统
+  - 使用滑动窗口来聚合数据块而非所有数据
+  - 应用水印以删除过期数据
+  - 连接到Event Hubs以读写流
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用Azure Databricks结构化流来处理流数据
+  
+  
+  ### 模块 16&#58; 通过使用与Azure Synapse Analytics集成的Power BI 来构建报表
+  在本模块中，学生将学习如何集成Power BI及其Synapse工作区以在 Power BI中构建报表。学生将在Synapse Studio中创建新的数据源和 Power BI报表。然后，学生将学习如何使用物化视图和结果集缓存来提高查询性能。最后，学生将使用无服务器SQL池来探索数据湖并在Power BI中针对该数据创建可视化。
+  #### 课程
+  - 使用 Power BI通过其与Azure Synapse Analytics的集成来创建报表
+  
+  #### 实验室 &#58; 通过使用与Azure Synapse Analytics集成的Power BI来构建报表
+  - 集成Azure Synapse工作区和Power BI
+  - 优化与Power BI的集成
+  - 使用物化视图和结果集缓存来提高查询性能
+  - 使用无服务器SQL使数据可视化并创建Power BI报表
+  
+  完成本模块学习后，学生将能&#58; 
+  - 使用 Power BI通过其与Azure Synapse Analytics的集成来创建报表
+  
+  
+  ### 模块 17&#58; 在Azure Synapse Analytics中实现集成的Machine Learning过程
+  本模块探讨了Azure Synapse Analytics中集成的端对端Azure Machine Learning和Azure Cognitive Services体验。您将学习如何使用链接服务将Azure Synapse Analytics工作区连接至 Azure Machine Learning 工作区，再触发使用Spark表数据的自动化ML实验。您还将学习如何使用来自Azure Machine Learning或Azure Cognitive Services的训练模型，以丰富SQL池表中的数据，然后使用Power BI提供预测结果。
+  #### 课程
+  - 使用Azure Synapse Analytics中的集成机器学习过程
+  
+  #### 实验室 &#58; 在Azure Synapse Analytics中实现集成Machine Learning过程
+  - 创建Azure Machine Learning链接服务
+  - 使用Spark表的数据来触发Auto ML实验
+  - 使用训练模型来丰富数据
+  - 使用Power BI来提供预测结果
+
+  完成本模块学习后，学生将能&#58; 
+  - 使用Azure Synapse Analytics中的集成机器学习过程

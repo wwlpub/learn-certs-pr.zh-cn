@@ -7,8 +7,7 @@ uid: exam.ms-900
 displayName: MS-900
 summary: |-
   <div>
-  <div><strong>此考试的内容于 2020 年 7 月 8 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
-  </div>
+  <font color='red'><strong>本次考试的内容于2021年4月23日进行了更新。请下载下面的技能测试文档，看看有何变化。</strong></font><br/><br/></div>
 
   此考试面向希望证明自己在采用云服务时应考虑因素和优势以及软件即服务(SaaS)云模型方面具有基础知识的考生。考生应了解通过实施Microsoft 365云服务产品获得的可用选项和好处。
 
@@ -20,7 +19,7 @@ summary: |-
 subTitle: 证明您了解云概念;核心 Microsoft 365 服务和概念；Microsoft 365中的安全性、合规性、隐私和信任；以及 Microsoft 365 定价和支持。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
-practiceTestUrl: https://us.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
@@ -39,7 +38,7 @@ providers:
 levels:
 - beginner
 skills:
-- 此考试的内容于2020年7月8日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 本次考试的内容于2021年4月23日进行了更新。请下载下面的考试技巧大纲，看看有何变化。
 - 描述云端概念 (10-15%)
 - 描述核心 Microsoft 365 服务与概念 (30-35%)
 - 说明Microsoft 365中的安全性、合规性、隐私性和信任 (30-35%)
@@ -62,14 +61,14 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft Certified：Fundamentals.
+  description: 发现培训资源以获得Microsoft Certified:Fundamentals.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md

@@ -1,21 +1,25 @@
 ### YamlMime:Course
 title: Designing and Implementing a Microsoft Azure AI Solution
 metadata:
-  title: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
-  description: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
-  iltScheduling: false
+  title: 'Course AI-102T00: Designing and Implementing a Microsoft Azure AI Solution'
+  description: 'Course AI-102T00: Designing and Implementing a Microsoft Azure AI Solution'
 uid: course.ai-102t00
-courseNumber: 'AI-102T00-A'
-hoursToComplete: 120
+courseNumber: 'AI-102T00'
+hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 创建、配置、部署和保护Azure认知服务
-- skill: 集成语音服务
-- skill: 集成文本分析
-- skill: 用LUIS创建语言理解能力
-- skill: 创建和管理Azure Cognitive Search解决方案
-- skill: 使用Bot Framework创建智能代理
-- skill: 实施Computer Vision解决方案
+- skill: 对 AI 激活的应用程序开发的注意事项进行描述
+- skill: 创建、配置、部署并保护 Azure Cognitive Services
+- skill: 开发分析文本的应用程序
+- skill: 开发语音激活应用程序
+- skill: 创建具有自然语言理解能力的应用程序
+- skill: 创建 QnA 应用程序
+- skill: 与机器人一起创建对话解决方案
+- skill: 用计算机视觉服务来分析图像和视频
+- skill: 创建自定义计算机视觉模型
+- skill: 开发可检测、分析并识别人脸的应用程序
+- skill: 开发可读取并处理图像和文档中文本的应用程序
+- skill: 为知识挖掘创建智能搜索解决方案
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -27,188 +31,210 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
+- azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
 exams:
-- uid: exam.ai-100
+- uid: exam.ai-102
 summary: |-
-  AI-102 Designing and Implementing an Azure AI Solution专为希望利用Azure Cognitive Services、Azure Cognitive Search和Microsoft Bot Framework来建立AI嵌入式应用程序的软件开发人员而准备。该课程将使用C#、Python或JavaScript作为编程语言。
-
-  #### 受众概况
-  软件工程师关注利用Azure Cognitive Services、Azure Cognitive Search和Microsoft Bot Framework来建立、管理和部署AI解决方案。他们熟悉C#、Python或JavaScript语言，了解用基于REST的API在Azure上建立计算机视觉、语言分析、知识挖掘、智能搜索和对话式AI解决方案的方法。
+  AI-102 Designing and Implementing Azure AI Solution 是为那些想要构建注入 AI 的应用程序的软件开发人员而设计，这些应用程序利用了 Azure Cognitive Services, Azure Cognitive Search 以及 Microsoft Bot 框架。本课程将使用 C# 或 Python 作为编程语言。
+  
+  #### 视听众群体
+  负责构建、管理并部署 AI 解决方案的软件工程师，这些解决方案利用了 Azure Cognitive Services, Azure Cognitive Search 以及 Microsoft Bot 框架。他们熟悉 C# 或 Python 并能使用基于 REST 的 APIs 在 Azure 上构建计算机视觉、语言分析、知识挖掘、智能搜索以及会话 AI 解决方案。
 prerequisitesSection: |-
-  了解Microsoft Azure并能在Azure门户浏览
-
-  了解C#、Python或JavaScript中任一语言
+  在参加本课程之前，学生必须具备&#58; 
+  - Microsoft Azure 方面的知识以及浏览 Azure 门户的能力
+  - C# 或 Python 方面的知识
+  - 熟悉 JSON 和 REST 编程语义
+  
+  想要获得 C# 或 Python 技能，在参加本门课程之前请完成免费的 [迈出 C# 的第一步](/learn/paths/csharp-first-steps/) 或者 [迈出 Python 的第一步](/learn/paths/python-first-steps/) 学习路径。
+  
+  如果您是人工智能的新手，而且想要了解 Azure 上的 AI 功能概述，那么在学习本门课程之前，请考虑完成 [Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals) 认证。
 outlineSection: |-
-  ### 模块 1&#58; 创建和管理Azure Cognitive Services
-  使用Azure上的任何Cognitive Services功能之前，您需要创建一个Cognitive Services资源。使用各种服务（Speech、Computer Vision等）时，至少需要一个访问密钥和一个服务端点URL。将使用此类服务的应用授权需要该信息。您将创建一个单一服务资源或者一个多重服务资源，这取决于您使用的服务。
-  #### 课程概述
-  - 创建和管理认知服务账户
-  - 获得认知服务
-  - 部署和使用认知服务容器
+  ### 模块1&#58; Azure 上的 AI 简介
+  人工智能 (AI) 正日益成为现代应用和服务的核心。在本模块中，您将学习可在应用程序中使用的一些常见的 AI 功能，以及这些功能是如何在 Microsoft Azure 中实施的。您还将了解一些关于负责任地设计并实施 AI 解决方案的注意事项。
+  #### 课程
+  - 人工智能简介
+  - Azure 中的人工智能
+  
+  完成此模块后，学生们将能够&#58; 
+  - 对 AI 激活的应用程序的注意事项进行描述
+  - 识别用于 AI 应用程序开发的 Azure 服务
+  
+  
+  ### 模块2&#58; 利用认知服务开发 AI 应用程序
+  认知服务是将 AI 功能集成到应用程序中的核心构建模块。在本模块中，您将学习如何提供、保护、监控并部署认知服务。
+  #### 课程
+  - 认知服务入门
+  - 使用面向企业应用程序的认知服务
+  
+  #### 实验室&#58; 由认知服务开始
 
-  #### 实验室&#58; 创建Azure认知服务资源
-  - 创建Azure认知服务资源
-  - 访问密钥
-  - 使用诊断监测
-  
-  #### 实验室&#58; 获得Azure认知服务
-  - 用Azure Key Vault保护密钥
-  
-  #### 实验室&#58; 创建Azure认知服务容器
-  - 创建重复使用的容器
-  - 容器部署
-  - 使用容器中的认知服务
+  #### 实验室&#58; 管理认知服务安全
 
-  完成本模块学习后，学生将能&#58; 
-  - 创建和使用Azure认知服务资源
-  - 保护Azure认知服务资源
-  - 用容器部署和使用Azure认知服务
-  
-  
-  ### 模块2&#58; 实施计算机视觉解决方案
-  学习如何通过使用Azure Computer Vision将视觉AI集成到您的应用程序里。检测和识别图像和视频中的人脸或物体，进行物体检测，对图像进行分类，实施自定义视觉解决方案。
-  #### 课程概述
-  - 用Computer Vision API识别人脸和表情
-  - 用Computer Vision Service处理图像
-  - 评估实施Custom Vision API的要求
-  - 用Microsoft CUstomg Vision Service对图像进行分类
-  - 用Video Indexer Service从视频中提取洞察
+  #### 实验室&#58; 监控认知服务
 
-  #### 实验室&#58; 检测人脸
-  - 获取订阅密钥
-  - 测试人脸检测
+  #### 实验室&#58; 使用一个认知服务容器
   
-  #### 实验室&#58; 创建自定义视觉服务
-  - 创建服务
-  - 上传标记图像
-  - 训练模型
-  - 测试模型
-  - 调用预测端点
+  完成此模块后，学生们将能够&#58; 
+  - 在 Azure 中提供并使用认知服务
+  - 管理认知服务安全
+  - 监控认知服务
+  - 使用一个认知服务容器
   
-  #### 实验室&#58; 用Video Indexer从视频中提取洞察
-  - 订阅Video Indexer API
-  - 上传图像并编索引
-  - 检查输出
-  - 找到视频中的时刻
-  - 查看和编辑洞察
+  
+  ### 模块3&#58; 自然语言处理入门
+  自然语言处理 (NLP) 是人工智能的一个分支，它主要处理从书面或口头语言中提取见解。在本模块中，您将学习如何使用认知服务来分析并翻译文本。
+  #### 课程
+  - 分析文本
+  - 翻译文本
+  
+  #### 实验室&#58; 分析文本
 
-  完成本模块学习后，学生将能&#58; 
-  - 实施用于人脸和物体检测的Computer Vision解决方案
-  - 用Computer Vision服务处理图像
-  - 实施ustom Vision解决方案
-  - 用Video Indexer服务提取视频文件中的洞察
+  #### 实验室&#58; 翻译文本
+  
+  完成此模块后，学生们将能够&#58; 
+  - 使用“文本分析”认知服务来分析文本
+  - 使用“翻译员”认知服务来翻译文本
+  
+  
+  ### 模块4&#58; 构建语音激活应用程序
+  许多现代的应用程序及服务接受语音输入，并可通过合成文本进行响应。在本模块中，您将通过学习如何构建语音激活应用程序来继续探索自然语言处理的各项功能。
+  #### 课程
+  - 语言识别与合成
+  - 语音翻译
+  
+  #### 实验室&#58; 识别并合成语音
 
+  #### 实验室&#58; 翻译语音
+  
+  完成此模块后，学生们将能够&#58; 
+  - 使用语音认知服务对语音进行识别和合成
+  - 使用语音认知服务来翻译语音
+  
+  
+  ### 模块5&#58; 创建语言理解解决方案
+  要构建能够智能地理解并响应自然语言输入的应用程序，您必须定义并训练一个语言理解模型。在本模块中，您将学习如何使用“语言理解”服务来创建一个应用程序，该程序可以从自然语言输入来识别用户的意图。
+  #### 课程
+  - 创建语言理解应用程序
+  - 发布并使用语言理解应用程序
+  - 在语音中运用语言理解
 
-  ### 模块 3&#58; 实施语言分析解决方案
-  学习如何通过集成Language Understanding服务实施您的应用程序中的自然语言功能。通过情感分析和语言检测等文本分析特征获取您的用户意向洞察。用实体和关键词提取功能识别文本文件中的重要信息。
-  #### 课程概述
-  - 使用Language Understandin将Basic Conversational Intelligence添加到您的应用中
-  - 管理您的Language Understanding服务
-  - 使用您的Language Understanding服务容器
-  - 用Text Analytics API发现文本中的情感
-  - 用Text Analytics API识别文本中的实体
-  - 用Text Analytics API提取文本中的关键词
-  - 用Text Analytics API检测语言
+  #### 实验室&#58; 创建语言理解应用程序
 
-  #### 实验室&#58; 实施Language Understanding服务
-  - 创建Language Understanding服务
-  - 使用意向
-  - 使用话语
-  - 使用实体
-  - 训练和发布模型
+  #### 实验室&#58; 创建语言理解客户端应用程序
+
+  #### 实验室&#58; 使用语音及语言理解服务
   
-  #### 实验室&#58; 管理您的Language Understanding服务
-  - 管理您的密钥
-  - 管理版本控制
-  - 脚本自动化
-  
-  #### 实验室&#58; 创建Language Understanding容器
-  - 安装并运行容器
-  
-  #### 实验室&#58; 执行情感分析
-  - 用API测试监控台来测试情感分析
-  - 创建一个Function应用程序
-  - 调用Function内的情感分析
-  - 消息分类
-  
-  #### 实验室&#58; 执行实体识别
-  - 提取文本内的实体
-  
-  #### 实验室&#58; 执行关键词提取
-  - 提取文本内的关键词
-  
-  #### 实验室&#58; 执行语言检测
-  - 检测文本内的语言
-  
-  完成本模块学习后，学生将能&#58; 
-  - 实施和管理Language Understanding服务
-  - 在容器环境中实施Language Understanding
-  - 检测文本内的情感
-  - 识别文本内的实体并提取其关键词
-  - 检测文本内的语言
+  完成此模块后，学生们将能够&#58; 
+  - 创建语言理解应用程序
+  - 创建语言理解客户端应用程序
+  - 将语言理解和语音整合在一起
   
   
-  ### 模块 4&#58; 执行知识挖掘解决方案
-  Azure Cognitive Search将提供基于云的解决方案，用于大范围索引和查询数据源，创建综合大规模搜索解决方案。学习其文档有索引且易于搜索的解决方案。
-  #### 课程概述
-  - 创建Azure Cognitive Search解决方案
-  - 用Azure Cognitive Search创建富集管道
-  - Create a 用Azure Cognitive Search创建知识库
+  ### 模块6&#58; 构建 QnA 解决方案
+  用户和 AI 软件代理之间最常见的一种交互方式是用户用自然语言提交问题，而 AI 代理能够智能地做出适当的回应。在本模块中，您将探索 QnA Maker 服务如何使这种解决方案的开发成为可能。
+  #### 课程
+  - 创建 QnA 知识库
+  - 发布并使用 QnA 知识库
+
+  #### 实验室&#58; 创建 QnA 解决方案
   
-  #### 实验室&#58; 创建Azure Cognitive Search解决方案
-  - 创建用于搜索的Azure资源
-  - 创建数据源
-  - 创建索引
-  - 创建并运行索引器
-  - 搜索和索引
-  - 应用过滤和分类
-  - 增强索引
-  
-  #### 实验室&#58; 创建富集管道
-  - 创建Azure资源
-  - 创建数据源
-  - 创建技能组合
-  - 创建索引
-  - 创建并运行索引器
-  - 搜索丰富索引
-  - 创建自定义技能
-  - 更新索引
-  - 搜索更新的索引
-  
-  #### 实验室&#58; 创建知识库
-  - 创建Azure资源
-  - 创建数据源
-  - 创建技能组合
-  - 创建索引
-  - 创建并运行索引器
-  - 开发知识库
-  
-  完成本模块学习后，学生将能&#58; 
-  - 创建Azure Cognitive Search解决方案
-  - 用Azure Cognitive Search创建富集管道
-  - 用Azure Cognitive Search创建知识库
+  完成此模块后，学生们将能够&#58; 
+  - 用 QnA Maker 创建一个知识库
+  - 在应用程序或机器人中使用 QnA 知识库
   
   
-  ### 模块5&#58; 实施对话式AI解决方案
-  使用Microsoft Bot Framework和Bot Framework Composer来设计和创建对话式AI解决方案。
-  #### 课程概述
-  - 在Azure门户上建立聊天机器人
-  - 设计机器人对话流程
-  - 用Bot Framework Composer创建机器人
+  ### 模块7&#58; 会话 AI 和 Azure Bot 服务
+  机器人是一种日益普遍的 AI 应用的基础，在这种应用中，用户与 AI 代理进行对话，就像他们与人类代理进行对话一样。在本模块中，您将探索 Microsoft Bot 框架和 Azure Bot 服务，它们共同提供了一个用于创建并交付会话体验的平台。
+  #### 课程
+  - 机器人基础知识
+  - 实施一个对话机器人
+
+  #### 实验室&#58; 用机器人框架 SDK 创造一个机器人
+
+  #### 实验室&#58; 用机器人框架设计器创造一个机器人
   
-  ####实验室&#58; 用Azure门户创建机器人
-  - 用Azure门户创建Basic机器人
+  完成此模块后，学生们将能够&#58; 
+  - 用机器人框架 SDK 创造一个机器人
+  - 用机器人框架设计器创造一个机器人
   
-  #### 实验室&#58; 用Bot Framework Composer创建机器人
-  - 用Bot Framework Composer创建机器人
-  - 添加Help和Cancel功能
-  - 集成Language Generation
-  - 使用Cards
-  - 集成Language Understanding
   
-  完成本模块学习后，学生将能&#58; 
-  - 在Azure门户上创建Basic机器人
-  - 设计机器人对话流程
-  - 用Bot Framework Composer创建机器人
+  ### 模块8&#58; 计算机视觉入门
+  计算机视觉是人工智能的一个领域，在这个领域中，软件应用程序诠释了来自图像或视频的视觉输入。在本模块中，您将通过学习如何使用认知服务来分析图像和视频来开始对计算机视觉的探索。
+  #### 课程
+  - 分析图像
+  - 分析视频
+  
+  #### 实验室&#58; 用计算机视觉分析图像
+  
+  #### 实验室&#58; 用视频索引器分析视频
+  
+  完成此模块后，学生们将能够&#58; 
+  - 使用计算机视觉服务来分析图像
+  - 使用视频索引器来分析视频
+  
+  
+  ### 模块9&#58; 开发定制的视觉解决方案
+  虽然在许多场景中预定义的通用计算机视觉功能都很有用，但有时您需要用自己的视觉数据来训练一个定制模型。在本模块中，您将探索“定制视觉”服务，以及如何用它来创建自定义图像分类和对象检测模型。
+  
+  #### 课程
+  - 图像分类
+  - 对象检测
+  
+  #### 实验室&#58; 用“自定义视觉”对图像进行分类
+  
+  #### 实验室&#58; 用“自定义视觉”检测图像中的物体
+  
+  完成此模块后，学生们将能够&#58; 
+  - 使用“自定义视觉”服务来实施图像分类
+  - 使用“自定义视觉”服务来实施对象检测
+  
+  
+  ### 模块10&#58; 检测、分析并识别人脸
+  面部检测、分析和识别是常见的计算机视觉场景。在本模块中，您将探索借助认知服务来识别人脸的用户。
+  
+  #### 课程
+  - 使用“计算机视觉”服务来检测人脸
+  - 使用“面部”服务
+  
+  #### 实验室&#58; 检测、分析并识别人脸
+  
+  完成此模块后，学生们将能够&#58; 
+  - 使用“计算机视觉”服务来检测人脸
+  - 使用“面部”服务检测、分析并识别人脸
+  
+  
+  ### 模块11&#58; 阅读图像及文档中的文本
+  光学字符识别 (OCR) 是另一种常见的计算机视觉场景，在此场景中软件可以从图像或文档中提取文本。在本模块中，您将探索可用于检测和读取图像、文档及表单中文本的认知服务。
+  #### 课程
+  - 使用“计算机视觉”服务来阅读文本
+  - 使用“表单识别器”服务从表单中提取信息
+  
+  #### 实验室&#58; 在图像中阅读文本
+  
+  #### 实验室&#58; 从表单中提取数据
+  
+  完成此模块后，学生们将能够&#58; 
+  - 使用“计算机视觉”服务来读取图像和文档中的文本
+  - 使用“表单识别器”服务从数字表单中提取数据
+  
+  
+  ### 模块12&#58; 创建知识挖掘解决方案
+  最终，许多 AI 场景都涉及到基于用户查询的智能搜索信息。由 AI 驱动的知识挖掘是构建智能搜索解决方案的一种日益重要的方式，这些解决方案利用 AI 从大型数字数据存储库中提取见解，并让用户能够发现并分析这些见解。
+  
+  #### 课程
+  - 实施智能搜索解决方案
+  - 为扩充管道开发自定义技能
+  - 创建知识库
+  
+  #### 实验室&#58; 创建 Azure Cognitive Search 解决方案
+  
+  #### 实验室&#58; 为 Azure Cognitive Search 创建自定义技能
+  
+  #### 实验室&#58; 借助 Azure Cognitive Search 创建知识库
+  
+  完成此模块后，学生们将能够&#58; 
+  - 借助 Azure Cognitive Search 创建智能搜索解决方案
+  - 在 Azure Cognitive Search 扩充管道中实施自定义技能
+  - 使用 Azure Cognitive Search 来创建知识库

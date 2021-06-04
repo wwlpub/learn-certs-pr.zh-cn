@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: '描述Power Platform组件: Power Apps、Power BI和Microsoft Automate'
-- skill: '描述Power Platform组件: 通用数据服务（Common Data Service）、连接器（Connectors）和AI builder'
+- skill: 说明Power Platform组件
+- skill: 说明Microsoft Dataverse、连接器和AI builder
 - skill: 描述跨M365、Dynamics 365、Microsoft Azure和第三方服务的跨云场景
 - skill: 识别Power Platform的优势和能力
 - skill: 识别Power Platform组件的基本功能和业务价值
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |
-  了解Power Platform的业务价值和产品功能。创建简单的Power Apps，将数据与通用数据服务连接起来，构建Power BI仪表板（Dashboard），使用Power automate实现流程自动化，并使用PPower Virtual Agents构建聊天机器人（chatbot）
+  了解Power Platform的商业价值和产品功能。创建简单的Power Apps，将数据与Dataverse连接，建立Power BI Dashboard，用 Power Automate, 自动执行流程并用Power Virtual Agents建立聊天机器人。
 
   #### 观众概况
 
@@ -47,21 +47,22 @@ outlineSection: |+
   - 了解Power Platform的组件和功能
 
 
-  ### 模块 2&#58; 通用数据服务（Common Data Service）简介
-  通用数据服务允许您深入研究云中功能强大、可伸缩的数据解决方案。了解通用数据服务的工作原理，以及它如何与Power Platform一起创建独特而高效的业务解决方案。
+  ### 模块 2&#58; Microsoft Dataverse介绍
+  Dataverse使您能深入地研究cloud中的强大的可伸缩数据解决方案。了解Dataverse如何运作并配合Power Platform创建独特有效的商业解决方案。
   #### 课程
-  - 通用数据服务概述
-  - 模块摘要
-
+  - Microsoft Dataverse概述
+  - 模块小结
+  
   #### 实验室&#58; 数据建模
   - 创建解决方案
-  - 创建实体和关系
+  - 添加现有表格并创建新表格
+  - 创建关系
   - 导入数据
-
-  完成本模块后，学生将能够&#58; 
-  - 描述通用数据服务与通用数据模型（Common Data Model）之间的区别
-  - 解释业务规则和过程流（process flows）的用例和限制
-  - 解释通用数据服务中的环境、实体、字段和关系
+  
+  完成本模块学习后，学生将能&#58;
+  - 说明Dataverse和通用数据模型的区别
+  - 说明业务规则和流程流的使用案例和限制
+  - 说明Dataverse中存在什么环境、表、列和关系
 
 
   ### 模块 3&#58; Power Apps（应用程序）入门

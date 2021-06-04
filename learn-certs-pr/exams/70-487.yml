@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-487
 displayName: 70-487
 summary: |+
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   此认证的考生是使用 Visual Studio 2017 和 Microsoft®.NET Core Framework 来设计和开发 Web 解决方案的专业开发人员。考生应具有至少三到五年的开发基于 ASP.NET MVC 解决方案的经验。另外，考生应该能够证明以下内容&#58;
   - 设计和开发访问各种(本地和远程)数据和服务(包括 Windows Azure)的 Web 应用程序的经验
@@ -20,7 +18,6 @@ subTitle: '此认证的考生是使用 Visual Studio 2017 和 Microsoft® .NET C
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
 practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
 locales:
 - en
 - zh-cn
@@ -36,6 +33,7 @@ skills:
 - 创建和使用基于 Web API 的服务(20-25%)
 - 设计和实现 Web 服务(15-20%)
 - 部署 Web 应用程序和服务(15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-466
 displayName: 70-466
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试面向关注创建 BI 解决方案的商业智能 (BI) 开发人员，这些解决方案要求实施多维数据模型、实施和维护 OLAP 多维数据集以及创建在业务决策中使用的信息显示。
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: 本考试面向关注创建 BI 解决方案的商业智能 (BI) 开发人员，这些解决方案要求实施多维数据模型、实施和维护 OLAP 多维数据集以及创建在业务决策中使用的信息显示。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
 locales:
 - en
 - zh-cn
@@ -31,6 +28,7 @@ skills:
 - 管理、维护 SQL Server Analysis Services(SSAS)数据库和故障排除(15-20%)
 - 构建表格数据模型(15-20%)
 - 使用 SQL Server Reporting Services(SSRS)构建报告(25-30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

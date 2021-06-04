@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-765
 displayName: 70-765
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试面向架构师、高级开发人员、基础结构专家和开发主管。考生应具备各种 Cloud 服务模型和服务模型体系结构、数据存储选项以及数据同步技术的实际应用知识。除了将 Azure 应用程序与外部资源集成之外，考生还应具备部署模型、升级和迁移数据库以及应用程序和服务的实际应用知识。
 
@@ -17,7 +15,6 @@ subTitle: 本考试面向架构师、高级开发人员、基础结构专家和�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7mn
 practiceTestUrl: https://www.mindhub.com/70-765-Provisioning-SQL-Databases-p/mu-70-765_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=765&examname=Provisioning%20SQL%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-765
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - 在 Azure 中实施 SQL (40-45%)
 - 管理数据库和实例(30-35%)
 - 管理存储(30-35%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

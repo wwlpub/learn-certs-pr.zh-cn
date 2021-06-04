@@ -1,0 +1,274 @@
+### YamlMime:Course
+title: Microsoft Security Operations Analyst
+metadata:
+  title: 'Course SC-200T00-A: Microsoft Security Operations Analyst'
+  description: 'Course SC-200T00-A: Microsoft Security Operations Analyst'
+uid: course.sc-200t00
+courseNumber: 'SC-200T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 说明Microsoft Defender for Endpoint如何修复您所处环境中的风险
+- skill: 创建Microsoft Defender for Endpoint环境
+- skill: 在Windows 10设备上配置攻击面减少规则
+- skill: 在使用Microsoft Defender for Endpoint的设备上执行操作
+- skill: 调查Microsoft Defender for Endpoint中的域名和IP地址
+- skill: 调查Microsoft Defender for Endpoint中的用户账户
+- skill: 配置Microsoft Defender for Endpoint中的警报设置
+- skill: 说明当前安全威胁态势如何发展
+- skill: 在Microsoft 365 Defender中进行高级搜寻
+- skill: 管理Microsoft 365 Defender中的事件
+- skill: 说明Microsoft Defender for Identity如何修复您所处环境中的风险。
+- skill: 调查Microsoft Cloud App Security中的DLP警报
+- skill: 说明您在内部风险管理案例中可以采取的操作类型。
+- skill: 配置Azure Defender中的自动预配
+- skill: 修正Azure Defender中的警报
+- skill: 构建KQL语句
+- skill: 使用KQL根据事件时间、严重性、域和其他相关数据筛选搜索
+- skill: 使用KQL从非结构化字符串字段中提取数据
+- skill: 管理Azure Sentinel工作区
+- skill: 使用KQL访问Azure Sentinel中的监视列表
+- skill: 管理 Azure Sentinel中的威胁指标
+- skill: 说明Azure Sentinel中常见事件格式和Syslog连接器的差异
+- skill: 将Azure Windows Virtual Machines连接到Azure Sentinel
+- skill: 配置Log Analytics代理收集Sysmon事件
+- skill: 使用分析规则向导创建新的分析规则和查询
+- skill: 创建剧本以自动执行事件响应
+- skill: 使用查询以进行威胁搜寻
+- skill: 通过流媒体直播长时间观察威胁
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+- security-operations-analyst
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+exams:
+- uid: exam.sc-200
+summary: |-
+  学习如何使用Microsoft Azure Sentinel、Azure Defender和Microsoft 365 Defender来调查、响应和搜寻威胁。在本课程中，您将学习如何利用此类技术减轻网络威胁。具体而言，您将配置和使用Azure Sentinel并利用Kusto Query Language (KQL)来执行检测分析和报告。该课程专为从事安全运营工作的人员设计，同时也帮助初学者准备考试&#58; SC-200&#58; Microsoft Security Operations Analyst。
+
+  #### 受众人群
+  Microsoft安全运营分析师与组织利益相关者合作以保证组织的信息技术系统的安全。其目标是通过迅速修复环境中的主动攻击，建议改进威胁防护措施以及将违反组织政策的事件告知相应的利益相关者来降低组织风险。其职责包括在其所处环境内使用各种安全解决方案来进行威胁管理、监控和响应。该角色主要使用Microsoft Azure Sentinel、Azure Defender、Microsoft 365 Defender和第三方安全产品来调查、响应和搜寻威胁。安全运营分析师使用此类工具的操作输出，因此他们也是配置和部署此类技术的关键利益相关者。
+prerequisitesSection: |-
+  - 基本了解 Microsoft 365
+  - 初步了解Microsoft安全性、合规性和身份管理产品
+  - 中等程度了解Windows 10
+  - 熟悉Azure服务，特别是Azure SQL Database和Azure Storage
+  - 熟悉Azure虚拟机和虚拟网络
+  - 基本了解脚本概念。
+outlineSection: |-
+  ### 模块 1&#58; 使用Microsoft Defender for Endpoint减轻威胁
+  实现Microsoft Defender for Endpoint平台来检测、调查和响应高级威胁。学习 Microsoft Defender for Endpoint如何帮助您的组织保持安全状态。学习如何部署Microsoft Defender for Endpoint环境，包括配置设备入网和配置安全性。学习如何使用Microsoft Defender for Endpoints来调查事件和警报。执行高级搜寻并咨询威胁专家。您还将学习如何通过管理环境设置来配置Microsoft Defender for Endpoint中的自动执行。最后您将通过使用Microsoft Defender for Endpoint中的威胁和漏洞管理来了解您所处环境的弱点。
+  #### 课程
+  - 用Microsoft Defender for Endpoint防御威胁
+  - 部署Microsoft Defender for Endpoint环境
+  - 用Microsoft Defender for Endpoint实现Windows 10安全增强
+  - 管理Microsoft Defender for Endpoint中的警报和事件
+  - 执行Microsoft Defender for Endpoint中的设备调查
+  - 使用Microsoft Defender for Endpoint在设备上执行操作
+  - 使用Microsoft Defender for Endpoint执行证据和实体调查
+  - 使用Microsoft Defender for Endpoint配置和管理自动执行
+  - 配置Microsoft Defender for Endpoint中的警报和检测
+  - 利用Microsoft Defender for Endpoint中的威胁和漏洞管理
+
+  #### 实验室 &#58; 使用Microsoft Defender for Endpoint减轻威胁
+  - 部署Microsoft Defender for Endpoint
+  - 使用Defender for Endpoint减轻攻击
+  
+  完成本模块学习后，学生将能&#58; 
+  - 定义Microsoft Defender for Endpoint的功能
+  - 配置Microsoft Defender for Endpoint环境设置
+  - 在Windows 10 设备上配置攻击面减少规则
+  - 调查Microsoft Defender for Endpoint中的警报
+  - 说明由Microsoft Defender for Endpoint收集的设备取证信息
+  - 使用Microsoft Defender for Endpoint进行取证数据收集
+  - 调查Microsoft Defender for Endpoint中的用户账户
+  - 管理Microsoft Defender for Endpoint中的自动执行设置
+  - 管理Microsoft Defender for Endpoint中的指标
+  - 说明 Microsoft Defender for Endpoint中的威胁和漏洞管理
+  
+  
+  ### 模块 2&#58; 使用Microsoft 365 Defender减轻威胁
+  分析跨域威胁数据并用Microsoft 365 Defender的内置编排和自动化快速修复威胁。了解网络安全威胁以及新的Microsoft威胁防护工具如何保护贵组织的用户、设备和数据。使用基于身份的威胁的高级检测和修复来保护您的Azure Active Directory身份和应用程序不受损害。
+  #### 课程
+  - 使用Microsoft 365进行威胁防护的简介
+  - 使用Microsoft 365 Defender缓解事件
+  - 使用Azure AD Identity Protection保护您的身份
+  - 使用Microsoft Defender for Office 365修正风险
+  - 使用Microsoft Defender for Identity保护您的环境
+  - 使用Microsoft Cloud App Security保护您的cloud应用程序和服务
+  - 使用Microsoft 365响应数据丢失预防警报
+  - 管理Microsoft 365中的内部风险
+  
+  #### 实验室 &#58; 使用Microsoft 365 Defender减轻威胁
+  - 使用Microsoft 365 Defender减轻攻击
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明安全威胁态势如何发展。
+  - 管理Microsoft 365 Defender中的事件
+  - 在Microsoft 365 Defender中进行高级搜寻
+  - 说明Azure Active Directory Identity Protection的调查和修复功能。
+  - 定义 Microsoft Defender for Endpoint的功能。
+  - 说明Microsoft Defender for Endpoint如何修复您所处环境中的风险
+  - 定义 Cloud App Security框架
+  - 说明Cloud Discovery如何帮助您了解贵组织中正在发生的事
+  
+  
+  ### 模块 3&#58; 使用 Azure Defender减轻威胁
+  使用集成了Azure Security Center的Azure Defender为Azure、混合 cloud、和本地工作负载提供安全保护。了解Azure Defender的用途，Azure Defender与 Azure Security Center的关系，以及如何启用Azure Defender。您还将了解Azure Defender为各个cloud工作负载提供的保护和检测。学习如何将Azure Defender功能添加到您的混合环境中。
+  #### 课程
+  - 使用 Azure Defender规划cloud工作负载保护
+  - 说明Azure Defender中的cloud工作负载保护
+  - 将Azure资产连接至Azure Defender
+  - 将非Azure响应连接至Azure Defender
+  - 使用 Azure Defender修正安全警报
+  
+  #### 实验室 &#58; 使用Azure Defender减轻威胁
+  - 部署Azure Defender
+  - 使用Azure Defender减轻攻击
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明 Azure Defender 功能
+  - 说明 Azure Security Center功能
+  - 说明哪些工作负载由 Azure Defender进行保护
+  - 说明Azure Defender的保护功能
+  - 配置 Azure Defender中的自动预配
+  - 说明Azure Defender中的手动预配
+  - 将非Azure机器连接至Azure Defender
+  - 说明Azure Defender中的警报
+  - 修正Azure Defender中的警报
+  - 在Azure Defender中自动执行响应
+  
+  
+  ### 模块 4&#58; 使用Kusto Query Language (KQL)创建用于Azure Sentinel的查询
+  撰写Kusto Query Language (KQL)语句以查询用于在Azure Sentinel中执行检测、分析和报告的日志数据。本模块将着重介绍最常用的操作符。KQL语句实例将展示与安全性相关的表查询。KQL是用于执行数据分析以在Azure Sentinel中创建分析、工作簿并执行搜寻的查询语言。了解基本的KQL语句结构如何为构建更复杂的语句提供基础。学习如何使用KQL语句进行数据汇总和可视化为构建Azure Sentinel中的检测提供基础。学习如何使用Kusto Query Language (KQL)来操作从日之源社区的字符串数据。
+  #### 课程
+  - 构造用于Azure Sentinel的KQL语句
+  - 使用KQL分析查询结果
+  - 使用KQL构建多表语句
+  - 使用Kusto Query Language处理Azure Sentinel 中的数据
+  
+  #### 实验室 &#58; 使用Kusto Query Language (KQL)创建用于Azure Sentinel 的查询
+  - 构造基本的KQL语句
+  - 使用KQL分析查询结果
+  - 使用KQL构建多表语句
+  - 使用KQL语句处理字符串数据
+  
+  完成本模块学习后，学生将能&#58; 
+  - 构造KQL语句
+  - 使用KQL搜索日志文件中的安全事件
+  - 使用KQL根据事件时间、严重性、域和其他相关数据来筛选搜索
+  - 使用KQL语句汇总数据
+  - 使用KQL语句呈现可视化
+  - 使用KQL从非结构化字符串字段中提取数据
+  - 使用KQL从结构化字符串数据中提取数据
+  - 使用KQL创建功能
+  
+  
+  ### 模块 5&#58; 配置您的Azure Sentinel环境
+  通过正确配置Azure Sentinel 工作区开始使用Azure Sentinel。传统的安全信息和事件管理(SIEM)系统通常需要很长的时间进行设置和配置。他们的设计也未必考虑到了cloud工作负载。Azure Sentinel使您能开始迅速地从cloud和本地数据中获得有价值的安全洞察。本模块可以帮助您入门。了解Azure Sentinel工作区体系结构，以确保您对您系统的配置满足贵组织的安全运营需求。作为一名安全运营分析师，您必须了解您工作区中摄取的表、字段和数据。学习如何查询Azure Sentinel中的最常用数据表。
+  #### 课程
+  - Azure Sentinel简介
+  - 创建和管理Azure Sentinel 工作区
+  - 查询Azure Sentinel中的日志
+  - 使用 Azure Sentinel中的监视列表
+  - 利用Azure Sentinel中的威胁情报
+  
+  #### 实验室 &#58; 配置您的 Azure Sentinel环境
+  - 创建Azure Sentinel工作区
+  - 创建监视列表
+  - 创建威胁指标
+  
+  完成本模块学习后，学生将能&#58; 
+  - 识别Azure Sentinel的各种组件和功能。
+  - 确定Azure Sentinel是一个良好解决方案的使用案例。
+  - 说明 Azure Sentinel工作区体系结构
+  - 安装Azure Sentinel工作区
+  - 管理Azure Sentinel工作区
+  - 创建Azure Sentinel中的监视列表
+  - 使用KQL来访问Azure Sentinel中的监视列表
+  - 管理Azure Sentinel中的威胁指标
+  - 使用KQL来访问Azure Sentinel中的威胁指标
+  
+  
+  ### 模块 6&#58; 将日志连接至Azure Sentinel
+  将所有用户、设备、应用程序和基础设施的（本地和在多个cloud中的）cloud级数据连接至Azure Sentinel。连接日志数据的主要方法是使用Azure Sentinel提供的数据连接器。在本模块中，对可用的数据连接器进行了概述。您将了解到由Azure Sentinel连接器为Microsoft 365 Defender提供的配置选项和数据。
+  #### 课程
+  - 使用数据连接器将数据连接至Azure Sentinel 
+  - 将Microsoft服务连接至Azure Sentinel
+  - 将Microsoft 365 Defender连接至Azure Sentinel
+  - 将Windows主机连接至 Azure Sentinel
+  - 将常见事件格式日志连接至Azure Sentinel
+  - 将syslog数据源连接至 Azure Sentinel
+  - 将威胁指标连接至 Azure Sentinel
+  
+  #### 实验室 &#58; 将日志连接至 Azure Sentinel
+  - 将Microsoft服务连接至 Azure Sentinel
+  - 将Windows主机连接至Azure Sentinel
+  - 将Linux主机连接至Azure Sentinel
+  - 将威胁情报连接至 Azure Sentinel
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明数据连接器在 Azure Sentinel中的使用
+  - 说明Azure Sentinel中常见事件格式和Syslog连接器的区别
+  - 连接Microsoft服务连接器
+  - 说明连接器如何在 Azure Sentinel中自动创建事件
+  - 激活Azure Sentinel中的Microsoft 365 Defender连接器
+  - 将Azure Windows Virtual Machines连接至Azure Sentinel
+  - 将非Azure的Windows主机连接至 Azure Sentinel
+  - 配置日志分析代理以收集Sysmon事件
+  - 说明Azure Sentinel中的常见事件格式连接器部署选项
+  - 配置 Azure Sentinel中的TAXII连接器
+  - 查看Azure Sentinel中的威胁指标
+  
+  
+  ### 模块 7&#58; 使用Azure Sentinel创建检测并执行调查
+  使用 Azure Sentinel中的内置编排和自动执行来检测先前发现的威胁并快速修复威胁。您将学习如何创建 Azure Sentinel 剧本以响应安全威胁。您将调查Azure Sentinel事件管理，了解 Azure Sentinel 事件和实体并发现事件的解决方法。您还将学习如何在Azure Sentinel中查询、可视化和监控数据。
+  #### 课程
+  - 使用Azure Sentinel分析进行威胁检测
+  - 使用Azure Sentinel剧本进行威胁响应
+  - Azure Sentinel中的安全事件管理
+  - 在 Azure Sentinel中使用实体行为分析
+  - Azure Sentinel中的数据查询可视化和监控
+  
+  #### 实验室 &#58; 使用 Azure Sentinel创建检测并执行调查
+  - 创建分析规则
+  - 模拟对定义规则逻辑的攻击
+  - 使用 Azure Sentinel减轻攻击
+  - 在Azure Sentinel中创建工作簿
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明Azure Sentinel Analytics的重要性。
+  - 从模板创建规则。
+  - 通过修改管理规则。
+  - 说明 Azure Sentinel SOAR的功能。
+  - 创建剧本以自动执行事件响应
+  - 调查和管理事件的解决。
+  - 说明 Azure Sentinel中的用户和实体行为分析
+  - 探索Azure Sentinel中的实体
+  - 使用Azure Sentinel Workbooks使安全数据可视化。
+  
+  
+  ### 模块 8&#58; 在Azure Sentinel中执行威胁搜寻
+  在本模块中，您将学习如何使用Azure Sentinel查询主动识别威胁行为。您还将学习使用书签和流媒体直播来搜寻威胁。您还将学习如何使用Azure Sentinel中的笔记本进行高级搜寻。
+  #### 课程
+  - 使用Azure Sentinel进行威胁搜寻
+  - 使用Azure Sentinel中的笔记本搜寻威胁
+  
+  #### 实验室 &#58; Azure Sentinel中的威胁搜寻
+  - Azure Sentinel中的威胁搜寻
+  - 使用笔记本进行威胁搜寻
+  
+  完成本模块学习后，学生将能&#58; 
+  - 说明与Azure Sentinel配合使用的威胁搜寻概念
+  - 定义Azure Sentinel中的威胁搜寻假设
+  - 使用查询来搜寻威胁。
+  - 通过流媒体直播长时间观察威胁
+  - 在 Azure Sentinel中探索用于高级威胁搜寻的API库
+  - 在Azure Sentinel中创建和使用笔记本

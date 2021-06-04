@@ -7,7 +7,7 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div><font color='red'><strong>本考试的新版本 <a href='/learn/certifications/exams/ai-102'>AI-102</a> 将于2021年2月23日推出。在2021年6月30日考试结束前，你可以一直参加本考试。注释：考试在中部标准时间晚上11点59分结束。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考试的新版本，即<a href='/learn/certifications/exams/ai-102'>AI-102</a>，已经生效。您可以在2021年6月30日考试失效前参加该考试。注意&#58; 考试将于中央标准时间晚11点59分失效。</strong></font></div>
   <div style='font-weight&#58; bold;'>此考试的内容于 2020 年 5 月 20 日更新。请下载下面的技能测量文档，看看有何变化。<br/><br/></div>
   </div>
   
@@ -18,7 +18,7 @@ summary: |-
   Azure AI Engineer 将解决方案架构师的愿景转化为事实，并与数据科学家、数据工程师、IoT 专家和软件开发人员合作，以构建完整的端到端解决方案。
   
   参加本考试的考生应具备设计和实现使用 Microsoft Azure 认知服务、Azure Bot 服务、Azure 认知搜索和 Azure 数据存储的人工智能应用程序和代理的知识和经验。此外，考生应该能够推荐使用开源技术的解决方案，了解组成 Azure AI 产品组合的组件和可用的数据存储选项，并了解何时应开发自定义 API 以满足特定需求。
-subTitle: '该考试测量您完成以下技术任务的能力：分析解决方案要求；设计解决方案；将 AI 模型集成到解决方案中并部署和管理解决方案。'
+subTitle: '该考试测量您完成以下技术任务的能力:分析解决方案要求；设计解决方案；将 AI 模型集成到解决方案中并部署和管理解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
@@ -40,6 +40,7 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
+- azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
 courses:
@@ -58,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

@@ -17,10 +17,10 @@ summary: |-
   Azure Fundamentals 可用于准备其他基于 Azure 角色的或专业的认证，但这不是其中任何一项的先决条件。
   
   如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '该考试测试您描述以下概念的能力：cloud概念；Azure核心服务；Azure上的核心解决方案和管理工具；普通的安全和网络安全特性；身份、治理、隐私及合规特性；以及Azure成本管理和Service Level Agreements。'
+subTitle: '该考试测试您描述以下概念的能力:cloud概念；Azure核心服务；Azure上的核心解决方案和管理工具；普通的安全和网络安全特性；身份、治理、隐私及合规特性；以及Azure成本管理和Service Level Agreements。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
@@ -73,10 +73,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 认证考试支持
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
   href: ../help.md

@@ -42,7 +42,20 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  Dynamics 365 Finance and Operations应用程序包括但不限于Dynamics 365 Finance, Dynamics 365 Supply Chain Management, 以及Dynamics 365 Supply Chain Management, Manufacturing。Dynamics 365 Finance可以帮您：实现全球金融业务的自动化和现代化。实时监控业绩，预测未来结果，并做出数据驱动的决策，以推动业务增长。以人工智能(AI)驱动战略财务决策，统一和自动化您的财务流程，减少运营费用，并降低全球财务复杂性和风险。Dynamics 365 Supply Chain Management可以帮您：改变您的制造和供应链运营。在规划、生产、库存、仓库和运输管理中使用来自AI和Internet of Things (IoT)的预测性洞察和智能。实现运营效率、产品质量和盈利能力的最大化。借助智能制造业务进行创新，实现仓库管理现代化，优化生产性能，最大化您的资产寿命，以及自动化并精简您的供应链。注意：欲了解更多信息，请参阅 https://docs.microsoft.com/learn/paths/get-started-finance-operations/ 在本模块中，我们将关注终端用户和顾问最常用的Dynamics 365 Finance应用程序的核心特性和功能。
+  Dynamics 365 Finance and Operations 应用程序包括，但不限于 Dynamics 365 Finance, Dynamics 365 Supply Chain Management, 以及 Dynamics 365 Supply Chain Management, “制造业”。
+  Dynamics 365 Finance可助您&#58;
+  - 实现全球金融业务的自动化及现代化。
+  - 实时监控性能，预测未来结果，并做出数据驱动的决策，从而推动业务增长。
+  - 借助人工智能 (AI) 来推动战略财务决策，统一和自动化您的财务流程，减少运营费用，并降低全球金融的复杂性及风险。
+  
+  Dynamics 365 Supply Chain Management 可助您&#58;
+  - 转变制造和供应链运作。
+  - 在规划、生产、库存、仓库和运输管理中使用来自 AI 和物联网 (IoT) 的预测性洞察及智能。
+  - 最大化运营效率、产品质量和盈利能力。
+  - 创新智能制造业务，现代化仓库管理，优化生产绩效，最大化您的资产寿命，以及自动化并精简您的供应链。
+  
+  注意&#58; 如需更多资料，请参阅 https://docs.microsoft.com/learn/paths/get-started-finance-operations/
+  在本模块中，我们将重点关注 Dynamics 365 Dynamics 365 Finance 应用程序的核心特性及功能，这些应用程序是终端用户和顾问最常用到的。
 
   #### 受众概况
   Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、吸引主题内容专家和利益相关者、转换需求，并配置该解决方案和应用程序。“功能顾问”通过使用现成的功能、无代码可扩展性、应用程序和服务集成来实施解决方案。
@@ -52,16 +65,7 @@ prerequisitesSection: |-
   - 将 Dynamics 365 for Finance and Operations 用于基本处理的能力
   - 基本的移动设备功能和导航知识
 outlineSection: |-
-  ### 模块 1&#58; 课程概述
-  本课程涵盖了Dynamics 365 Finance and Operations应用程序的核心功能。在这里讨论的总体主题包括核心公共特性、核心配置、数据迁移和准备工作。本课程是功能顾问和技术顾问的基础课程。他们应该对Dynamics 365 Finance and Operations应用程序有着基本的了解。他们还应了解Dynamics 365 Finance and Operations应用程序是如何与包括Power Platform在内的外部系统和工具集成的。通过使用Lifecycle Services及其他Microsoft工具和平台，顾问积极地管理应用程序的生命周期。
-  #### 课程
-  - 学习目标
-  - 模块概述
-
-  您将学到本课程所涵盖的模块。
-
-  
-  ### 模块 2&#58; 使用常用的功能和实施工具
+  ### 模块 1&#58; 使用常用的功能和实施工具
   在本模块中，您将学习如何&#58;
   - 使用常用的功能和实施工具。
   - 描述工作区的用例和功能。
@@ -108,7 +112,7 @@ outlineSection: |-
   - 将Power BI与Dynamics 365 Dynamics 365 Finance应用程序集成在一起
   
   
-  ### 模块 3&#58; 配置安全性、进程和选项
+  ### 模块 2&#58; 配置安全性、进程和选项
   在本模块中，您将学习如何&#58;
   - 区分角色、职责、特权和权限。
   - 针对用户运用安全角色。
@@ -175,7 +179,7 @@ outlineSection: |-
   - 设置并监控批量作业和警报。
   
   
-  ### 模块 4&#58; 管理Dynamics 365 Finance and Operation数据
+  ### 模块 3&#58; 管理Dynamics 365 Finance and Operation数据
   在本模块中，您将学习如何&#58;
   - 管理Dynamics 365 Finance and Operations应用程序中的数据。
   - 描述数据管理的概念。
@@ -241,7 +245,7 @@ outlineSection: |-
   - 实现数据任务自动化。
   
   
-  ### 模块 5&#58; 验证并支持该解决方案
+  ### 模块 4&#58; 验证并支持该解决方案
   在本模块中，您将学习如何&#58;
   - 描述测试用例和业务需求之间的相关性。
   - 使用最佳实践来记录测试用例。

@@ -6,13 +6,11 @@ metadata:
 uid: exam.70-480
 displayName: 70-480
 summary: |+
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本次考试的考生是至少有一年开发经验的开发人员，他们在基于对象的事件驱动编程模型中使用 HTML 进行开发，并使用 JavaScript 为各种应用程序类型、硬件和软件平台编程基本业务逻辑。
 
-  考生也应该对以下内容有透彻的理解：
+  考生也应该对以下内容有透彻的理解&#58;
   - 管理程序流和事件
   - 异步编程
   - 数据验证和使用数据收集，包括 JQuery
@@ -27,7 +25,6 @@ subTitle: 本次考试的考生是至少有一年开发经验的开发人员，�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnKv
 practiceTestUrl: https://www.mindhub.com/Programming-in-HTML5-with-JavaScript-and-CSS3-p/mu-70-480_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=480&examname=Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-480
 locales:
 - en
 - zh-cn
@@ -43,6 +40,7 @@ skills:
 - 实施程序流(25-30%)
 - 访问和保护数据 (25-30%)
 - 在应用程序中使用 CSS3 (25-30%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

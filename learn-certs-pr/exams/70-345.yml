@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-345
 displayName: 70-345
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试的考生是IT顾问或高级管理人员，他们作为管理团队的技术主管。考生应熟悉将 Microsoft Exchange Server 与 Skype for Business 和 Office 365 进行集成的要求。
 
@@ -17,7 +15,6 @@ subTitle: 本考试的考生是IT顾问或高级管理人员，他们作为管�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
 practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-345
 locales:
 - en
 - es

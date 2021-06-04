@@ -6,20 +6,14 @@ metadata:
 uid: exam.az-104
 displayName: AZ-104
 summary: |-
-  <div>
-  <div><strong>本次考试的内容将于2021年1月27日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考试的内容将于2021年5月25日进行更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
 
   参加该考试的考生应具有主题知识，可以实施、管理和监控组织的 Microsoft Azure 环境。
-
-  Azure Administrator 的职责包括在云端环境中实施、管理和监控身份、治理、存储、计算和虚拟网络，以及在需要时提供、重设大小、监控和调整资源。
-
-  Azure Administrator 通常是专门用于实施组织的云端基础结构的较大团队的一部分。
 
   参加该考试的考生应至少具有六个月的 Azure 管理实践经验，并对核心 Azure 服务、Azure 工作负荷、安全性和治理有深刻的了解。此外，该角色应具有使用 PowerShell、Azure CLI、Azure 门户和 Azure Resource Manager 模板的经验。
 
   如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '此考试衡量您完成以下技术任务的能力：管理 Azure 身份和治理；实施和管理存储；部署和管理 Azure 计算资源；配置和管理虚拟网络；并监视和备份 Azure 资源。'
+subTitle: '此考试衡量您完成以下技术任务的能力:管理 Azure 身份和治理；实施和管理存储；部署和管理 Azure 计算资源；配置和管理虚拟网络；并监视和备份 Azure 资源。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-104?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -36,11 +30,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2021年1月27日更新。请下载下面的考试技能大纲，看看将会改变什么。
+- 本次考试的内容将于2021年5月25日进行更新。请下载下面的考试技巧大纲，看看将有何变化。
 - 管理 Azure 身份和治理 (15-20%)
-- 实施和管理存储 (10-15%)
-- 部署和管理 Azure 计算资源 (25-30%)
-- 配置和管理虚拟网络 (30-35%)
+- 实施和管理存储 (15-20%)
+- 部署和管理 Azure 计算资源 (20-25%)
+- 配置和管理虚拟网络 (25-30%)
 - 监视和备份 Azure 资源 (10-15%)
 roles:
 - administrator
@@ -65,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElC
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

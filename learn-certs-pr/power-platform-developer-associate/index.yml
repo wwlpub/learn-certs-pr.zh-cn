@@ -23,7 +23,7 @@ levels:
 - intermediate
 skills:
 - 创建技术设计
-- 配置公共数据服务
+- 配置 Microsoft Dataverse
 - 创建和配置 Power Apps
 - 配置业务流程自动化
 - 扩展用户体验
@@ -60,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

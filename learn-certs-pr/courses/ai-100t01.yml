@@ -19,6 +19,7 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
+- azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
 exams:
@@ -28,7 +29,7 @@ summary: |-
   #### 受众概况
   本课程面向云解决方案架构师，Azure人工智能设计师和AI开发人员。
 prerequisitesSection: |-
-  成功的Azure AI Engineers凭借在云技术方面专业经验和软件开发工具包经验开始该角色。  
+  成功的Azure AI Engineers凭借在云技术方面专业经验和软件开发工具包经验开始该角色。
     
   具体而言&#58;
   - 实现C#或Python解决方案
@@ -37,11 +38,11 @@ prerequisitesSection: |-
 
   为了获取此类必备技能，上课前请完成以下免费在线培训&#58;
   - [研究Microsoft Azure的云概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)
-  - [迈出您的C#第一步](/learn/paths/csharp-first-steps/)或[迈出您的Python第一步](/learn/paths/python-first-steps/)
+  - [迈出您的C#第一步](/learn/paths/csharp-first-steps/) 或 [迈出您的Python第一步](/learn/paths/python-first-steps/)
   - [Core Cloud Services - Azure简介](/learn/modules/welcome-to-azure/)
   - [Core Cloud Services - Azure计算选项](/learn/modules/intro-to-azure-compute/)
 
-  若您之前完全没用过Azure AI服务，请先完成[Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)学习。
+  若您之前完全没用过Azure AI服务，请先完成 [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)学习。
 outlineSection: |-
   ### 模块 1&#58; Azure认知服务简介
   该学生将了解Microsoft Azure上可用的认知服务及其在构建AI解决方案中的作用。
