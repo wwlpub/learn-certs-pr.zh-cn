@@ -15,6 +15,8 @@ locales:
 - en
 - ja
 - fr
+- zh-cn
+- zh-tw
 levels:
 - advanced
 skills:
@@ -34,7 +36,7 @@ relatedCertifications:
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证控制面板
   description: 查看和管理您的预约、证书和成绩单。
   href: https://www.microsoft.com/learning/dashboard.aspx

@@ -6,21 +6,18 @@ metadata:
 uid: exam.70-537
 displayName: 70-537
 summary: |-
-  <div>
-  <div><strong>本次考试将于2021年1月31日下午11时59分结束。在此日期之后，您将无法再参加考试。您可以参加替代考试，<a href='/learn/certifications/exams/AZ-600'>Az-600</a>该考试是新的 Microsoft Certified: Azure Stack Hub Operator Associate 认证所必需的。<br/><br/></strong></div>
-  </div>
-
+  <div><font color='red'><strong>该考试于2021年1月31日失效。一门替代考试，即<a href='/learn/certifications/exams/AZ-600'>AZ-600</a>，现已生效。<br/><br/></strong></font></div>
+  
   该考试的考生是 Azure 管理员和 Azure Stack Hub 运营商，他们使用 Azure Stack Hub 为来自他们自己的数据中心的最终用户或客户提供云服务。
-
+  
   本考试的考生应具有管理和运营 Azure Stack Hub环境的丰富经验。考生应该对 Azure 有深入的了解，以及对虚拟化、网络和身份管理的一些了解。考生还应该了解 Azure Stack Hub 如何实现 DevOp 流程和混合开发模型。
-
+  
   此考试的考生应该展示计划、部署、打包、更新和维护 Azure Stack Hub 基础架构的能力。考生还必须展示提供混合云资源和请求服务的能力，以及管理基础架构即服务(IaaS)和平台即服务(PaaS)的能力。
 
   <div style='font-weight&#58; bold;'><br/>此考试于2020年1月14日进行了更新。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试70-537变更文档。</div>
 subTitle: 该考试的考生是 Azure 管理员和 Azure Stack Hub 运营商，他们使用 Azure Stack Hub 为来自他们自己的数据中心的最终用户或客户提供云服务。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
 locales:
 - en
 levels:
@@ -30,12 +27,11 @@ skills:
 - 为 Azure Stack Hub Environment配置 PaaS 和 IaaS(25-30%)
 - 为DevOps for Azure Stack Hub Users提供服务并进行启用 (25-30%)
 - 维护和监控 Azure Stack Hub Environment(20-25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - azure
-courses:
-- uid: course.20537
 relatedCertifications:
 - related:
     uid: certification.mcse-core-infrastructure

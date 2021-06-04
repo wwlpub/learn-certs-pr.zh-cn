@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-366
 displayName: 98-366
 summary: |-
+  <div><font color='red'><strong>本次 MTA 考试必须在2021年6月30日前购买。如果您目前正在学习这门考试，那么您必须在一年内，即2022年6月30日之前参加考试，因为到那时它就会失效。请参阅<a href="/learn/certifications/mta-retirement-faqs">这个 FAQ</a> 以获取更多详情。</strong></font></br></br></div>
+
   本考试的考生熟悉一般的网络的概念和技术。考生应具有Windows Server，基于Windows的网络，网络管理工具，DNS，TCP / IP，名称解析过程以及网络协议和拓扑的一些实际操作经验。
 
   <div style='font-weight&#58; bold;'><br/>截至2018年1月31日，考试更新有效。如需了解关于这些变动的更多信息以及对所衡量技能有何影响，请下载并查看考试98-366变更文档。</div>
@@ -37,13 +39,11 @@ skills:
 - 了解网络基础架构(30-35%)
 - 了解网络硬件(20-25%)
 - 了解协议和服务(45-50%)
+retirementDate: 06/30/2022
 roles:
 - administrator
 products:
 - windows-server
-courses:
-- uid: course.40032
-- uid: course.40366
 relatedCertifications:
 - related:
     uid: certification.mta-networking-fundamentals

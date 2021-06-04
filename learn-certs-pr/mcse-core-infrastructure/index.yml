@@ -6,17 +6,15 @@ metadata:
 uid: certification.mcse-core-infrastructure
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  <div>
-  <div><strong>该认证于2021年1月31日停用。在此日期之后，您将无法再获得此认证。您在他们停止提供日期之前获得的任何认证将继续显示在认证控制面板的 <a href='https://www.microsoft.com/learning/dashboard.aspx'>成绩证明中</a>。您也可以 <a href='/learn/certifications/retired-certifications'>浏览所有已停用认证</a>。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>该认证已失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/'>“浏览认证和考试”页面</a>。您在失效日之前所获得的任何认证都将继续出现在您的成绩单上，位于<a href='https://aka.ms/certdashboard'>“认证仪表板”中</a>.</strong></font><br/><br/></div>
 
   此认证证明您拥有运行高效与现代化的数据中心，份管理、系统管理、虚拟化、存储和网络所需的技能。
 
-  要获得 MCSE&#58; Core Infrastructure认证，请完成以下要求：
+  要获得 MCSE&#58; Core Infrastructure认证，请完成以下要求&#58;
   - 赢取一项先决条件认证&#58;
     - 必备选项1&#58; [MCSA&#58; Windows Server 2012](/learn/certifications/mcsa-windows-server-certification)
     - 必备选项2&#58; [MCSA&#58; Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification)
-  - 通过一项有效考试：
+  - 通过一项有效考试&#58;
     - [70-744&#58; Securing Windows Server 2016](/learn/certifications/exams/70-744)
     - [70-745&#58; Implementing a Software-Defined Datacenter](/learn/certifications/exams/70-745)
     - [70-413&#58; Designing and Implementing a Server Infrastructure](/learn/certifications/exams/70-413)
@@ -38,7 +36,6 @@ courses:
 - uid: course.20745
 - uid: course.20413
 - uid: course.20414
-- uid: course.20537
 exams:
 - uid: exam.70-744
 - uid: exam.70-745
@@ -51,10 +48,10 @@ prerequisites:
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md

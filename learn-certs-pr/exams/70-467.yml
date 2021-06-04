@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-467
 displayName: 70-467
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试面向商业智能 (BI) 架构师，他们负责 BI 基础结构的整体设计以及它如何与正在使用的其他数据系统相关联。
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: 本考试面向商业智能 (BI) 架构师，他们负责 BI 基础结构的整体设计以及它如何与正在使用的其他数据系统相关联。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
 locales:
 - en
 - zh-cn
@@ -32,6 +29,7 @@ skills:
 - 设计报告解决方案(20-25%)
 - 设计 BI 数据模型(30-35%)
 - 设计 ETL 解决方案(10-15%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

@@ -7,7 +7,18 @@ uid: certification.d365-functional-consultant-financials
 certificationRenewalUid: renewal.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365财务职能顾问统一了全球财务和运营；自动化任务和工作流程；并简化客户的订购，销售，发票和报告。
+  如果您有分析业务需求并将其转化为基于行业最佳实践的成功业务流程和解决方案的功能顾问经验，那么请使用此证书来证明您的技能并为您的职业发展提供帮助。您需要具备实施和配置 Dynamics 365 Finance 方面的经验，以满足业务需求。
+  
+  该认证非常适合那些在财务部门从事应收账款、应付账款、总账、固定资产、预算、成本核算及成本管理或费用等工作的人员。您必须对企业会计原理和财务运作有着基本的了解。
+  
+  如果您在设法获得该认证之前需要更多的经验，这里有一些建议&#58;
+  - 与使用 Dynamics 365 Finance 的功能顾问一起工作。
+  - 在一个或多个项目中担任功能顾问。
+  - 从事一个财务咨询项目。
+  - 加入专家和同行社区[community.dynamics.com](https://community.dynamics.com/).
+  - 在 Microsoft Learn 上采取可用的学习路径。
+  - 报名参加一门由教师指导的培训课程。
+  - 完成更多的亲身实践。
 subTitle: 'Dynamics 365财务职能顾问统一了全球财务和运营；自动化任务和工作流程；并简化客户的订购，销售，发票和报告。'
 levels:
 - intermediate
@@ -56,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证学习路径
   description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y

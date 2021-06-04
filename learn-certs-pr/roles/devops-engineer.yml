@@ -8,14 +8,20 @@ summary: |
   DevOps Engineer 将人员、流程和技术结合起来，不断提供可满足最终用户需求和业务目标的有价值的产品和服务。
 subTitle: DevOps Engineer 将人员、流程和技术结合起来，不断提供可满足最终用户需求和业务目标的有价值的产品和服务。
 certificationPaths: 
-- title: Azure DevOps 工程师专家
-  linkedInKeywords: Azure DevOps 工程师专家
-  uid: certification-path.devops 
+- title: DevOps Engineer
+  linkedInKeywords: DevOps Engineer
+  uid: certification-path.devops-engineer
   prerequisites: 
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
+  - uid: certification.azure-administrator
+    levels:
+    - intermediate
+  - uid: certification.azure-developer
+    levels:
+    - intermediate
   - uid: certification.devops-engineer
     levels:
     - advanced    
@@ -26,10 +32,10 @@ certifications:
 resources:
 - title: Microsoft培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 培训和认证海报
   description: 通过此培训和认证海报选择成功的道路。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 认证支持
   href: ../help.md
   description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

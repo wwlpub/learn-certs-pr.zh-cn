@@ -19,18 +19,59 @@ certificationPaths:
   - uid: certification.azure-security-engineer
     levels:
     - intermediate
-   
+- title: Identity and Access Administrator
+  linkedInKeywords: Identity and Access Administrator
+  uid: certification-path.identity-and-access-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.identity-and-access-administrator
+    levels:
+    - intermediate
+- title: Information Protection Administrator
+  linkedInKeywords: Information Protection Administrator
+  uid: certification-path.information-protection-administrator
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.information-protection-administrator
+    levels:
+    - intermediate
+- title: Security Operations Analyst
+  linkedInKeywords: Security Operations Analyst
+  uid: certification-path.security-operations-analyst
+  prerequisites: 
+  - uid: certification.security-compliance-and-identity-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.security-operations-analyst
+    levels:
+    - intermediate
 certifications:
 - uid: certification.azure-security-engineer
   requiredExams:
   - uid: exam.az-500
+- uid: certification.security-operations-analyst
+  requiredExams:
+  - uid: exam.sc-200
+- uid: certification.identity-and-access-administrator
+  requiredExams:
+  - uid: exam.sc-300
+- uid: certification.information-protection-administrator
+  requiredExams:
+  - uid: exam.sc-400
 resources:
 - title: Microsoft培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 培训和认证海报
   description: 通过此培训和认证海报选择成功的道路。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 认证支持
   href: ../help.md
   description: 通过Microsoft认证支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

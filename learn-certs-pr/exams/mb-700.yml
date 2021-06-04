@@ -6,15 +6,14 @@ metadata:
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
-  <div><div><strong>本次考试的内容将于2021年2月26日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>本次考试的内容于2021年3月17日进行了更新。请下载下面的技能测试文档，看看有何变化。</strong></font><br/><br/></div>
   </div>
-
-  Microsoft Dynamics 365中财务和运营应用程序的解决方案架构师是受信任的顾问，他们了解业务推荐的实践和软件功能。他们带领团队成员实施可以实现预定义实施目标的Dynamics解决方案。
-
-  解决方案架构师负责端对端解决方案的完整性和成功交付。架构师在整个设计过程的售前阶段提供关键指导，并在项目生命周期的其余阶段继续进行监督，以解决整个实施过程中出现的问题并确保实现实施目标。
-
-  解决方案架构师必须对行业标准和产品功能具有广泛的知识和经验。解决方案架构师必须在 Dynamics 解决方案的功能和技术领域拥有广泛的专业知识。他们应该了解平台，工具和功能领域，例如财务，供应链管理和制造。此外，他们在一个或多个客户行业中拥有广泛的领域知识。
-subTitle: '这项考试衡量您完成以下技术任务的能力: 确定解决方案要求； 设计解决方案组件； 并定义解决方案测试和管理策略。'
+  
+  参加本次考试的考生是 Microsoft Dynamics 365 专业人员，他们为利益相关者提供建议，并将业务需求转化为安全的、可扩展的及可靠的解决方案。
+  
+  考生应了解所有的 Dynamics 365 应用程序以及 Power Platform。他们必须对“财务和运营”应用程序有着深刻的理解。此外，他们还在一个或多个垂直行业中拥有广泛的专业知识。该角色需要了解每个领域中的决策如何影响整个解决方案。
+subTitle: '该考试可测试您完成以下技术任务的能力:构建解决方案；定义解决方案策略；管理实施方案；并管理测试。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-700&examname=Exam%20MB-700:%20Microsoft%20Dynamics%20365%3A%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-700
@@ -23,10 +22,11 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容将于2021年2月26日更新。请下载下面的考试技能大纲，看看将会改变什么。
-- 确定解决方案要求 (30-35%)
-- 设计解决方案组件 (40-45%)
-- 定义解决方案测试和管理策略 (25-30%)
+- 本次考试的内容于2021年3月17日进行了更新。请下载下面的考试技巧大纲，看看有何变化。
+- 构建解决方案（25-30%）
+- 定义解决方案策略（25-30%）
+- 管理实施方案（25-30%）
+- 管理测试（10-15%）
 roles:
 - functional-consultant
 - solution-architect
@@ -36,6 +36,11 @@ courses:
 - uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.implement-finance-operations
+- uid: learn-dynamics.use-success-design-unified-operations
+- uid: learn.wwl.config-d365-finance-operations-apps
 relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
@@ -45,7 +50,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

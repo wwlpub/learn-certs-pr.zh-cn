@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-6-894
 displayName: MB6-894
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试的考生是技术顾问、程序员或 IT 人员，他们执行定制 Microsoft Dynamics 365 Finance and Microsoft Dynamics 365 Commerce 所需的基本技术和开发任务。
 
@@ -20,7 +18,6 @@ summary: |-
 subTitle: 本考试的考生是技术顾问、程序员或 IT 人员，他们执行定制 Microsoft Dynamics 365 Finance and Microsoft Dynamics 365 Commerce 所需的基本技术和开发任务。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=MB6-894&examname=Development,%20Extensions,%20and%20Deployment%20for%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-894
 locales:
 - en
 levels:
@@ -31,6 +28,7 @@ skills:
 - 读写基本 X++(20-25%)
 - 管理用户界面和开发人员安全 (20-25%)
 - 开发和扩展零售组件(15-20%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

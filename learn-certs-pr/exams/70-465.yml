@@ -6,17 +6,14 @@ metadata:
 uid: exam.70-465
 displayName: 70-465
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
-
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
+  
   本考试面向在组织中设计和构建数据库解决方案的数据库专业人员。他们负责为数据库结构、存储、对象和服务器创建计划和设计。他们为数据库解决方案的运行环境创建计划。
-
+  
   <div style='font-weight&#58; bold;'><br/>截至2016年2月18日，此考试包括涵盖SQL Server 2012和2014的内容。请注意，此考试不包括仅在SQL Server 2012产品中提供的特色或功能的问题。有关更多信息，请 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUO">下载并查看此文档</a>.</div>
 subTitle: 本考试面向在组织中设计和构建数据库解决方案的数据库专业人员。他们负责为数据库结构、存储、对象和服务器创建计划和设计。他们为数据库解决方案的运行环境创建计划。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t560
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
 locales:
 - en
 - zh-cn
@@ -31,6 +28,7 @@ skills:
 - 设计数据库和数据库对象(30-35%)
 - 设计数据库安全性(10-15%)
 - 设计故障排除和优化解决方案(25-30%)
+retirementDate: 01/31/2021
 roles:
 - data-engineer
 products:

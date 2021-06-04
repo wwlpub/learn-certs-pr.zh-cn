@@ -15,7 +15,7 @@ ms.prod: non-product-specific
 
 <div>以下是Microsoft为支持涵盖Microsoft云端技术的特定课程的实验室解决方案而提供的Azure Passes的信息。  有关由 SLA 支持的替代解决方案的更多信息，请与当前提供对 Azure 的访问权限的授权实验室主机 (ALH) 之一联系。</div>
 
-最近更新时间：**2020年 8月 6日**
+最近更新时间:**2020年 8月 6日**
 
 当学生使用 Microsoft 官方课程注册符合条件的 Azure 相关课程时，Microsoft 将为您的学生提供 30 天免费访问 Microsoft Azure Pass 的权限。面向学生的通行证只能由经授权的 Microsoft 学习合作伙伴通过课件市场取得，并且与 MOC 课程的购买直接相关，每订购一门 MOC 课程最多可通行一次。没有其他面向学生的获得通行证的机制。如果学习合作伙伴订购 MOC 课程，但购买时未选择该课程可用的 Azure Pass，则合作伙伴可以选择返回课件市场，接下来在需要时订购该通行证。
 
@@ -25,7 +25,7 @@ ms.prod: non-product-specific
 
 提供给学习合作伙伴和 MCT 的通行证数量有限。只有在供应持续且仅在支持 Microsoft Azure 的[国家](https://www.windowsazure.com/pricing/faq/)中，才能保证可用性。
 
-**资格**：下面列出符合学生 Azure 通行证资格的课程，本地化的同等版本也符合条件：
+**资格**:下面列出符合学生 Azure 通行证资格的课程，本地化的同等版本也符合条件:
 
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
@@ -104,9 +104,10 @@ ms.prod: non-product-specific
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 搭配 Microsoft 365 核心服务构建应用程序和解决方法
+- PL-400T00 Microsoft Power Platform Developer
 - WS-050T00 Migrating Application Workloads to Azure
 
-注意：此清单可能会更改，并且随着新版本或课程的发布以及旧版本和课程的停用，可能会向此清单中增加或从中删除标题。
+注意:此清单可能会更改，并且随着新版本或课程的发布以及旧版本和课程的停用，可能会向此清单中增加或从中删除标题。
 
 ## 如何申请通行证
 
@@ -116,7 +117,7 @@ ms.prod: non-product-specific
 
 ## 有关 Microsoft Learning Azure Pass 的详细信息
 
-提供给 Microsoft 学习合作伙伴的这个学生通行证与 [公开可用的 Microsoft Azure 试用订阅](https://azure.microsoft.com/pricing/free-trial/)功能相同，限制也类似。激活此通行证不需要支付工具，即不需要信用卡详细信息。以下是供我们的 Microsoft 学习合作伙伴和讲师使用的 Microsoft Learning Azure pass 功能的概述：
+提供给 Microsoft 学习合作伙伴的这个学生通行证与 [公开可用的 Microsoft Azure 试用订阅](https://azure.microsoft.com/pricing/free-trial/)功能相同，限制也类似。激活此通行证不需要支付工具，即不需要信用卡详细信息。以下是供我们的 Microsoft 学习合作伙伴和讲师使用的 Microsoft Learning Azure pass 功能的概述:
 
 | Learning Partner Microsoft Student Azure Pass |
 | --- |
@@ -137,6 +138,6 @@ ms.prod: non-product-specific
 | 不能用于购买由 Marketplace 或 Store 出售的产品，或与 Azure 分开出售的其他产品(例如，Microsoft Azure Active Directory Premium)。|
 | 可以转换为标准付费订阅，并保留使用此 Microsoft Learning Azure Pass 在 Azure 中建立的所有工作。|
 
-可从以下网站查看可公开获得的试用订阅的所有法律功能的完整列表：[https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
+可从以下网站查看可公开获得的试用订阅的所有法律功能的完整列表:[https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
 
 (请注意，此链接仅用于增加额外说明，而与此版本的 Microsoft Student Azure Pass 并不是唯一相关)

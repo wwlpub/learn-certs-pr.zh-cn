@@ -7,7 +7,16 @@ uid: certification.d365-functional-consultant-manufacturing
 certificationRenewalUid: renewal.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。
+  如果您是一位对制造业标准有着深刻理解的功能顾问或商业用户，那么此认证可能适合您。您还需要拥有配置和实施 Dynamics 365 Supply Chain Management 方面的经验，以满足您组织的需求。供应链管理、制造业功能顾问是核心资源，他们与财务、商业及供应链领域的开发人员、解决方案架构师、项目经理和功能顾问一起工作。
+  
+  如果您在设法获得该认证之前需要更多的经验，这里有一些建议&#58;
+  
+  - 在 Microsoft Learn 上学习供应链管理以及供应链管理、制造模块，并完成更多的亲身实践。
+  - 报名参加一个由教师指导的培训课程，此课程涵盖 MB-300 或 MB-320 方向。
+  - 加入社区 [community.dynamics.com](https://community.dynamics.com/)，或加入一个用户组。
+  - 在制造业工作流程中跟随一位制造业功能顾问。
+  - 找个导师，参观生产线，并学习物体是如何制造的。
+  - 向专家和客户提问并学习。
 subTitle: 'Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant集成了数字和物理系统;提高可视性，制​​造效率和灵活性；并降低客户的成本。'
 levels:
 - intermediate
@@ -53,7 +62,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证学习路径
   description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE

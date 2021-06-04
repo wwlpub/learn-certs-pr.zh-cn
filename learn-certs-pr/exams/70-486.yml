@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-486
 displayName: 70-486
 summary: |+
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试的考生是使用 Microsoft Visual Studio 2017 和 ASP.NET 来设计和开发 Web 解决方案的专业开发人员。考生应至少要有三到五年开发基于 Microsoft ASP.NET MVC 解决方案的经验并且掌握 Microsoft Azure Web App 的知识。
 
@@ -24,7 +22,6 @@ subTitle: 本考试的考生是使用 Microsoft Visual Studio 2017 和 ASP.NET �
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
 practiceTestUrl: https://www.mindhub.com/70-486-developing-asppnet-mvc-web-applications/p/MU-70-486?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=486&examname=Developing%20ASP.NET%20MVC%20Web%20Applications&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-486
 locales:
 - en
 - zh-cn
@@ -42,6 +39,7 @@ skills:
 - 开发用户体验(15-20%)
 - 排除故障和调试 Web 应用程序(20-25%)
 - 设计和实施安全(15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

@@ -1,0 +1,166 @@
+### YamlMime:Course
+title: Microsoft Identity and Access Administrator
+metadata:
+  title: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+  description: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+uid: course.sc-300t00
+courseNumber: 'SC-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 执行身份管理解决方案
+- skill: 执行认证和访问管理解决方案
+- skill: 实现应用程序访问管理
+- skill: 规划并执行身份治理策略
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+exams:
+- uid: exam.sc-300
+summary: |-
+  本课程为IT身份和访问专业人员以及IT安全专业人员提供执行基于Microsoft Azure AD的身份管理解决方案所需的知识和技能，并且与身份技术关联。本课程包括用于Azure AD、企业应用程序注册、有条件的访问、身份治理和其他身份管理工具的身份认证内容。
+
+  #### 受众人群
+  本课程针对计划参加相关认证考试或者在日常工作中执行身份和访问管理任务的身份和访问管理员。本课程还可以帮助打算专门为基于Azure的解决方案提供身份解决方案和访问管理系统；专门在组织保护中发挥不可或缺的作用的管理员和工程师。
+prerequisitesSection: |-
+  成功的初学者将事先学习和了解&#58;
+  - 安全性最佳做法和行业安全性需求，如深度防御、最小权限访问、责任分担和零信任模型。
+  - 熟悉身份验证、授权和活动目录等身份概念。
+  - 具备一定的Azure workloads部署经验。本课程不涉及Azure管理基本知识。相反，课程内容以该知识为基础，添加了安全性特定信息。
+  - 一定的Windows 和 Linux操作系统和脚本语言经验是有用的，但不是必需的。课程实验室可使用PowerShell和CLI。
+  
+  <div><strong>预修课程（或同等知识和实践经验）&#58;</strong></div>
+  
+  本项免费在线培训赋予您顺利完成本课学习所需的经验。
+  - [SC-900第1部分&#58; 说明安全性、合规性和身份的概念 - 学习 | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/)
+  - [SC-900第2部分&#58; 说明Microsoft Identity和访问管理解决方案的功能 - 学习 | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-identity-access/)
+  - [SC-900第3部分&#58; 说明Microsoft security解决方案的功能 - 学习 | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-security-solutions/)
+  - [SC-900第4部分&#58; 说明Microsoft合规性解决方案的功能 - 学习 | Microsoft Docs](/learn/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+  - [AZ-104&#58; 管理Azure中的身份和治理 - 学习 | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+outlineSection: |-
+  ### 模块 1&#58; 实现身份管理解决方案
+  学习创建和管理您的初始Azure Active Directory (Azure AD)实现并配置您将用于运行您的解决方案的用户、组和外部身份。
+  #### 课程
+  - 实现Azure AD的初始配置
+  - 创建、配置和管理身份
+  - 实现和管理外部身份
+  - 实现和管理混合身份
+
+  #### 实验室 &#58; 管理用户角色
+  
+  #### 实验室 &#58; 设置租户范围属性
+  
+  #### 实验室 &#58; 为用户分配许可证
+  
+  #### 实验室 &#58; 恢复或移除已删除用户
+  
+  #### 实验室 &#58; 在Azure AD中添加组
+  
+  #### 实验室 &#58; 更改组许可证分配
+  
+  #### 实验室 &#58; 更改用户许可证分配
+  
+  #### 实验室 &#58; 配置外部协作
+  
+  #### 实验室 &#58; 向目录添加客户用户
+  
+  #### 实验室 &#58; 探索动态组
+  
+  完成本模块学习后，学生将能&#58; 
+  - 用自定义设置部署初始Azure AD 
+  - 同时管理内部和外部身份
+  - 实现混合身份解决方案
+  
+  
+  ### 模块 2&#58; 实现身份验证和访问管理解决方案
+  使用Azure AD来实现和管理您的访问管理。使用MFA、有条件的访问和身份保护来管理您的身份解决方案。
+  #### 课程
+  - 使用MFA保护Azure AD user 
+  - 管理用户身份验证
+  - 规划实现和管理有条件的访问
+  - 管理Azure AD身份保护
+  
+  #### 实验室 &#58; 启用 Azure AD MFA
+  
+  #### 实验室 &#58; 配置和部署自助密码重置(SSPR)
+  
+  #### 实验室 &#58; 使用安全默认值
+  
+  #### 实验室 &#58; 实现有条件的访问策略、角色和分配
+  
+  #### 实验室 &#58; 配置身份验证会话控制
+  
+  #### 实验室 &#58; 管理Azure AD智能锁定值
+  
+  #### 实验室 &#58; 启用登录风险策略
+  
+  #### 实验室 &#58; 配置Azure AD MFA身份验证注册策略
+  
+  完成本模块学习后，学生将能&#58; 
+  - 配置和管理用户身份验证，包括MFA
+  - 使用有条件的访问来控制对资源的访问
+  - 使用Azure AD身份保护来保护您的组织
+  
+  
+  ### 模块 3&#58; 实现应用程序的访问管理
+  探索如何能/应该如何用 Azure AD中的应用程序注册将应用程序添加到您的身份和访问解决方案中。
+  #### 课程
+  - 规划和设计企业的SSO集成
+  - 实现和监控企业应用程序的SSO集成
+  - 实现应用程序注册
+  
+  #### 实验室 &#58; 实现应用程序访问管理
+  
+  #### 实验室 &#58; 创建自定义角色来管理应用程序注册
+  
+  #### 实验室 &#58; 注册应用程序
+  
+  #### 实验室 &#58; 给应用程序授予租户范围的管理同意
+  
+  #### 实验室 &#58; 向应用程序添加应用程序角色并接收令牌
+  
+  完成本模块学习后，学生将能&#58; 
+  - 在您的Azure AD上注册一个新的应用程序
+  - 为企业应用程序规划和实现SSO
+  - 监控和维护企业应用程序
+  
+  
+  ### 模块 4&#58; 规划和实现身份治理策略
+  使用授权、访问评审、特权访问来为您的身份解决方案设计和实现身份治理，并监控您的Azure Active Directory (Azure AD)。
+  #### 课程
+  - 规划和实现授权管理
+  - 规划实现和管理访问评审
+  - 规划和实现特权服务
+  - 监控和维护 Azure AD
+  
+  #### 实验室 &#58; 使用Azure AD 授权创建和管理资源目录
+  
+  #### 实验室 &#58; 添加使用验收报告条款
+  
+  #### 实验室 &#58; 使用Azure AD身份治理来管理外部用户的生命周期
+  
+  #### 实验室 &#58; 创建组合应用程序访问评审
+  
+  #### 实验室 &#58; 配置Azure AD角色的PIM
+  
+  #### 实验室 &#58; 在PIM中分配Azure AD角色
+  
+  #### 实验室 &#58; 在PIM中分配Azure资源角色
+  
+  #### 实验室 &#58; 将来自Azure AD的数据连接至Azure Sentinel
+  
+  完成本模块学习后，学生将能&#58; 
+  - 管理和维护 Azure AD，从创建到解决方案
+  - 使用访问评审来维护您的Azure AD
+  - 通过授权管理为授予用户访问权限

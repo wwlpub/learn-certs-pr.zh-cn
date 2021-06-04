@@ -6,7 +6,8 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div><div><strong>本次考试的内容于2020年11月24日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>本次考试内容将于2021年5月28日更新。请下载下面的技能测试文档，以了解有什么变化。</strong></font><br/><br/></div>
   </div>
 
   本考试的考生应该是对 SAP 系统环境和行业标准具有丰富经验和知识的建筑师或工程师。这些标准是针对 Microsoft Azure 上 SAP 解决方案的长期运行而制定的。
@@ -30,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容于2020年11月24日更新。请下载以下考试技能大纲，以了解有何变化。
+- 本次考试内容将于2021年5月28日更新。请下载下面的考试技巧大纲，以了解有什么变化。
 - 将SAP工作负载迁移到Azure (10-15%)
 - 设计 Azure 解决方案以支持 SAP Workloads (20-25%)
 - 构建和部署 Azure for SAP Workloads (35-40%)
@@ -57,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

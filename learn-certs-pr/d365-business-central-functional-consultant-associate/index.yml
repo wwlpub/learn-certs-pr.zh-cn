@@ -6,9 +6,17 @@ metadata:
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 Business Central Functional Consultant 负责为中小企业实施核心应用设置。
-
-  <div><br/><strong>注意&#58;该认证将在 2020 年 10 月 6 日或前后推出。</strong></div>
+  如果您是一位为中小型企业实施核心的 Microsoft Dynamics 365 Business Central 设置流程的功能顾问，那么该认证就是为您准备的。您需要具备配置 Dynamics 365 Business Central 角色中心的经验，这些角色中心包括适应性见解、线索、操作块、报告及图表。并且您应该能够通过使用 Microsoft Power Platform 组件来扩展 Business Central。
+  
+  您必须具备 Business Central 的应用知识，并应了解行业术语、优先级、标准、方法论及最佳实践。如果您具备这方面的知识，并且您正在担任管理员、质量保证人员、DevOps、开发人员、UX 设计人员或者解决方案架构师，那么 Dynamics 365 Business Central Functional Consultant Associate 认证有可能是一个很好的选择。
+  
+  如果您在设法获得该认证之前需要更多的经验，这里有一些建议&#58;
+  - 在一个或多个项目中担任 Business Central 功能顾问。
+  - 为一个 Business Central 咨询项目做出贡献，或者帮助交付一个 Business Central 实施方案。
+  - 找一位导师。
+  - 加入[Dynamics 365 Community](https://community.dynamics.com/)。
+  - 在 Microsoft Learn 上面采取可用到的学习路径，并完成更多的亲身实践。
+  - 报名参加一门由教师指导的培训课程。
 subTitle: 该认证将在 2020 年 10 月 6 日或前后推出。Dynamics 365 Business Central Functional Consultant为中小企业实施核心应用设置。
 levels:
 - intermediate
@@ -50,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

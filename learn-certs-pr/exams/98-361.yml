@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-361
 displayName: 98-361
 summary: |-
+  <div><font color='red'><strong>本次 MTA 考试必须在2021年6月30日前购买。如果您目前正在学习这门考试，那么您必须在一年内，即2022年6月30日之前参加考试，因为到那时它就会失效。请参阅<a href="/learn/certifications/mta-retirement-faqs">这个 FAQ</a> 以获取更多详情。</strong></font></br></br></div>
+  
   本考试面向希望证明自身核心软件开发技能的考生。建议考生通过参加相关培训课程或学习 MSDN 和 Microsoft Visual Studio 中的教程与示例来熟悉相关概念，积累此处所述技术的实践经验。考生应具备一定的 C# 或 Microsoft Visual Basic .NET 经验。
 subTitle: 本考试面向希望证明自身核心软件开发技能的考生。建议考生通过参加相关培训课程或学习 MSDN 和 Microsoft Visual Studio 中的教程与示例来熟悉相关概念，积累此处所述技术的实践经验。考生应具备一定的 C# 或 Microsoft Visual Basic .NET 经验。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -37,14 +39,11 @@ skills:
 - 了解 web 应用程序(15-20%)
 - 了解桌面应用程序(15-20%)
 - 了解数据库(15-20%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - dotnet
-courses:
-- uid: course.40361
-- uid: course.40035
-- uid: course.40034
 relatedCertifications:
 - related:
     uid: certification.mta-software-development-fundamentals
