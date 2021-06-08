@@ -6,8 +6,10 @@ metadata:
 uid: exam.98-382
 displayName: 98-382
 summary: |-
+  <div><font color='red'><strong>本次 MTA 考试必须在2021年6月30日前购买。如果您目前正在学习这门考试，那么您必须在一年内，即2022年6月30日之前参加考试，因为到那时它就会失效。请参阅<a href="/learn/certifications/mta-retirement-faqs">这个 FAQ</a> 以获取更多详情。</strong></font></br></br></div>
+  
   本考试的考生应能够识别和编写语法正确的 JavaScript代码，使用 JavaScript支持的数据类型，并且能够识别和编写将在逻辑上解决给定问题的 JavaScript代码。
-
+  
   考生应该有至少 100小时用 JavaScript编程语言的指导或实践经验。考生还应熟悉 JavaScript的特色和功能，并了解如何编写、调试和维护格式良好的并记录良好的 JavaScript代码。
 subTitle: 本考试的考生应能够识别和编写语法正确的 JavaScript代码，使用 JavaScript支持的数据类型，并且能够识别和编写将在逻辑上解决给定问题的 JavaScript代码。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -36,6 +38,7 @@ skills:
 - 实施和分析决策和循环(20-25%)
 - 与文档对象模型进行交互(15-20%)
 - 与 HTML表单交互(5-10%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:

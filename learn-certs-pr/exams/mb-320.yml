@@ -19,9 +19,10 @@ summary: |-
   本次考试的报考人通常专攻Finance and Operations的一个或多个特征集，包括财务、制造和供应链管理。
 
   报考人须具备一些制造实践的知识。
-subTitle: '本次考试将衡量您完成以下技术任务的能力：配置Dynamics 365 Supply Chain Management, Manufacturing；管理制造流程；实施主生产计划；实现其他制造特征。'
+subTitle: '本次考试将衡量您完成以下技术任务的能力:配置Dynamics 365 Supply Chain Management, Manufacturing；管理制造流程；实施主生产计划；实现其他制造特征。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
+practiceTestUrl: https://in.mindhub.com/mb-320-microsoft-dynamics-365-supply-chain-management-manufacturing-microsoft-official-practice-test/p/MU-MB-320?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-320&examname=Exam%20MB-320:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 locales:
 - en
@@ -57,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

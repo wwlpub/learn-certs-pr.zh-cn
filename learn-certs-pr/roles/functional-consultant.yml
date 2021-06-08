@@ -93,15 +93,39 @@ certificationPaths:
     levels:
     - intermediate
 
+- title: Power Platform Functional Consultant
+  linkedInKeywords: Power Platform Functional Consultant
+  uid: certification-path.power-platform-functional-consultant-associate
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.power-platform-functional-consultant-associate
+    levels:
+    - intermediate
+
+- title: Dynamics 365 Business Central Functional Consultant
+  linkedInKeywords: Dynamics 365 Business Central Functional Consultant
+  uid: certification-path.d365-business-central-functional-consultant-associate
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-business-central-functional-consultant-associate
+    levels:
+    - intermediate
+
 certifications:
 - uid: certification.d365-functional-consultant-customer-service
   requiredExams:
-  - uid: exam.mb-200
+  - uid: exam.pl-200
   - uid: exam.mb-230  
 
 - uid: certification.d365-functional-consultant-field-service
   requiredExams:
-  - uid: exam.mb-200
+  - uid: exam.pl-200
   - uid: exam.mb-240
 
 - uid: certification.d365-functional-consultant-financials
@@ -117,12 +141,12 @@ certifications:
 
 - uid: certification.d365-functional-consultant-marketing
   requiredExams:
-  - uid: exam.mb-200
+  - uid: exam.pl-200
   - uid: exam.mb-220  
 
 - uid: certification.d365-functional-consultant-sales
   requiredExams:
-  - uid: exam.mb-200
+  - uid: exam.pl-200
   - uid: exam.mb-210  
 
 - uid: certification.d365-functional-consultant-supply-chain-management
@@ -138,10 +162,10 @@ certifications:
 resources:
 - title: Microsoft 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 培训和认证海报
   description: 通过此培训和认证海报选择成功的道路。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 认证支持
   href: ../help.md
   description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。

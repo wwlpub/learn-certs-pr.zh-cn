@@ -11,7 +11,7 @@ summary: |-
 
   担任此角色的职责包括维护安全状况、使用各种安全工具识别和补救漏洞、实施威胁防护以及对安全事件升级做出响应。
 
-  Azure Security Engineer 通常是一个较大的团队的一部分，该团队致力于基于云端的管理和安全性，或者作为端到端基础结构的一部分的混合环境。
+  Azure 安全工程师通常是致力于基于cloud的管理和安全的更大规模团队的一部分，也可作为端到端基础设施的一部分来保护混合环境。
 
   参加此认证的考生应具有较强的脚本编写和自动化技能；对网络、视觉效果和云端 N 层架构的深入了解；对 Azure 的云端功能、产品和服务以及其他 Microsoft 产品和服务非常熟悉。
 subTitle: Azure Security Engineer 实施安全控制和威胁防护，管理身份和访问，并保护云和混合环境中的数据，应用程序和网络，作为端到端基础架构的一部分。
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

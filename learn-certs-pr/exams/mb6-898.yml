@@ -6,19 +6,16 @@ metadata:
 uid: exam.mb-6-898
 displayName: MB6-898
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试的考生是 Microsoft Dynamics 365 合作伙伴，他们在 Microsoft Dynamics 365 for Talent 中设置和使用应用程序功能，并为应用程序提供支持。此考试也适用于具有业务解决方案背景并希望证明对 Microsoft Dynamics 365 for Talent 应用程序功能理解的销售人员。
 
   考生通常应该对人力资本管理，人力资源运营流程以及部署、维护和使用 Microsoft Dynamics 365 for Talent 有深刻的理解。
 
-  <div style='font-weight&#58; bold;'><br/>考试MB6-898适用于2018年4月推出的Dynamics 365 for Talent。有关该产品的最新信息，请参阅： <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</div>
+  <div style='font-weight&#58; bold;'><br/>考试MB6-898适用于2018年4月推出的Dynamics 365 for Talent。有关该产品的最新信息，请参阅: <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</div>
 subTitle: 本考试的考生是 Microsoft Dynamics 365 合作伙伴，他们在 Microsoft Dynamics 365 for Talent 中设置和使用应用程序功能，并为应用程序提供支持。此考试也适用于具有业务解决方案背景并希望证明对 Microsoft Dynamics 365 for Talent 应用程序功能理解的销售人员。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=MB6-898&examname=Microsoft%20Dynamics%20365%20for%20Talent&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-898
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ levels:
 skills:
 - 了解 Dynamics 365 for Talent 环境(45-50%)
 - 设置和使用人才申请(50-55%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

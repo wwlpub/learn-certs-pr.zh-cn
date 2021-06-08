@@ -2,26 +2,25 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: Azure IoT Developer 开发 Azure IoT 解决方案的云端和边缘组件。
+  description: Azure IoT 开发人员们实施配置并执行用于创建和维护 IoT 解决方案的 cloud 和边缘部分所需的编码任务。
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Azure IoT Developer Specialty 认证的考生应具有开发 Azure IoT 解决方案的云端和边缘组件方面的主题专业知识。
-
-  担任此角色的职责包括使用云端服务和其他工具管理设备生命周期（设置、配置和维护）。您可以实施 Azure IoT 解决方案的设计，包括设备拓扑、联机能力、调试和安全性，以及用于管理、监控和转换与 IoT 相关的数据管线的解决方案。您还可以部署 Azure IoT Edge 组件并在边缘上配置设备网络。
-
-  Azure IoT Developer 与数据工程师和其他利益相关者合作，以确保成功进行业务集成。
-
-  参加此认证的考生应具有实施构成物联网解决方案的 Azure 服务的经验，包括数据存储选项、数据分析、数据处理和平台即服务选项。该角色还应该能够识别 IoT 解决方案的代码部分内的 Azure IoT 服务配置设置，并以至少一种 Azure 支持的语言（包括 C＃、Node、C 或 Python）执行特定的 IoT 编码任务。
+  Azure IoT 开发人员实施配置并执行用于创建和维护 IoT 解决方案的 cloud 和边缘部分所需的编码任务。除使用 cloud 服务配置和维护设备之外，IoT 开发人员还可设置物理设备。IoT 开发人员负责对整个生命周期的设备配置进行维护和故障排除。
+  
+  IoT 开发人员实施 IoT 解决方案的设计规范，其中包括设备拓扑、连接、诊断和监控以及安全。IoT 开发人员为解决方案的 IoT Edge 部分开发和部署模块并配置设备联网。IoT 开发人员实施用于管理数据管道的解决方案的设计，其中包括与 IoT 相关的监测及数据转换。IoT 开发人员与 Azure IoT 架构师、数据工程师及其他利益相关者合作，以确保成功的业务整合。
+  
+  IoT 开发人员应该对设备类型和 Azure 服务具备大致的了解，包括数据存储选项、数据分析、数据处理、AI 以及其他“平台即服务”选项。IoT 开发人员必须能够使用至少一种 Azure IoT SDK 所支持的语言进行编程。
 subTitle: Azure IoT Developer 开发 Azure IoT 解决方案的云端和边缘组件。
 levels:
 - intermediate
 skills:
-- 实施物联网解决方案基础架构
-- 设置和管理设备
-- 实施边缘
-- 处理和管理数据
-- 监控、故障排除并优化 IoT 解决方案
+- 建立 IoT 解决方案基础设施
+- 提供并管理设备 
+- 实施 IoT Edge 
+- 实施业务整合
+- 处理并管理数据 
+- 对 IoT 解决方案进行监控、故障排除并优化
 - 实施安全性
 roles:
 - developer
@@ -37,6 +36,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
@@ -49,10 +49,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

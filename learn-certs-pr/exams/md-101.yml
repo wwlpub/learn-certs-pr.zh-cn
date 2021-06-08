@@ -6,6 +6,8 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
+  <div><font color='red'><strong>本次考试的内容将于2021年5月25日进行更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
+
   如果您在2019年3月31日停用前通过了 [考试 70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您将仅需要参加MD-101考试即可获得现代桌面认证。
 
   本次考试的候选人员是在企业环境中部署、配置、保护、管理和监视设备和客户端应用程序的管理员。考试负责管理身份、访问、策略、更新和应用程序。
@@ -15,19 +17,20 @@ summary: |-
   考生必须熟悉 Microsoft 365 工作负荷，并且必须精通部署、配置和维护 Windows 10 及非 Windows 设备和技术并具有丰富的经验。
 
   如果你通过本次认证考试，你可能有资格获得 ACE 大学学分。有关详细信息，请参阅 [ACE 大学认证考试学分](/learn/certifications/ace-credit-for-certification-exams)。
-subTitle: '此考试评估您完成以下技术任务的能力：部署和更新操作系统；管理策略和配置文件；管理和保护设备；管理应用程序和数据。如果您在2019年3月31日停用前通过了 [Exam 70-698]，您将仅需要参加MD-101考试即可获得现代桌面认证。'
+subTitle: '该考试可测试您完成以下技术任务的能力:部署和升级操作系统；管理策略和配置文件；管理和保护设备；以及管理应用程序和数据。如果您在2019年3月31日考试到期之前通过了 Exam 70-698，那么您只需参加 MD-101 考试就可获得 Modern Desktop 认证。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
-practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 部署和更新操作系统 (35-40%)
-- 管理政策和个人资料 (25-30%)
-- 管理和保护设备 (20-25%)
+- 本次考试的内容将于2021年5月25日进行更新。请下载下面的考试技巧大纲，看看将有何变化。
+- 部署和升级操作系统（25-30%）
+- 管理政策和个人资料 (20-25%)
+- 管理和保护设备 (30-35%)
 - 管理应用和数据 (10-15%)
 roles:
 - administrator
@@ -47,14 +50,14 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft Certified：Modern Desktop Administrator Associate。
+  description: 发现培训资源以获得Microsoft Certified:Modern Desktop Administrator Associate。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 查看两种特别优惠，助您提高通过几率。
   href: ../deals.md

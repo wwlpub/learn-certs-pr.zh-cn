@@ -7,7 +7,7 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div>
-  <div><strong>本次考试的内容将于2021年1月27日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
+  <div><font color='red'><strong>下面的考试指南显示了将于2021年5月25日实施的那些变化。</strong></font><br/><br/></div>
   </div>
 
   Microsoft Teams Administrator为专注于企业环境中的高效协作和通信的Microsoft Teams配置、部署和管理Office 365工作负载。
@@ -15,7 +15,7 @@ summary: |-
   Teams Administrator必须能够规划、部署和管理Teams聊天，应用程序，频道，会议，音频会议，现场活动和通话。Teams Administrator还负责从Skype for Business升级为Teams。本次考试的候选人应该精通使用 PowerShell 管理 Teams 设置。Teams Administrator 对应用程序和服务的集成点有基本的了解，包括但不限于 SharePoint、OneDrive、Exchange、Azure AD 和 Office 365 Groups。Teams Administrator 了解如何集成外部应用程序和服务。
 
   Teams Administrator 与Telephony工程师合作，将高级语音功能集成到Microsoft Teams中。该职位不负责配置直接路由，配置呼叫路由或集成电话。Teams Administrator 可以与其他工作负载管理员一起工作，包括安全性和合规性，消息传递，网络，身份和设备。
-subTitle: '该考试衡量您完成以下技术任务的能力：规划和配置Microsoft Teams环境；管理聊天、通话和会议；以及管理团队和应用政策。'
+subTitle: '该考试衡量您完成以下技术任务的能力:规划和配置Microsoft Teams环境；管理聊天、通话和会议；以及管理团队和应用政策。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-700?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2021年1月27日更新。请下载下面的考试技能大纲，看看将会改变什么。
+- 下面的考试指南显示了将于2021年5月25日实施的那些变化。
 - 规划和配置Microsoft Teams环境(45-50%)
 - 管理聊天、电话和会议(30-35%)
 - 管理团队和应用政策(20-25%)
@@ -48,14 +48,14 @@ relatedCertifications:
     uid: certification.m365-teams-administrator-associate
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得 Microsoft Certified：Teams Administrator Associate.
+  description: 发现培训资源以获得 Microsoft Certified:Teams Administrator Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45gtR
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

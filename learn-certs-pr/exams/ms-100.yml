@@ -6,9 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div>
-  <div><font color='red'><strong>本考试的内容将于2021年2月24日更新。请下载下面的技能评估文档，看看将会发生什么变化。</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考试的内容将于2021年6月2日进行更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
   
   此考试面向的考生是参与评估、规划、迁移、部署和管理 Microsoft 365 服务的 Microsoft 365 企业管理员。他们为企业执行 Microsoft 365 租户管理任务，包括其身份、安全性、合规性和支持技术。
   
@@ -16,7 +14,7 @@ summary: |-
 subTitle: '此考试衡量您完成以下技术任务的能力: 设计和实施Microsoft 365服务；管理用户身份和角色；管理访问和身份验证；以及规划 Office 365 工作负荷和应用程序。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
-practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
@@ -24,11 +22,11 @@ locales:
 levels:
 - advanced
 skills:
-- 本考试的内容将于2021年2月24日更新。请下载下面的考试技能大纲，看看将会发生什么变化。
+- 本次考试的内容将于2021年6月2日进行更新。请下载下面的考试技巧大纲，看看将有何变化。
 - 设计和实施Microsoft 365服务(25-30%)
-- 管理用户身份和角色(35-40%)
-- 管理存取和身份验证(20-25%)
-- 规划Office 365工作负载和应用程序(10-15%)
+- 管理用户身份和角色(25-30%)
+- 管理存取和身份验证(15-20%)
+- 规划Office 365工作负载和应用程序(25-30%)
 roles:
 - administrator
 products:
@@ -51,10 +49,10 @@ relatedCertifications:
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

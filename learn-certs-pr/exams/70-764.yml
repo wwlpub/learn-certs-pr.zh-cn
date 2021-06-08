@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-764
 displayName: 70-764
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   本考试面向执行安装、维护和配置任务的数据库专业人员。其他职责包括设置数据库系统、确保那些系统高效地运作以及定期存储、备份数据并防止数据未经授权的访问。
 subTitle: 本考试面向执行安装、维护和配置任务的数据库专业人员。其他职责包括设置数据库系统、确保那些系统高效地运作以及定期存储、备份数据并防止数据未经授权的访问。
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfJx
 practiceTestUrl: http://www.mindhub.com/70-764-Administering-SQL-Database-Infrastructure-p/mu-70-764_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=764&examname=Administering%20a%20SQL%20Database%20Infrastructure&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-764
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - 管理数据库的备份和还原 (20-25%)
 - 管理和监视 SQL Server 实例 (35-40%)
 - 管理高可用性和灾难恢复 (20-25%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

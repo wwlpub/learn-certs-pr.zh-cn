@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-744
 displayName: 70-744
 summary: |-
-  <div>
-  <div><strong>该考试将于美国中部时间 2021 年 1 月 31 日晚上11&#58;59 停用。在此日期之后，您将不再能够参加考试。深入了解 <a href='/learn/certifications/retired-certification-exams'>即将停用的考试。</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>该考试于2021年1月31日失效。有关目前可用的选项，请参阅<a href='/learn/certifications/browse/?resource_type=examination'>“浏览认证和考试”页面</a>.<br/><br/></strong></font></div>
 
   此考试的考生确保Windows Server 2016环境安全。考生熟悉使用Shielded和加密支持的虚拟机和Guarded Fabric来强化服务器环境以及保护虚拟机基础架构的方法和技术。
 
@@ -21,7 +19,6 @@ subTitle: 此考试的考生确保Windows Server 2016环境安全。考生熟悉
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IDM3
 practiceTestUrl: https://www.mindhub.com/70-744-Securing-Windows-Server-2016-p/mu-70-744_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=zh-cn&examcode=744&examname=Securing%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-744
 locales:
 - en
 - es
@@ -40,6 +37,7 @@ skills:
 - 管理特权身份(25-30%)
 - 实施“威胁检测解决方案”(15-20%)
 - 实施特定工作负载安全(5-10%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

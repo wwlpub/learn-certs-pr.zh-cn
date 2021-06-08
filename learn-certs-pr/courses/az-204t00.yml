@@ -51,9 +51,17 @@ summary: |-
   #### 观众概况
 
   本课程的学生对Azure开发或通过Microsoft Azure Developer Associate认证考试感兴趣。
-
 prerequisitesSection: |-
-  学生应具有1-2年的专业开发经验，和使用Microsoft Azure的经验。他们必须能够用Azure支持的语言编程。
+  要想在这门课程中取得成功，学习者应具备以下几点&#58;
+  - Azure IaaS 和 PaaS 解决方案以及 Azure 门户的实际操作经验。
+  - 使用 Azure 支持语言进行编写的中级经验。(C#, JavaScript, Python, 或 Java)
+  - 能够编写代码，从而在一个 SQL 或 NoSQL 数据库产品上连接并执行操作。(SQL Server, Oracle, MongoDB, Cassandra 或类似数据库)
+  - 编写代码以处理身份验证、授权及其他安全原则的中级经验。
+  - 对 HTML、HTTP 协议和 REST API 接口的大致了解。
+  
+  如果您是 Azure 和 cloud 计算的新手，可以考虑以下资源&#58;
+  - 在线免费&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - 教师引导式线上课程&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### 模块 1&#58; 创建Azure App Service网络应用程序
   学生将学习如何在Azure应用服务（App Service ）平台上构建web应用程序。他们将学习这个平台是如何运作的，以及如何创建、配置、扩展、并安全地部署到应用服务平台。
@@ -117,7 +125,7 @@ outlineSection: |-
 
 
   ### 模块 8&#58; 实现API管理
-  学生将学习如何发布API，创建策略（policies）来管理通过API共享的信息，以及如何使用Azure API管理（Management ）服务来管理对API的访问。
+  学生将学习如何发布API，创建策略（policies）来管理通过API共享的信息，以及如何使用Azure API管理（Management）服务来管理对API的访问。
   #### 课程
   - API管理概述
   - 定义API的策略
@@ -139,7 +147,7 @@ outlineSection: |-
   - 实现使用Azure通知中心（Notification Hubs）的解决方案
 
 
-  ### 模块 11&#58;  开发基于消息的解决方案
+  ### 模块 11&#58; 开发基于消息的解决方案
   学生将学习如何使用基于消息的体系结构来构建应用程序。
   #### 课程
   - 实现使用Azure服务总线（Service Bus）的解决方案

@@ -7,18 +7,18 @@ uid: exam.ms-600
 displayName: MS-600
 summary: |-
   <div>
-  <div><strong>本次考试的内容将于2021年1月27日更新。请下载下面的技能评估文档，看看会发生什么变化。</strong><br/><br/></div>
+  <div><font color='red'><strong>下面的考试指南显示了将于2021年5月25日实施的那些变化。</strong></font><br/><br/></div>
   </div>
 
   参加此考试的考生是Microsoft 365 Developer，他们设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案使用Microsoft 365平台针对组织对生产力和协作的需求进行了优化。
 
-  参加该考试的考生精通 Microsoft Identity 和 Microsoft Graph。他们对UI元素(包括Adaptive Cards和UI Fabric)，集成点(包括Microsoft Teams，Office加载项，SharePoint Framework，Actionable Messages)以及确定工作负载平台目标具有一般了解。
+  参加本次考试的考生可熟练使用 Microsoft identity 和 Microsoft Graph。他们对于 UI 元素（包括 Adaptive Cards 和 Office UI Fabric (Fluent Ui))、集成点（包括 Microsoft Teams, Office Add-ins, SharePoint Framework、Actionable Messages），以及确定工作负载平台目标方面有着大致的了解。
 
   考生应该在软件开发的所有阶段都具有在Microsoft Teams，Office外接程序或SharePoint框架上开发解决方案的经验。他们应该对REST API，JSON，OAuth2，OData，OpenID Connect，Microsoft Identities (包括Azure AD和Microsoft帐户)，Azure AD B2C以及权限/同意概念有基本的了解。
-subTitle: '该考试衡量您完成以下技术任务的能力：实施Microsoft Identity； 使用Microsoft Graph构建应用；扩展和自定义SharePoint；扩展Teams；扩展Office。'
+subTitle: '该考试衡量您完成以下技术任务的能力:实施Microsoft Identity； 使用Microsoft Graph构建应用；扩展和自定义SharePoint；扩展Teams；扩展Office。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
-practiceTestUrl: https://in.mindhub.com/ms-600-building-applications-and-solutions-with-microsoft-365-core-services-microsoft-official-practice-test/p/MU-MS-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/ms-600-building-applications-and-solutions-with-microsoft-365-core-services-microsoft-official-practice-test/p/MU-MS-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2021年1月27日更新。请下载下面的考试技能大纲，看看将会改变什么。
+- 下面的考试指南显示了将于2021年5月25日实施的那些变化。
 - 实施 Microsoft Identity (20-25%)
 - 使用 Microsoft Graph 构建应用程序(15-20%)
 - 扩展和自定义 SharePoint(15-20%)
@@ -45,19 +45,20 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 relatedCertifications:
 - related:
     uid: certification.m365-developer-associate
 resources:
 - title: 认证学习路径
-  description: 发现培训资源以获得Microsoft Certified：Developer Associate.
+  description: 发现培训资源以获得Microsoft Certified:Developer Associate.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

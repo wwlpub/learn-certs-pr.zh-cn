@@ -7,8 +7,8 @@ uid: certification.m365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   Microsoft 365 Developer 可设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案针对使用Microsoft 365平台的组织的生产力和协作需求进行了优化。
-
-  Microsoft 365 Developer 精通Microsoft Identity和Microsoft Graph。他们对UI元素（包括Adaptive Cards和UI Fabric），集成点（包括Microsoft Teams，Office加载项，SharePoint Framework，Actionable Messages）以及确定工作负载平台目标具有一般了解。
+  
+  Microsoft 365 开发人员精通 Microsoft identity 和 Microsoft Graph。他们对 UI 元素（包括 Adaptive Cards 和 Office UI Fabric (Fluent UI))、集成点（包括 Microsoft Teams, Office Add-ins, SharePoint Framework,Actionable Messages），以及确定工作量平台目标方面有着大致的了解。
 subTitle: Microsoft 365 Developer 可设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案针对使用Microsoft 365平台的组织的生产力和协作需求进行了优化。
 levels:
 - intermediate
@@ -29,6 +29,7 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
 exams:
 - uid: exam.ms-600
@@ -38,10 +39,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay [重新考试]
   description: 看到两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

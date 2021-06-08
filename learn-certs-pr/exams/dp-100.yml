@@ -6,8 +6,7 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div><div><strong>该考试的内容已于2020年12月8日进行了更新。请下载以下技能测量文档，来看看会发生哪些变化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>本次考试的内容将于2021年5月20日进行更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
 
   Azure Data Scientist 利用他们在数据科学和机器学习方面的知识在 Azure 上实施和运行机器学习工作负载；特别是使用 Azure 机器学习服务。这需要为 Azure 的数据科学工作负荷规划并创建合适的工作环境，运行数据实验和训练预测模型，管理和优化模型，以及将机器学习模型部署到生产中。
 
@@ -25,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 该考试的内容已于2020年12月8日进行了更新。请下载以下考试技巧大纲，来看看发生了哪些变化。
+- 本次考试的内容将于2021年5月20日进行更新。请下载下面的考试技巧大纲，看看将有何变化。
 - 设置 Azure 机器学习工作区 (30-35%)
 - 进行实验和训练模型 (25-30%)
 - 优化和管理模型 (20-25%)
@@ -52,10 +51,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证海报
   description: 查看基础知识、基于角色和专业认证的概述。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 查看两种特别优惠，有助于提高您的通过几率。
   href: ../deals.md

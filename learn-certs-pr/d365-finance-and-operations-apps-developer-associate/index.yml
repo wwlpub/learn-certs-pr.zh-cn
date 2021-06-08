@@ -6,7 +6,16 @@ metadata:
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  使用Microsoft Dynamics 365中的Finance and Operations应用程序的开发人员可以实施并扩展应用程序以满足业务需求。考生可以使用标准化的应用程序编码模式、可扩展的功能以及外部集成来提供可以完全实现的解决方案。
+  如果您是一位与功能顾问、解决方案及技术架构师一起工作的开发人员，并且借助 Dynamics 365 中的财务和运营应用程序，您负责将需求转化为关键的系统功能，那么您就可以使用该认证来推进您的职业生涯。您必须具备利用标准化的应用程序编码模式、可扩展的特性以及外部的集成来提供完全实现的解决方案方面的经验。
+  
+  您需要熟悉软件开发周期方法论、数据完整性以及数据安全合规性。并且您必须具备利用 Dynamics 365 中与财务和运营解决方案相关的底层框架、数据结构及对象的丰富知识和经验，而这些解决方案能够提供一流的功能。
+  
+  如果您在设法获得该认证之前需要更多的经验，这里有一些建议&#58;
+  - 在 Dynamics 365 中作为一个或多个财务和运营应用程序的开发人员。
+  - 自愿帮助开发一个项目。
+  - 加入 [Dynamics 365 Community](https://community.dynamics.com/).
+  - 在 Microsoft Learn 上采用适用的学习路径。
+  - 报名参加由教师指导的培训，比如 Microsoft Dynamics 365&#58; “核心财务和运营”以及 Microsoft Dynamics 365&#58; “财务和运营应用开发者”。
 subTitle: 使用Microsoft Dynamics 365中的Finance and Operations应用程序的开发人员可以实施并扩展应用程序以满足业务需求。
 levels:
 - intermediate
@@ -54,7 +63,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rP
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 认证学习路径
   description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
