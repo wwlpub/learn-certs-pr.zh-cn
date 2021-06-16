@@ -29,8 +29,6 @@ roles:
 - developer
 products:
 - windows-system-center
-exams:
-- uid: exam.70-703
 summary: |-
   本课程为期5天，介绍如何使用“配置管理器”及其相关的站点系统来有效地管理网络资源。在此次5天的课程中，您将学习日常管理任务，其中包括如何通过使用“配置管理器”来管理应用程序、客户端健康状况、硬件和软件清单、操作系统部署以及软件更新。您还将学习如何优化 System Center Endpoint Protection、管理合规性以及创建管理查询和报告。
 
