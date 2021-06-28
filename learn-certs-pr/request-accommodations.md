@@ -12,22 +12,44 @@ ms.prod: non-product-specific
 ---
 # 申请住宿
 
-## 适用于通过 Pearson VUE 提供的考试：
+## 当需要便利设施时
 
-如果由于无法使用您的母语进行考试而需要额外的时间，则可以通过提交 [英语作为第二语言表格](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)来提出要求。请按照表格上的说明进行操作。 
+我们致力于确保每一个有兴趣参加 Microsoft Certifications 的人都能以公平和准确的方式反映他们的技能及能力。这意味着在需要时提供便利设施。便利设施可以包括为那些视力低下或有听力障碍的人提供的特殊设备，医疗原因的休息，或者由于考试语言不是母语所需的额外测试时间。
 
-如果您在考试时需要特殊设备或其他住宿，则可以通过 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)要求使用“合理”的住宿。调整请求系统” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)。合理调整请求系统是一个安全的在线系统，用于请求便利和提交证明文件。
+要求便利设施的情况包括但不限于需要：
 
-- 如果您是首次使用该请求系统，则需要创建用户名和密码。要创建用户名，请单击登录屏幕上的“注册”链接。请注意，系统要求您拥有一个有效的电子邮件帐户。
-- Pearson VUE 使用此安全系统，因为需要您上载支持文档。如果您还没有这样做，请给您的评估者(医生，心理学家)一份有关您的残疾的 [评估者指南](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 副本。您的评估人员应确保他/她提供的文档符合我们的准则。在大多数情况下，您的评估者将是心理学家或医生，他们会进行一系列的心理、教育或医学检查，并为您提供诊断报告或详细信的副本。
-- **请耐心等待 Pearson VUE 在 10 个工作日内审核您的资料。请相应地规划您的请求。**
-- 审核您的请求后，您将收到一封电子邮件，其中包括审核结果。决定信将出现在“合理调整请求系统”的“我的文档”部分中。如果批准，决定信将提供安排您的适应考试的说明。
-- 如果您对考试适应性决定不满意，可以通过单击与“合理调整请求系统”中出现的决定信相同部分的“请求上诉”按钮对决定提出上诉。请填写并上传点击按钮后显示的申诉表格。残疾问题专家将审查所有上诉请求。
+- 由于暂时性或永久性疾病，如 ADHD, PTSD, 或考试期间的焦虑而造成的额外时间。
+- 多显示器设置或物理放大设备，如果您视力低下。
+- 使用降噪耳机或白噪声设备来改善聚焦。
+- 协助签到流程和/或参加考试的读者或抄写员。
+由于监考流程是为确保认证流程的完整性而设计的，所以它涉及一套用于在考试期间监控考生的严格指导方针。因此，如果监考员不知道发生这些行为的原因，他们可能会将其标记为潜在的安全违规行为，那么您可能需要为您的行为向监考员提出便利设施的请求。例如，您可能还需要一个便利设施，如果您：
 
-## 适用于通过 Certiport 提供的考试：
+- 考试时在房间里走动，以改善聚焦。
+- 在考场里走动或站着，因为长时间保持坐姿是很困难的。
+- 经常将视线从显示器移开，以使眼睛休息或集中注意力。
+- 明显的坐立不安，这样人们就会注意到。
+- 无法重新安排您的家庭测试环境以满足标准要求。
 
-如果您因为无法使用您的母语进行考试而需要更多时间，索取特殊设备，或者在参加考试时想申请其他住宿，则可以按照 [此处](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) 的流程提出申请。
+如果提出请求，监考标准也可以在必要时进行调整，从而提供适当的便利设施，最大程度地确保考试交付的公平性。
 
-## <a name="for-exams-delivered-through-psi"></a> 适用于通过 PSI 提供的考试:
+## 如何请求考试便利设施
 
-如需申请考试住宿，请在安排考试之前 [向 PSI 提交住宿申请](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) 。PSI 将在 24-48 个工作小时内回复请求。
+请求便利设施的流程取决于您将与我们的哪些考试交付提供商一起参加考试。然而，请求和批准便利设施的流程可能需要几周时间才能完成，所以要确保尽早开始这个流程，以获得您需要的便利设施。您需要在报名参加考试 ***之前*** 提出便利设施的请求，以便考试交付提供商有时间评估您的请求并提供便利。**在您准备好便利设施之前，请不要报名参加考试。**
+
+如果您不确定选择哪个考试交付提供商，请访问：[如何选择考试交付提供商](/learn/certifications/register-schedule-exam#how-to-choose-an-exam-delivery-provider)。
+
+## Pearson VUE 的测试便利设施（供个人使用）
+
+如果您在考试时需要特殊设备或任何其他便利设施，您可以通过 Pearson VUE 提出请求，使用 Microsoft 页面的 [Pearson VUE 测试便利设施](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 中列出的流程。在您提交了必要的文件后，您将收到一封电子邮件，通知您已收到您的请求。VUE 可能需要10个工作日来审核您的材料，并与您联系和回复。一旦便利设施得到确认，在您考试时可能需要几周的时间来确保它能够到位。
+
+如果考试不是您的母语，而您需要额外的时间来阅读并回答问题，请使用 [English as a Second Language form.](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)
+
+对于测试中心而言，一些类型的设备，比如轮椅、助听器和吸入器，被认为是舒适辅助设备，无需预先批准。舒适辅助设备在进入测试室之前由测试中心的工作人员进行视觉检查。完整列表请参见 [Pearson VUE Comfort Aid List.](https://home.pearsonvue.com/Test-takers/Accommodations/Pearson-VUE-Comfort-Aid-List-PDF.aspx)
+
+## Certiport 的测试便利设施（供学生和学术机构使用）
+
+如果考试不是您的母语，而您需要额外的时间来阅读并回答问题，需要特殊的设备，或想请求在您考试时所使用的其他便利设施，您可以按照 [Certiport 测试便利设施站点](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) 上面所述的流程请求便利设施。Certiport 可能需要10个工作日审核您的材料，并与您联系和回复。 一旦便利设施得到确认，在您考试时可能需要几周的时间来确保它能够到位。
+
+## PSI 的测试便利设施（面向受 COVID-19 影响的求职者）
+
+要想申请考试便利设施，请在安排考试前 [向 PSI 提交便利设施请求](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872)。PSI 将在48个工作小时内回复该请求。

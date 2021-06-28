@@ -17,6 +17,7 @@ ms.prod: non-product-specific
 - [考试安全政策和重考政策](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [考试改期和取消政策](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Microsoft 认证考试协议](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Microsoft 考试保密协议](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [申请住宿](/learn/certifications/request-accomodations)
 - [考试项目质疑流程](/learn/certifications/exam-item-challenge-process)

@@ -7,7 +7,7 @@ uid: course.pl-600t00
 courseNumber: 'PL-600T00'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -16,6 +16,8 @@ roles:
 - solution-architect
 products:
 - power-platform
+exams:
+- uid: exam.pl-600
 summary: |-
   解决方案架构师负责顺利地设计、实现、部署和采用整体方案。解决方案架构师确保该解决方案满足客户当前和未来的需求。在本课程中，学生将了解解决方案架构师在实现过程中所做出的决定，包括安全性、集成、Power Apps体系结构、Power Automate体系结构等。本课程专门为您介绍解决方案架构师角色。
 

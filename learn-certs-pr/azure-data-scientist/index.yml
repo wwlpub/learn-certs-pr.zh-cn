@@ -7,15 +7,19 @@ uid: certification.azure-data-scientist
 certificationRenewalUid: renewal.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Azure Data Scientists 利用他们在数据科学和机器学习方面的知识在 Azure 上实施和运行机器学习工作负载；特别是使用 Azure 机器学习服务。
+  Azure Data Scientist Associate 认证的考生应具有应用数据科学和机器学习在 Azure 上实施并运行机器学习工作负载的专业技能。
+  
+  该角色的职责包括为 Azure 上的数据科学工作负载规划并创建一个合适的工作环境。你可以进行数据实验并训练预测模型。此外，您还可以管理、优化并将机器学习模型部署到生产中。
+  
+  该认证的考生应具有数据科学知识和使用 Azure Machine Learning 及 Azure Databricks 方面的经验。
 subTitle: Azure Data Scientists 利用他们在数据科学和机器学习方面的知识在 Azure 上实施和运行机器学习工作负载；特别是使用 Azure 机器学习服务。
 levels:
 - intermediate
 skills:
-- 设置 Azure 机器学习工作区
+- 管理用于机器学习的 Azure 资源
 - 进行实验和训练模型
-- 优化和管理模型
-- 部署和使用模型
+- 部署并操作化机器学习解决方案
+- 实施负责任的机器学习
 roles:
 - data-scientist
 type: role-based
@@ -26,10 +30,12 @@ products:
 - azure-machine-learning-studio
 courses:
 - uid: course.dp-100t01
+- uid: course.dp-090t00
 paths:
 - uid: learn.wwl.create-machine-learn-models
 - uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+- uid: learn.wwl.perform-data-science-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
 - uid: exam.dp-100

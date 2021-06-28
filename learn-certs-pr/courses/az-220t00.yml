@@ -18,7 +18,8 @@ skillsGained:
 - skill: 使用设备孪生（device twins）和直接方法来实现设备管理。
 - skill: 实现含有监视、日志记录和诊断测试的解决方案。
 - skill: 识别并解决安全问题，并实现Azure IoT安全中心。
-- skill: 使用Azure IoT Central构建IoT（物联网）解决方案，并重新认识物联网上SaaS的机遇。
+- skill: 创建 Azure Digital Twins 解决方案，集成上下游服务
+- skill: 使用 Azure IoT Central 创建 IoT 解决方案， 并识别 IoT 的 SaaS 机会。
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -32,18 +33,17 @@ products:
 exams:
 - uid: exam.az-220
 summary: |+
-  本课程教导学生成功创建和维护Azure IoT解决方案的云和边缘部分（edge portions）所需的技能和知识。课程包括全面介绍核心Azure IoT服务，如IoT Hub（物联网中心）、设备配置服务（Device Provisioning Services）、Azure流分析（Stream Analytics）、时序见解（Time Series Insights）等。除了重点介绍Azure PaaS（平台即服务）外，课程还包括IoT Edge（物联网边缘）、设备管理、监控和故障排除、安全问题和Azure IoT Central（物联网中心）。
+  本课程教导学生成功创建和维护Azure IoT解决方案的云和边缘部分（edge portions）所需的技能和知识。课程包括全面介绍核心Azure IoT服务，如IoT Hub（物联网中心）、设备配置服务（Device Provisioning Services）、Azure流分析（Stream Analytics）、时序见解（Time Series Insights）等。 除了将重点放在 Azure PaaS 服务以外，该课程还包含有关 IoT Edge、设备管理、监控、故障排除、安全问题、Azure Digital Twins、和 Azure IoT Central 的部分。
 
   #### 观众概况
 
-  Azure IoT开发人员负责实现并维护Azure IoT解决方案的云和边缘部分。除了使用Azure IoT服务和其他Microsoft工具来配置和维护设备外，IoT开发人员还要设置物理设备，并负责在整个生命周期中维护设备。IoT开发人员要实现IoT解决方案的设计，包括设备拓扑、连接、调试和安全。对于边缘（Edge）设备场景，IoT开发人员还要部署计算/容器并配置设备网络，其中可能包括各种边缘网关的实现。IoT开发人员要实现解决方案的设计，以管理数据管道，包括与IoT相关的监测和数据转换。IoT开发人员要与数据工程师和其他利益相关者合作，以保证业务集成的成功。IoT开发人员应该对Azure服务有很好的了解，包括数据存储选项、数据分析、数据处理，以及Azure IoT PaaS与SaaS的比较。IoT开发人员至少应具备一种Azure支持的语言的基本编程技能，包括C#，Node.js、C、Python或Java。
+    Azure IoT 开发人员负责创建和维护 IoT 解决方案的 cloud 和 edge 部分所需要的实施和编码工作。除了使用Azure IoT服务和其他Microsoft工具来配置和维护设备外，IoT开发人员还要设置物理设备，并负责在整个生命周期中维护设备。IoT开发人员要实现IoT解决方案的设计，包括设备拓扑、连接、调试和安全。对于边缘（Edge）设备场景，IoT开发人员还要部署计算/容器并配置设备网络，其中可能包括各种边缘网关的实现。IoT开发人员要实现解决方案的设计，以管理数据管道，包括与IoT相关的监测和数据转换。IoT开发人员要与数据工程师和其他利益相关者合作，以保证业务集成的成功。IoT开发人员应该对Azure服务有很好的了解，包括数据存储选项、数据分析、数据处理，以及Azure IoT PaaS与SaaS的比较。IoT开发人员至少应具备一种Azure支持的语言的基本编程技能，包括C#，Node.js、C、Python或Java。
 
 prerequisitesSection: |-
+  如需在该课程中取得成功，学习者应符合以下条件：
   - 云解决方案意识&#58; 学生应该有使用Azure Portal（门户）的经验，并对PaaS、SaaS和IaaS实现有基本的了解。
   - 软件开发经验&#58; 软件开发经验是本课程的先决条件，但不需要特定的软件语言，也不需要具有专业水平。
   - 数据处理经验&#58; 建议对数据存储和数据处理有基本的了解，但这不是必需的。 
-
-  如果您才刚接触Azure和云计算，请考虑以下资源之一&#58; 
   - 免费在线&#58; Azure基础知识 (https&#58;//docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
   - 讲师指导课程&#58; AZ-900&#58; Azure基础知识 (https&#58;//docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
 outlineSection: |-
@@ -234,7 +234,27 @@ outlineSection: |-
   - 配置安全代理（Security Agents ）和安全模块孪生（Security Module Twins）
   - 聚合Azure物联网安全中心事件
 
-  ### 模块 11&#58; 使用物联网中心（IoT Central）构建物联网解决方案
+  ### 模型 11&#58; ADT
+
+  在该模型中，学生将研究 Azure Digital Twins 解决方案的概念，并迈出实施 ADT 的第一步。学生首先将研究 Azure Digital Twins 服务和 ADT 解决方案的概念，然后再对可用来构建和监控 ADT 解决方案的开发工具进行介绍。然后，学生将利用开发工具来创建自定义模型、构建和查询 ADT 环境图、进行 IoT设备遥测、以及实施业务逻辑和数据处理。
+
+  #### 课程
+
+  - Azure Digital Twins 简介
+  - ADT 解决方案开发简介
+  - 监控和排除 ADT 故障
+
+  #### 实验室&#58; 开发 Azure Digital Twins (ADT)  解决方案
+
+  完成该模型后，学生将能够&#58; 
+
+  - 描述 Azure Digital Twins (ADT) 解决方案的组成部分
+  - 说明如何创建及配置 ADT 实例
+  - 说明如何创建、查询及管理 ADT 图
+  - 说明如何从 IoT 中心获取 ADT 数据 ，以及为下游服务提供支持
+  - 描述如何监控和排除ADT 故障
+
+  ### 模块 12&#58; 使用物联网中心（IoT Central）构建物联网解决方案
   在本模块中，学生将学习如何配置和实现Azure物联网中心（IoT Central） 作为物联网SaaS解决方案。学生将首先高度调查物联网中心及其工作原理。在对物联网中心的建立有基本了解之后，学生将继续创建和管理设备模板，然后在他们的物联网中心应用程序中管理设备。
 
   #### 课程  
@@ -243,9 +263,7 @@ outlineSection: |-
   - 在Azure IoT Central中管理设备
 
 
-  #### 实验室&#58; Azure IoT Central入门
-
-  #### 实验室&#58; 使用Azure物联网中心实现物联网解决方案
+  #### 实验室&#58; 使用 IoT Central创建 IoT 解决方案
 
   完成本模块后，学生将能够&#58; 
   - 描述Azure IoT Central和Azure IoT PaaS服务之间的区别
@@ -254,6 +272,3 @@ outlineSection: |-
   - 创建和发布设备模板
   - 使用规则和通知管理设备
   - 使用作业大规模管理设备
-
-
-
