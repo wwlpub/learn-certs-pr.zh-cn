@@ -13,7 +13,7 @@ skillsGained:
 - skill: 描述 Dynamics 365 Customer Service 的能力和功能
 - skill: 描述 Dynamics 365 Field Service 的能力和功能
 - skill: 描述 Dynamics 365 Project Operations (CRM) 的能力和功能
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -22,6 +22,8 @@ roles:
 - business-owner
 products:
 - dynamics-365
+exams:
+- uid: exam.mb-910
 summary: |-
   本课程将为您提供 Dynamics 365 客户参与能力的广泛介绍。您将熟悉客户参与的概念和每个客户参与的应用程序，这些应用程序包括 Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service, 以及 Dynamics 365 项目运作的客户关系管理 (CRM) 能力。本课程将包括讲座和操作实验室。
 

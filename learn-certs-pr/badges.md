@@ -1,6 +1,6 @@
 ---
-title: Microsoft考试和认证徽章 | Microsoft Docs
-description: Microsoft考试和认证徽章 
+title: 使用和分享认证徽章 | Microsoft Docs
+description: 使用和分享认证徽章
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,120 +9,102 @@ ms.workload: NA
 ms.date: 05/28/2020
 ms.author: micsullivan
 ---
-# Microsoft考试和认证徽章
+# 使用和分享认证徽章
 
-通过考试或获得带数字徽章的认证，那么全世界都可以知道您的成绩！
+## 关于数字徽章
 
-数字徽章使您能够以一种值得信赖和可验证的方式轻松分享您的技能。
+通过认证考试和获得认证，将获得徽章。通过数字徽章与全世界分享您的成就，是让他人了解您的技能的一项好办法。
 
-您的 Microsoft 徽章使您能够: 
+徽章是您的成就的一种数字化表示方式，由仅与您相关联的图像和元数据组成。当有人查看您的徽章时，他们能够了解更多关于您的技能的信息，并能验证徽章的真实性 —— 使他人能够更加容易地确认您的技能。
 
-- 通过您的专业网络轻松分享您的认证和考试。
+当您在热门网站（例如： LinkedIn、Facebook, 和 Twitter 上分享您的数字徽章时，或者将其放到您的简历、个人网站或电子邮件签名中时，看到您徽章之人会立即认可它，将其视为 Microsoft 对您的成就给予的可信验证。
+
+## 关于 Credly 平台
+
+Microsoft 与 Credly 合作，为您提供您的 Microsoft Certifications 管理、分享和验证平台。该平台还为您提供劳动力市场情况，有助于您寻找与您的技能相匹配的工作机会。通过 Credly 及其合作伙伴 Gartner TalentNeuron™，您可以 24/7 全天候访问 25,000 多个全球招聘委员会和企业招聘网站。
+
+使用 Credly 平台，您可以：
+- 下载您的徽章图片和 URL，将其放入简历、网站或电子邮件签名中。
+- 利用专业网络，轻松共享您的考试和认证。
 - 了解哪些雇主需要具备您这样的技能的员工。
 - 查看需要您的 Microsoft 技能的职位的预期薪水。
 - 搜索与您的认证相关的新工作机会，只需点击几下即可申请。
+- 寻找劳动力市场信息和工作机会。观看视频：[Credly: Labor market insights](https://vimeo.com/379867308)，了解在您所处的市场中快速发现机会有多么容易。
 
-有关更多详细信息，请参见我们的博客文章 [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification)。
+要了解更多，请参阅我们的博客文章 [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification)。
 
-## 什么是数字徽章？
+## 如何领取徽章
 
-Microsoft 与 Credly 的 Acclaim 平台合作，为您的认证成绩颁发徽章。
+领取 Microsoft 徽章很简单，您可随时领取，即使徽章于以前获得。获得徽章后，您会收到 Microsoft 发送的电子邮件通知，其中包含有关如何领取徽章的信息。
 
-徽章是成就的数字形式，由唯一与您关联的图像和元数据组成。当有人查看您的徽章时，他们将能够了解更多关于您的技能的信息并验证其真实性—确保只有您才是这些技能的拥有者。
+1. 点击电子邮件中的链接，领取徽章。这会使您进入 Credly 平台。
+2. 在 Credly 平台上创建帐户。使用您在设置 Microsoft账户时所使用的相同电子邮箱地址。
+3. 点击设置帐户后生成的电子确认邮件中的链接，以在 Credly 平台上确认您的帐户。
+4. 将来领取徽章就像点击通知邮件中的链接以及登录您的 Acclaim 帐户一样简单。
 
-此外，我们最近调整了徽章的外观和感观，使其与您可能从Microsoft获得的其他凭证更紧密地契合。现在，当您在流行的在线网站(如 LinkedIn，Facebook 和 Twitter)上分享数字徽章时，或者将其嵌入到您的简历中、个人网站或电子邮件签名中时，任何查看徽章的人都会立即认出它是由 Microsoft 颁发的。
+如果您未收到领取徽章的通知邮件，则只需使用 Microsoft 为您存档的相同电子邮箱地址，在 Credly* 平台上创建帐户即可。您的徽章将在您的帐户中，等待您领取。
 
-## 领取徽章的流程是什么？
+_* 请注意，此链接会使您转至第三方 Credly 平台，其隐私惯例与 Microsoft 不同。如果您向 Credly 提供个人数据，则您的数据会受其隐私声明约束。_
 
-领取 Microsoft 徽章简单。获得证书或通过考试后，您将收到来自 Microsoft 的通知电子邮件。要领取您的徽章:   
+## 如何从 Credly 自动接受徽章
 
-1. 点击该电子邮件中的链接。
-2. 在 Credly’s Acclaim 平台上创建一个帐户。
-3. 单击设置帐户后生成的确认电子邮件中的链接来确认您的帐户。
+在 Credly 的 Acclaim 平台，请调整您的帐户设置，以自动接受颁发给您的徽章。在 Acclaim 视频 “[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)” 中观看这个循序渐进的过程。请注意，虽然视频显示的徽章电子邮件通知来自于 Acclaim，但您的电子邮件通知将来自微软。
 
-今后索取徽章非常容易，就像单击通知电子邮件中的链接并登录到我们的 Acclaim 帐户一样。
+## 如何分享徽章
 
-要简化该过程吗？
+每当您学会您所在的领域的新 Microsoft 技能或获得您所在领域的 Microsoft Certification，这都是一项值得与您所在网络进行分享和庆祝的成就。
 
-只需调整您的帐户设置即可自动接受发给您的徽章。您可以观看此视频中的分步过程 [Acclaim How To: Manage your badge](https://www.youtube.com/watch?v=rMeSQM0h1_Y).请注意，尽管该视频显示了来自 Acclaim 的徽章电子邮件通知，但您的电子邮件通知将来自 Microsoft。
+如需在申领 Microsoft Certification徽章后分享徽章和您的认证状态：
 
-不要忘了利用 Credly 旗下的 Acclaim 平台上提供的各种功能。
+1. 请通过您的 [Microsoft Certification Dashboard](https://aka.ms/certdashboard) 或通过 Microsoft 提供的徽章申领电子邮件中的链接跳转至 Credly 平台。
+2. 登录您的 Credly 帐户。
+3. 跳转至 “Share your badge” 页面，选择 **Share**。
+4. 如需在社交媒体（例如： LinkedIn）上分享您的徽章，或将其放入您的简历、电子邮件签名或个人网站中，请使用此页面中的一键分享功能。
 
-- 在 LinkedIn、Facebook 和 Twitter 上分享您的徽章。
-- 下载您的徽章图像和 URL，可将其嵌入到简历、网站或电子邮件签名中。
-- 在 Acclaim 平台上设置您的个人资料。
-- 探索有关劳动力市场的见解和就业机会。观看视频 [Acclaim How To: Explore labor market insights](https://www.youtube.com/watch?v=G4qBl17VgBo) 了解快速发现市场机会的难易程度。
-
-您的数字徽章是 Microsoft 支持您进行专业技能发展和认可的另一种方式。利用这个计划加快您的职业生涯发展。
-
-## 您有没有未认领的徽章？
-
-即使您是以往通过的考试或获得的认证，您也可以随时申领您的徽章。您可以通过 Acclaim 平台获得根据您过去的认证历史记录从 Microsoft 获得的所有徽章。只需登录您的帐户并索取！
-
-如果您没有 Acclaim  账户，您可以在 [Acclaim](https://www.youracclaim.com/)*平台站点使用 Microsoft 为您归档的相同电子邮件地址。您的徽章将在您的帐户中等待您申领。
-
-_ *请注意，此链接将转至 Credly 旗下的 Acclaim 平台，这是一个隐私条例与 Microsoft 不同的第三方。如果您向 Acclaim 提供个人数据，则您的数据受其隐私声明的约束。
-
-## 我有资格获得徽章吗？
+## 有资格获得徽章的考试与认证？
 
 我们为 Microsoft 认证计划中的所有有效考试和认证颁发徽章，但以下情况除外:   
 
 - 如果通过一项考试而获得认证，则将发给认证徽章而不是考试。
-- 考试 74-343 使用 Microsoft Project 管理项目(于 2019 年 7 月停用)。
-- MOS 2010版考试及认证。
-- Microsoft Dynamics CRM考试（MB2-706、MB2-707、MB2-708、MB2-710、MB2-711、MB2-712、MB2-713、MB2-714 (全部于2019年12月31日停用））
-- 旧版考试和认证。我们的某些旧版考试和认证没有徽章。如果您在 Acclaim 个人资料中没有看到旧版考试或认证的徽章，则表明我们没有为该考试或认证颁发徽章。
+- 我们的某些旧版考试和认证没有徽章。如果您在 Acclaim 个人资料中没有看到旧版考试或认证的徽章，则表明我们没有为该考试或认证颁发徽章。
 
-如果您获得了已停用的考试或认证的徽章，您仍然可以通过 Credly 的 Acclaim 平台领取徽章，并将其共享给其他平台或通过电子邮件共享。请参阅 “您有无人认领的徽章吗？” 的答案。在常见问题解答中了解操作方法。
+如果您已获得徽章，但该徽章对应的考试或认证已取消，您仍然可以通过 Credly 平台申领您的徽章。
 
-## 常见问题解答
+## 徽章常见问题
 
-**问题: 是否有与领取、管理或分享 Microsoft 徽章相关的费用？**
+**是否有与领取、管理或分享 Microsoft 徽章相关的费用？**
 
-**答**否，没有与领取、管理或分享 Microsoft 徽章相关的费用。这是 Microsoft 提供的一项免费服务。
+不。这是 Microsoft 提供的一项免费服务。
 
-**问题: 如何将我的证书显示为 Microsoft 徽章？**
+**如何将我的证书显示为 Microsoft 徽章？**
 
-**答**Credly 旗下的 Acclaim 平台采用 Mozilla 定义的开放徽章标准来将您的证书转换成唯一与您关联的元数据相关数字图像。此标准允许您通过一种可以由雇主和同行专业人士验证的方式轻松地在线分享您的数字徽章。
+Credly 平台使用由 Mozilla  确定的 Open Badges 标准，将您的凭证转换为与仅与您相关的元数据的关联数字图像。
 
-**问题: 我的徽章看起来不同。什么改变了？**
+**我的新徽章看起来与我以前获得的不同。是否有任何变化？**
 
-**答**我们更新了徽章的外观，以使其与您可以在整个 Microsoft 上获得的徽章的外观保持一致。新的设计可以提供和以前一样的功能，我们会继续鼓励您与同行和通过社交渠道分享您的徽章以展示技能。
+我们更新了徽章的外观和触感，以便与您能够获得的所有 Microsoft 徽章的外观和触感保持一致。新设计版本的功能与以前的相同。
 
-**问题: 何时以及如何领取我的徽章？**
+**如果我不想公开我的 Microsoft 徽章，该怎样做？**
 
-**答**您可以随时领取徽章。您可以通过任何徽章通知或提醒电子邮件访问您的徽章。或者，如果您不再拥有这些电子邮件，您可以访问您的 Acclaim。如果您没有账户，则可以在[Acclaim platform site](https://www.youracclaim.com/)* 使用 Microsoft 为您存盘的相同电子邮件地址。您的徽章将在您的帐户中领取。请注意，Microsoft 可以随时终止此数字徽章计划。
+您可以控制您的徽章的公开方式和时间。您可以在 Credly 平台上，调整您帐户中的隐私设置，将您的个人资料和徽章设为私密。 如果您不想参与 Microsoft 徽章计划，则您无需接受您的徽章，并可以忽略电子通知邮件。
 
-_*请注意，此链接将转至 Credly 旗下的 Acclaim 平台，这是一个隐私条例与Microsoft不同的第三方。如果您向 Acclaim 提供个人数据，则您的数据受其隐私声明的约束。_
+**如果我对我的 Microsoft 徽章有疑问，该联系谁？**
 
-**问题: 我已经获得了多个 Microsoft 徽章。我需要手动领取颁发给我的每个徽章吗？**
+请访问：[认证支持](/learn/certifications/help).
 
-**答**您可以调整您在 Acclaim 平台上的帐户设置，以自动接受颁发给您的徽章。观看此 [video](https://www.youtube.com/watch?v=rMeSQM0h1_Y) 学习如何做到。
+如果您对 Credly 平台或如何申领徽章有任何疑问，请联系 [Credly’s 支持。](https://support.youracclaim.com/)
 
-**问题: 如果我不想将我的 Microsoft 徽章公开，该怎么办？**
+**如果我通过 Certiport 获得了一枚 Microsoft 徽章，但尚未收到我的徽章怎么办？**
 
-**答**您可以控制徽章的公开方式和时间。您可以调整您在 Acclaim 平台上的隐私设置，将您的个人资料和徽章设为私密。如果您不希望参加 Microsoft 徽章计划，则无需接受您的徽章，也可以忽略通知电子邮件。
-
-**问题: Credly 旗下的 Acclaim 平台是什么？**
-
-**答**Acclaim 平台是 Credly 旗下的独立徽章平台。Acclaim 提供了一种管理、分享和验证Microsoft认证的方法。该平台还为您提供劳动力市场见解，可帮助您探索与您的技能相匹配的就业机会。[进一步了解 Acclaim](https://www.youracclaim.com/)。
-
-**问题: 如果我对我的 Microsoft 徽章有任何疑问，我可以联系谁？**
-
-**答**如果您认为自己有资格获得徽章，但尚未收到任何有关徽章的信息，请联系 [Certification Support](https://aka.ms/MCPForum).。如果对 Acclaim 平台或如何领取徽章有任何疑问，请联系 [Credly’s support](https://support.youracclaim.com/)。
-
-**问题: 如果我已经通过 Certiport 获得了一枚Microsoft徽章，但是还没有领取到它，该怎么办？**
-
-**答**请通过以下方式与 Certiport 联系  
-[https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service](https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service) ，询问您丢失的徽章。
+请 [联系 Certiport](https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service)，查询您遗失的徽章。
 
 请注意: 当徽章获得者丢失 Certiport 的徽章时，通常是由于以下原因之一。
 
 1. 您的 Certiport 账户的默认语言不是英语。
 2. 您在 Certiport 的认证系统中有两个帐户。
 
-向 Certiport 客户支持提及这些原因可能有助于协助进行问题排查。
+如果您认为某一问题可能需要协助解决，那么获取 Certiport 的支持，可能会有所帮助。
 
-**问题: 如果考试或认证停用，我的徽章会怎么样？**
+**如果考试或认证停用，我的徽章会怎么样？**
 
-**答**如果您因参加考试或认证而获得徽章，改徽章被选为数字徽章计划的一部分，但后来又被放到[retired list](/learn/certifications/retired-certifications#retired-certifications)上，您仍然可以通过 Credly 的 Acclaim 平台兑换徽章，并照常与其他平台或通过电子邮件共享。
+如果您获得徽章所对应的考试或认证是数字徽章计划的组成部分，但后来 [被取消](/learn/certifications/retired-certifications)，您仍然可以通过 Credly 平台接受徽章。

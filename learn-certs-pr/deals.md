@@ -11,77 +11,60 @@ ms.author: micsullivan
 ---
 # Offers
 
-## Exam Replay [重新考试]
+## 专用程序包
 
-验证您的技能，获得专业优势，增强您的信心。Exam Replay 凭证自购买之日起十二 (12) 个月内有效，不能与其他优惠同时使用。您必须在购买后六个月内安排并参加考试(及补考）。有关更多信息，请参见 [常见问题](#frequently-ask-questions）。如果您在购买或兑换 Exam Replay 优惠时遇到问题，请通过电子邮件发送给[支持 团队](mailto:mindhub@pearson.com)
+我们与 Pearson VUE 合作，一起提供用于考试及实践测试的专用程序包。我们明白考试是一件充满挑战和压力的事情，知道您可以在考试前进行练习并且重新考试可以让您充满信心。目前这些程序包是：
 
-### 从两项不同的 Exam Replay 优惠中选择一项：
+- Exam Replay.
+- 附带 Practice Test 的 Exam Replay.
 
-<div>
-    <table border="0">
-        <tr>
-            <td>
-                <img src="images/exam-replay-thumbnail.png">
-            </td>
-            <td>                
-                <p><strong>Microsoft Exam Replay</strong><br/>包括：一(1）张Microsoft认证专家认证考试券+一(1）张补考卷(如有必要）。</p>
-                <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3"><strong>立即购买</strong></a></p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="images/exam-replay-with-practice-test-thumbnail.png">
-            </td>
-            <td>
-               <p> <strong>Microsoft Exam Replay with Practice Test</strong> <br/>包括：一(1）个Microsoft认证专家认证考试券+一(1）张补考卷(如有必要）和一(1）个Microsoft官方模拟考试。</p>
-               <p><a href="https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink"><strong>立即购买</strong></a></p>
-            </td>
-        </tr>
-    </table>
-</div>
+## 关于这些提供项
 
+### Exam Replay
 
-## <a name="frequently-asked-questions"></a>常见问题解答
+Exam Replay 给您第二次通过认证考试的机会。如果您第一次没有通过考试，不要担心，只要提高您的技能，如果需要就再考一次。
 
-**问题：什么是考试重播？**
+Exam Replay 包括：
 
-**答** Exam Replay 是一个考试凭证，其中包括同一考试的一次补考。**Exam Replay with Practice Test**是带有同一个考试一次补考和单独的 Microsoft Official Practice Test券。
+- Microsoft Certified Professional Certification 考试折扣券一张。
+- 同一考试的一次重考。
 
-**问题：一次可以购买多少张 Exam Replay 券？**
+  [现在就购买 Exam Replay 吧。](https://www.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3)
 
-**答** 您可以任意购买多张 Exam Replay 券。
+### 附带 Practice Test 的 Exam Replay
 
-**问题：使用一张 Exam Replay 可参加多少次补考？**
+将 Microsoft Official Practice Test 添加到附带一次重考的考试折扣券中，以便更好地准备通过您的 Microsoft 认证考试。实践测试会提升您的准备程度，而重考会增加您的成功机会。
 
-**答** 如果你没有通过你的第一次考试, Exam Replay 可以参加同一门考试的两次补考。
+附带 Practice Test 的 Exam Replay 包括：
 
-**问题：哪些考试适合使用 Exam Replay？**
+- 一份Microsoft Official Practice Test。
+- Microsoft Certified Professional Certification 考试折扣券一张。
+- 同一考试的一次重考。
 
-**答** 考试重放适用于除 Microsoft Technology Associate (MTA) 考试，Microsoft Office Specialist(MOS）考试，过渡考试，基础考试和测试版考试之外的所有 Microsoft 认证考试。此优惠也适用于所有可用的有效考试的模拟考试。[查看可用的练习测试](https://us.mindhub.com/microsoft-practice-tests)。
+  [现在就购买 Exam Replay with practice test 吧。](https://www.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
 
-**问题：Exam Replay 券的有效期有多长？**
+您可以购买您所希望的尽可能多的 Exam Replay 程序包。Exam Replay 对所有 Microsoft Certification 考试都是有效的，**以下除外**：
+- Microsoft Technology Associate (MTA)。
+- Microsoft Office Specialist (MOS)。
+- Transition 考试。
+- Fundamentals 考试。
+- Beta 考试。
 
-**答** 认证考试(包括补考）必须在购买后12个月内安排并参加考试。
+在购买 Exam Replay with Practice Test 之前, [请确保您的考试有一次实践测试。](https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~content-type%3Apractice-tests)
 
-**问题：我可以使用 Exam Replay 考试凭证参加在线监考考试吗？**
+## 关于此程序包的其他重要说明
 
-**答** 是，如果提供了在线监考考试，则可以使用 Exam Replay 凭证参加。[了解在线考试](/learn/certifications/online-exams) 以获得Microsoft认证。
+- 该认证考试及重考必须安排在购买后的12个月内进行。
+- 在您参加了初试并且未能通过之前，您不能安排您的重考。
+- 您可以利用这个程序包在网上参加考试。
+- Microsoft Official Practice Tests 可在购买后一年内于 [MeasureUp.com](https://www.measureup.com/) 处激活，并在激活后30天有效。 [请在这里获得激活实践测试的更多细节。](https://home.pearsonvue.com/microsoft/practicetests)
+- 您的实践测试折扣券可用于推广活动中所包含的任何有效的实践测试。它并不需要是与您的正式考试或重考相同的测试。
+- 附带 Practice Test 程序包的 Exam Replay 和 Exam Replay 不适用于您可能已经单独购买的考试或实践测试。
 
-**问题：我能否同时安排初始考试和重考吗？**
+## 如果您在购买或兑换这些程序包时需要帮助
 
-**答** 不能，在参加初始考试并且未通过之后，您才能注册申请重考。有关详细信息，请参阅 [Microsoft 认证考试重考政策](/learn/certifications/certification-exam-policies#exam-retake-policy)。
+请 [给 Pearson VUE 团队发电子邮件。](https://mindhub@pearson.com/)
 
-**问题：如何激活模拟考试，它的有效期是多长？**
+## 针对学生的特别优惠
 
-**答**可以在购买后一年内在 [MeasureUp.com](https://www.measureup.com/)上激活Microsoft官方实践测试，激活后的30天内有效。模拟考试并非专属于通过 Exam Replay 和带模拟考试 Exam Replay 选择的考试，也可用于包括促销在内的任何可用模拟考试。请参阅 [如何激活实践测试](https://home.pearsonvue.com/microsoft/practicetests)。
-
-**问题：如果我之前已经为考试或模拟考试付费，然后我还购买了 Exam Replay 套餐或带模拟考试 Exam Replay 套餐，我是否获得我最初购买的考试或模拟考试的退款？**
-
-**答**否。Exam Replay 套餐或带模拟考试 Exam Replay 的优惠不适用于单独购买的考试或模拟考试。
-
-**问题：如果我在模拟考试促销中购买或兑换 Exam Replay 或带模拟考试 Exam Replay，我该联系谁？**
-
-**答**如果您在模拟考试促销中购买或兑换 Exam Replay 套餐或带模拟考试 Exam Replay，请 [通过电子邮件发送给 Pearson VUE 团队](mailto:mindhub@pearson.com)。
-
-
-
+请访问：[学生折扣](/learn/certifications/student-discounts).

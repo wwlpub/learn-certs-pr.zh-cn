@@ -1,6 +1,6 @@
 ﻿---
-title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
-description: 'Microsoft Learning Partners and Providers'
+title: '查找 Learning Partner | Microsoft Docs'
+description: 'Microsoft Learning Partners - 查找 Learning Partner'
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,13 @@ ms.date: 06/02/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Microsoft Learning Partners: 今天教授明天的技能。
+# 查找 Learning Partner
 
-![Microsoft Learning Partners banner](images/partners-banner.jpg "Microsoft Learning Partners banner")
+## 关于 Microsoft Learning Partners
 
-无论您是想提高技能并担任下一个职位的员工，还是需要提高团队云技能的经理，Microsoft Learning Partners 都能提供范围广泛的培训解决方案来满足您的学习需求，包括混合学习、面对面学习和在线学习 。结合视频，动手实验和 Microsoft 认证准备的深入培训解决方案，可以提高您的技术技能，从而帮助您将 Microsoft 技术技能提升到一个新的水平。
+无论您是希望为下一个职务提升技能的个人，还是需要提升团队 cloud 技能的经理， Microsoft Learning Partners 都能提供广泛的培训解决方案，包括混合式学习、面对面学习和在线学习，以满足您的学习目的。世界各地的 Microsoft Learning Partners 均符合由 Microsoft 开发的并由 Microsoft Certified Trainers 提供的培训内容的教授计划要求。如需了解有关与 Learning Partners 合作之价值的更多信息，请访问：[Learning Partners 的价值](/learn/certifications/partners-value)。
 
-## 按国家/地区查找 Microsoft 学习合作伙伴
+## <a name="find-microsoft-learning-partner-by-country-region"></a> 按国家/地区查找 Microsoft Learning Partner
 
 我们的全球合作伙伴网络提供了基于 Microsoft 技术的、灵活的和基于角色的定制培训和认证。所有讲师都是 Microsoft 认证的培训师(MCT)，他们已经完成了严格的培训，并且满足严格的技术认证要求。
 
@@ -509,15 +509,3 @@ ms.prod: non-product-specific
 
 > [!div class="nextstepaction"]
 > [查找 MICROSOFT 解决方案提供商](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
-
-## 对 IT 专业人员和开发人员的好处
-
-**学习一项新技术。** 仅须通过一门课程，您就可以开发涵盖技术应用生命周期——从规划到支持——的实践技能。而且您的能力水平只能通过动手实验、模拟和现实世界中的技能应用来获得。</br></br> **为认证作准备。** 适用于 Microsoft 核心技术和技能水平的 [Microsoft 认证](https://www.microsoft.com/learning/certification-overview.aspx)。Microsoft官方培训课程考虑到了Microsoft认证，并由合格的行业导师讲授。</br></br>**开始一个新的职业吧。** 教授Microsoft官方课程的行业导师可以帮助您获得直接从课堂转型到工作场所的 IT 技能。课程提供宝贵的数字资源，在您完成课程后，您仍然可以使用这些资源。</br></br> 过去一年接受过 IT 或业务相关培训的专业人员比那些没有接受过培训的专业人员平均多赚了将近 3400 美元。(Global Knowledge， *IT 技能和工资调查*，2011年3月)
-
-## 对 IT 管理人员的好处
-
-**提高效率和生产率。** Microsoft 学习伙伴可以帮助您从机构技术投资中获取最大收益。您的员工可以通过课堂培训或Microsoft官方随选课程增加对Microsoft技术的掌握能力。</br></br> **准备部署。** 通过Microsoft学习伙伴提供的熟练培训可帮助企业加速新的Microsoft技术部署，并减少停工时间。研究表明，40％ 的运作停工是由于操作人员的错误造成的，这归因于核心系统严重缺乏培训。(安德生，库欣。)“培训对网络管理的影响：认证直接影响运营生产力。”IDC研究。据“网络世界”杂志的 Linda Musthaler 报道，2009年11月25日) </br></br> **员工发展，招聘和录用。** 培训和认证是衡量团队成员对特定技术、硬件和软件的使用情况的有效方法。</br></br> 百分之六十的技术管理人员受访者表示，规划大型 IT 基础架构项目时遇到的最大挑战之一是在需要时是否有具备必要能力的专业人员。(TEKsystems/CIO Custom Solutions Group， *IT Workforce Planning Trends*，2011年6月)
-
-## 成为Microsoft学习伙伴吧
-
-无论您向您的客户提供培训是作为核心服务之一还是作为您整个的业务实践，获得认证资格都可为您的业务创造新的机遇。Microsoft伙伴网络的优势可以帮助您节省时间和金钱，同时增强您的业务能力，更好地为客户提供服务，并建立连接以充分发挥您的业务潜力。</br></br> [加入 Microsoft Learning Partner 计划](https://mspartner.microsoft.com/en/us/Pages/Membership/learning-competency.aspx)
