@@ -1,6 +1,6 @@
 ﻿---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: 课程的取消 | Microsoft Docs
+description: 课程的取消
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,54 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# 已停用课件
+# 课程的取消
 
-以下表格列出已经停用或即将停用的课件。在停用日期之后，已停用的课程将不再销售。
+## 关于课程的取消
 
-如果您正在寻找 MOC 点播停用课程，请点击以下连结：[https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft 持续监测行业趋势并修改认证要求，以跟上技术变化的步伐。 为了帮助您处于技术前沿，并为您提供最相关的培训机会，我们会定期引入新课程并修改或暂停老课程。
 
-## 已停用课件：讲师指导的培训
+课程一旦取消，就不再可用。该课程无法再购买，之前购买过该课程之人将无法再访问该课件。
+
+## 已取消的课程：讲师指导培训
+
+* 课件于 2021 年 5 月 31 日取消
+
+    | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | 英语 | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | 英语 | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | 英语 | 5/31/2021 |
+
+* 课件于 2021 年 4 月 30 日取消
+
+    | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | 英语 | 04/30/2021 |
 
 * 课件于2021年3月31日停用。
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | 英语 | 03/31/2021 |
+	| 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | 日语 | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | 日语 | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | 日语 | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | 日语 | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | 日语 | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | 日语 | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | 英语 | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | 英语 | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | 英语 | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | 英语 | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | 英语 | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | 英语 | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | 英语 | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | 英语 | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | 英语 | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | 英语 | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | 英语 | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | 英语 | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | 英语 | 3/31/2021 |
 
 * 课件于2020年12月31日停用
 
@@ -381,7 +416,7 @@ ms.author: micsullivan
     | 10557 | A | Introduction au développement Web avec Microsoft® Visual Studio® 2010 | 法语| 2019年12月31日 |
     | 10560 | A | Introdução ao Desenvolvimento na Web com o Microsoft® Visual Studio® 2010 | 葡萄牙语| 2019年12月31日|
     | 10561 | A | Windows® 7 客户端的安装与配置 | 简体中文| 2019年12月31日 |
-    | 10563 | A | Microsoft® Visual Studio® 2010 C＃编程| 简体中文| 2019年12月31日 |
+    | 10563 | A | Microsoft® Visual Studio® 2010 C#编程| 简体中文| 2019年12月31日 |
     | 10564 | A | Microsoft®Visual Studio®2010 Web开发基础| 简体中文| 2019年12月31日 |
     | 10701 | A | Configuration et gestion de Microsoft SharePoint 2010 | 法语| 2019年12月31日 |
     | 10702 | A | Konfiguration und Verwaltung von Microsoft SharePoint 2010 | 德语| 2019年12月31日 |
@@ -989,7 +1024,7 @@ ms.author: micsullivan
 
 * 课件于2016年6月24日停用
 
-  [下载即将停用的在线学习课程的完整列表](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [下载即将停用的在线学习课程的完整列表。](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * 课件于2016年6月15日停用
 
@@ -1025,7 +1060,7 @@ ms.author: micsullivan
 
 * 课件于2015年12月31日停用
 
-  [下载由教师讲授的停用课程的完整列表](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [下载由教师讲授的停用课程的完整列表。](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * 课件于2015年8月31日停用
 
@@ -1046,7 +1081,7 @@ ms.author: micsullivan
 
 * 课件于2015年6月30日停用
 
-  [下载由教师讲授的停用课程的完整列表](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [下载由教师讲授的停用课程的完整列表。](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * 课件于2015年1月31日停用
 
@@ -1139,8 +1174,8 @@ ms.author: micsullivan
 
 * 课件于2017年12月29日停用
 
-  * [下载即将停用的SA电子学习课程的完整列表](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [下载已停用的MSIA电子学习课程的完整列表](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [下载即将停用的SA电子学习课程的完整列表。](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [下载已停用的MSIA电子学习课程的完整列表。](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * 课件于2017年8月15日停用
 
@@ -1150,62 +1185,58 @@ ms.author: micsullivan
 
 * 课件于2017年6月30日停用
 
-  * [下载即将停用的SA电子学习课程的完整列表](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [下载已停用的MSIA电子学习课程的完整列表](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [下载即将停用的SA电子学习课程的完整列表。](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [下载已停用的MSIA电子学习课程的完整列表。](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * 课件于2015年6月30日停用
 
-  * [下载即将停用的在线学习课程的完整列表](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [下载即将停用的在线学习课程的完整列表。](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * 课件于2014年3月12日停用
 
-  * [下载即将停用的在线学习课程的完整列表](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [下载即将停用的在线学习课程的完整列表。](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## 课件和 MOC On-Demand 停用常见问题 (FAQ)
+## 已取消的课程：MOC On-Demand
  
-**问题：为什么要停用课程？**
-  
-Microsoft 始终关注行业趋势，并修订认证要求以便与技术变化保持同步。我们定期引进新课程，同时修订或停用较为陈旧的课程，以确保为您提供最有意义的培训机会。 
+所有 Microsoft Official Course (MOC) On-Demand 课程均已于 2020 年 6 月 30 日取消。如需已取消的课程完整列表，请访问：[MOC On-Demand Courses 已取消](/learn/certifications/retired-on-demand-online-courses)。
 
-**问题：确定停用课程的标准有哪些？**
+## 关于课程和 MOC On-Demand 取消的常见问题
+
+**确定停用课程的标准有哪些？**
  
 通常，课程会在下列情况下停用：
 
 - 该课程已被取代。发布的一门新课程可以取代原本的一门或多门课程，以全新的方法提供相关材料。
-- 如果一门课程所介绍的技术不再受微软支持，对应课件通常会停用。
+- 如果 Microsoft 不再支持某一课程中所涵盖的技术，那么该课程通常会被取消。
 - 与课程是否成功相关的决策可能导致课程停用，保持课程处于最新状态有时也要求停用某些课程。
-- 该认证已停用。如果课程是针对某项已停用认证而设计的，课件就可能要停用。
+- 认证已取消。如果不再提供课程设计时所对应的认证，那么该程序会被取消。
 - 对于非 Microsoft 作者通过社区创作计划提供的课程，如果作者出于任何原因提出申请，课程就可能会停用。
 - 质量问题可能导致课程停用。如果某课程发现质量问题，则可能需要暂时停用，直至质量改进。
   
-**问题：如何获知课程是否已停用？**
+**如何获知课程是否已停用？**
   
 Microsoft 每季度发布一份已停用课程和计划在未来 3 到 6 个月内停用的课程列表。停用公告将通过发给培训合作伙伴、讲师、供应商和其他相关受众的通讯分享。微软培训目录和课件库目录中的课程说明将根据停用日期公告更新。
 
-**问题：在课程停用日期之后，如何购买课程？**
+**在课程停用日期之后，如何购买课程？**
 
 在停用日期之后，已停用的课程将不再销售。停用日期将通过各课程的目录网页发布，通过面向各受众的定期通讯渠道分享。到达有效停用日期后，课件将标记为不再销售。为避免产生疑义，课程在停用生效后的一段时间内保持标记为不再销售的状态，直至存档后才从目录中彻底删除。
 
-**问题：能否在课程停用之前购买课程的数字版，并在停用日期之后下载或使用课程？**
+**能否在课程停用之前购买课程的数字版，并在停用日期之后下载或使用课程？**
 
 在课程停用后，您将无法再下载课程。如果您在停用日期之前下载或接收到课件，则可以根据许可条款继续使用。
 
-**问题：如果已停用课程在停用之前分配到了我的学习计划之中和/或添加到了“我的课程”部分中，会发生什么情况？**
+**如果已停用课程在停用之前分配到了我的学习计划之中和/或添加到了“我的课程”部分中，会发生什么情况？**
 
-在这些课程停用后，您将继续在“我的课程”部分中看到它们，但尝试启动已停用课程时只会得到错误消息。
+这些课程取消后，您将继续能够在“我的课程”部分中看到这些课程，但在尝试打开已取消的课程时，会出现错误信息。
 
-**问题：如果我在课程停用之前未完成课程，是否可以在停用后继续完成课程的学习？**
+**如果我在某一课程取消之前未完成该课程，那么我是否可以在该课程取消后完成该课程？**
 
 否。课程停用后，就无法再访问。
   
-**问题：课程活动报告如何体现正在学习的课程在其停用之时的情况？**
+**课程活动报告如何体现正在学习的课程在其停用之时的情况？**
 
 课程活动报告会体现您在一门课程停用之时学习该课程的进度。例如，如果某用户在课程停用之时已经学完了 60%，则课程活动报告将显示 60% 的完成进度。课程停用后，即无法再更改课程的完成百分比。
 
-**问题：我能否继续在在线学习网站中找到已停用的课程？**
+**我能否继续在在线学习网站中找到已停用的课程？**
 
 否。已停用课程不会再显示在搜索结果或课程目录中。
-
-**问题：课程停用时，相关的 MOC On-Demand (MOD) 是否也将停用？**
-
-是。由于 MOD 与课件一致，当课程停用时，MOD 将在同一日期停用。

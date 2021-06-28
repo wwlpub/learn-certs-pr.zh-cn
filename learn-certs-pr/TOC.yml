@@ -1,60 +1,121 @@
-- name: Microsoft Certifications
+- name: 认证概述
   href: index.yml
-- name: Offers
-  href: deals.md
-- name: 批量许可
-  href: volume-licensing-program.md
-- name: Microsoft Learning Partners
-  href: partners.md
-- name: 已经停用的认证、考试和课程
+- name: 获得认证
   expanded: false
-  items:
-  - name: 已停用认证
-    href: retired-certifications.md
-  - name: 已停用考试
-    href: retired-certification-exams.md 
-  - name: 已停用课程
-    href: retired-courses.md
-- name: 成为 Microsoft Certified Trainer
-  href: mct-certification.md
-- name: 关于 Microsoft 认证考试
-  href: certification-exams.md
-- name: Microsoft 考试和认证徽章
-  href: badges.md
-- name: 关于 Pearson VUE 在线考试
-  href: online-exams.md
-- name: 关于 PSI 在线考试
-  href: online-exams-psi.md
-- name: 考试政策和常见问题
-  expanded: false
-  items:
-  - name: 常见问题及回答
-    href: frequently-asked-questions.md
-  - name: 考试安全政策和考试重考政策
-    href: exam-security-policy-and-exam-retake-policy.md
-  - name:  考试改期和取消政策
-    href: exam-reschedule-and-cancellation-policy.md
-  - name: Microsoft 认证计划协议
-    href: microsoft-certification-program-agreement.md
-  - name: Microsoft 考试保密协议
-    href: microsoft-exam-non-disclosure-agreement.md
+  items: 
+  - name: 认证流程概述
+    href: certification-process-overview.md
   - name: 申请住宿
     href: request-accommodations.md
-  - name: 考试项目质疑流程
-    href: exam-item-challenge-process.md
+  - name: 报考和安排考试
+    href: register-schedule-exam.md
+  - name: 备考
+    href: prepare-exam.md
+  - name: 考试时长和考题类型
+    href: exam-duration-question-types.md
+  - name: 考分和成绩报告
+    href: exam-scoring-reports.md
+  - name: 在线监督考试
+    expanded: false
+    items: 
+    - name: 简介和 FAQs
+      href: online-exams-intro.md
+    - name: 关于 Pearson VUE 的在线考试
+      href: online-exams.md
+    - name: 关于 PSI 在线考试
+      href: online-exams-psi.md
+  - name: 更新您的Microsoft认证
+    href: renew-your-microsoft-certification.md  
+- name: 管理您的认证
+  expanded: false
+  items: 
+  - name: 访问您的 Certification Dashboard
+    href: access-certification-dashboard.md
+  - name: 管理您的认证个人资料
+    href: manage-certification-profile.md
+  - name: 访问您的证书、徽章和成绩报告单
+    href: access-certificates-badges-transcript.md
+  - name: 使用和分享认证徽章
+    href: badges.md
+- name: 培训及认证消息
+  expanded: false
+  items: 
+  - name: 社交媒体和博客
+    href: social-media-blog.md
+  - name: 通过媒介进行培训和认证
+    href: media.md
+  - name: 关于停用的信息
+    expanded: false
+    items: 
+    - name: 认证的取消
+      href: retired-certifications.md
+    - name: 考试停用
+      href: retired-certification-exams.md 
+    - name: 课程的取消
+      href: retired-courses.md
+  - name: 从 Learning 转移到 Microsoft Learn
+    href: learnfaq.yml
+- name: Offers
+  href: deals.md
+- name: 项目信息
+  expanded: false
+  items: 
   - name: 测试版考试
     href: beta-exams.md
-  - name: ACE认证考试的大学学分
-    href: ace-credit-for-certification-exams.md
-  - name: NCCRS认证考试的大学学分
-    href: college-credit-for-certification-exams.md
-  - name: 学生折扣
-    href: student-discounts.md
+  - name: 考试的开发
+    href: exam-development.md
+  - name: 学生认证
+    expanded: false
+    items: 
+    - name: 学生折扣
+      href: student-discounts.md
+    - name: College credit for certification exams
+      href: college-credit.md
+  - name: 政策及协议
+    expanded: false
+    items: 
+    - name: 考试项目质疑流程
+      href: exam-item-challenge-process.md
+    - name: 考试安全政策
+      href: exam-security-policy.md
+    - name: 重考政策
+      href: exam-retake-policy.md
+    - name: 考试改期和取消政策
+      href: exam-reschedule-and-cancellation-policy.md
+    - name: Microsoft 认证计划协议
+      href: microsoft-certification-program-agreement.md
+    - name: Microsoft Certification Renewal Non-disclosure Agreement
+      href: microsoft-certification-renewal-non-disclosure-agreement.md
+    - name: Microsoft 考试保密协议
+      href: microsoft-exam-non-disclosure-agreement.md
+  - name: Microsoft Learning Partners 
+    expanded: false
+    items: 
+    - name: 查找 Learning Partner
+      href: partners.md
+    - name: Learning Partners 的价值
+      href: partners-value.md      
+  - name: Microsoft Certified Trainer
+    href: mct-certification.md
+  - name: 批量许可客户的软件培训
+    href: volume-licensing-program.md
 - name: 认证帮助
-  href: help.md
-- name: Microsoft Official Courseware (MOC)帮助
-  href: certification-and-training-help.md
-- name: Microsoft 认证计划常见问题 
-  href: microsoft-certification-program-faqs.md
-- name: 搜寻 Microsoft 学习 ...
-  href: learnfaq.md
+  expanded: false
+  items: 
+  - name: 认证支持
+    href: help.md
+  - name: 常见问题解答
+    href: frequently-asked-questions.md
+  - name: Microsoft Official Courseware (MOC) 支持
+    href: certification-and-training-help.md
+  - name: 故障排除指南
+    expanded: false
+    items: 
+    - name: 查找您的 MCID
+      href: find-mcid.md
+    - name: 合并与传输认证个人资料
+      href: merge-profiles.md
+    - name: 优惠券和兑换折扣
+      href: redeem-discounts.md
+    - name: 合并 Certification 配置文件和 Learn 配置文件之间的帐户
+      href: aligning-accounts-between-certification-profile-and-learn-profile.md

@@ -1,0 +1,72 @@
+### YamlMime:FAQ
+metadata:
+  title: 从 Learning 转移到 Microsoft Learn | Microsoft Docs
+  description: 从 Learning 转移到 Microsoft Learn
+  documentationcenter: NA 
+  author: micsullivan
+  ms.topic: article
+  ms.tgt_pltfrm: NA
+  ms.workload: NA
+  ms.date: 06/18/2020
+  ms.author: msulliv
+  ms.prod: non-product-specific
+    
+title: 从 Learning 转移到 Microsoft Learn
+summary: |
+
+  ## 我们的新学习平台
+
+  就像大多数技术一样，我们也在进行更新。这次来到我们的学习平台。我们正在合并 Microsoft Learning 网站与 Microsoft Learn 网站。 
+      
+  Microsoft Learn 是您探索和学习我们技术之旅的起点。在这里，您可以发现一个全面的培训选项集合，让您能够以最适合您的方式来学习。 
+      
+  Microsoft Learn 所提供的免费自定进度学习路径&#58;
+  
+                 
+  - 简短的、循序渐进的教程
+  - 基于浏览器的交互式编码/脚本环境。
+  - 基于任务的业绩。
+  - 由教师引导的培训选项。
+  
+  在 Microsoft Learn 上发现 Microsoft Certifications，同时我们继续为 Microsoft 学习者提供单一的学习目的地。
+  
+  ## 关于该转变的常见问题
+
+sections:
+  - name: 关于该转变的常见问题
+    questions:
+      - question: |
+          内容是何时转移到 Microsoft Learn 的？
+        answer: |
+          我们于2019年将 Microsoft Learning (https://microsoft.com/learning) 网页转移到 Microsoft Learn (https://docs.microsoft.com/learn/)。
+          
+      - question: |
+          Microsoft Learning 上会留下什么?
+        answer: |
+          以下内容将保留在 Microsoft Learning 上，直到 2021 年晚些时候：
+          - 认证控制面板 ([https://aka.ms/certdashboard](https://aka.ms/certdashboard))
+          
+      - question: |
+          我的书签会怎样？它们还继续有效吗？
+        answer: |
+          从 Microsoft Learning 迁移到 Microsoft Learn 的页面将被重定向到 Microsoft Learn 上的新页面。这些重定向不会永远持续下去，因此当页面移动时，您应该更新书签。
+
+      - question: |
+          我还能看到我已完成的认证信息以及注册过的考试吗？
+        answer: |
+          是的，您将继续在 Certification Dashboard (https://aka.ms/certdashboard) 中完全访问您的认证配置文件，正如您今天所做的那样。排定的考试、徽章、证书和成绩单将保留。此外，到认证仪表板的链接已经添加到 Microsoft Learn 配置文件页面。
+          
+      - question: |
+          在 Microsoft Learn 网站上，我看到了一个名为“登录”的配置文件。这和 Microsoft Learning 上名为“登录”的配置文件一样吗？我能登录 Microsoft Learn 网站查看我的认证和考试信息吗？
+        answer: |
+          在 Microsoft Learning 认证仪表板转移到 Microsoft Learn 之前，您将通过登录您在 Certification Dashboard (https://aka.ms/certdashboard) 上的配置文件，继续访问与您的认证相关的所有内容（考试时间表、历史和徽章等），该仪表板将在 Microsoft Learning 上提供，并可从 Microsoft Learn 网站访问。[Microsoft Learn 配置文件](https://docs.microsoft.com/learn) 将保持独立直到一个稍后的日期。在接下来的几个月里，我们会将 certification dashboard 合并到 Microsoft Learn 配置文件中，从而创建一个统一的配置文件。
+          
+      - question: |
+          如果我在 Microsoft Learning 上已经有了一个配置文件，那么我是否还需要在 Microsoft Learn 上注册一个配置文件？
+        answer: |
+          是的。Microsoft Learning (certification) 配置文件不同于 Microsoft Learn 配置文件。您需要在 Microsoft Learn 上创建一个配置文件，以访问 Microsoft Learn 上的某些特性和功能，除非您登录，否则无法工作。如果您确实创建了一个配置文件，我们建议您使用与创建您的 Microsoft Learning (certification) 配置文件相同的电子邮件进行注册。当 Microsoft Learning 认证仪表板在未来几个月内合并到 Microsoft Learn Tech Profile 时，我们将提供关于链接配置文件及其他配置文件相关的更改的详细信息。
+
+      - question: |
+          如果我有问题或疑问，如何得到帮助？我在哪里可以找到支持？
+        answer: |
+          关于如何访问支持的详细说明，请访问：[认证支持](/learn/certifications/help).
