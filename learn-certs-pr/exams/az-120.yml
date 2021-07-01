@@ -7,19 +7,19 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>本次考试内容将于2021年5月28日更新。请下载下面的技能测试文档，以了解有什么变化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考试的内容于2021年5月28日进行了更新。请下载下面的技能测试文件，看看有何变化。</strong></font><br/><br/></div>
   </div>
 
-  本考试的考生应该是对 SAP 系统环境和行业标准具有丰富经验和知识的建筑师或工程师。这些标准是针对 Microsoft Azure 上 SAP 解决方案的长期运行而制定的。
-
-  Azure for SAP 工作负载的架构师或工程师的职责包括就服务提出建议，并根据最佳弹性、性能、规模、配置、大小和监控适当调整资源。
-
-  Azure for SAP 工作负载的架构师或工程师与云管理员、云数据库管理员和客户合作实施解决方案。
-
-  参加本考试的考生应具有 SAP 应用程序方面的丰富经验和知识&#58;SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 应用程序和数据库的操作系统服务器、Azure 门户、ARM 模板、操作系统、虚拟化、云基础设施、存储结构、高可用性设计、灾难恢复设计、数据保护概念和网络。
-
-  对于本考试，强烈建议除 SAP HANA 和 Linux 认证外，还应获得 Azure 管理员助理或 Azure 解决方案架构师专家认证。
-subTitle: '本考试衡量您完成以下技术任务的能力: 将SAP工作负载迁移到Azure；设计支持SAP工作负载的Azure解决方案；构建和部署Azure SAP工作负载；验证用于SAP工作负载的Azure基础架构；以及操作Azure SAP体系结构。'
+  参加本次考试的考生应该是在 SAP 系统环境和行业标准方面具有丰富经验和知识的建筑师或工程师，这些标准是针对 Microsoft Azure 上 SAP 解决方案的初始迁移或集成以及长期运行而制定的。
+  
+  Azure for SAP 工作负载的架构师或工程师的职责包括就服务提出建议，并根据最佳弹性、性能、规模、供应、大小和监控适当调整资源。
+  
+  Azure for SAP 工作负载的架构师或工程师与 cloud 管理员、cloud 数据库管理员和客户合作实施解决方案。
+  
+  参加本次考试的考生应具有 SAP 应用程序方面的丰富经验和知识：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 应用程序和数据库的 OS 服务器、Azure 门户、Azure Marketplace、Azure Resource Manager （ARM 模板）、虚拟化、cloud 基础设施、存储结构、高可用性设计、灾难恢复设计、数据保护概念和联网。
+  
+  对于本次考试，我们强烈建议除 SAP 认证外，您还应获得 Azure Administrator Associate 或 Azure Solutions Architect Expert 认证。
+subTitle: '本次考试测试您完成以下技术任务的能力：将 SAP 工作负载迁移到 Azure；设计并实施基础设施以支持 SAP 工作负载；设计并实施 High Availability 和 Disaster Recovery；以及在 Azure 上 维护 SAP 工作负载。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
@@ -31,12 +31,11 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试内容将于2021年5月28日更新。请下载下面的考试技巧大纲，以了解有什么变化。
-- 将SAP工作负载迁移到Azure (10-15%)
-- 设计 Azure 解决方案以支持 SAP Workloads (20-25%)
-- 构建和部署 Azure for SAP Workloads (35-40%)
-- 验证 Azure 基础架构是否适用于 SAP Workloads (10-15%)
-- 操作 Azure SAP 体系结构 (10-15%)
+- 本次考试的内容于2021年5月28日进行了更新。请下载下面的考试技巧大纲，看看有何变化。
+- 将SAP工作负载迁移到Azure (25–30%)
+- 设计并实施基础设施以支持 SAP 工作负载 (25–30%)
+- 设计并实施 High Availability 和 Disaster Recovery (HA/DR) (20–25%)
+- 在 Azure 上 维护 SAP 工作负载 (15–20%)
 roles:
 - solution-architect
 - devops-engineer

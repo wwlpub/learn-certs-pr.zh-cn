@@ -27,7 +27,7 @@ Pearson VUE 是一家提供考试服务的公司，它是微软的合作伙伴�
 1. 请确保您的计算机满足或超过最低系统要求（详细说明如下）。
 2. 在您将要测试的同一台计算机和同一位置上完成所需的 [系统测试](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)。
 3. 查阅下面的系统需求、技术提示及测试环境需求。
-4. 请确认您的 ID 符合 Pearson VUE [ID Policy](https://home.pearsonvue.com/Policies/1S/English) 并且确认您的 Microsoft Certification 配置文件上的名字与您即将在参加考试时出示的由政府颁发的 ID 上的名字完全匹配。 如要阅读更多关于如何检查您的认证配置文件上名字的信息，请访问：[管理您的认证配置文件](/learn/certifications/manage-certification-profile).
+4. 请确认您的 ID 符合 Pearson VUE [ID Policy](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay) 并且确认您的 Microsoft Certification 配置文件上的名字与您即将在参加考试时出示的由政府颁发的 ID 上的名字完全匹配。 如要阅读更多关于如何检查您的认证配置文件上名字的信息，请访问：[管理您的认证配置文件](/learn/certifications/manage-certification-profile).
 5. 请用您的手机号码更新您的 Microsoft Certification 配置文件，其中包括国家代码，以防 Pearson VUE 需要在考试期间联系您。如果您在考试期间失去联系，这是 Pearson VUE 可以联系您的唯一方式。有关如何更新您的配置文件说明，请访问：[管理您的认证配置文件](/learn/certifications/manage-certification-profile).
 6. 请阅读 [Non-Disclosure Agreement (NDA)](/learn/certifications/microsoft-exam-non-disclosure-agreement). 在考试开始时，您必须阅读并同意 NDA 和 General Terms of Use for Microsoft Certification Exams。一旦考试开始，您只有5分钟的时间阅读它。请在您参加考试前阅读它，以确保您完全理解这些要求，并能在不耗尽时间的情况下同意这些条款。如果您在规定的时间内不同意 NDA，你将不能参加考试。
 7. 如果您想为您的考试请求便利设施，请您在安排您的考试**之前**向 Pearson VUE 提交便利设施请求。有关如何提交申请的详细资料，请访问: [请求 Pearson VUE 的便利设施](/learn/certifications/request-accommodations)。
@@ -170,7 +170,6 @@ Pearson VUE 是一家提供考试服务的公司，它是微软的合作伙伴�
 您的办公室或家庭环境必须符合以下要求：
 
 - 办公室、会议室或家里的空间必须有墙，有一扇关闭的门，而且不受干扰。
-																			
 - 在您测试期间，其他人不得留在或进入该房间。
 
 ### 与接待员和监考员进行沟通
@@ -182,17 +181,10 @@ Pearson VUE 是一家提供考试服务的公司，它是微软的合作伙伴�
 
 ### 身份验证
 
-- 你必须出示一份当前政府签发的 ID 表格，如下列之一：
-  - 驾驶执照。
-  - 军官 ID。
-  - 护照。
-  - 身份证（国家/州/省身份证）。
-  - 外国人登记卡（绿卡、永久居民、签证）。
-  - 由政府颁发的当地语言 ID （非罗马字符）——只有从考生正在测试的国家颁发的才被接受。
-- 手机最适合捕捉所需的头像和 ID，但如果您没有手机，也可以使用网络摄像头。
-- 您所提供的由政府颁发的 ID 上的名字必须与您的 Microsoft Certification 和 Pearson VUE 配置文件上的名字**完全**匹配。 
+- 你需要出示一份由当前政府颁发的 ID。 可接受的示例请参考 Pearson VUE [ID 政策](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay)。
+- 手机最适合捕捉所需的头像和 ID。
+- 您所出示的由政府颁发 ID 上的名字必须与您在 Microsoft Certification 和 Pearson VUE 配置文件上的名字 **完全** 匹配。
 - 如果您正在更新或续签您的身份证明，那么请注意，在线监考的考试不接受包括 ID 续期表在内的合法姓名更改表。
-- 18岁以下的未成年人可以出示有效的学生 ID 作为身份证明。考生的监护人也必须出示有效的 ID，并且在签到的过程中给予口头同意。
 
 ### 考试区域扫描
 
