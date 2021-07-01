@@ -30,7 +30,7 @@ summary: |-
   本课程适用于 Azure Administrator。Azure Administrator 在云环境中实现、管理和监控身份，治理，存储，计算和虚拟网络。Azure Administrator 将根据需要设置、调整大小、监控和调整资源。
 prerequisitesSection: |-
   成功的 Azure 管理员从虚拟化、网络、身份和存储方面的经验开始该角色。
-  - 了解本地虚拟化技术，包括&#58;VMs、虚拟网络和虚拟硬盘。
+  - 了解本地虚拟化技术，包括&#58; VMs、虚拟网络和虚拟硬盘。
   - 了解网络配置，包括 TCP/IP、域名系统(DNS)、虚拟专用网络(VPNs)、防火墙和加密技术。
   - 了解 Active Directory 概念，包括用户、组和基于角色的访问控制。
   - 了解恢复能力和灾难恢复，包括备份和恢复操作。
@@ -79,18 +79,17 @@ outlineSection: |-
   ### 模块 3&#58; Azure 管理
   在本模块中，您将了解 Azure Administrator 用来管理其基础结构的工具。这包括 Azure 入口网站、Cloud Shell、Azure PowerShell、CLI 和资源管理器范本。本模块包括&#58;
   #### 课程
-  - Azure 资源管理器
-  - Azure 入口网站和 Cloud Shell
-  - Azure PowerShell 和 CLI
-  - ARM 模板
-  
-  #### 实验&#58; 使用 Azure 入口网站管理 Azure 资源
-  
-  #### 实验&#58; 使用 ARM 模板管理 Azure 资源
-  
-  #### 实验&#58; 使用Azure PowerShell管理Azure资源(可选)
-  
-  #### 实验&#58; 使用Azure CLI管理Azure资源(可选)
+  - Azure Resource Manager
+  - Azure Administrator Tools
+  - ARM模板
+
+  #### 实验&#58; 通过使用 ARM 模板来管理 Azure 资源
+
+  #### 实验&#58; 通过使用 Azure PowerShell 来管理 Azure 资源（可选项）
+
+  #### 实验&#58; 通过使用 Azure CLI 来管理 Azure 资源（可选项）
+
+  #### 实验&#58; 通过使用 Azure Portal 来管理 Azure 资源
   
   学完本模块后，学生将能够&#58;
   - 利用 Azure 资源管理员组织资源。
@@ -112,7 +111,6 @@ outlineSection: |-
   
   学完本模块后，学生将能够&#58;
   - 实施虚拟网络和子网。
-  - 配置公用和私人 IP 寻址。
   - 配置网络安全组。
   - 配置 Azure 防火墙。
   - 配置私人和公用 DNS 区域。
@@ -194,9 +192,9 @@ outlineSection: |-
   
   #### 实验&#58; 实施 Web 应用程序
   
-  #### 实验&#58; 实施 Azure 容器实例
+  #### 实验&#58; 实施 Azure Kubernetes Service
   
-  #### 实验&#58; 实施 Azure Kubernetes服务
+  #### 实验&#58; 实施 Azure Container Instances
   
   学完本模块后，学生将能够&#58;
   - 建立 App Service 规划。
@@ -233,4 +231,3 @@ outlineSection: |-
   - 创建 Azure 警报。
   - 使用记录分析查询。
   - 使用网络查看器。
-

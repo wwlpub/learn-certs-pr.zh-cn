@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div><font color='red'><strong>本次考试的内容将于2021年5月25日进行更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考试的内容于2021年5月25日进行了更新。请下载下面的技能测试文件，看看有何变化。</strong></font><br/><br/></div>
 
   如果您在2019年3月31日停用前通过了 [考试 70-698](https://www.microsoft.com/learning/exam-70-698.aspx)，您将仅需要参加MD-101考试即可获得现代桌面认证。
 
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2021年5月25日进行更新。请下载下面的考试技巧大纲，看看将有何变化。
+- 本次考试的内容于2021年5月25日进行了更新。请下载下面的考试技巧大纲，看看有何变化。
 - 部署和升级操作系统（25-30%）
 - 管理政策和个人资料 (20-25%)
 - 管理和保护设备 (30-35%)
@@ -42,6 +42,7 @@ exams:
 courses:
 - uid: course.md-101t00
 paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
 - uid: learn-m365.microsoft-365-get-modern
 - uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:

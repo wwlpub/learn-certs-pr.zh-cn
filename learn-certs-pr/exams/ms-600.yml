@@ -7,13 +7,13 @@ uid: exam.ms-600
 displayName: MS-600
 summary: |-
   <div>
-  <div><font color='red'><strong>下面的考试指南显示了将于2021年5月25日实施的那些变化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考试的内容于2021年5月25日进行了更新。请下载下面的技能测试文件，看看有何变化。</strong></font><br/><br/></div>
   </div>
-
+  
   参加此考试的考生是Microsoft 365 Developer，他们设计、构建、测试和维护应用程序和解决方案，这些应用程序和解决方案使用Microsoft 365平台针对组织对生产力和协作的需求进行了优化。
-
+  
   参加本次考试的考生可熟练使用 Microsoft identity 和 Microsoft Graph。他们对于 UI 元素（包括 Adaptive Cards 和 Office UI Fabric (Fluent Ui))、集成点（包括 Microsoft Teams, Office Add-ins, SharePoint Framework、Actionable Messages），以及确定工作负载平台目标方面有着大致的了解。
-
+  
   考生应该在软件开发的所有阶段都具有在Microsoft Teams，Office外接程序或SharePoint框架上开发解决方案的经验。他们应该对REST API，JSON，OAuth2，OData，OpenID Connect，Microsoft Identities (包括Azure AD和Microsoft帐户)，Azure AD B2C以及权限/同意概念有基本的了解。
 subTitle: '该考试衡量您完成以下技术任务的能力:实施Microsoft Identity； 使用Microsoft Graph构建应用；扩展和自定义SharePoint；扩展Teams；扩展Office。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 下面的考试指南显示了将于2021年5月25日实施的那些变化。
+- 本次考试的内容于2021年5月25日进行了更新。请下载下面的技能测试文件，看看有何变化。
 - 实施 Microsoft Identity (20-25%)
 - 使用 Microsoft Graph 构建应用程序(15-20%)
 - 扩展和自定义 SharePoint(15-20%)
