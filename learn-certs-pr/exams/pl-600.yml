@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect (beta)'
+title: 'Microsoft Power Platform Solution Architect'
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
 uid: exam.pl-600
 displayName: PL-600
 summary: |-
@@ -11,8 +11,6 @@ summary: |-
   解决方案架构师拥有 Power Platform、Dynamics 365 客户参与应用、相关 Microsoft cloud 解决方案和其他第三方技术的功能和技术知识。解决方案架构师在整个参与过程中应用知识和经验。解决方案架构师执行主动和预防性工作，以增加客户投资的价值并促进组织健康。该角色需要能够识别解决业务问题的机会。
   
   解决方案架构师拥有 Power Platform 的功能和技术学科方面的经验。解决方案架构师应该能够促进跨开发、配置、集成、基础设施、安全性、可用性、存储和变更管理的设计决策。该角色平衡项目的业务需求，并同时满足功能性和非功能性需求。
-  
-  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
 subTitle: '本考试将衡量你完成以下技术任务的能力：执行解决方案设想和需求分析；设计解决方案；以及实施解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -54,6 +52,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
+- title: 认证学习路径
+  description: 推荐的培训资源可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。
   href: https://aka.ms/TrainingCertDeck

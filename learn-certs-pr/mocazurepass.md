@@ -13,9 +13,9 @@ ms.prod: non-product-specific
 
 # 授权 Microsoft 学习合作伙伴的学生访问 Microsoft Learning Azure Passes
 
-<div>以下是Microsoft为支持涵盖Microsoft云端技术的特定课程的实验室解决方案而提供的Azure Passes的信息。  有关由 SLA 支持的替代解决方案的更多信息，请与当前提供对 Azure 的访问权限的授权实验室主机 (ALH) 之一联系。</div>
+<div>以下是Microsoft为支持涵盖Microsoft云端技术的特定课程的实验室解决方案而提供的Azure Passes的信息。有关由 SLA 支持的替代解决方案的更多信息，请与当前提供对 Azure 的访问权限的授权实验室主机 (ALH) 之一联系。</div>
 
-最近更新时间:**2020年 8月 6日**
+最近更新时间: **27-May-21**
 
 当学生使用 Microsoft 官方课程注册符合条件的 Azure 相关课程时，Microsoft 将为您的学生提供 30 天免费访问 Microsoft Azure Pass 的权限。面向学生的通行证只能由经授权的 Microsoft 学习合作伙伴通过课件市场取得，并且与 MOC 课程的购买直接相关，每订购一门 MOC 课程最多可通行一次。没有其他面向学生的获得通行证的机制。如果学习合作伙伴订购 MOC 课程，但购买时未选择该课程可用的 Azure Pass，则合作伙伴可以选择返回课件市场，接下来在需要时订购该通行证。
 
@@ -27,20 +27,18 @@ ms.prod: non-product-specific
 
 **资格**:下面列出符合学生 Azure 通行证资格的课程，本地化的同等版本也符合条件:
 
+
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
 - 20486 Developing ASP.NET Core/MVC 5 Web Applications
-- 20487 Developing Windows Azure&trade; and Web Services
+- 20487 Developing Windows Azure™ and Web Services
 - 20744 Securing Windows Server 2016
 - 20745 Implementing a Software-Defined DataCenter
 - 20765 Provisioning SQL Databases
 - 20767 Implementing a SQL Data Warehouse
 - 20777 Implementing Microsoft Azure Cosmos DB Solutions
-- 20778 Analyzing Data with Power BI
-- 40369 Cloud Fundamentals: MTA Exam 98-369
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
-- 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
 - 40505 Microsoft Cloud Workshop: Internet of Things
 - 40508 Microsoft Cloud Workshop: Modern Cloud Apps
 - 40510 Microsoft Cloud Workshop: SQL Server Hybrid Cloud
@@ -54,11 +52,9 @@ ms.prod: non-product-specific
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
 - 40527 Microsoft Cloud Workshop: Security baseline on Azure
-- 40528 Microsoft Cloud Workshop: Business continuity and disaster recovery
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
-- 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
@@ -66,30 +62,26 @@ ms.prod: non-product-specific
 - 40560 Microsoft Cloud Workshop: Predictive Maintenance for remote field devices
 - 40561 Microsoft Cloud Workshop: Machine Learning
 - 40562 Microsoft Cloud Workshop: Migrating SQL databases to Azure
-- 40563 Microsoft Cloud Workshop: Real-time data with Azure Database for PostgreSQL Hyperscale
 - 40564 Microsoft Cloud Workshop: Securing the IoT end-to-end
-- 40565 Microsoft Cloud Workshop: Modernizing Data Analytics with SQL Server 2019
 - 40573 Microsoft Cloud Workshop: Hybrid identity
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (基本)
--55188应用程序和云服务以及云端服务
+- 55188应用程序和云服务以及云端服务
 - 55224-1 Microsoft Azure Big Data Analytics Solutions
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
 - AI-100T01 Designing and Implementing an Azure AI Solution
+- AI-102T00 Designing and Implementing a Microsoft Azure AI Solution
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-030T00 Microsoft Azure technologies for AWS architects
-- AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
 - AZ-203T0X Developing Solutions for Microsoft Azure courses
 - AZ-204T00 Developing Solutions for Microsoft Azure
 - AZ-220T00 Microsoft Azure IoT Developer
-- AZ-300T0X Azure Solutions Architect - Technologies courses
-- AZ-301T0X Azure Solutions Architect - Design courses
 - AZ-303T00 Microsoft Azure Architect Technologies
 - AZ-304T00 Microsoft Azure Architect Design
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
@@ -98,13 +90,19 @@ ms.prod: non-product-specific
 - DP-050T00 Migrate SQL workloads to Azure
 - DP-060T00 Migrate NoSQL workloads to Azure Cosmos DB
 - DP-070T00 Migrate Open Source Data Workloads to Azure
+- DP-090T00 Implementing a Machine Learning Solution with Microsoft Azure Databricks
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
+- DP-300T00 Administering Relational Databases on Microsoft Azure
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 搭配 Microsoft 365 核心服务构建应用程序和解决方法
 - PL-400T00 Microsoft Power Platform Developer
+- PL-600T00 Power Platform Solution Architect
+- SC-200T00 Microsoft Security Operations Analyst
+- SC-300T00 Microsoft Identity and Access Administrator
+- WS-013T00 Azure Stack HCI
 - WS-050T00 Migrating Application Workloads to Azure
 
 注意:此清单可能会更改，并且随着新版本或课程的发布以及旧版本和课程的停用，可能会向此清单中增加或从中删除标题。

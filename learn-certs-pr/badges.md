@@ -29,7 +29,7 @@ Microsoft 与 Credly 合作，为您提供您的 Microsoft Certifications 管理
 - 了解哪些雇主需要具备您这样的技能的员工。
 - 查看需要您的 Microsoft 技能的职位的预期薪水。
 - 搜索与您的认证相关的新工作机会，只需点击几下即可申请。
-- 寻找劳动力市场信息和工作机会。观看视频：[Credly: Labor market insights](https://vimeo.com/379867308)，了解在您所处的市场中快速发现机会有多么容易。
+- 探索有关劳动力市场的见解和就业机会。观看视频：[Labor Market Insights](https://support.credly.com/hc/en-us/articles/360041974091-Video-What-labor-market-insights-are-available-with-my-badge) 以了解快速发现市场机会的难易程度。
 
 要了解更多，请参阅我们的博客文章 [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification)。
 
@@ -44,11 +44,11 @@ Microsoft 与 Credly 合作，为您提供您的 Microsoft Certifications 管理
 
 如果您未收到领取徽章的通知邮件，则只需使用 Microsoft 为您存档的相同电子邮箱地址，在 Credly* 平台上创建帐户即可。您的徽章将在您的帐户中，等待您领取。
 
-_* 请注意，此链接会使您转至第三方 Credly 平台，其隐私惯例与 Microsoft 不同。如果您向 Credly 提供个人数据，则您的数据会受其隐私声明约束。_
+_*请注意，此链接会使您转至第三方 Credly 平台，其隐私惯例与 Microsoft 不同。如果您向 Credly 提供个人数据，则您的数据会受其隐私声明约束。_
 
 ## 如何从 Credly 自动接受徽章
 
-在 Credly 的 Acclaim 平台，请调整您的帐户设置，以自动接受颁发给您的徽章。在 Acclaim 视频 “[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)” 中观看这个循序渐进的过程。请注意，虽然视频显示的徽章电子邮件通知来自于 Acclaim，但您的电子邮件通知将来自微软。
+从 Credly 平台，调整您的帐户设置，以自动接受颁发给您的徽章。在 Credly 视频 “[How do I manage and share my digital badge?](https://support.credly.com/hc/en-us/articles/360021222231-How-do-I-manage-and-share-my-digital-badge-)” 中观看这种循序渐进的过程 请注意，虽然该视频显示徽章电子邮件通知来自 Credly，但您的电子邮件通知将来自 Microsoft。
 
 ## 如何分享徽章
 
@@ -63,10 +63,10 @@ _* 请注意，此链接会使您转至第三方 Credly 平台，其隐私惯例
 
 ## 有资格获得徽章的考试与认证？
 
-我们为 Microsoft 认证计划中的所有有效考试和认证颁发徽章，但以下情况除外:   
+我们为 Microsoft 认证计划中的所有有效考试和认证颁发徽章，但以下情况除外:
 
 - 如果通过一项考试而获得认证，则将发给认证徽章而不是考试。
-- 我们的某些旧版考试和认证没有徽章。如果您在 Acclaim 个人资料中没有看到旧版考试或认证的徽章，则表明我们没有为该考试或认证颁发徽章。
+- 我们的一些传统考试和认证不提供徽章。如果您在您的 Credly 配置文件中没有看到传统考试或认证的徽章，则我们就没有为该考试或认证颁发徽章。
 
 如果您已获得徽章，但该徽章对应的考试或认证已取消，您仍然可以通过 Credly 平台申领您的徽章。
 
@@ -78,7 +78,7 @@ _* 请注意，此链接会使您转至第三方 Credly 平台，其隐私惯例
 
 **如何将我的证书显示为 Microsoft 徽章？**
 
-Credly 平台使用由 Mozilla  确定的 Open Badges 标准，将您的凭证转换为与仅与您相关的元数据的关联数字图像。
+Credly’s 平台使用由 IMS Global 定义的“开放徽章”标准，将您的凭证转化为与唯一连接到您的元数据相关联的数字图像。这一标准允许您轻松地在网上分享您的数字徽章，并通过雇主及其他对您的技能感兴趣的人进行验证。
 
 **我的新徽章看起来与我以前获得的不同。是否有任何变化？**
 
@@ -92,7 +92,7 @@ Credly 平台使用由 Mozilla  确定的 Open Badges 标准，将您的凭证�
 
 请访问：[认证支持](/learn/certifications/help).
 
-如果您对 Credly 平台或如何申领徽章有任何疑问，请联系 [Credly’s 支持。](https://support.youracclaim.com/)
+如果您对 Credly 平台或如何索取您的徽章有任何疑问，请参考 [Credly 帮助中心](https://support.credly.com/hc/en-us) 或 [提交帮助请求.](https://support.credly.com/hc/en-us/requests/new) 中的资源。
 
 **如果我通过 Certiport 获得了一枚 Microsoft 徽章，但尚未收到我的徽章怎么办？**
 

@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>本次考试的内容将于2021年5月25日进行更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>本次考试的内容于2021年5月25日进行了更新。请下载下面的技能测试文件，看看有何变化。</strong></font><br/><br/></div>
   
   此考试面向的考生是参与评估、规划、迁移、部署和管理 Microsoft 365 服务的 Microsoft 365 企业管理员。他们为企业执行 Microsoft 365 租户管理任务，包括其身份、安全性、合规性和支持技术。
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容将于2021年5月25日进行更新。请下载下面的考试技巧大纲，看看将有何变化。
+- 本次考试的内容于2021年5月25日进行了更新。请下载下面的考试技巧大纲，看看有何变化。
 - 实施现代设备服务(40-45%)
 - 实施Microsoft 365安全和威胁管理(20-25%)
 - 管理Microsoft 365治理和合规性(35-40%)

@@ -1,29 +1,28 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: Microsoft Azure for SAP工作负荷的架构师或工程师在 SAP 系统环境和行业标准方面具有丰富经验和知识，这些经验和知识专门适用于在 Azure 上长期运行 SAP 解决方案。
+  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  description: 参加本次考试的考生应该是在 SAP 系统环境和行业标准方面具有丰富经验和知识的建筑师或工程师，这些标准是针对 Microsoft Azure 上 SAP 解决方案的初始迁移或集成以及长期运行而制定的。
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  SAP 工作负荷专业认证的考生应该是在 SAP 系统环境和行业标准方面具有丰富经验和知识的建筑师或工程师。这些标准是针对 Microsoft Azure 上 SAP 解决方案的长期运行而制定的。
-
-  此职务的职责包括就服务提出建议并适当调整资源，以实现最佳弹性、性能、规模、供应、规模和监视。
-
-  Azure for SAP 工作负载的架构师或工程师与云管理员、云数据库管理员和客户合作实施解决方案。
-
-  参加本认证的考生应具有 SAP 应用程序方面的丰富经验和知识：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 应用程序和数据库的操作系统服务器、Azure 门户、ARM 模板、操作系统、虚拟化、云基础设施、存储结构、高可用性设计、灾难恢复设计、数据保护概念和网络。
-
-  对于本角色，强烈建议除 SAP HANA 和 Linux 认证外，还应获得 Azure 管理员助理或 Azure 解决方案架构师专家认证。
-subTitle: Microsoft Azure for SAP工作负荷的架构师或工程师在 SAP 系统环境和行业标准方面具有丰富经验和知识，这些经验和知识专门适用于在 Azure 上长期运行 SAP 解决方案。
+  参加本次考试的考生应该是在 SAP 系统环境和行业标准方面具有丰富经验和知识的建筑师或工程师，这些标准是针对 Microsoft Azure 上 SAP 解决方案的初始迁移或集成以及长期运行而制定的。
+  
+  Azure for SAP 工作负载的架构师或工程师的职责包括就服务提出建议，并根据最佳弹性、性能、规模、供应、大小和监控适当调整资源。
+  
+  Azure for SAP 工作负载的架构师或工程师与 cloud 管理员、cloud 数据库管理员和客户合作实施解决方案。
+  
+  参加本次考试的考生应具有 SAP 应用程序方面的丰富经验和知识：SAP HANA、S/4HANA、SAP NetWeaver、SAP BW/4HANA、SAP 应用程序和数据库的 OS 服务器、Azure 门户、Azure Marketplace、Azure Resource Manager （ARM 模板）、虚拟化、cloud 基础设施、存储结构、高可用性设计、灾难恢复设计、数据保护概念和联网。
+  
+  对于本次考试，我们强烈建议除 SAP 认证外，您还应获得 Azure Administrator Associate 或 Azure Solutions Architect Expert 认证。
+subTitle: 参加本次考试的考生应该是在 SAP 系统环境和行业标准方面具有丰富经验和知识的建筑师或工程师，这些标准是针对 Microsoft Azure 上 SAP 解决方案的初始迁移或集成以及长期运行而制定的。
 levels:
 - advanced
 skills:
 - 将SAP工作负载迁移到Azure
-- 设计 Azure 解决方案以支持 SAP Workloads
-- 构建和部署 Azure for SAP Workloads
-- 验证 Azure 基础架构是否适用于 SAP Workloads
-- 操作 Azure SAP 体系结构
+- 设计并实施基础设施以支持 SAP 工作负载
+- 设计并实施 High Availability 和 Disaster Recovery (HA/DR)
+- 在 Azure 上 维护 SAP 工作负载
 roles:
 - administrator
 - solution-architect
