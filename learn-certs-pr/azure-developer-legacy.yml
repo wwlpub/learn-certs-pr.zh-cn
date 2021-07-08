@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate （遗留）'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate （遗留）'
+  description: 'Azure Developer 设计、构建、测试和维护云端应用程序和服务。'
+uid: certification.azure-developer-legacy
+certificationRenewalUid: renewal.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  此版本的证书不再有效。如果您有此版本的证书，您将自动获得该证书的最新版本。
+  
+  两个版本的证书都将在您的“证书”中列出。您只需更新到新的版本。当先前版本到期时，它将转到您成绩单的证书历史部分。
+  
+  参加 Azure Developer Associate 认证的考生应具备在 Microsoft Azure 上设计、构建、测试和维护 cloud 应用程序及服务方面的学科知识专长。
+  
+  这个角色的职责包括参与 cloud 开发的所有阶段，从需求、定义和设计到开发、部署和维护，再到性能调优和监控。
+  
+  Azure 开发人员与 cloud 解决方案架构师、cloud DBAs、cloud 管理员和客户合作实施解决方案。
+  
+  参加该认证的考生应具有1-2年的专业开发经验以及使用 Microsoft Azure 的经验。此外，该认证的考生应该能够使用 Azure 所支持的语言进行编程，并能熟练使用 Azure SDKs, Azure PowerShell, Azure CLI, 数据存储选项、数据连接、APIs, 应用程序验证和授权、计算和容器部署、调试、性能调优及监控。
+subTitle: Azure Developer 设计、构建、测试和维护云端应用程序和服务。
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- 无
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-204t00
+- uid: course.az-020t00
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.secure-your-cloud-data
+exams:
+- uid: exam.az-203
+- uid: exam.az-200
+- uid: exam.az-201
+resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 认证之旅
+  description: 探索获得 Azure Developer Associate 资格的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://aka.ms/TrainingCertDeck
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 分享您的认证徽章
+  description: 在您的网络中庆祝您取得的成就。索取您的 Microsoft Certification 徽章，并将其加入 LinkedIn, 您的简历等。
+  href: badges.md
+
