@@ -1,0 +1,83 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate （遗留）'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate （遗留）'
+  description: 'Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。'
+uid: certification.d365-functional-consultant-field-service-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  此版本的证书不再有效。如果您有此版本的证书，您将自动获得该证书的最新版本。
+  
+  两个版本的证书都将在您的“证书”中列出。您只需更新到新的版本。当先前版本到期时，它将转到您成绩单的证书历史部分。
+  
+  如果您是一位负责为客户配置并实施 Dynamics 365 解决方案的功能顾问，那么您很适合此认证，因为它可以突出您的技能并为您的职业发展提供帮助。Dynamics 365 Field Service 功能顾问负责实施解决方案，这些解决方案对用于完成现场服务生命周期的资源进行管理。作为一位功能顾问，您知道如何与项目经理、开发人员及解决方案架构师进行合作。您应该至少拥有1-3年作为功能顾问实施 Dynamics 365 的经验。
+  
+  如果您在设法获得该认证之前需要更多的经验，这里有一些建议&#58;
+  - 在一些项目中担任 Dynamics 365 功能顾问。
+  - 从事 Dynamics 365 Field Service 的实施。
+  - 加入社区 [community.dynamics.com](https://community.dynamics.com/)。
+  - 在 [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service) 上采取可用的学习路径。
+  - 完成更多的亲身实践。
+  - 报名参加一门由教师指导的培训课程
+subTitle: Microsoft Dynamics 365 现场服务功能顾问负责配置现场服务应用程序，实施管理现场服务生命周期的解决方案，并部署连接现场服务(IoT)解决方案。
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- 无
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-field-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-240t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-240
+resources:
+- title: 认证海报
+  description: 查看概述，包括 Dynamics 365 和 Power Platform 的基础知识、基于角色和专业的认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 认证之旅
+  description: 探索获得认证的步骤以及可用来帮助您进行准备的资源。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://aka.ms/TrainingCertDeck
+- title: 认证学习路径
+  description: 推荐的培训资源，可帮助您准备所需的考试并获得认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
+- title: Exam Replay [重新考试]
+  description: 查看两种特别优惠，助您提高通过几率。
+  href: deals.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。周一至周五期间，论坛主持人将在一个工作日内回应。
+  href: help.md
+- title: 分享您的认证徽章
+  description: 在您的网络中庆祝您取得的成就。索取您的 Microsoft Certification 徽章，并将其加入 LinkedIn, 您的简历等。
+  href: badges.md
+
