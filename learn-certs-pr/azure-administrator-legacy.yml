@@ -7,9 +7,7 @@ uid: certification.azure-administrator-legacy
 certificationRenewalUid: renewal.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  此版本的证书不再有效。如果您有此版本的证书，您将自动获得该证书的最新版本。
-  
-  两个版本的证书都将在您的“证书”中列出。您只需更新到新的版本。当先前版本到期时，它将转到您成绩单的证书历史部分。
+  <div><font color="#D83B01"><strong>此版本的证书不再有效。如果您有此版本的证书，您将自动获得该证书的最新版本。<br/><br/>  两个版本的证书都将在您的“证书”中列出。您只需更新到新的版本。当先前版本到期时，它将转到您成绩单的证书历史部分。<br/><br/></strong></font></div>
   
   Azure Administrator Associate 认证的考生应具有在实施、管理和监控组织的 Microsoft Azure 环境方面的主题专业知识。
 
