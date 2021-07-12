@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+metadata:
+  title: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+  description: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+uid: course.40557
+courseNumber: '40557-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 实施利用 Cosmos DB 的优势来支持高级分析解决方案的解决方案，结合可扩展的机器学习、大数据及实时处理能力，这些高级分析解决方案需要高吞吐量摄取、低延迟服务及全球规模。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在本次研讨会中，您将学习如何设计一个数据管道解决方案，该解决方案利用 Cosmos DB 来实现可扩展的流式数据摄取以及预评分数据和机器学习模型的全球分布式服务。该解决方案与 Azure Databricks Delta 一起利用 Cosmos DB 变更数据馈送来启用现代数据仓库解决方案，可用于创建风险降低解决方案，以离线、批处理方式和接近实时的请求/响应方式为欺诈交易评分。
+
+  #### 视听众群体
+  本次研讨会针对的是 Cloud Architects 和 IT 专业人士，他们在 cloud 技术的基础设施和解决方案设计方面有着架构专业知识，并希望了解更多关于 Azure 和 Azure 服务的知识，正如“摘要”和“获得的技能”部分中所描述的那样。参加本次研讨会的人员还应具有其他非 Microsoft cloud 技术方面的经验，满足课程先决条件，并希望在 Azure 上进行交叉培训。
+outlineSection: |-
+  ### 模块 1&#58; 白板设计会话 —— Cosmos DB 实时高级分析
+  #### 课程
+  - 回顾客户案例研究
+  - 设计一个概念验证解决方案
+  - 呈现该解决方案
+
+
+  ### 模块 2&#58; 动手实验室 —— Cosmos DB 实时高级分析
+  #### 课程
+  - 收集流式事务数据
+  - 了解并准备大规模事务数据
+  - 创建并评估欺诈模型
+  - 在全球范围内扩展
+  - 报告

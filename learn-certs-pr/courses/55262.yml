@@ -1,0 +1,143 @@
+### YamlMime:Course
+title: Introduction to SharePoint for Office 365 Training
+metadata:
+  title: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+  description: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+uid: course.55262
+courseNumber: '55262-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 导航 SharePoint小组网站。
+- skill: 创建 SharePoint 列表。
+- skill: 自定义 SharePoint列表。
+- skill: 创建 SharePoint库。
+- skill: 管理库文件版本。
+- skill: 创建 SharePoint 列表和库视图。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  本为期一天的 Introduction to SharePoint 365 课程旨在针对在 SharePoint 环境中工作的终端用户。 它是我们 SharePoint for Office 365 End User 完整课程版本的简单版，其针对不负责管理 SharePoint 网站的 SharePoint 新手用户。
+
+  #### 受众概览
+  该课程适用于在 SharePoint 环境中工作的终端用户。
+prerequisitesSection: |-
+  N/A
+outlineSection: |-
+  ### 模块 1&#58; SharePoint 365设置
+  该模块解释了如何为类设置示例网站。
+  #### 课程
+  - SharePoint Online
+
+  完成此模块后，学生将能够&#58;
+  - 为类设置示例网站。
+
+
+  ### 模块 2&#58; SharePoint 365 介绍
+  SharePoint 的核心是协作。 其主要的目标是让用户轻松找到并共享信息，而且还有很多内置在 SharePoint 的功能来促进这一目标的实现。SharePoint 的库系统功能可以为传统的文件服务器提供高级替代功能。SharePoint 列表可以是一款设计简单、使用轻松的共享工作表文件或更多正式数据库表的替代产品。
+  列和库都可以自定义且能扩展以提供改善的外观和功能。所有这种协作都可以通过浏览器界面完成。
+  #### 课程
+  - SharePoint Online
+  - 网站布局和导航
+  - 导航
+
+
+  #### 实验室 &#58; 小组网站导航
+  完成此模块后，学生将能够&#58;
+  - 了解 SharePoint Online。
+  - 了解 SharePoint的网站继承。
+
+
+  ### 模块 3&#58; SharePoint 列表基础
+  列表在 SharePoint 中是基础的构建模块，为用户提供了存储和查看数据的方法。SharePoint 和很多预定义的列表模版都是随时即用的且使用简单。 可以通过添加栏来进一步自定义列表以存储任何类型的信息。此外，列表栏可以进行验证，也可以与其他列表进行链接。列表是 SharePoint 中非常灵活和强大的工具。
+
+  #### 课程
+  - 使用列表模版创建应用程序
+  - 创建列表
+  - 列表栏
+  - 栏验证
+
+
+  #### 实验室 &#58; 使用小组网站列表
+
+  #### 实验室 &#58; 创建自定义列表和栏
+  完成此模块后，学生将能够&#58;
+  - 理解列表模版。
+  - 在小组网站中使用默认的列表。
+  - 从列表模版创建一个新的列表。
+  - 创建自定义列表。
+  - 向列表添加栏。
+  - 控制和验证到列表字段的输入。
+  - 从分开的列表中关联数据。
+
+
+  ### 模块 4&#58; 库基础
+  SharePoint Libraries与 SharePoint 使用相同的字符，如栏、视图和验证等。SharePoint Libraries 的不同之处是其中的每一个项目都有一个基本文件。所以，除存储在库栏中的数据外，该文件还存储了其自己的基于文件类型的数据。因为可以被存储在栏中的额外数据可以用来按照功能进行过滤和搜索，如版本控制，库也被认为是更多传统文件服务器系统的非常好的存储位置。库和列表一样，是 SharePoint 网站的基础构建基块。
+  #### 课程
+  - 库模版
+  - 创建库
+  - 管理文件和版本控制
+
+
+  #### 实验室 &#58; 使用小组网站库
+
+  #### 实验室 &#58; 创建库
+
+  #### 实验室 &#58; 文件版本控制
+  完成此模块后，学生将能够&#58;
+  - 使用库模版创建新的库。
+  - 在默认小组网站中使用不同的库。
+  - 向库添加栏
+  - 检出文件以编辑。
+  - 从文档库中删除和恢复文件。
+  - 在库上启用版本控制。
+  - 将库文件恢复为先前的版本。
+
+
+  ### 模块 5&#58; 使用列表和库视图
+  视图提供了灵活的系统以阅读简单和使用轻松的方式展示 SharePoint 列表和库文件。每个 SharePoint 列表和库都可以创建和配置多个视图，一些列表和库模版也可以预先配置特殊的视图。视图可以定义以用作个人用途或共享用途。
+  #### 课程
+  - 默认视图
+  - 自定义视图
+
+
+  #### 实验室 &#58; 视图练习
+
+  #### 实验室 &#58; 创建公共和个人视图
+  完成此模块后，学生将能够&#58;
+  - 使用创建于列表和库中的默认视图。
+  - 创建个人视图。
+  - 创建共享视图。
+  - 配置视图。
+  - 为列表或库设置默认视图。
+
+
+  ### 模块 6&#58; 使用网站
+  所有 SharePoint 内容都可通过网站访问。SharePoint 网站是列表和库的容器，为基础的管理提供起点。网站的内容、列表、库和基本的外感和风格都由用来创建此网站的网站模版预先确定。
+  #### 课程
+  - 网站模版
+  - 创建网站
+  - 网站导航
+
+
+  #### 实验室 &#58; 创建小组网站
+
+  #### 实验室 &#58; 创建博客网站
+  完成此练习后，学生将能够&#58;
+  - 理解网站模版是什么。
+  - 理解使用不同 SharePoint 版本的立即可用的网站模版的不同类型。
+  - 使用网站模版创建新的网站。
+  - 创建项目网站。
+  - 创建小组网站。
+  - 创建博客网站。
+  - 在顶部链接栏管理列出的网站。
+
+  #### 补充阅读
+  无

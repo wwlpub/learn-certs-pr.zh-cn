@@ -1,0 +1,188 @@
+### YamlMime:Course
+title: Introduction to Microsoft Word 2019
+metadata:
+  title: 'Course 55272-A: Introduction to Microsoft Word 2019'
+  description: 'Course 55272-A: Introduction to Microsoft Word 2019'
+uid: course.55272
+courseNumber: '55272-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 学习创建和编辑 Microsoft Word 文档。
+- skill: 学习功能区。
+- skill: 学习文件选项卡。
+- skill: 学习创建新文档并使用 Word模版。
+- skill: 学习对 Word 文档进行格式处理。
+- skill: 学习添加页码、页眉和页脚以及拼写和语法。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  本 Introduction to Microsoft Word 2019 培训课程专为对 Windows 系统中 Microsoft Word 新手学生而设计。学生将学习创建、编辑、格式化和打印 Microsoft Word 文档。
+
+  #### 受众概览
+  该课程旨在针对拥有少量 Microsoft Word 2019 技能或对其不熟悉的学生，或对 Word 更有经验希望学习包含在此课程中的2019界面主题的用户。
+prerequisitesSection: |-
+  - 熟练使用个人电脑、鼠标和键盘。
+  - 适应 Windows 系统环境。
+  - 能够打开和关闭程序、导航至电脑中保存的信息、管理文件和文件夹。
+outlineSection: |-
+  ### 模块 1&#58; 创建 Microsoft Word 文档
+  该模块解释了如何开始使用 Microsoft Word。
+  #### 课程
+  - 启动 Microsoft Word
+  - 新建文档
+  - 保存文档
+  - 导入文档
+  - 状态栏
+  - 关闭文档
+
+
+  #### 实验室 &#58; 新建 Microsoft Word 文档
+  完成此模块后，学生将能够&#58;
+  - 启动 Microsoft Word。
+  - 新建 Microsoft Word 文档。
+  - 保存 Microsoft Word 文档。
+  - 使用状态栏。
+  - 关闭 Microsoft Word 文档。
+
+
+  ### 模块 2&#58; 功能区
+  该模块解释了如何使用 Microsoft Word 中的 Ribbon。
+  #### 课程
+  - 功能区
+  - 制表符
+  - 组合
+  - 命令
+
+
+  #### 实验室 &#58; 探索功能区
+  完成此模块后，学生将能够&#58;
+  - 使用制表符。
+  - 使用组合。
+  - 使用命令。
+
+  理解在哪个标签页找到哪个组合和命令。
+
+  ### 模块 3&#58; 后台视图
+  该模块解释了如何使用后台视图。
+  #### 课程
+  - 后台视图介绍
+  - 打开文档
+  - 新建文档和 Word 模版
+  - 配置要打印的文档
+  - 将您的名字添加至 Microsoft Word
+  - 为文档属性添加值
+  - 使用文档的自动保存版本
+
+
+  #### 实验室 &#58; 后台视图练习
+  - 打开文档
+  - 使用信件模版撰写感谢信
+  - 打印文档
+
+  完成此模块后，学生将能够&#58;
+  - 学习后台视图。
+  - 打开 Microsoft Word 文档。
+  - 新建一个新的 Microsoft Word 文档。
+  - 使用 Microsoft Word 模版。
+  - 打印 Microsoft Word 文档。
+  - 个性化您的 Microsoft Word 副本。
+
+
+  ### 模块 4&#58; 快速访问工具栏
+  该模块解释了如何在 Microsoft Word 中使用快速访问工具栏。
+  #### 课程
+  - 添加常用命令
+  - 使用自定义对话框添加其他命令
+  - 添加功能区命令或群组
+  - 位置
+
+
+  #### 实验室 &#58; 自定义快速访问工具栏
+  完成此模块后，学生将能够&#58;
+  - 向快速访问工具栏添加常用命令。
+  - 向快速访问工具栏添加额外命令。
+
+  移动快速访问工具栏。
+
+  ### 模块 5&#58; 格式化 Microsoft Word 文档
+  该模块解释了如何格式化 Microsoft Word 文档。
+  #### 课程
+  - 选定文本
+  - 选择字体
+  - 使用字体
+  - 使用列表
+  - 在文档中插入超链接
+  - 使用样式
+  - 使用主题
+  - 使用标尺
+  - 设置页边距
+
+
+  #### 实验室 &#58; 格式设置练习
+  - 使用字体
+  - 使用列表
+  - 插入超链接
+  - 应用和创建自定义样式
+  - 使用制表符
+  - 设置页边距
+
+
+  完成此模块后，学生将能够&#58;
+  - 在 Microsoft Word 文档中添加、删除和更改字体。
+  - 使用列表。
+  - 向文件中添加超链接。
+  - 在 Microsoft Word 文档中应用样式。
+  - 使用主题。
+  - 在 Microsoft Word 文档中使用标尺。
+  - 在 Microsoft Word 文档中设置页边距。
+
+
+  ### 模块 6&#58; 编辑文档
+  该模块解释了如何在 Microsoft Word 中编辑文档。
+  #### 课程
+  - 查找
+  - 查找和替换
+  - 查找和替换贴士
+  - 向文件添加文本
+  - 使用剪贴板
+
+
+  #### 实验室 &#58; 编辑文档练习
+  - 使用查找和替换
+  - 使用剪贴板
+
+  完成此模块后，学生将能够&#58;
+  - 使用查找功能在文件中定位信息。
+  - 使用查找和替换功能快速用其他词汇或短语替换现有词汇或短语。
+  - 使用剪切、复制和格式刷命令编辑文档。
+
+
+  ### 模块 7&#58; 定稿 Microsoft Word 文档
+  该模块解释了如何对 Microsoft Word 文档进行定稿。
+  #### 课程
+  - 添加页码
+  - 页眉和页脚
+  - 拼写和语法检查
+
+
+  #### 实验室 &#58; 定稿 Microsoft Word 文档练习
+  - 添加页码
+  - 使用页眉和页脚
+  - 拼写和语法检查
+
+  完成此模块后，学生将能够&#58;
+  - 向 Microsoft Word 文档添加页码。
+  - 添加和自定义页眉和页脚。
+  - 查找和更正拼写错误。
+  - 查找和更正语法错误。
+
+  #### 补充阅读
+  无

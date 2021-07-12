@@ -1,0 +1,230 @@
+### YamlMime:Course
+title: Introduction to Microsoft Dynamics 365
+metadata:
+  title: 'Course 55250-A: Introduction to Microsoft Dynamics 365'
+  description: 'Course 55250-A: Introduction to Microsoft Dynamics 365'
+uid: course.55250
+courseNumber: '55250-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 熟悉 Microsoft Dynamics 365 Customer Engagement 中的 Apps 和 Hubs 包括 Sales、 Service 和 Marketing
+- skill: 理解 Dynamics 365 Apps 和 PowerApps 之间的不同
+- skill: 能够创建、更新、关联、分配及删除 Microsoft Dynamics 365 中的记录
+- skill: 在时间线控制（Timeline control）中创建博文、笔记和活动且与关系助手（Relationship Assistant）互动
+- skill: 管理、分配及完成活动
+- skill: 理解关联且使用它们来关联记录
+- skill: 使用视图并创建和保存记录的个人视图
+- skill: 理解如何使用查找和相关记录
+- skill: 与其他用户分享记录和视图
+- skill: 对记录执行批量操作
+- skill: 配置个人选项以自定义用户体验
+- skill: 对照 Dynamics 365 中的记录在 Outlook 中跟踪电子邮件和委派
+- skill: 使用全球搜索、快速查找和高级查找熟练查找信息
+- skill: 探索立即可用的报告并使用报告向导创建自定义报告
+- skill: 创建个人图表和仪表盘并将其设置为自己的主页
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  该课程通过创建所有后续课程和学习的基础为学生提供 Microsoft Dynamics 365 Customer Engagement 的介绍。所介绍的主要功能和应用包括 Sales、Service 和 Marketing。学生将学习重要的终端用户技能包括如何熟练地在 Microsoft Dynamics 365 中工作以快速找到信息并在网络浏览器和 Dynamics 365 for Outlook 中轻松使用立即可用的工具如高级查找、报告向导、图表和仪表盘。
+
+  参加此课程无需 Microsoft Dynamics 365 经验。该课程同时应用于 Microsoft Dynamics 365 Version 9 商业版和企业版以及在线和本地部署。
+
+  #### 受众概况
+  该课程旨在应用于 Microsoft Dynamics 365 Customer Engagement 的终端用户， 包括&#58;
+  - 销售代表
+  - 客服代表
+  - 市场营销人员
+  - 项目经理
+  - 欲提高自己在 Dynamics 365 中技能的普通终端用户。推荐该课程的参与者拥有 Microsoft Office、Microsoft Excel  和 Microsoft Outlook 现有的使用知识。不过，该课程的进行是假定参与者没有 Microsoft Dynamics 365 知识的。
+prerequisitesSection: |-
+  参加此课程之前，学生必须拥有#58;
+  - Microsoft Office、Microsoft Excel 和 Microsoft Outlook 的使用知识。不过，该课程的进行是假定参与者没有 Microsoft Dynamics 365 知识的。
+outlineSection: |-
+  ### 模块 1&#58; 介绍
+  该模块为参加者提供了 Microsoft Dynamics 365 Customer Engagement 的介绍。
+  #### 课程
+  - Dynamics 365 是什么？
+  - Dynamics 365 的好处
+  - Sales Apps 和 Hubs
+  - Customer Service Apps 和 Hubs
+  - Marketing App
+  - Dynamics 365 和 PowerApps
+  - Web 界面
+  - Outlook 界面
+  - 列表和网格
+  - 表单
+  - 查找和相关记录
+  - 在哪里获得帮助
+  - 补充阅读和资源
+
+
+  #### 实验室 &#58; 设置您的实验室环境
+  - 安装样本数据
+
+
+  #### 实验室 &#58; Dynanmics 365 Orientation
+  - 探索 Microsoft Dynamics 365
+
+  完成此模块之后，学生将可以&#58;
+  - 描述 Microsoft Dynamics 365 Customer Engagement 的重要功能和好处
+  - 熟悉 Sales Hub、Customer Service Hub 和 Marketing App
+  - 理解 Web 和 Outlook 界面之间的不同
+  - 知道在哪里查找帮助和补充阅读资源
+
+
+  ### 模块 2&#58; 记录、活动和个人选项
+  该模块介绍了 Microsoft Dynamics 365 Customer Engagement 的基本概念和功能。我们考核记录和关系、跟踪活动和配置个人选项之间的关联。您也将学习如何在时间线控制（Timeline control）中使用博文、活动和笔记。
+  #### 课程
+  - 记录和关系
+  - 活动
+  - 时间线控制（Timeline Control）
+  - 关系助手
+  - 关联
+  - 设置您的个人选项
+
+
+  #### 实验室 &#58; 设置个人选项
+  - 更改您的主页
+  - 更改每页记录
+  - 配置格式设置
+
+
+  #### 实验室 &#58; 使用活动
+  - 创建任务活动
+  - 使用设置关于字段跟踪一项活动
+  - 使用所有者字段分配一项活动
+  - 查找和完成一项活动
+
+  完成该模块后，学生将能够&#58;
+  - 使用记录和活动
+  - 在时间线控制（Timeline Control）中与博文、笔记和附件交互
+  - 创建记录关联
+  - 配置个人选项
+  - 使用活动记录
+  - 知道在哪里查找帮助和补充阅读资源
+
+
+  ### 模块 3&#58; 在 Dynamics 365 中执行工作
+  该模块介绍了终端用户在 Microsoft Dynamics 365 Customer Engagement 中高效执行工作所需的普通技能。您将学习如何使用记录、创建个人视图、向不同所有者重新分配记录及与其他用户分享记录、视图和图表。您也将学习如何执行批量操作如批量修改。
+  #### 课程
+  - 使用数据和记录
+  - 安全考虑
+  - 系统视图和个人视图
+  - 创建记录
+  - 编辑现有记录
+  - 删除记录
+  - 关联记录
+  - 向新的所有者重新分配记录
+  - 与其他用户或团队分享记录
+  - 对多条记录执行操作
+
+
+  #### 实验室 &#58; 管理记录
+  - 创建账户记录
+  - 将联系人与账户进行关联
+  - 重新分配账户记录
+  - 分享账户记录
+  - 停用账户
+
+
+  #### 实验室 &#58; 创建个人视图
+  - 创建个人视图
+  - 设置默认个人视图
+
+  完成此模块后，学生将能够&#58;
+  - 对记录执行操作
+  - 创建并管理个人视图
+  - 重新分配和分享记录
+  - 对记录执行批量操作
+
+
+  ### 模块 4&#58; Dynamics 365 for Outlook
+  在此模块中，我们将学习如何使用 Dynamics 365 for Outlook。Outlook Add-in 将被考虑包括 Dynamics 365 导航选项、对照 Dynamics 365 中记录对电子邮件和委派进行跟踪以及如何在 Dynamics 365 服务器上同步您的工作。
+
+  #### 课程
+  - Dynamics 365 for Outlook 介绍
+  - Dynamics 365 Pop-out Window
+  - 跟踪 Outlook 中的活动
+  - 模版、销售资料和文章
+  - 在 Outlook 中创建 Dynamics 365 Records
+  - 在 Outlook 中搜索 Dynamics 365 Records
+
+
+  #### 实验室 &#58; 跟踪 Outlook 中的活动
+  - 在 Dynamics 365 for Outlook 中跟踪电子邮件
+  - 在 Dynamics 365 for Outlook 中跟踪委派
+
+  完成此模块后，学生将能够&#58;
+  - 熟悉 Dynamics 365 for Outlook App
+  - 理解 Web 和 Outlook 界面之间的不同
+  - 对照 Dynamics 365 中的记录跟踪 Outlook 中的活动
+
+
+  ### 模块 5&#58; 在 Dynamics 365 中进行搜索
+  在此模块中我们将学习如何在 Microsoft Dynamics Customer Engagement 中搜索信息。我们将了解所有立即可用的搜索工具包括全球查找、快速查找和高级查找。
+  #### 课程
+  - 在 Dynamics 365 中搜索介绍
+  - 全球搜索
+  - 快速查找
+  - 高级查找
+
+
+  #### 实验室 &#58; 使用全球查找
+  - 使用全球查找搜索信息
+
+
+  #### 实验室 &#58; 使用快速查找
+  - 使用快速查找搜索账户记录
+
+
+  #### 试验室&#58; 使用高级查找
+  - 使用高级查找搜索信息
+
+  完成此模块后，学生将能够&#58;
+  - 使用全球搜索
+  - 使用快速查找
+  - 精通高级查找工具
+
+
+  ### 模块 6&#58; 报告、图表和仪表盘
+  该模块着眼于 Microsoft Dynamics 365 中可用的不同方式以对信息进行分析。我们着眼于立即可用的“默认”报告和流程，使用 Dynamics 365 Report Wizard 创建自定义报告。该模块同时也考核了立即可用的图表和仪表盘以及流程来构建自定义的图表和仪表盘。
+  #### 课程
+  - 报告、图表和仪表盘介绍
+  - 默认报告
+  - 报告向导
+  - 使用图表
+  - 使用仪表盘
+
+
+  #### 实验室 &#58; 创建自定义报告
+  - 创建自定义报告
+  - 测试您的新报告
+
+
+  #### 实验室 &#58; 探索图表
+  - 探索图表
+  - 创建自定义图表
+
+
+  #### 实验室 &#58; 探索仪表盘
+  - 探索仪表盘
+  - 创建自定义仪表盘
+
+  完成此模块后，学生将能够&#58;
+  - 熟悉立即可用的报告
+  - 使用报告向导创建自定义报告
+  - 理解 Dynamics 365 Charts
+  - 创建自定义个人图表
+  - 理解 Dynamics 365 Dashboards
+  - 创建自定义个人仪表盘
+
+  #### 补充阅读
+  无
