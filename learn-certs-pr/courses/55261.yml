@@ -1,0 +1,124 @@
+### YamlMime:Course
+title: SharePoint for Office 365 Site Owner Training
+metadata:
+  title: 'Course 55261-A: SharePoint for Office 365 Site Owner Training'
+  description: 'Course 55261-A: SharePoint for Office 365 Site Owner Training'
+uid: course.55261
+courseNumber: '55261-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 学习 SharePoint 2016 小组网站中的各个功能。
+- skill: 学习创建和编辑网页内容。
+- skill: 学习创建网站栏和内容类型。
+- skill: 学习集成 Office 应用程序和 SharePoint 2016。
+- skill: 学习管理 SharePoint 2016 资源的基础权限。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  该为期2天的 SharePoint 2016 Site Owner 课程针对在 SharePoint Office 365 环境中工作的网站所有者/管理员。
+
+  #### 受众概览
+  该课程适用于在 SharePoint Office 365 环境中工作的新手网站所有者和管理员。
+prerequisitesSection: |-
+  N/A
+outlineSection: |-
+  ### 模块 1&#58; 使用网站
+  所有 SharePoint 内容都可通过网站访问。SharePoint 网站是列表和库的容器，为基础的管理提供起点。网站的内容、列表、库和基本的外感和风格都由用来创建此网站的网站模版预先确定。
+
+  #### 课程
+  - 网站模版
+  - 创建网站
+  - 网站导航
+
+
+  #### 实验室 &#58; 创建小组网站
+
+  #### 实验室 &#58; 创建博客网站
+  完成此练习后，学生将能够&#58;
+  - 理解网站模版是什么。
+  - 理解使用不同 SharePoint 版本的立即可用的网站模版的不同类型。
+  - 使用网站模版创建新的网站。
+  - 创建项目网站。
+  - 创建小组网站。
+  - 创建博客网站。
+  - 在顶部链接栏管理列出的网站。
+
+
+  ### 模块 2&#58; 网页内容
+  SharePoint 提供了很多方法来将内容添加在网页中。 小组网站模版的最新技术及所实施的一项是通过 Wiki 样式页面实现。SharePoint 过去所采用的另一种方法是使用  Web Parts 和 Web Part 页面。这两项技术在可创建的输出方面类似，且 Web Part 页面和 Wiki 页面都可以添加 Web Parts。
+
+  #### 课程
+  - Wiki 库页面
+  - Web Part 页面
+  - 使用 Web Parts
+
+
+  #### 实验室 &#58; 使用 Wiki 页面
+  完成此模块后，学生将能够&#58;
+  - 理解 Wiki 页面是什么。 
+  - 理解 Web Part页面和 Web Parts 是什么。
+  - 向小组网站首页添加内容。
+  - 更改小组网站首页的布局。
+  - 创建 Wiki 页面。
+  - 创建 Web Part 页面。
+  - 添加 Web Parts。
+
+
+  ### 模块 3&#58; 网站栏和内容类型
+  自定义 SharePoint 的方法在某种程度上可以在网站或网站集或甚至整个场中再次使用，即创建网站栏和内容类型。网站栏是最简单的元素；除您在网站级别创建它们之外，它们和列表及库栏基本是一样的，然后在网站及任何子网站中它们都可以被使用。内容类型是网站栏和其他设置和信息如文件模版和工作流的结合。网站类型，一经创建，就可以被链接到列表和库中。
+  #### 课程
+  - 网站栏图库。
+  - 创建网站栏
+  - 网站内容类型图库
+  - 创建内容类型
+
+
+  #### 实验室 &#58; 创建并使用内容类型
+
+  #### 实验室 &#58; 向库添加内容类型
+  完成此模块后，学生将能够&#58;
+  - 理解网站栏。
+  - 理解内容类型。
+  - 理解网站栏。
+  - 创建内容类型。
+  - 为内容类型创建文件模版。
+  - 向列表或库分配内容类型。
+  在自定义内容类型上创建新的条目。
+
+  ### 模块 4&#58; Office 集成
+  SharePoint 的一个出色功能是其与 Microsoft Office 应用程序集成的能力。 请注意，本章探索了与 Office Online 产品的集成即让您创建和修改办公文件的 Office 基于浏览器的版本产品。该版本有限制且没有如本地安装对应产品那样能够精确地执行。
+  #### 课程
+  - Office 集成
+
+
+  #### 实验室 &#58; Office 集成
+  完成此模块后，学生将能够&#58;
+  - 创建通知。
+
+
+  ### 模块 5&#58; 管理 SharePoint 网站权限
+  SharePoint 网站的权限在创建网站时就已被分配。默认将分配给网站集根目录的权限由子网站继承。在任何时候，权限的继承都可以在网站、列表、库或甚至在列表或库的条目级上关闭。权限本身可以被分配给 SharePoint 群组、个人用户或在 SharePoint 之外创建的组，如 Windows群组。
+  #### 课程
+  - SharePoint 群组
+  - 分配权限
+  - 权限继承
+
+
+  #### 实验室 &#58; 使用 SharePoint 权限练习
+  完成此模块后，学生将能够&#58;
+  - 理解 SharePoint 群组。
+  - 创建 SharePoint 群组。
+  - 在 SharePoint 中分配权限。
+  - 在网站级别管理权限继承。
+  在列表或库级别管理权限继承。
+  #### 补充阅读
+  无
+  

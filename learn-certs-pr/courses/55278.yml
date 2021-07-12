@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Advanced Microsoft Outlook 2019
+metadata:
+  title: 'Course 55278-A: Advanced Microsoft Outlook 2019'
+  description: 'Course 55278-A: Advanced Microsoft Outlook 2019'
+uid: course.55278
+courseNumber: '55278-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 学习使用任务和备注。
+- skill: 学习使用签名和主题。
+- skill: 管理您的收件箱包括过滤、创建搜索文件夹和归档。
+- skill: 使用多个账户。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  该 Microsoft Outlook 培训课程构建了 Outlook 的基础技能并教导学生使用 Outlook 的一些更多高级功能。
+
+  #### 受众概览
+  该课程旨在针对拥有 Microsoft Outlook 2019 基础技能，希望学习更高水平技能的学生或希望学习包含在此课程中的2019界面主题的学生。
+prerequisitesSection: |-
+  参加此 Microsoft Outlook 课程需要如下必备经验&#58;
+  - 熟悉 Windows 系统。
+  - Outlook 的入门水平知识。
+outlineSection: |-
+  ### 模块 1&#58; 使用任务和备注
+  该模块解释了如何在 Microsoft Outlook 中使用任务和备注。
+  #### 课程
+  - 新建任务
+  - 打印任务
+  - 更新任务
+  - 搜索任务
+  - 分配任务
+  - 答复任务请求
+  - 跟踪任务
+  - 更改您的任务视图
+  - 使用备注
+
+
+  #### 实验室 &#58; 使用任务
+  完成此模块后，学生将能够&#58;
+  - 更改您的任务视图。
+  - 新建任务。
+  - 打印任务。
+  - 更新任务。
+  - 分配任务。
+  - 搜索任务。
+  - 答复任务请求。
+  - 跟踪任务。
+  - 使用备注。
+
+
+  ### 模块 2&#58; 使用签名和主题
+  该模块解释了如何使用签名和主题。
+  #### 课程
+  - 创建签名
+  - 向邮件中自动添加签名
+  - 修改签名
+  - 设置发出邮件的格式
+  - 新建和应用主题
+
+
+  #### 实验室 &#58; 向您的邮件中添加主题和签名
+  完成此模块后，学生将能够&#58;
+  - 创建签名。
+  - 学习如何将签名自动添加到邮件中。
+  - 修改签名。
+  - 新建并应用主题
+
+
+  ### 模块 3&#58; 管理您的收件箱
+  该模块解释了如何管理您 Microsoft Outlook 的收件箱。
+  #### 课程
+  - 搜索邮件
+  - 创建搜索文件夹
+  - 分类邮件
+  - 添加新的本地文件夹
+  - 在文件夹之间移动邮件
+  - 对您的邮件项分组
+  - 过滤邮件
+  - 组织邮件
+  - 创建和管理规则
+  - 管理垃圾邮件
+  - 存档邮件
+  - 创建 Outlook 数据文件
+  - 新建快速步骤
+  - 向您的发出邮件添加保护
+  - 新建自动回复
+
+
+  #### 实验室 &#58; 管理您的收件箱练习
+  - 组织您的邮件
+  - 通过新建快速步骤管理您的邮件
+
+  完成此模块后，学生将能够&#58;
+  - 搜索邮件。
+  - 创建搜索文件夹。
+  - 分类您的邮件项。
+  - 过滤邮件。
+  - 组织邮件。
+  - 管理垃圾邮件。
+  - 存档邮件。
+  - 创建 Outlook 数据文件。
+  - 创建快速步骤以轻松、快速地将多个动作应用到邮件中。
+  向发出邮件添加保护。
+
+  ### 模块 4&#58; 使用多个邮箱账户
+  该模块解释了如何在 Microsoft Outlook 中使用多个电子邮箱账户。
+  #### 课程
+  - 在 Outlook 中创建多个账户
+  - 从不同账户发送邮件
+  - POP 与 IMAP 邮件应用程序对比
+
+
+  #### 实验室 &#58; 使用多个电子邮箱账户
+  完成该模块后，学生将能够&#58;
+  - 在 Outlook 中创建多个账户。
+  - 从不同账户发送电子邮件。
+  - 了解 POP 与 IMAP 邮件应用程序之间的不同。
+
+  #### 补充阅读
+  为帮助您准备好此课程，请查看如下资源&#58;
+  - 无

@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: Advanced Python
+metadata:
+  title: 'Course 55285-A: Advanced Python'
+  description: 'Course 55285-A: Advanced Python'
+uid: course.55285
+courseNumber: '55285-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用集合模块。
+- skill: 理解映射、过滤和匿名函数。
+- skill: 执行高级排序。
+- skill: 在 Python 中使用正则表达式。
+- skill: 使用数据库、CSV 文件、JSON 和 XML。
+- skill: 在 Python 中编写面向对象的代码。
+- skill: 测试、调试您的 Python 代码。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  在该 Python 培训课程中，学生已熟悉 Python 编程且将学习高级 Python 技术。
+  该高级 Python 课程使用 Python 3 进行教学；但是， Python 2 和 Python 3 之间的不同之处也会被指出。对于 Python 私人班级，我们的讲师会具体专注于 Python 2，如学生希望的话。
+
+  #### 受众概览
+  无
+prerequisitesSection: |-
+  参加此 Python 课程要求必备如下经验&#58;
+  - 基础的 Python 编程经验。尤其是您应该非常适应&#58;
+      1.使用字符串。
+      2.使用列表、元组和字典。
+      3.循环和条件。
+      4.编写您自己的函数。
+
+  下面列出的经验会对该 Python 课程非常有帮助&#58;
+  - 接触过一些 HTML、XML、JSON 和 SQL。
+outlineSection: |-
+  ### 模块 1&#58; 高级 Python 概念
+  在该课程中，您将了解一些经常使用的 Python 功能和技术但要求拥有 Python 扎实的基础以便于理解。
+
+  #### 课程
+  - 匿名函数
+  - 高级列表生成式
+  - 集合模块
+  - 映射和过滤
+  - 可更改和不可更改内置对象
+  - 排序
+  - 函数调用中的分解序列
+
+
+  #### 实验室 &#58; 本课练习
+  - 掷五个骰子
+  - 创建 defaultdict
+  - 创建 OrderedDict
+  - 创建计数器
+  - 使用双端队列
+  - 将 list.sort() 转换为 sorted(iterable)
+  - 将字符串转换为 datetime.date 对象
+
+  完成此模块后，学生将能够&#58;
+  - 使用匿名函数。
+  - 编写更高级的列表生成式。
+  - 使用集合模块创建已命名的元组、defaultdicts、ordereddicts、计数器和双端队列
+  - 使用映射和过滤。
+  - 排序队列。
+  - 在函数调用中分解序列。
+  - 创建模块和包。
+
+
+  ### 模块 2&#58; 使用数据
+  数据以很多方式被存储在很多不同地方。有针对大部分常见的方式 Python 模块。
+
+  #### 课程
+  - 关系数据库
+  - CSV
+  - 从网络获得数据
+  - JSON
+
+
+  #### 实验室 &#58; 本课练习
+  - 查询 SQLite 数据库
+  - 向数据库插入文件数据
+  - 在 CSV 文件中比较数据
+  - 网络爬虫之请求和 Beautiful Soup
+  - 使用 JSON 打印课程数据
+
+  完成此模块后，学生将能够&#58;
+  - 访问和使用存储在关系数据库中的数据。
+  - 访问和使用存储在 CSV 文件中的数据。
+  - 获得网页上的数据。
+  - 访问和使用存储为 HTML 和 XML 的数据。
+  - 访问 API。
+  - 访问和使用存储为 JSON 的数据。
+
+
+  ### 模块 3&#58; 测试和调试
+  该模块解释了如何使用 Python 进行测试和调试。
+  #### 课程
+  - 性能测试
+  - unittest 单元测试框架模块
+
+
+  #### 实验室 &#58; 本课练习
+  - 修复函数
+
+  完成此模块后，学生将能够&#58;
+  - 使用 timeit模块测试定时器的性能。
+  -使用 unittest 单元测试模块编写单元测试。
+
+
+  ### 模块 4&#58; 类和对象
+  对象是拥有属性和/或行为的东西，即意味着它是特定的方法且完成特定的任务。在现实生活中，所有东西都可以被认为是对象。一些对象是有形的，如石头、树木、网球拍及网球运动员。而另一些是无形的，如言语、颜色、网球的挥拍和网球比赛。
+
+  #### 课程
+  - 属性
+  - 行为
+  - 类和对象的对比
+  - 属性和方法
+  - 私有属性
+  - 特性
+  - 文档化的类
+  - 继承
+  - 静态方法
+  - 类属性和方法
+  - 抽象类和方法
+  - 理解装饰器
+
+
+  #### 实验室 &#58; 本课练习
+  - 向 Die 添加 roll() 方法
+  - 特性
+  - 文档化的 Die 类
+  - 扩展至 Die 类
+  - 扩展 roll() 方法
+
+  完成此模块后，学生将能够&#58;
+  - 在 Python 中创建类和对象。
+
+  - 编写实例方法、类方法和静态昂发。
+  - 定义特性。
+  - 使用继承创建子类。
+  - 创建抽象类。
+  - 适当地文档化 Python 类。
+  - 理解装饰器是如何运行的。
+
+  #### 补充阅读
+  无

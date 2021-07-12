@@ -1,0 +1,45 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+metadata:
+  title: 'Course 40560-G: Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+  description: 'Course 40560-G: Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+uid: course.40560
+courseNumber: '40560-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在 Azure 中设计一个基于 IoT 的预测性维护解决方案。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在本次研讨会中，您将学习如何评价 Microsoft 基于 PaaS 和 SaaS 的 IoT 产品目录，以确定工具的最佳组合，从而满足 Fabrikam 的需求。您将设计并实施一个可简化 IoT 设备管理和报告的解决方案，为 Fabrikam 提供快速实现其 IoT 战略的途径，而无需进行大量的定制开发。接下来，您将学习如何部署一个训练有素的预测性维护“机器学习”模型，并设计一个流处理管道，利用该模型进行几乎实时的预测。当油泵即将发生故障时，该管道的末端会向油泵维修团队发送警报。
+
+  #### 受众概览
+  本次研讨会针对的是 Cloud Architects 和 IT 专业人士，他们在 cloud 技术的基础设施和解决方案设计方面有着架构专业知识，并希望了解更多关于 Azure 和 Azure 服务的知识，正如“摘要”和“获得的技能”部分中所描述的那样。  参加本次研讨会的人员还应具有其他非 Microsoft cloud 技术方面的经验，满足课程先决条件，并希望在 Azure 上进行交叉培训。
+prerequisitesSection: |-
+  研讨会内容假定有300级别的基础设施和解决方案设计方面的架构专业知识。我们建议学生在参加本次研讨会之前先接受这一先决条件。
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 模块 1&#58; 白板设计会话 - 远程现场设备的“预测性维护”
+  #### 课程
+  - 回顾客户案例研究
+  - 设计一个概念验证解决方案
+  - 呈现该解决方案
+
+
+  ### 模块 2&#58; 动手实验室 —— 远程现场设备的“预测性维护”
+  #### 课程
+  - 用设备和元数据配置 IoT Central
+  - 运行 Rod Pump Simulator
+  - 创建设备集
+  - 创建有用的仪表板
+  - 创建 Event Hub，并持续从 IoT Central 导出数据
+  - 使用 Azure Databricks 和 Azure Machine Learning 服务来训练并部署预测模型
+  - 创建 Azure Function 来预测泵故障
