@@ -1,0 +1,287 @@
+### YamlMime:Course
+title: Office 365 Administrator
+metadata:
+  title: 'Course MS-030T00-A: Office 365 Administrator'
+  description: 'Course MS-030T00-A: Office 365 Administrator'
+uid: course.ms-030t00
+courseNumber: 'MS-030T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 规划 Office 365 部署，配置 Office 365 用户和规划试验部署。
+- skill: 管理 Office 365 用户、群组和许可证以及配置授权管理。
+- skill: 规划和配置客户端与 Office 365 的关联。
+- skill: 规划和配置 Microsoft Azure AD 和本地部署 AD DS 之间的目录同步。
+- skill: 规划和实施 Office 365 ProPlus 部署。
+- skill: 规划和管理 Microsoft Exchange Online收件人和权限。
+- skill: 规划和配置 Exchange Online 服务。
+- skill: 规划和配置 Microsoft Teams
+- skill: 规划和配置 Microsoft SharePoint Online。
+- skill: 规划和配置 Office 365 协作解决方案。
+- skill: 规划和配置 Office 365 和 Microsoft Azure Information Protection 之间的集成。
+- skill: 管理和检查 Office 365 服务及 Office 365 问题的解决。
+- skill: 规划和实施 AD DS 和 Azure AD 之间的联合身份验证。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  该培训是为期五天的引导式(ILT) 课程，目标受众为参与评估、规划、部署和操作 Microsoft Office 365 服务，包括其身份、依赖性、要求和支持技术的 IT 专业人士。 该课程重点聚焦于设置 Office 365 用户所要求的技能，包括现有用户的联合身份验证以及维护 Office 365 用户和其用户的技能。
+
+  #### 受众概览
+  该课程目标受众为负责规划、配置、管理 Office 365 环境的 IT 专业人士。参与本课的学生预期将会拥有对一些本地部署技术如 Domain Name System (DNS) 和 Active Directory Domain Services (AD DS) 的广泛理解。此外，他们应该具有对 Microsoft Exchange Server、Microsoft Lync Server 或 Skype for Business Server 和 Microsoft SharePoint Server 的整体理解。
+prerequisitesSection: |-
+  参加本课之前，学生必须拥有&#58;
+  - 至少两年管理 Windows Server 操作系统包括 Windows Server 2012 或较迟版本的经验。
+  - 最低一年使用 AD DS 的经验。
+  - 最低一年域名解析包括 DNS 的经验。
+  - 具有认证的工作经验包括公开密钥基础建设 (PKI) 证书。
+  - 使用 Windows PowerShell 的经验。
+  - 使用 Exchange Server 2013 或较迟版本、Lync Server 2013 或 Skype for Business Server 2015 和 SharePoint Server 2013 或较迟版本的经验是非常有用的，但不强制要求。
+outlineSection: |-
+  ### 模块 1&#58; 规划和准备 Office 365
+  该模块温习了 Office 365 的功能、指出了该服务的最新改进且描述了准备 Office 365 用户的流程。该模块也支出了部署 Office 365 过程中的挑战以及 Microsoft FastTrack for Office 365 的尝试相比于传统的规划、准备和迁移部署流程的好处。
+  #### 课程
+  - Office 365 概览
+  - 准备 Office 365 用户
+  - 规划试验部署
+
+
+  #### 实验室 &#58; 准备 Office 365
+  - 配置 Office 365 用户
+  - 配置自定义域名
+  - 探索 Office 365 管理员界面
+
+  完成此模块后，学生将能够&#58;
+  - 描述 Office 365 的功能和好处。
+  - 准备新的用户账户。
+  - 规划 Office 365 的试验部署。
+
+
+  ### 模块 2&#58; 管理 Office 365 用户和群组
+  该模块解释了如何管理用户、群组和许可证及使用 Office 365 控制台和 Windows PowerShell 命令行界面来配置管理访问权限。该模块也解释了如何管理用户密码和配置多重身份验证。
+  #### 课程
+  - 管理用户账户和许可证
+  - 管理密码和验证
+  - 在 Office 365 中管理安全群组
+  - 使用 Windows PowerShell 管理 Office 365 用户和群组
+  - 配置管理访问权限
+
+
+  #### 实验室 &#58; 管理 Office 365 用户和密码
+  - 使用 Microsoft 365 管理中心管理 Office 365 用户和许可证
+  - 管理 Office 365 密码政策
+
+
+  #### 实验室 &#58; 管理 Office 365 劝阻和管理
+  - 管理 Office 365 群组
+  - 使用 Windows PowerShell 管理 Office 365 用户和群组
+  - 配置服务管理员
+
+  完成此模块后，学生将能够&#58;
+  - 使用 Microsoft 365 管理中心管理用户账户和许可证。
+  - 管理密码和验证。
+  - 使用 Microsoft 365 管理中心管理安全和通讯组。
+  - 使用 Windows PowerShell 管理 Office 365用户和群组。
+  - 配置管理访问权限。
+
+
+  ### 模块 3&#58; 配置客户端到 Microsoft Office 365 的关联
+  本模块涵盖了您可以用来连接到 Office 365 的很多不同类型的客户端软件。本模块也解释了客户端连接至 Office 365 的基础设施要求，以及如何配置不同蕾西的 Office 365 客户端。
+  #### 课程
+  - 规划 Office 365 客户端软件
+  - 规划 Office 365 客户端的连接
+  - 配置 Office 365 客户端的连接
+
+
+  #### 实验室 &#58; 配置 Office 365 客户端的连接
+  - 为 Office 365 客户端配置 DNS 记录
+  - 运行 Office 365 连接分析工具
+  - 连接 Office 应用程序
+
+  完成此模块后，学生将能够&#58;
+  - 规划 Office 365 客户端的部署。
+  - 规划、解决问题即 Office 365 客户端连接。
+  - 配置 Office 365 客户端的连接。
+
+
+  ### 模块 4&#58; 规划和配置目录同步
+  该模块解释了如何使用整套方法在 Office 365 的部署中为用户和群组管理进行规划、准备和实施目录同步。 也解释了如何准备本地部署环境并安装和配置目录同步。该模块也解释了如何在您启用目录同步后管理 Office 365 身份。
+  #### 课程
+  - 目录同步的规划和准备
+  - 使用 Azure AD Connect 来实施目录同步
+  - 使用目录同步来管理 Office 365 身份
+
+
+  #### 实验室 &#58; 配置目录同步
+  - 目录同步准备
+  - 配置目录同步
+  - 管理 Active Directory 用户和群组
+
+  完成此模块后，学生将能够&#58;
+  - 规划和准备目录同步。
+  - 使用 Microsoft Azure Active Directory Connect (AD Connect) 来实施目录同步。
+  - 使用目录同步管理 Office 365 身份。
+
+
+  ### 模块 5&#58; 规划和部署 Office 365 ProPlus
+  该模块解释了如何为客户端部署进行规划并确定用户收到他们需要的工具来与 Office 365 高效互动。该模块也解释了规划的流程，如何让 Office 365 ProPlus 能够对终端用户直接可用以及如何作为托管包对其进行部署。最后描述了如何建立 Office 遥测以让管理员跟踪用户如何与 Microsoft Office 进行互动的。
+  #### 课程
+  - Office 365 ProPlus 概览
+  - 规划和管理用户驱动 Office 365 ProPlus 的部署
+  - 规划和管理 Office 365 ProPlus 的集中部署
+  - Office 遥测和报告
+
+
+  #### 实验室 &#58; 管理 Office 365 ProPlus 安装
+  - 准备 Office 365 ProPlus 的托管安装
+  - 管理用户驱动 Office 365 ProPlus 安装
+  - 管理 Office 365 ProPlus 集中安装
+
+  完成此模块后，学生将能够&#58;
+
+  - 描述 Office 365 ProPlus。
+  - 规划和管理用户驱动的 Office 365 ProPlus 部署。
+  - 规划和管理 Office 365 ProPlus 的集中部署。
+  - 描述 Office Telemetry 和报告。
+
+
+  ### 模块 6&#58; 规划和管理 Exchange Online 接收人和权限
+  该模块描述了 Exchange Online 并解释了如何创建和管理接收者对象，如何管理和指定 Exchange 安全性。
+  #### 课程
+  - Exchange Online 概览
+  - 管理 Exchange Online 接收者
+  - 规划和配置 Exchange Online 权限
+
+
+  #### 实验室 &#58; 管理 Exchange Online 接收者和权限
+  - 配置 Exchange Online 接收者
+  - 配置基于角色的访问控制
+
+  完成此模块后，学生将能够&#58;
+  - 描述 Exchange Online。
+  - 管理 Exchange Online 接收者。
+  - 管理和配置授权管理。
+
+
+  ### 模块 7&#58; 规划和位置 Exchange Online 服务
+  该模块解释了如何在 Office 365 中除反欺诈邮件和反垃圾邮件设置之外的规划和配置电子邮件工作流程。也解释了如何为 Exchange 客户端规划和配置政策。此外，也解释了如何规划和配置向 Exchange Online 的迁移。
+  #### 课程
+  - 在 Office 365 中规划和配置电子邮件工作流程
+  - 在 Office 365 中规划和配置电子邮件保护
+  - 规划和配置客户端访问政策
+  - 向 Exchange Online 迁移
+
+
+  #### 实验室 &#58; 在 Exchange Online 中信息传输
+  - 配置信息传输配置
+
+
+  #### 实验室 &#58; 配置电子邮件保护和客户端政策
+  - 配置电子邮件保护
+  - 配置客户端访问政策
+
+  完成此模块后，学生将能够&#58;
+  - 在 Office 365 中规划和配置电子邮件工作流程。
+  - 在 Office 365 中规划和配置反欺诈邮件和反垃圾邮件设置。
+  - Exchange 客户端的规划和配置政策
+  - 向 Exchange Online 迁移的规划和配置。
+
+
+  ### 模块 8&#58; 规划和配置 Microsoft Teams
+  该模块解释了如何规划和配置 Teams。该模块解释了如何配置 Teams 用户设置和客户端并解释了语音集成。也解释了如何从 Skype for Business 向 Teams 进行迁移及 Teams 是如何与其他 Office 365服务集成的。
+  #### 课程
+  - Teams 说明
+  - 部署 Teams
+  - 验证和访问
+  - 将 Skype For Business 迁移至 Microsoft Teams
+  - 管理和报告
+
+  #### 实验室 &#58; Teams 概览
+  - 管理会议设置
+  - 管理信息传输政策
+  - 管理语音设置
+  - 管理组织范围设置
+
+  完成此模块后，学生将能够&#58;
+  - 规划和配置 Teams
+  - 配置 Teams 用户设置和频道
+  - 管理语音集成
+  - 在 Teams 中配置组织范围设置
+
+
+  ### 模块 9&#58; 规划和配置 SharePoint Online
+  该模块描述了如何配置 SharePoint Online 服务。本模块解释了如何规划和配置 SharePoint 网站集和外部用户共享。也提供了其他门户如视频门户的简要概览。
+  #### 课程
+  - 配置 SharePoint Online 服务
+  - 管理和配置 SharePoint Online 网站集
+  - 规划和配置外部用户共享
+
+
+  #### 实验室 &#58; 配置 SharePoint Online
+  - 配置 SharePoint Online 设置
+  - 创建和配置 SharePoint Online 网站集
+  - 配置和验证外部用户共享
+
+  完成此模块后，学生将能够&#58;
+  - 配置 SharePoint Online 服务。
+  - 规划和配置 SharePoint Online 网站集。
+  - 规划和配置外部用户共享。
+
+
+  ### 模块 10&#58; 规划和配置 Office 365 协作解决方案
+  该模块描述了如何启用和配置 Yammer Enterprise。也解释了如何配置 OneDrive for Business 和 Office 365 群组。
+  #### 课程
+  - 规划和管理 Yammer Enterprise
+  - 规划和配置 OneDrive for Business
+  - 配置 Office 365 群组
+
+
+  #### 实验室 &#58; 规划和配置 Office 365 协作解决方案
+  - 配置 Yammer Enterprise
+
+  - 配置 OneDrive for Business
+  - 配置Office 365 群组
+
+  完成此模块后，学生将能够&#58;
+  - 启用和配置Yammer Enterprise。
+  - 配置 Office 365 群组。
+
+
+  ### 模块 11&#58; 在 Office 365 中规划和配置安全性和合规性
+  该模块描述了 Office 365 中的合规功能及如何管理它们。也解释了如何规划和配置 Azure Information Protection。此外，也解释了 Office 365 中的安全性功能。
+  #### 课程
+  - Office 365 合规功能概览
+  - 规划和配置 Office 365 中的 Azure Information Protection
+  - 管理 Office 365 中的合规功能
+
+
+  #### 实验室 &#58; 配置权限管理和合规
+  - 配置 Office 365 中的权限管理
+  - 配置合规功能
+
+  完成此模块后，学生将能够&#58;
+  - 描述 Office 365 中的合规功能。
+  - 配置 Office 365 中的 Azure Information Protection。
+  - 管理 Office 365 中的合规功能
+
+
+  ### 模块 12&#58; 监测和解决 Microsoft Office 365 问题
+  该模块解释了如何解决使用 Office 365 关联和服务中出现的问题及如何监测 Office 365 服务健康。
+  #### 课程
+  - 解决使用 Office 365 过程中出现的问题
+  - 监测 Office 365 服务健康
+
+
+  #### 实验室 &#58; 监测和解决使用 Office 365 过程中出现的问题
+  - 监测 Office 365
+  - 监测服务健康和分析报告
+
+  完成此模块后，学生将能够&#58;
+  - 解决 Office 365 关联和服务方面的问题。
+  - 监测 Office 365 服务健康。

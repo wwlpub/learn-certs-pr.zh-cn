@@ -1,0 +1,220 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Customer Engagement for Developers
+metadata:
+  title: 'Course 55259-A: Microsoft Dynamics 365 Customer Engagement for Developers'
+  description: 'Course 55259-A: Microsoft Dynamics 365 Customer Engagement for Developers'
+uid: course.55259
+courseNumber: '55259-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 能够创建可将代码实施于开发者可用的各种不同 API 进行互动的应用程序
+- skill: 理解如何在 Visual Studio 中创建项目以准备为 Dynamics 365 撰写代码
+- skill: 下载并使用开发者资源和工具
+- skill: 撰写服务器及客户端代码以向和从 Dynamics 365 执行命令、读取和些数据
+- skill: 创建与 Dynamics 365 互动的数据和操作的自定义 Web 和 UCI apps
+- skill: 自定义 Microsoft Dynamics 365 导航
+- skill: 在“插件程序”组件中创建、部署自定义商业逻辑并对其除错
+- skill: 创建自定义工作流活动以扩展 Dynamics 365 Processes
+- skill: 优化 JavaScript 文库和网络资源以扩展表单和字段时间驱动模型
+- skill: 使用 Web API 和客户端代码创建使用 HTML 网页的自定义表单语句和控制
+- skill: 使用 App Designer 和 Site Map Designer 创建自定义模型区块应用程序
+- skill: 在为 Microsoft Dynamics 365 扩展和撰写代码时理解最佳的实践方法论
+- skill: 理解针对设备的 Microsoft Dynamics 365 Customer Engagement 中现有的功能和工具
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  该课程旨在针对 IT 专业人士和开发者，提供了开始在 Microsoft Dynamics 365 中开发代码所需学习的技能的“快速通道”。学生将学习如何编写客户端和服务器端代码以优化 Microsoft Dynamics 365 Customer Engagement 框架中各种不同的可用 API，使用 JavaScript 和 HTML 网络资源创建自定义模型驱动应用程序、在插件应用程序和自定义工作流活动组件中创建自定义商业逻辑并扩展 Dynamics 365 活动模型。
+
+  该课程同时应用 Microsoft Dynamics 365 Customer Engagement (版本 9.*)上夜班和企业版。在该课程中已学习的技术可以应用于 Web、UCI 和 Outlook 应用程序中。
+  请注意&#58; 该课程要求存储于 Learn on Demand 平台上的相关实验室环境才能进行。 要购买实验室访问权限或获得关于此课程的进一步信息，及向 Dynamics 365 致谢，请在 www.ttsolutions.com.au 上联系我们。
+
+  #### 受众概览
+  该课程的受众为技术类学生、管理员和开发者。学生应具有 Microsoft .Net 和 Visual Studio 的现有工作知识。  虽然并非强制要求，但建议学生参加“Introduction to Microsoft Dynamics 365”预修课程，其可在 www.ttsolutions.com.au 网站上找到。
+prerequisitesSection: |-
+  - 较理想的是 Microsoft .Net 和 Visual Studio 工作知识
+  - 建议所有学生成功完成“Introduction to Microsoft Dynamics 365”课程
+outlineSection: |-
+  ### 模块 1&#58; Dynamics 365 Development 介绍
+  该模块介绍了开发和扩展 Microsoft Dynamics 365 Framework 的概念。您将学习开发者和管理员可用的工具和资源以及最佳之间方法论和基本原理。
+  #### 课程
+  - Dynamics 365 Development 介绍
+  - Dynamics 365 开发者选项
+  - Dynamics 365 开发工具
+  - 客户参与工具包 (正式名称为 SDK)
+  - Dynamics 365 开发环境
+  - 针对 Dynamics 365 Development 的实用技能
+  - 补充阅读和资源
+
+
+  #### 实验室 &#58; Dynamics 365 开发者定位
+  - 查看开发者资源
+  - 查看开发者中心和论坛
+  - 从 NuGet 下载包
+  - 查看开发者资源
+  - 查看实验室文件
+  - 安装样本数据
+
+  完成此模块后，学生将能够&#58;
+  - 熟悉 Customer Engagement Toolkit 及如何创建 Visual Studio
+  - 理解开发和扩展 Dynamics 365 的关键技能
+  - 知道在何处找到帮助和补充阅读资源
+  - 描述在 Microsoft Dynamics 365 CE Version 9 中开发者可用的重要功能和工具
+
+
+  ### 模块 2&#58; Dynamics 365 API
+  该模块介绍了 Microsoft Dynamics 365 中开发者可用的各种不同的开发者资源、网络服务和 API。在该模块中，您将学习如何在 Visual Studio 中使用 Microsoft .Net C# 编写代码用于 Web Service API 末端。
+  #### 课程
+  - Dynamics 365 API 介绍
+  - 身份验证考虑
+  - Web API
+  - Discovery Web Service
+  - Organization Web Service
+  - 核心组件
+  - 早期和后期绑定课程
+  - 代码生成工具
+  - 服务内容
+  - CRUD 操作
+  - 使用 QueryExpression Class
+  - 使用 LINQ
+  - 使用 FetchXML
+
+
+  #### 实验室 &#58; 利用服务器端代码使用 Dynamics 365 Web API
+  - 创建 Visual Studio 项目
+  - 开发应用程序以使用 Web API 执行操作
+  - 测试您的应用程序
+
+
+  #### 实验室 &#58; Dynamics 365 中的查询记录
+  - 创建 Visual Studio 项目
+  - 使用 QueryExpression Class 查询 Dynamics 365 
+  - 在外部应用程序中显示 Dynamics 365 记录
+
+
+  #### 实验室 &#58; Dynamics 365 中的 CRUD 操作
+  - 创建 Visual Studio 项目
+  - 创建早期绑定课程
+  - 使用 LINQ 创建、读取、更新和删除记录
+  - 测试您的应用程序
+
+  完成此模块后，学生将能够&#58;
+  - 理解如何编写代码优化 Web API、Discovery 和Organization Services
+  - 能够创建 Visual Studio 以对照 Dynamics 365 framework 开始进行部署
+  - 理解后期与早期绑定代码之间的不同
+  - 知道如何从外部应用程序中对照 Dynamics 365 进行身份验证
+  - 理解如何使用服务内容，编写 LINQ 和 FetchXML 来执行 CRUD 操作
+  - 熟悉 Microsoft Dynamics 365 CE Version 9 中开发者可用的各种不同 API
+
+
+  ### 模块 3&#58; 为 Dynamics 365 开发插件应用程序
+  在此模块中您将学习如何使用 Visual Studio 中 Microsoft .Net C# 的插件应用程序来开发自定义的商业逻辑。您也将学习如何使用插件应用程序注册工具向 Microsoft Dynamics 365 部署插件应用程序的组件。
+  #### 课程
+  - 插件应用程序介绍
+  - 编写插件应用程序代码
+  - 使用插件应用程序注册工具
+  - 在插件应用程序分析器中对插件应用程序进行除错
+  - 与解决方案一起部署插件应用程序
+
+
+  #### 实验室 &#58; 创建和部署插件应用程序
+  - 自定义 Dynamics 365
+  - 创建 Visual Studio 项目
+  - 创建插件应用程序
+  - 登录和创建汇编
+  - 使用插件应用程序注册工具部署插件应用程序
+  - 测试您的插件应用程序
+  - 使用插件应用程序分析工具对插件应用程序进行除错
+
+  完成此模块后，学生将能够&#58;
+  - 知道如何创建一个 Visual Studio 项目以开始创建一个自定义插件应用程序组件
+  - 熟悉 Visual Studio 中编写、部署和测试插件应用程序的流程
+  - 使用插件注册工具向 Dynamics 365 Framework 部署插件应用程序
+  - 使用插件应用程序分析工具对插件应用程序代码进行除错
+  - 理解如何使用解决方案向产品环境中部署插件应用程序
+  - 理解在 Microsoft Dynamics 365 CE Version 9 中自定义商业逻辑和插件应用程序的需要
+
+  ### 模块 4&#58; 部署自定义工作流活动
+  在此模块中，您将学习如何使用 Visual Studio 中的 Microsoft .Net C# 部署自定义工作流活动。您也将学习如何在 Microsoft Dynamics 365 中使用自定义工作流活动作为工作流步骤。
+  #### 课程
+  - 自定义工作流活动介绍
+  - 编写自定义工作流活动代码
+  - 部署自定义工作流活动
+
+
+  #### 实验室 &#58; 创建自定义工作流活动
+  - 创建 Visual Studio 项目
+  - 创建自定义工作流活动
+  - 登录和创建汇编
+  - 部署创建自定义工作流活动
+  - 创建工作流
+  - 测试您的创建自定义工作流活动
+
+  完成此模块后，学生将能够&#58;
+  - 知道如何创建 Visual Studio 项目以开始创建一个自定义工作流活动
+  - 熟悉使用插件应用程序注册表文件创建和部署自定义工作流活动流程
+  - 理解如何在 Dynamics 365 流程中使用自定义工作流活动
+  - 理解在 Microsoft Dynamics 365 CE Version 9 中自定义工作流活动的需要
+
+
+  ### 模块 5&#58; 开发客户端代码
+  该模块介绍了在 Microsoft Dynamics 365 中部署与活动驱动模型匹配的客户端代码的概念。您也将学习如何使用利用 Web API 的网络资源来创建和部署客户端组件以使用 Microsoft Dynamics 365 中的数据。
+  #### 课程
+  - 客户端编码介绍
+  - Dynamics 365 事件驱动模型
+  - 部署 JavaScript 客户端代码
+  - 使用网络资源
+  - 客户端编码与 Web API
+
+
+  #### 实验室 &#58; 编写 JavaScript 事件处理程序
+  - 编写 JavaScript 功能
+  - 创建 JavaScript 网络资源
+  - 配置事件处理程序
+  - 测试您的 JavaScript 代码
+
+
+  #### 实验室 &#58; 创建和部署客户端组件
+  - 为 Web API 编写客户端代码
+  - 创建 HTML 网络资源
+  - 自定义 Dynamics 365
+  - 测试您的客户端组件
+
+  完成此模块后，学生将能够&#58;
+  - 知道如何为针对 Web 和 UCI Apps 的 Dynamics 365 事件模型撰写客户端代码
+  - 熟悉网络资源概念及如何创建 HTML 和 JavaScript 组件
+  - 理解如何利用客户端代码对照 Web API 使用身份验证并执行命令
+  - 理解 Microsoft Dynamics 365 CE Version 9 中客户端编码的概念
+
+
+  ### 模块 6&#58; 为 United Client Interface 开发
+  该模块着眼于 Dynamics 365 和 PowerApps 之间的关系并考虑了在扩展 Unified Client Interface (UCI) App 时开发者需要知道的内容。
+  #### 课程
+  - Dynamics 365、UCI 和 PowerApps 介绍
+  - App Designer 介绍
+  - Site Map Designer 介绍
+  - 使用代码扩展 UCI Apps
+  - 启用安全性的应用程序
+  - 自定义 Dynamics 365 导航
+  - 草稿和已发布状态的应用程序
+
+
+  #### 实验室 &#58; 扩展 Unified Client Interface (UCI) App
+  - 使用代码扩展 Unified Client Interface (UCI) App
+  - 测试您的代码
+
+  完成此模块后，学生将能够&#58;
+  - 知道如何使用 Site Map Designer 来自定义 Dynamics 365 导航
+  - 知道如何使用客户端代码扩展 UCI Apps
+  - 知道如何使用 App Designer 来发布启用安全性的自定义 UCI App
+  - 熟悉使用 Dynamics 365 CE Version 9 中的 App Designer Tool 工具来创建 UCI Apps
+
+  #### 补充阅读
+  无

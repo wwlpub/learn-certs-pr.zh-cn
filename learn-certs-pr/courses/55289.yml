@@ -1,0 +1,164 @@
+### YamlMime:Course
+title: 'Microsoft Project 2019: Digging Deeper'
+metadata:
+  title: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+  description: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+uid: course.55289
+courseNumber: '55289-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用 Gantt Chart 的高级格式设置功能和网络图。
+- skill: 在 Project 2019 中创建主项目和子项目。
+- skill: 创建自定义项目报表。
+- skill: 使用资源池。
+- skill: 分析项目成本。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  该 Intermediate Microsoft Project 2019&#58; Digging Deeper 课程深入介绍了 Project 2019 或 Project 365 的主要功能，包括任务输入和链接、资源和资源管理以及检查和更新项目。您将学习高效管理项目、创建主项目和子项目，创建和自定义视觉化的报告、使用资源池以及分析项目成本。
+
+  #### 受众概览
+  该课程旨在针对拥有 Microsoft Project 基本技能的学生包括非常熟练该程序的各项功能区。
+prerequisitesSection: |-
+  基本 Microsoft Project 技能包括非常熟练该程序的各项功能区。
+outlineSection: |-
+  ### 模块 1&#58; 从现有项目、Excel Workbook 或 SharePoint任务列表启动项目
+  该模块解释了如何启动项目。
+  #### 课程
+  - 启动项目
+
+  完成此模块后，学生将能够&#58;
+  - 设置项目选项。
+  - 从现有项目创建一个项目。
+  - 从 Excel 表创建一个项目
+  - 从 SharePoint 列表创建一个项目。
+
+
+  ### 模块 2&#58; 管理任务和资源的高级方法
+  该模块解释了如何使用高级方法管理任务和资源。
+  #### 课程
+  - 管理任务和资源
+  - 理解运行时间和实际时间设置
+  - 任务日期约束设置
+  - 拆分和延迟任务
+  - 使用任务检查
+  - 分析关键任务和关键路径
+  - 使用滞后时间和提前时间
+  - 分析任务分配
+  - 使用工作组规划器
+  - 使用资源池和共享资源
+  - 管理资源可用性和资源费率
+
+
+  #### 实验室 &#58; 练习
+  - 更改任务依赖
+  - 创建任务日期约束
+  - 拆分任务&#58; 使用 Gantt Chart View
+  - 延迟任务&#58; 使用 Gantt Chart View
+  - 查看任务检查器
+  - 设置滞后和提前时间
+  - 在任务分配信息对话框中添加备注
+  - 显示工作组规划器并应用格式设置
+  - 共享资源池
+  - 更改资源费率
+
+  完成此模块后，学生将能够&#58;
+  - 使用任务依赖。
+  - 理解运行和实际时间设置的不同。
+  - 设置任务日期约束。
+  - 拆分和延迟任务。
+  - 使用任务检查器。
+  - 分析关键任务和关键路径。
+  - 使用滞后时间和提前时间。
+  - 分析任务分配。
+  - 使用工作组规划器。
+  - 使用资源池和共享资源。
+  - 管理资源可用性和资源费率。
+
+
+  ### 模块 3&#58; 使用高级技术管理项目
+  该模块解释了如何检查和修复任务中的任务问题。
+
+  #### 课程
+  - 使用资源平衡解决资源过度分配
+  - 修改任务
+  - 理解基线计划和中期计划
+  - 分析项目成本并创建预算
+
+
+  #### 实验室 &#58; 练习
+  - 使用资源平衡解决资源过度分配&#58; 使用 Gantt
+  - 修改任务
+  - 设置其他基线
+  - 创建预算
+
+  完成此模块后，学生将能够&#58;
+  - 使用资源平衡解决资源过度分配。
+  - 修改任务。
+  - 理解基线和中期计划。
+  - 分析项目成本并创建预算。
+
+
+  ### 模块 4&#58; 设置及自定义视图格式
+  该模块解释了如何在 Microsoft Project 中设置及自定义视图格式。
+  #### 课程
+  - 自定义 Gantt Chart
+  - 创建自定义视图
+  - 应用过滤器
+  - 使用 Work Breakdown Structure (WBS) Codes
+
+
+  #### 实验室 &#58; 练习
+  - 使用 Gantt Chart View 自定义 Gantt Chart 
+  - 创建自定义视图
+  - 应用过滤器
+
+  完成此模块后，学生将能够&#58;
+  - 自定义 Gantt Chart。
+  - 创建自定义视图。
+  - 应用过滤器。
+  - 使用 Work Breakdown Structure (WBS) Codes。
+
+
+  ### 模块 5&#58; 报表
+  该模块解释了如何在 Microsoft Project 中使用报表。
+
+  #### 课程
+  - 创建可视报表
+  - 编辑报表
+
+
+  #### 实验室 &#58; 练习
+  - 创建可视报表
+  - 编辑报表
+
+  完成此模块后，学生将能够&#58;
+  - 创建可视报表。
+  - 编辑报表。
+
+
+  ### 模块 6&#58; 处理模版
+  该模块解释了如何在 Microsoft Project 中使用模版。
+  #### 课程
+  - 在项目中使用子项目。
+  - 使用管理器维护模版。
+
+
+  #### 实验室 &#58; 练习
+  - 在项目中使用子项目
+  - 使用管理器
+
+  完成此模块后，学生将能够&#58;
+  - 在项目中使用子项目。
+  - 使用管理器维护模版。
+
+  #### 补充阅读
+  无

@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Introduction to SharePoint 2019
+metadata:
+  title: 'Course 55298-A: Introduction to SharePoint 2019'
+  description: 'Course 55298-A: Introduction to SharePoint 2019'
+uid: course.55298
+courseNumber: '55298-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 学习 SharePoint 2019 小组网站中的各个功能。
+- skill: 学习创建 SharePoint列表。
+- skill: 学习自定义 SharePoint列表。
+- skill: 学习创建 SharePoint 库。
+- skill: 学习管理库文件版本。
+- skill: 学习创建 SharePoint 列表和库视图。
+- skill: 学习集成 Office Outlook、Excel 应用程序和 SharePoint 2019。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  本 Introduction to SharePoint 2019 课程旨在针对在 SharePoint 2019 环境中工作的终端用户。 它是我们 SharePoint End User 课程完整版本的简单版，其针对不负责管理 SharePoint 网站的 SharePoint 新手用户。
+
+  #### 受众概览
+  该课程适用于在 SharePoint 2019 环境中工作的终端用户。
+prerequisitesSection: |-
+  无基础要求。
+outlineSection: |-
+  ### 模块 1&#58; SharePoint 2019 介绍
+  SharePoint 的核心是协作。 其主要的目标是让用户轻松找到并共享信息，而且还有很多内置在 SharePoint 的功能来促进这一目标的实现。SharePoint 的库系统功能可以为传统的文件服务器提供高级替代功能。SharePoint 列表可以是一款设计简单、使用轻松的共享工作表文件或更多正式数据库表的替代产品。列和库都可以自定义且能扩展以提供改善的外观和功能，如日历和博客等很多。所有的这种协作都可以通过浏览器界面完成，在一些情况下可以通过与 Microsoft Office 应用程序的集成来完成。
+  #### 课程
+  - SharePoint 版本
+  - 小组网站布局和导航
+  - 布局
+  - 导航
+
+
+  #### 实验室 &#58; 练习
+  - 小组网站导航
+
+  完成此模块后，学生将能够&#58;
+  - 理解 SharePoint 的版本。
+  - 理解 SharePoint 的继承。
+  - 理解小组网站布局。
+  - 理解小组网站内的导航。
+
+
+  ### 模块 2&#58; SharePoint 列表基础
+  列表在 SharePoint 中是基础的构建模块，为用户提供了存储和查看数据的方法。SharePoint 和很多预定义的列表模版都是随时即用的且使用简单。 可以通过添加栏来进一步自定义列表以存储任何类型的信息。此外，列表栏可以进行验证，也可以与其他列表进行链接。列表是 SharePoint 中非常灵活和强大的工具。
+
+  #### 课程
+  - 使用列表模版创建应用程序
+  - 创建列表
+  - 使用列表模版创建列表
+  - 列表栏
+  - 创建列表栏
+  - 栏验证
+  - 验证列表栏
+
+
+  #### 实验室 &#58; 练习
+  - 使用小组网站列表
+  - 创建自定义列表和栏
+
+  完成此模块后，学生将能够&#58;
+  - 理解列表模版。
+  - 在小组网站中使用默认的列表。
+  - 从列表模版创建一个新的列表。
+  - 创建自定义列表。
+  - 向列表添加栏。
+  - 控制和验证到列表字段的输入。
+
+
+  ### 模块 3&#58; 库基础
+  SharePoint 库与 SharePoint 使用相同的字符，如栏、视图和验证等。SharePoint 库的不同之处是其中的每一个项目都有一个基本文件。所以，除存储在库栏中的数据外，该文件还存储了其自己的基于文件类型的数据。因为可以被存储在栏中的额外数据可以用来按照功能进行过滤和搜索，如版本控制，库也被认为是更多传统文件服务器系统的非常好的存储位置。库和列表一样，是 SharePoint 网站的基础构建基块。
+
+  #### 课程
+  - 库模版
+  - 创建库
+  - 创建文件库和添加栏
+  - 创建资产库
+  - 管理文件和版本控制
+  - 检出文件
+  - 删除和存储文件
+  - 版本控制
+
+
+  #### 实验室 &#58; 练习
+  - 使用小组网站库
+  - 创建库
+  - 文件版本控制
+
+  完成此模块后，学生将能够&#58;
+  - 使用库模版创建新库
+  - 向库添加栏
+  - 检出文件以编辑。
+  - 从文档库中删除和恢复文件。
+  - 在库上启用版本控制。
+  - 将库文件恢复为先前的版本。
+
+
+  ### 模块 4&#58; 使用列表和库视图
+  视图提供了灵活的系统以阅读简单和使用轻松的方式展示 SharePoint 列表和库文件。每个 SharePoint 列表和库都可以创建和配置多个视图，一些列表和库模版也可以预先配置特殊的视图。视图可以定义以用作个人用途或共享用途。
+
+  #### 课程
+  - 默认视图
+  - 探索默认视图
+  - 自定义视图
+  - 如何创建自定义视图
+
+
+  #### 实验室 &#58; 练习
+  - 使用视图
+  - 创建公共和个人视图
+
+  完成此模块后，学生将能够&#58;
+  - 使用创建于列表和库中的默认视图。
+  - 创建共享视图。
+  - 配置视图。
+  - 为列表或库设置默认视图。
+
+
+  ### 模块 5&#58; Office 集成
+  SharePoint 的一个出色功能是其与 Microsoft Office 应用程序集成的能力。 几乎所有的 Office 应用程序在一定程度上都可以与 SharePoint 进行集成，无论其有多简单， 如使用 Excel 工作表来创建新的列表，或更全面功能的应用，如 Outlook 集成。一些集成功能强化了其通过浏览器可以在线放的内容，而其他一些则允许离线访问 SharePoint 内容，如移动电脑环境。本课将使用系列的攻略和练习来演示 每个 Office 应用程序可以如何与 SharePoint 进行集成。
+
+  请注意，本章探索了与安装在本地机器中关联到 SharePoint 的Office 的应用程序集成。Office Online Server 是基于浏览器的 Office 版本，让您能够创建和修改 Office 文件。有了 SharePoint 2019 Office Online Server 可以被集成且可以被视为很多 SharePoint 安装的重要部分。也就是说，因为它是 SharePoint 独立产品，所以并未被包含在此课内。
+  #### 课程
+  - Excel 集成
+  - Outlook 集成
+  - Access 集成
+
+  完成此模块后，学生将能够&#58;
+  - 从 Excel工作表创建列表。
+  - 在 Outlook 中创建通知。
+
+
+  ### 模块 6&#58; 使用网站
+  所有 SharePoint 内容都可通过网站访问。SharePoint 网站是列表和库的容器，为基础的管理提供起点。网站的内容、列表、库和基本的外感和风格都由用来创建此网站的网站模版预先确定。
+
+  #### 课程
+  - 网站模版
+  - 创建网站
+  - 创建小组网站
+  - 网站导航
+  - 管理网站导航
+
+
+  #### 实验室 &#58; 练习
+  - 创建小组网站
+  - 创建会议场所
+  - 创建博客网站
+
+  完成此练习后，学生将能够&#58;
+  - 理解网站模版是什么。
+  - 理解使用不同版本的立即可用的网站模版的不同类型。
+  - 使用模版创建新的网站。
+  - 创建项目网站。
+  - 创建小组网站。
+  - 创建社区网站。
+  - 创建博客网站。
+  - 在顶部链接栏管理列出的网站。
+
+  #### 补充阅读
+  无
