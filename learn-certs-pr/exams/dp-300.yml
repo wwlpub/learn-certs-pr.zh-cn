@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div><font color='red'><strong>本次考试的内容于2021年5月25日进行了更新。请下载下面的技能测试文件，看看有何变化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>该考试内容将在2021年7月29日更新。请下载如下的技能测试文件来查看将要改变的部分</strong></font><br/><br/></div>
   
   参加该考试的应试者是数据库管理员和数据管理专家，他们管理使用Microsoft SQL Server和Microsoft Azure数据服务构建的本地和云关系数据库。
   
@@ -30,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容于2021年5月25日进行了更新。请下载下面的考试技巧大纲，看看有何变化。
+- 该考试内容将在2021年7月29日更新。请在下方下载考试技能大纲以查看将要改变的地方。
 - 规划和实施资料平台资源 (15-20%)
 - 实施一个安全环境 (15-20%)
 - 监控和优化运营资源 (15-20%)

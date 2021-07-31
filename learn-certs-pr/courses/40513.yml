@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+metadata:
+  title: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+  description: 'Course 40513-G: Microsoft Cloud Workshop: Building a Resilient IaaS Architecture'
+uid: course.40513
+courseNumber: '40513-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在此讲习班的结尾，您将能够更好地设计和使用可用性集、托管的硬盘、SQL Server 可用性组总是开启以及向 VMs 准备存储时设计通道。此外，您将学习有效的使用 Azure Backup 以提供特定时间恢复。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在此讲习班，您将着眼于 IaaS 的部署如何可以被重新设计并上传至账户以获得快速恢复能力及总体上的高可用性。在整个白板设计会话和动手实验室中，您都将着眼于各种不同的配置选项和服务以有利于构建拥有快速恢复能力的构架。
+
+  #### 受众概览
+  本次研讨会针对的是 Cloud Architects 和 IT 专业人士，他们在 cloud 技术的基础设施和解决方案设计方面有着架构专业知识，并希望了解更多关于 Azure 和 Azure 服务的知识，正如“摘要”和“获得的技能”部分中所描述的那样。参加此研讨会的人士也应该在其他非 Microsoft cloud 技术方面富有经验，满足课程的先决条件并希望获得在 Azure 方面的综合训练。
+prerequisitesSection: |-
+  研讨会内容假定有300级别的基础设施和解决方案设计方面的架构专业知识。我们建议学生在参加本次研讨会之前先接受这一先决条件。
+  - Microsoft Azure Essentials 课程，http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 模块 1&#58; 白板会话 - 创建具有快速恢复能力的 IaaS 构架
+  #### 课程
+  - 回顾客户案例学习
+  - 唤起行动&#58; 设计概念验证解决方案
+  - 唤起行动&#58; 提交解决方案
+
+
+  ### 模块 2&#58; 动手实验室 - 创建具有快速恢复能力的 IaaS 构架
+  #### 课程
+  - 在不同区域之间准备连接性
+  - 为快速恢复能力构建 DCs
+  - 为快速恢复能力构建网络层和 SQL
+  - 配置 SQL 服务器托管备份
+  - 验证快速恢复能力

@@ -6,9 +6,7 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div>
-  <div><font color='red'><strong>本次考试的内容于2021年5月25日进行了更新。请下载下面的技能测试文件，看看有何变化。</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>该考试内容将在2021年7月26日更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
 
   Microsoft Teams Administrator为专注于企业环境中的高效协作和通信的Microsoft Teams配置、部署和管理Office 365工作负载。
 
@@ -29,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容于2021年5月25日进行了更新。请下载下面的技能测试文件，看看有何变化。
+- 下方的考试指南显示了将于2021年7月26日实施的改变。
 - 规划和配置Microsoft Teams环境(45-50%)
 - 管理聊天、电话和会议(30-35%)
 - 管理团队和应用政策(20-25%)

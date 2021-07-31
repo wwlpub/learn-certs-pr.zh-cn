@@ -7,8 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>本次考试的新版本，即<a href="/learn/certifications/exams/pl-600">PL-600</a>，于2021年3月生效。您可以在2021年6月30日考试失效前参加该考试。</strong></font><br/><br/></div>
-  <div><strong>此考试的内容于 2020 年 7 月 30 日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
+  <div><font color='red'><strong>该考试将在2021年6月30日撤销。该考试的新版本 PL-600 现在可用。要获得更多信息，请访问<a href="/learn/certifications/exams/pl-600">PL-600</a>考试详情页面。</strong></font><br/><br/></div>
   </div>
   
   Solution Architects for Microsoft Dynamics 365 + Power Platform 领导成功的实施，并专注于解决方案如何满足组织更广泛的业务和技术需求。
@@ -19,13 +18,11 @@ summary: |-
 subTitle: '这项考试衡量您完成以下技术任务的能力:执行解决方案设想和需求分析；设计解决方案；以及实施解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=MB-600&examname=Exam%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 locales:
 - en
 levels:
 - advanced
 skills:
-- 此考试的内容于2020年7月30日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
 - 执行解决方案构想和需求分析(30-35%)
 - 架构解决方案(45-50%)
 - 实施解决方案(20-25%)

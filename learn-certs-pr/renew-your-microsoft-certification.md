@@ -12,39 +12,10 @@ ms.prod: non-product-specific
 ---
 # 更新您的Microsoft认证
 
-Microsoft认证证明具有顺利履行现代数字业务职务所需的相关技能和知识。认证有助于打开职场机会，证明您的能力有助于组织的数字化转型。而且，鉴于技术在云领域中的发展速度，保持您跟上最新技能的步伐并保持认证有效很重要。
+Microsoft Certifications 验证您拥有成功执行当代数字商业工作岗位所必需的相关技能和知识。认证可以创造职业机会并证明您能够支持您组织的数字转型的能力。假设 cloud 技术以特定速度发展，保持您的技能和认证的活跃是非常重要的。
 
-12月15日，Microsoft[推出了一种新方法](https://aka.ms/CertRenewalBlog)，帮助学习者跟上最新技术的发展。拥有有效证书但证书将在六个月内过期的人可以通过考过Microsoft Learn上的更新评估，每年——免费——更新其证书。
+在2020年12月15日，Microsoft [引入了新的尝试](https://aka.ms/CertRenewalBlog) 帮助学习者与时俱进。已有活跃认证且在未来6个月内将要过期的人，可以每年更新他们的认证 — 无任何费用 - 即通过 Microsoft Learn 上的更新评估。
 
-## 认证更新时间表
-
-在基于角色和专业的认证上市大约六个月之后，相关的更新评估和学习模块知识将在 Microsoft Learn上推出。更新评估将与认证考试的更新保持一致。
-
-如果您有资格更新您的认证，我们会通过与您的Microsoft认证ID（MCID）关联的电子邮件通知您。您的认证过期之前，您最多会收到四个电子邮件提醒。更新证书后，您将不会再收到提醒，直到需要再次更新。
-
-这里列出了将要提供的第一套续期评估。这些都是按照个人学习者资格开始续期的顺序进行规划的。学习者可在认证到期前6个月内进行续期。请查看本页以获取列表的更新/更改。
-
-| 续期评估于2021年3月发布 |
-| --- |
-| Microsoft Certified: Azure Administrator Associate |
-| Microsoft Certified: Azure Developer Associate |
-| Microsoft Certified: Azure Security Engineer Associate |
-| Microsoft Certified: DevOps Engineer Expert |
-| Microsoft Certified: Azure Solutions Architect Expert |
-| Microsoft Certified: Azure AI Engineer Associate |
-| Microsoft Certified: Azure Data Engineer Associate |
-| Microsoft Certified: Azure Data Scientist Associate |
-| Microsoft 365 Certified: Modern Desktop Administrator Associate |
-| Microsoft 365 Certified: Messaging Administrator Associate |
-| Microsoft 365 Certified: Security Administrator Associate |
-| Microsoft 365 Certified: Enterprise Administrator Expert |
-| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
 
 ## 更新证书的好处
 
@@ -56,6 +27,7 @@ Microsoft认证证明具有顺利履行现代数字业务职务所需的相关�
 
 - 如果您持有有效的基于角色或专业的Microsoft证书，并且该证书在大约六个月内过期，则可以对其进行更新。
 - 要更新您的证书，请在您的证书过期*之前*在Microsoft Learn上通过相关评估。
+- 通过 Microsoft Learn 上的更新评估是更新认证的唯一方法。您不能通过某项考试来更新您的认证，即使它是您最初通过而获得认证的最新或更新的考试版本。如，如果您参加 AZ-103 获得了您的 Microsoft Azure Administrator 认证，您不能参加和通过新的 AZ-104 考试来更新您的认证。您必须通过 Microsoft Learn 上的更新评估来更新您的认证。该政策没有例外。
 
 ## 如何更新您的认证
 
@@ -64,10 +36,6 @@ Microsoft认证证明具有顺利履行现代数字业务职务所需的相关�
 - 您有资格更新时，您将收到一封电子邮件通知，指导您进行评估，评估将在Microsoft Learn上进行。
 - 通过在线评估后，您的认证将从当前失效日期起再延长一年。
 - 为帮助您准备评估，请使用一系列免费的自定进度的学习模块来提高您的技能。探索证书更新页面上相关的可用模块。
-
-## 证书过期政策的变化
-
-2020年12月15日，我们 [宣布了认证到期政策的一个变化。](https://aka.ms/CertRenewalBlog) 从格林尼治时间2021年6月30日星期三午夜12点（太平洋时间2021年6月29日下午5点）开始, 任何 [基于角色的](/learn/certifications/browse/?type=role-based) 或 [专业认证](/learn/certifications/browse/?type=specialty) 将从您获得之日起一年内有效。在2021年6月之前获得的任何基于角色和专业的证书都将在您获得该证书之日起两年内有效。
 
 ## 常见问题
 
@@ -95,11 +63,11 @@ Microsoft认证证明具有顺利履行现代数字业务职务所需的相关�
 
 5. **我的认证已过期。现在会发生什么？**
 
-    如果您的证书过期，则必须通过所需的考试来再次获得此证书。
+    如果您的认证已过期，则您必须通过要求的考试再次获得认证。要获得更多信息， 请访问：[认证过期政策。](/learn/certifications/certification-expiration-policy)
 
 6. **我可以在认证过期之前通过Beta考试或通过重考来更新认证吗？**
 
-    不能。为了更新证书，您需要在证书过期之前通过更新评估。
+    不。要更新您的认证，您需要在您的认证过期前通过更新评估。该政策没有例外。
 
 7. **所有Microsoft认证都可以选择更新吗？**
 

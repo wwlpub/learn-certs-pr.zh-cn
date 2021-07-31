@@ -1,0 +1,74 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Network Engineer Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Network Engineer Associate'
+  description: '该认证将在2021年7月可用。Azure Network Engineer Associate 认证的报考者应在规划、实施和维护 Azure 网络解决方案包括混合网络、关联、路由、安全和对 Azure 服务的私有访问方面具有主题内容专家的技能。'
+uid: certification.azure-network-engineer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Azure Network Engineer Associate 认证的报考者应在规划、实施和维护 Azure 网络解决方案包括混合网络、关联、路由、安全和对 Azure服务的私有访问方面具有主题内容专家的技能。
+  
+  该岗位的责任包括推荐、规划和实施 Azure 网络解决方案。该岗位的专业人士管理执行、快速恢复能力、扩展和安全方面的解决方案。他们使用 Azure 端口和其他方式包括： PowerShell、Azure Command-Line Interface (CLI) 和 Azure Resource Manager 模版 (ARM 模版)来部署网络解决方案。
+  
+  Azure Network Engineer 与解决方案设计师、cloud 管理员、安全工程师、应用程序开发者和 DevOps 工程师协作交付 Azure 解决方案。
+  
+  该认证的报考者除丰富的网络、混合关联及网络安全经验和知识外，还应拥有专家级 Azure 管理技能。
+  
+  <div><font color='red'><br/><strong>该认证将于2021年7月中旬可用。</strong></font></div>
+subTitle: 该认证将在2021年7月可用。Azure Network Engineer Associate 认证的报考者应在规划、实施和维护 Azure 网络解决方案包括混合网络、关联、路由、安全和对 Azure 服务的私有访问方面具有主题内容专家的技能。
+levels:
+- intermediate
+skills:
+- 设计、实施和管理混合网络
+- 设计和实施核心网络基础设施
+- 设计和实施路由 
+- 安全保障和管理网络
+- 设计和实施对 Azure Services 的私有访问
+roles:
+- network-engineer
+type: role-based
+products:
+- azure-ddos-protection
+- azure-dns
+- azure-application-gateway
+- azure-app-service
+- azure-expressroute
+- azure-firewall
+- azure-firewall-manager
+- azure-front-door
+- azure-kubernetes-service
+- azure-load-balancer
+- azure-monitor
+- azure-network-watcher
+- azure-private-link
+- azure-traffic-manager
+- azure-virtual-network
+- azure-virtual-wan
+- azure-vpn-gateway
+- azure-web-application-firewall
+- azure-virtual-network
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4OV0k
+exams:
+- uid: exam.az-700
+resources:
+- title: Azure 认证海报
+  description: 查看概述，包括 Azure 的基础知识、基于角色的和专业认证。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 培训和认证指南
+  description: 通过简明的培训和认证指南探索所有认证。
+  href: https://aka.ms/TrainingCertDeck
+- title: 认证海报
+  description: 查看基础知识、基于角色和专业认证的概述。
+  href: https://aka.ms/traincertposter
+- title: Exam Replay [重新考试]
+  description: 看到两种特别优惠，有助于提高您的通过几率。
+  href: ../deals.md
+- title: 认证支持
+  description: 通过 Microsoft Certification 支持论坛获取帮助。论坛主持人将在一个工作日后回应，周一至周五。
+  href: ../help.md
+- title: 认证控制面板
+  description: 查看和管理您的预约、证书和成绩单。
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 分享您的认证徽章
+  description: 在您的网络中庆祝您取得的成就。索取您的 Microsoft Certification 徽章，并将其加入 LinkedIn, 您的简历等。
+  href: ../badges.md

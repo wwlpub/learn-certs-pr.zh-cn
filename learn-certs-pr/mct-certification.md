@@ -58,6 +58,7 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
     - PrepMasters USA。
     - Modern Classroom Certified Trainer (MCCT®) [仅供大学教职员或教授使用]。
     - Certified Virtual Educator [仅供大学教职员或教授使用]。
+    - Sinerji Egitim
   
   或<br/><br/>
 
@@ -109,7 +110,7 @@ MCT 计划面向全球积极交付 Microsoft 技术培训的教育工作者。�
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (于2020年12月31日停用)
-- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
+- [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) (于2021年6月30日撤销)
 - [Microsoft Certified: Security Operations Analyst Associate](/learn/certifications/security-operations-analyst/)
 - [Microsoft Certified: Identity and Access Administrator Associate](/learn/certifications/identity-and-access-administrator/)
 - [Microsoft Certified: Information Protection Administrator Associate](/learn/certifications/information-protection-administrator/)

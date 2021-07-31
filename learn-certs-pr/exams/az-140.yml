@@ -1,32 +1,33 @@
 ### YamlMime:Examination
-title: 'Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+title: 'Configuring and Operating Microsoft Azure Virtual Desktop'
 metadata:
-  title: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
-  description: 'Exam AZ-140: Configuring and Operating Windows Virtual Desktop on Microsoft Azure (beta)'
+  title: 'Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop'
+  description: 'Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop'
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
-  本次考试的考生是Azure管理员，他们具备规划、交付及管理Azure上任何设备的虚拟桌面体验及远程应用的专业技能。
-
-  参加本次考试的考生应有Azure技术方面的经验，这些技术包括虚拟化、联网、身份、存储、备份、弹性以及灾难恢复。他们应了解本地虚拟桌面基础设施技术，这是因为他们与迁移到Windows Virtual Desktop有关。这些专业人士使用Azure门户和Azure Resource Manager (ARM)模板来完成其诸多任务。他们可能使用PowerShell和Azure Command-Line Interface (CLI)以实现更加高效的自动化。
-
-  参加本次考试的考生必须具备专家级Azure管理技能。
+  此考试的报考者为在规划、交付和管理虚拟桌面体验和 Azure 上针对任何设备的远程应用程序的主题内容专家。
   
-  <div><br/><font color='red'><strong>Beta考试不会立即进行评分，这是因为我们正在收集关于问题和考试质量的数据。<a href="/learn/certifications/beta-exams">了解更多关于beta考试的价值及重要性</a>.</strong></font></div>
-subTitle: '本次考试可衡量您完成以下技术任务的能力：规划Windows Virtual Desktop架构；实施Windows Virtual Desktop基础架构；管理访问和安全；管理用户环境和应用程序；并监控和维护Windows Virtual Desktop基础架构。'
+  该角色的责任包括部署虚拟桌面体验和向 Azure 部署应用程序。此角色的专业人员交付 Azure Virtual Desktop 上的应用程序并对其进行优化以让其在多会话虚拟环境中运行。要交付这些体验，他们需要与 Azure 管理员和设计师以及 Microsoft 365 Administrators 密切合作。
+  
+  此考试的报考者应具有在 Azure 技术包括虚拟化、网络、身份验证、存储、备份、快速恢复能力和灾难恢复方面的经验。他们应该理解本地部署虚拟桌面基础设施技术，因为与迁移至 Azure Virtual Desktop 相关。这些专业人士使用 Azure 入口和 Azure Resource Manager 模版完成很多任务。该角色也使用 PowerShell 和 Azure Command-Line Interface (CLI) 以获得更多的高效自动化。
+  
+  此考试的报考者必须精通 Azure 管理技能。
+subTitle: '该考试考核了您完成如下技术任务的能力：规划 Azure Virtual Desktop Architecture；实施 Azure Virtual Desktop Infrastructure；管理访问和安全；管理用户环境和应用程序；管理和维护 Azure Virtual Desktop infrastructure。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Windows%20Virtual%20Desktop%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=zh-cn&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 规划Windows Virtual Desktop架构 (10-15%)
-- 实施Windows Virtual Desktop基础架构 (25-30%)
+- '注意：如下每个出现项目符号的考核技能旨在阐明我们如何评估那项技能。该列表并非明确且详尽。'
+- 规划 Azure Virtual Desktop Architecture (10-15%)
+- 实施 Azure Virtual Desktop Infrastructure (25-30%)
 - 管理访问和安全 (10-15%)
 - 管理用户环境和应用程序 (20-25%)
-- 监控和维护Windows Virtual Desktop基础架构 (20-25%)
+- 管理和维护 Azure Virtual Desktop Infrastructure (20-25%)
 roles:
 - administrator
 products:
@@ -56,7 +57,7 @@ courses:
 - uid: course.az-140t00
 relatedCertifications:
 - related:
-    uid: certification.windows-virtual-desktop-specialty
+    uid: certification.azure-virtual-desktop-specialty
 resources:
 - title: 培训和认证指南
   description: 通过简明的培训和认证指南探索所有认证。

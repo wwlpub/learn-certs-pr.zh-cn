@@ -36,7 +36,7 @@ Microsoft Certification 旨在确保通过考试并获得我们认证的考生�
 ### 考试项目质疑流程：
 
 1. 查看我们接受和不接受考试项目质疑的标准。
-2. 填写并提交[检查项目质疑表](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)。
+2. 填写并提交[检查项目质疑表](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u)。
 3. Microsoft Certification 团队将审查您所提交内容的完整性。如果内容不完整，将要求您提供更多的信息。如果内容完整，Microsoft Certification 团队就将进行审查。一次审查大约需要两周的时间。
 4. 一旦审查完成，将会通知您结果。
 

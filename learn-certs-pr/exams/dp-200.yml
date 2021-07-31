@@ -7,7 +7,7 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
-  <div><font color='red'><strong>本次考试的新版本，即 <a href='/learn/certifications/exams/dp-203'>DP-203</a>，已经生效。您可以在2021年6月30日考试失效前参加该考试。注意&#58; 考试将于中央标准时间晚11点59分失效。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>该考试的新版本，<a href='/learn/certifications/exams/dp-203'>DP-203</a>，现已可用。您将能够在2021年8月31日该考试撤销前参加。注意：该考试将于中央标准时间下午11:59撤销。</strong></font><br/><br/></div>
   <div><strong>本次考试的内容于2020年11月24日更新。请下载下面的技能衡量文档，以了解有何变化。</strong><br/><br/></div>
   </div>
   
@@ -33,7 +33,7 @@ skills:
 - 实施数据存储解决方案 (40-45%)
 - 管理和开发数据处理 (25-30%)
 - 监控和优化数据解决方案 (30-35%)
-retirementDate: 06/30/2021
+retirementDate: 08/31/2021
 roles:
 - data-engineer
 products:

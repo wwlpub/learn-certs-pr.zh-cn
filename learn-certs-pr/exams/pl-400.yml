@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><font color='red'><strong>本次考试的内容将于2021年6月23日进行更新。请下载下面的技能测试文件，看看将会有何变化。</strong></font><br/><br/></div>
+  <div><font color='red'><strong>该考试内容将在2021年7月23日更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
   
   此考试的考生设计、开发、保护Power Platform解决方案并对其进行故障排除。考生实现解决方案的组件，该方案包括应用程序增强功能，自定义用户体验，系统集成，数据转换，自定义流程自动化和自定义可视化。
   
@@ -23,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 本次考试的内容将于2021年6月23日进行更新。请下载下面的考试技巧大纲，看看将会有何变化。
+- 该考试内容将在2021年7月23日更新。请在下方下载考试技能大纲以查看将要改变的地方。
 - 创建技术设计 (10-15%)
 - 配置 Microsoft Dataverse (15-20%)
 - 创建和配置 Power Apps (15-20%)

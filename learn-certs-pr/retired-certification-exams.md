@@ -20,14 +20,6 @@ ms.prod: non-product-specific
 
 计划在未来12个月内停用的考试按日期列在这里。（此信息可能会有变化。）
 
-| 2021年6月30日停用 |
-| --- |
-| [AI-100](/learn/certifications/exams/ai-100): Designing and Implementing an Azure AI Solution |
-| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
-| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
-| [MB-600](/learn/certifications/exams/mb-600): Microsoft Dynamics 365 + Power Platform Solution Architect |
-| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
-
 | 将于2022年6月30日停用 |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -49,6 +41,7 @@ ms.prod: non-product-specific
 
 |基於角色| | |
 | --- | --- | --- |
+| [AI-100](/learn/certifications/exams/ai-100) | Designing and Implementing an Azure AI Solution | 2021年6月30日
 | [AZ-100](/learn/certifications/exams/AZ-100) | Microsoft Azure Infrastructure and Deployment | 2019年5月1日
 | [AZ-101](/learn/certifications/exams/AZ-101) | Microsoft Azure Integration and Security | 2019年5月1日
 | [AZ-102](/learn/certifications/exams/AZ-102) | Microsoft Azure Administrator Certification Transition | 2019年6月30日
@@ -60,6 +53,11 @@ ms.prod: non-product-specific
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 2020年9月30日
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 2020年9月30日
 | [AZ-302](/learn/certifications/exams/AZ-302) | Microsoft Azure Solutions Architect Certification Transition | 2019年6月30日
+| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 2020年12月31日
+| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 2020年12月31日
+| [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 2021年6月30日
+| [MB-900](/learn/certifications/exams/MB-900) | Microsoft Dynamics 365 Fundamentals | 2019年12月31日
+| [MB-901](/learn/certifications/exams/mb-901) | Microsoft Dynamics 365 Fundamentals | 2021年6月30日
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | 2020年8月31日
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | 2020年8月31日
 | [MS-202](/learn/certifications/exams/MS-202) | Microsoft 365 Messaging Administrator Certification Transition | 2019年9月30日
@@ -158,9 +156,6 @@ ms.prod: non-product-specific
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 2020年12月31日
-| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 2020年12月31日
-| [MB-900](/learn/certifications/exams/MB-900) | Microsoft Dynamics 365 Fundamentals | 2019年12月31日
 | [MB2-706](/learn/certifications/exams/MB2-706) | Microsoft Dynamics CRM Online Deployment | 2019年12月31日
 | [MB2-707](/learn/certifications/exams/MB2-707) | Microsoft Dynamics CRM Customization and Configuration | 2019年12月31日
 | [MB2-708](/learn/certifications/exams/MB2-708) | Microsoft Dynamics CRM Installation | 2019年12月31日

@@ -55,11 +55,11 @@ ms.prod: non-product-specific
 
 ### 英语申请
 
-使用[本表](https://aka.ms/MSCertificationLegalNamechange)提交您的个人资料姓名修改申请。您将需要对您的 Microsoft 认证个人资料中所包含的信息进行验证。目前本表仅提供英文版。修改您的姓名需要 24 至 48 个工作小时。
+使用 [Microsoft Certification 档案名称修改请求表](https://aka.ms/MSCertificationLegalNamechange) 提交您的修改请求。您将被要求验证您在您的 Microsoft 认证档案中所包含的信息。 目前本表仅提供英文版。修改您的姓名需要 24 至 48 个工作小时。
 
 ### 除英语以外的语言
 
-访问：[认证支持](/learn/certifications/help)，获取关于使用除英语以外的其他语言管理认证个人资料的帮助。
+通过我们适中的认证支持论坛提交您的请求。请访问：[认证支持](/learn/certifications/help) 获得除英语之外的其他语言管理您的认证档案的帮助。
 
 ## 如需查找您的 Microsoft Certification 个人资料识别号 (MCID)
 

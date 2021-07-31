@@ -19,13 +19,19 @@ Microsoft 持续监测行业趋势并修改认证要求，以跟上技术变化�
 
 ## 已取消的课程：讲师指导培训
 
+
+* 课件于2021年7月30日撤销
+
+    | 课程编号 | 版本 | 标题 | 语言 | 撤销日期 |
+    | --- | --- | --- | --- | --- |
+    | DP-200T01 | A | Implementing an Azure Data Solution | 英语 | 7/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | 英语 | 7/30/2021 |
+
 * 课件将于2021年6月30日停用
 
     | 课程编号 | 版本 | 标题 | 语言 | 停用日期 |
     | --- | --- | --- | --- | --- |
     | AI-100T01 | A | Designing and Implementing an Azure AI Solution | 英语 | 6/30/2021 |
-    | DP-200T01 | A | Implementing an Azure Data Solution | 英语 | 6/30/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | 英语 | 6/30/2021 |
     | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | 英语 | 6/30/2021 |
     | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | 英语 | 6/30/2021 |
     | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | 日语 | 6/30/2021 |

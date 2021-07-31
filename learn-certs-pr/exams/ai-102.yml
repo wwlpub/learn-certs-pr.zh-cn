@@ -6,9 +6,17 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  考试 AI-102 的候选人应拥有利用 Azure Cognitive Services、Azure Cognitive Search 和 Microsoft Bot 框架构建、管理和部署 AI 解决方案的学科知识专长。
+  <div><font color='red'><strong>该考试内容将在2021年7月29日更新。请下载如下的技能测试文件来查看将要改变的部分</strong></font><br/><br/></div>
   
-  本考试的候选人应精通 C#、Python 或 JavaScript 并应能够使用基于 REST 的 APIs 和 SDKs 在 Azure 上构建计算机视觉、自然语言处理、知识挖掘和会话 AI 解决方案。他们还应该了解组成 Azure AI 组合的组件和可用的数据存储选项。另外，候选人需要了解并能够应用负责任的 AI 原则。
+  AI-102 考试报考者：Designing and Implementing a Microsoft Azure AI Solution 利用 Azure Cognitive Services、Azure Cognitive Search和 Microsoft Bot Framework 构建、管理和部署 AI 解决方案。
+  
+  他们的责任包括参与 AI 解决方案开发的所有阶段——从要求定义和设计到开发、部署、维护、执行调整和管理。
+  
+  他们使用解决方案架构来翻译他们的版本及与数据科学家、数据工程师、IoT 专家及 AI 开发人员合作来构建完整的端到端 AI 解决方案。
+  
+  此考试的报考者应精通 C#、Python 或 JavaScript 且应能够使用基于 REST 的 APIs 和 SDKs 来构建计算机版本、自然语言处理、知识挖掘及 Azure 上的对话 AI 解决方案。
+  
+  他们也应该理解构成 Azure AI 组合的组件及可用的数据存储选项。另外，报考者必须理解且能够应用 AI 原理。
   
 subTitle: '本次考试可衡量您完成以下技术任务的能力：计划并管理Azure Cognitive Services解决方案；实施计算机视觉解决方案；实施自然语言处理解决方案；实施知识挖掘解决方案；以及实施对话式AI解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -19,6 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 该考试内容将在2021年7月29日更新。请在下方下载考试技能大纲以查看将要改变的地方。
 - 规划和管理 Azure Cognitive Services 解决方案(15-20%)
 - 实施计算机视觉解决方案(20-25%)
 - 实施自然语言处理解决方案(20-25%)
