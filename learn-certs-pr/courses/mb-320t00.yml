@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
 metadata:
-  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
-  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: course.mb-320t00
 courseNumber: 'MB-320T00-A'
 hoursToComplete: 96
@@ -20,14 +20,13 @@ roles:
 - developer
 products:
 - dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-320
 summary: |-
   本课程分为六个模块，设计了为期四天的学习体验。它可以进行面对面和/或虚拟地教授。您的指导老师将会为您提供本课程的日程表。模块1将向您介绍Dynamics 365 Supply Chain Management, Manufacturing的配置需求。模块2将更加深入了解如何管理不同类型的制造流程。模块3将是您实施生产总体规划的地址模块4将解决多个制造特性的实施。模块5将着重于产品制造的分包。
 
   #### 受众概况
-  Dynamics 365 for Finance and Operations Functional Consultant负责执行发现、捕获需求、吸引主题内容专家和利益相关者、转换需求，并配置该解决方案和应用程序。“功能顾问”通过使用现成的功能、无代码可扩展性、应用程序和服务集成来实施解决方案。
+  Dynamics 365 Finance and Operations Functional Consultant 负责执行发现、捕获要求、吸引主题内容专家和相关利益者、翻译要求并配置解决方案和应用。功能顾问使用立即可用的功能、无代码的可扩展性、应用程序和服务集成实施解决方案。
 prerequisitesSection: |-
   - 对供应链管理及制造业术语的基本了解
   - 对Dynamics 365 finance and operation应用程序的基本了解

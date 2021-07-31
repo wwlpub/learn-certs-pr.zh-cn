@@ -8,11 +8,11 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 说明Power Platform组件
+- skill: 描述 Microsoft Power Platform 组件
 - skill: 说明Microsoft Dataverse、连接器和AI builder
 - skill: 描述跨M365、Dynamics 365、Microsoft Azure和第三方服务的跨云场景
-- skill: 识别Power Platform的优势和能力
-- skill: 识别Power Platform组件的基本功能和业务价值
+- skill: 确认 Microsoft Power Platform 的好处和功能
+- skill: 确认 Microsoft Power Platform 组件的基础功能和商业价值
 - skill: 使用Power Apps、Power Automate、Power BI和Power Virtual Agents实现简单的解决方案
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -20,13 +20,13 @@ locales:
 levels:
 - beginner
 roles:
-- developer
+- student
 products:
 - power-platform
 exams:
 - uid: exam.pl-900
 summary: |
-  了解Power Platform的商业价值和产品功能。创建简单的Power Apps，将数据与Dataverse连接，建立Power BI Dashboard，用 Power Automate, 自动执行流程并用Power Virtual Agents建立聊天机器人。
+  了解 Microsoft Power Platform 的商业价值和产品功能。创建简单的 Power Apps、关联数据与 Dataverse、创建 Power BI 仪表盘、使用 Power Automate 自动化流程并构建使用 Power Virtual Agents 的聊天机器人。
 
   #### 观众概况
 
@@ -35,20 +35,29 @@ prerequisitesSection: |+
   本课程无先决条件
 
 outlineSection: |+
-  ### 模块 1&#58; Power Platform简介
-  了解Power Platform的组件、连接数据的方法，以及机构组织可以如何利用此技术来创建业务解决方案。
+  ### 模块 1: Microsoft Power Platform 介绍
+
+  学习 Microsoft Power Platform 组件、关联数据的方式以及组织可以如何利用此技术创建商业解决方案。
+
   #### 课程
-  - Power Platform概述
-  - 模块摘要
 
-  完成本模块后，学生将能够&#58; 
-  - 识别何时使用每个Power Platform组件应用程序来创建业务解决方案
-  - 了解使用Power Platform创建业务解决方案的价值
-  - 了解Power Platform的组件和功能
+  *   Microsoft Power Platform 概览
+
+  *   模块摘要
 
 
-  ### 模块 2&#58; Microsoft Dataverse介绍
-  Dataverse使您能深入地研究cloud中的强大的可伸缩数据解决方案。了解Dataverse如何运作并配合Power Platform创建独特有效的商业解决方案。
+  完成此模块后，学生将能够: 
+
+  *   确认什么时候使用 Microsoft Power Platform 组件应用程序来创建商业解决方案
+
+  *   学习使用 Microsoft Power Platform 创建商业解决方案的价值
+
+  *   学习 Microsoft Power Platform 的组件和功能
+
+
+  ### 模块 2: Microsoft Dataverse 介绍
+
+  Dataverse 让您能够在 cloud 中探究强大、可扩展的数据解决方案。学习什么可以制作 Dataverse 标记及其可以如何与 Microsoft Power Platform 协作来创建独特、高效的商业解决方案。
   #### 课程
   - Microsoft Dataverse概述
   - 模块小结

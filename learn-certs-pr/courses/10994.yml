@@ -1,0 +1,141 @@
+### YamlMime:Course
+title: Data Analysis Fundamentals using Excel
+metadata:
+  title: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+  description: 'Course 10994-B: Data Analysis Fundamentals using Excel'
+uid: course.10994
+courseNumber: '10994-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 创建 Excel 报告
+- skill: 创建 Excel 表格
+- skill: 创建 Pivot table 和 Pivot chart
+- skill: 创建仪表盘并分析数据
+- skill: 创建层级结构
+- skill: 创建 Excel 数据模型并连接至外部数据
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  该课程的主要目的是让学生具备向 Excel 工作表添加分析功能的能力，并为学生提供学习利用 Excel 或Power BI 的相关更高级数据分析的基础。
+
+  #### 受众概览
+  该课程旨在针对任何希望利用 Excel 中超越公式和更多高级功能如仪表盘、层级结构和关系的数据分析技术的人。
+prerequisitesSection: |-
+  参加本课之前，学生必须拥有&#58;
+  - Microsoft Windows操作系统和其核心功能的基础知识。
+  - Excel 工作表的高级使用知识包括公式。
+outlineSection: |-
+  ### 模块 1&#58; Excel 中的报告
+  本模块解释了如何在 Excel 中创建报告
+  #### 客户
+  - 过滤和格式化数据
+  - 图表
+
+
+  #### 实验室 &#58; 创建一个 Excel 报告
+  - 过滤 Excel 数据
+  - 格式化 Excel 数据
+  - 创建 Excel 图表
+
+  完成此模块后，学生将能够&#58;
+  - 过滤和格式化数据。
+  - 创建图表。
+
+
+  ### 模块 2&#58; Excel 表格
+  该模块解释了如何在 Excel 中创建数据表
+  #### 课程
+  - Excel 数据表
+  - 汇总数据
+
+
+  #### 试验室 &#58; 创建 Excel 表格
+  - 创建 Excel 表格
+  - 汇总 Excel 数据
+
+  完成此模块后，学生将能够&#58;
+  - 解释 Excel 数据表是什么。
+  - 排序、过滤及验证数据。
+  - 汇总数据。
+  - 格式化已汇总的数据。
+
+
+  ### 模块 3&#58; Pivot Tables 和 Pivot Charts
+  此模块描述了 pivot tables 和 pivot charts 及如何使用它们。
+  #### 课程
+  - Pivot Tables
+  - Pivot Charts
+  - 编辑 Pivot Tables 和 Pivot Charts
+
+
+  #### 实验室 &#58; 从 CSV 文件导入数据
+  - 创建 Pivot Table
+  - 创建 Pivot Chart
+  - 编辑 Pivot Tables 和 Pivot Charts
+
+  完成此模块后，学生将能够&#58;
+  - 描述 Pivot tables 及知道如何创建它们。
+  - 描述 Pivot chart 的各种不同组件。
+  - 编辑 Pivot tables 和Pivot charts。
+
+
+  ### 模块 4&#58; 仪表盘
+  此模块描述了 Excel 仪表盘、如何创建及其在 Excel pivot tables 中进行数据分析的作用。
+  #### 课程
+  - 创建仪表盘
+  - Excel Pivot Tables 中的数据分析
+
+
+  #### 实验室 &#58; 创建仪表盘
+  - 整理表格和图表
+  - 层析数据
+  - 数据分析
+
+  完成此模块后，学生将能够&#58;
+  - 描述仪表盘。
+  - 使用 slicer 过滤数据。
+  - 向仪表盘添加计算列。
+  - 查找异常。
+
+  ### 模块 5&#58; 层级结构
+  该模块描述了层级结构和时间数据。
+  #### 课程
+  - 层级结构
+  - 时间数据
+
+
+  #### 实验室 &#58; 创建层级结构
+  - 创建层级结构
+  - 创建时间数据
+  - 创建动画时间图表
+
+  完成此模块后，学生将能够&#58;
+  - 描述层级结构。
+  - 在层级结构中创建层级。
+  - 解释为什么时间数据是不同的及如何使用。
+
+
+  ### 模块 6&#58; Excel 数据模型
+  此模块探索了 Excel 数据模型并了解了对其进行扩展的方法。
+  #### 课程
+  - 使用 Excel 数据模型
+  - 外部数据
+
+
+  #### 实验室 &#58; 探索 Excel 数据模型
+  - 添加多个表格
+  - 创建关系
+  - 添加外部数据
+
+  完成此模块后，学生将能够&#58;
+  - 解释 Excel外部数据及其用法。
+  - 导入外部数据并使用。
+  - 连接到外部数据。

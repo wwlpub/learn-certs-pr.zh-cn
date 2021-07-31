@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+metadata:
+  title: 'Course 40510-G: Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+  description: 'Course 40510-G: Microsoft Cloud Workshop: SQL Server Hybrid Cloud'
+uid: course.40510
+courseNumber: '40510-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 在此讲习班的结尾，您将能够更好地在本地部署的 VMWare 环境和 Azure 之间设计混合灾难恢复解决方案。此外，您将设计 SQL Server 向外扩展解决方案，保护数据库备份免于本地失败，从本地部署的 SQL Server 存档冷数据，在敏感应用程序上执行端对端加密。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  在此讲习班中，您与媒体出版公司合作设计混合 cloud 灾难恢复解决方案。您将设计解决方案处理加载中的大峰值，加固安保以包括支付卡行业(PCI)数据的加密。此外，您将实施存档策略以确保数据库大小检入。
+
+  #### 受众概览
+  本次研讨会针对的是 Cloud Architects 和 IT 专业人士，他们在 cloud 技术的基础设施和解决方案设计方面有着架构专业知识，并希望了解更多关于 Azure 和 Azure 服务的知识，正如“摘要”和“获得的技能”部分中所描述的那样。参加此研讨会的人士也应该在其他非 Microsoft cloud 技术方面富有经验，满足课程的先决条件并希望获得在 Azure 方面的综合训练。
+outlineSection: |-
+  ### 模块 1&#58; 白板设计会话 - SQL Server hybrid cloud
+  #### 课程
+  - 回顾客户案例学习
+  - 设计概念验证解决方案
+  - 提交解决方案
+
+
+  ### 模块 2&#58; 动手实验室 - SQL Server hybrid cloud
+  #### 课程
+  - SQL 备份解决方案
+  - 使用 SQL Server Stretch Database 实施数据存档策略
+  - 为数据库灾难恢复构建 SQL 可用性组
+  - 为 Web Tier DR 配置 Azure Site Recovery
+  - 故障转移至灾难恢复站点

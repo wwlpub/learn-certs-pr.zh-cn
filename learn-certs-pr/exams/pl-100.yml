@@ -6,6 +6,8 @@ metadata:
 uid: exam.pl-100
 displayName: PL-100
 summary: |-
+  <div><font color='red'><strong>该考试内容将在2021年7月23日更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
+
   该应用程序制造商为自己和他们的团队构建了解决方案，以简化、自动化和转换任务和流程，他们在解决方案领域拥有丰富的专业知识。他们精通关键的技术业务分析师任务，例如数据建模、基本 UX 设计、需求分析、流程分析等。<br/><br/>
   
   应用程序制造商可以创建和执行业务流程，构建信息的数字收集结构，提高可重复任务的效率，并使业务流程自动化。
@@ -13,7 +15,7 @@ summary: |-
   App Maker 使用 Power Platform 的 Maker 工具解决业务问题。他们可能具有 Visual Basic for Applications、Excel 数据透视表、Teams 和其他工具的经验。他们应该对数据模型、用户接口和流程有基本的了解。App Maker 知道可用工具的功能和局限性，并了解如何应用它们。
   
   App Maker 是自我指导的，专注于解决方案。他们可能没有接受过正式的 IT 培训，但很乐于以个人成长的心态使用技术来解决业务问题。他们了解操作需求，并对期望的结果有愿景。他们采用分阶段的迭代策略来解决问题。"
-subTitle: '该考试衡量您完成以下技术任务的能力: 设计解决方案；创建解决方案；分析数据；并实施和管理解决方案。'
+subTitle: '本次考试测试您完成以下技术任务的能力：设计解决方案、创建解决方案、分析数据、实施和管理解决方案。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,10 +29,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 设计解决方案（10-15%）
-- 创建解决方案（55-60%）
-- 分析和可视化数据（5-10%）
-- 实施和管理解决方案（15-20%）
+- 该考试内容将在2021年7月23日更新。请在下方下载考试技能大纲以查看将要改变的地方。
+- 设计解决方案 (10-15%)
+- 创建解决方案 (50-55%)
+- 分析数据 (5-10%)
+- 实施和管理解决方案 (15-20%)
 roles:
 - business-analyst
 - business-owner

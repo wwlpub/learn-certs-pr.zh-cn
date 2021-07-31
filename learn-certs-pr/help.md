@@ -20,7 +20,7 @@ ms.prod: non-product-specific
 
 | 支持的领域 | 如何联系我们 |
 | ------------- | --- |
-| Microsoft Certification 考试和 Microsoft Certifications | 您的问题可能已经在下面的某一页得到了回答：<br/> - [认证程序概述](/learn/certifications/certification-process-overview)<br/>- [访问您的 Certification Dashboard](/learn/certifications/access-certification-dashboard) <br/>- [管理您的认证配置文件](/learn/certifications/manage-certification-profile)<br/><br/>更新您的合法姓名：<br/>通过[合法姓名更新表格。](https://support.microsoft.com/en-us/supportrequestform/de16815f-2fa5-576e-4946-70cae21a4eeb)提交请求。<br/><br/>所有其他支持问题：<br/>按照下面的步骤通过我们的主持人[认证支持论坛](https://aka.ms/MCPForum)获得帮助。|
+| Microsoft Certification 考试和 Microsoft Certifications | 您的问题可能已在如下页面被回答：<br/> - [认证流程概览](/learn/certifications/certification-process-overview)<br/>- [在线监考介绍和 FAQs ](/learn/certifications/online-exams-intro) <br/>- [管理您的认证档案](/learn/certifications/manage-certification-profile)<br/><br/>更新您的法定名称：<br/>请访问：[如何修改您在 Microsoft Certification 档案上的名称。](/learn/certifications/manage-certification-profile#how-to-change-the-name-on-your-microsoft-certification-profile)<br/><br/>供应：<br/>如果您因残疾要依靠辅助技术或要求测试供应，请访问：[请求供应。](/learn/certifications/request-accommodations)<br/><br/>所有其他支持问题：<br/>按照如下步骤通过我们适当的[认证支持论坛](https://aka.ms/MCPForum) 获得帮助。|
 | Microsoft Certified Trainer (MCT) 项目 | 您的问题可能已经在我们关于 [Microsoft Certified Trainer](/learn/certifications/mct-certification) program 的页面上得到了回答。<br/><br/>所有其他支持问题：<br/>请通过我们的[主持人支持论坛](https://trainingsupport.microsoft.com/en-us/tcmct/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)联系我们的 Microsoft Certified Trainers。|
 
 ## 如何在论坛上发布支持请求
