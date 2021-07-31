@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div><font color='red'><strong>本次考试的内容于2021年6月2日进行了更新。请下载下面的技能测试文件，看看有何变化。</strong></font><br/><br/></div>
+  <div><strong>该考试内容将在2021年8月5日更新。请下载如下的技能测试文件来查看将要改变的部分。</strong><br/><br/></div>
   
   参加本次考试的是 Microsoft 365 Enterprise Administrators，他们参与 Microsoft 365 服务的评估、规划、迁移、部署和管理。他们为企业执行 Microsoft 365 租户管理任务，其中包括其身份、安全、合规、Power Platform 和配套技术。
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- 本次考试的内容于2021年6月2日进行了更新。请下载下面的考试技巧大纲，看看有何变化。
+- 该考试内容将在2021年8月5日更新。请在下方下载考试技能大纲以查看将要改变的地方。
 - 设计和实施Microsoft 365服务(25-30%)
 - 管理用户身份和角色(25-30%)
 - 管理存取和身份验证(15-20%)

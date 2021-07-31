@@ -7,7 +7,8 @@ uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
   <div>
-  <div><strong>该证书将于2021年6月30日失效。在此日期之后，您将无法获得该证书。您在它们的失效日期之前所获得的任何证书都将继续出现在您的成绩单上，此成绩单位于<a href="https://aka.ms/certdashboard">“认证面板”之中</a>.</strong><br/><br/></div>
+  <div><font color="red"><strong>该认证已被撤销。要了解更多目前可用的选项，请参阅 <a href="/learn/certifications/browse/">浏览认证和考试页面</a>。任何您在它们撤销日期获得认证都将继续出现在您的 <a href="https://aka.ms/certdashboard">认证仪表盘中的成绩单中。</a></strong></font><br/><br/></div>
+  </div>
 
   证明您了解 Microsoft Dynamics 365；人工智能；混合现实；动力平台；云概念；云安全； Dynamics 365 安全性；通用数据服务； Dynamics 365 报告； Dynamics 365 集成；以及云部署。
 

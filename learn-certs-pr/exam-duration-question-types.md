@@ -21,11 +21,10 @@ ms.prod: non-product-specific
 
 |         | 考试时长*           | 座位时长 *  |
 | ------------- |:-------------:| -----:|
-| Fundamentals 考试      | 60 分钟 | 80 分钟 |
-| 无实验室的 Associate and expert role-based exams ** | 130 分钟 | 150 分钟 |
-| 含实验室的 Associate and expert role-based exams  | 150 分钟 | 170 分钟 |
+| Fundamentals 考试      | 45 分钟 | 65 分钟 |
+| 无实验室的 Associate and expert role-based exams ** | 100 分钟 | 120 分钟 |
+| 基于副职和专家角色的考试可能会含有实验室** | 130 分钟 | 150 分钟 |
 | 通过学术渠道提供的 Microsoft Technology Associate (MTA) 考试 | 45 分钟 | 50 分钟|
-| 通过商业渠道提供的 MTA  考试 | 45 分钟 | 80 分钟 |
 | Microsoft Office Specialist (MOS) 考试 | 50 分钟 | 60 分钟 |
 
 *考试时长是指您拥有的可用来完成考试的时间。 座位时长是指您应为考试分配的时间。其包含阅读说明、阅读及接受 NDA、完成考题、以及在完成考试后提供意见（如果您选择这样做）所需要的时间。

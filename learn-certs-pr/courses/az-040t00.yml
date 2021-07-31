@@ -1,0 +1,456 @@
+### YamlMime:Course
+title: 'Automating Administration with PowerShell '
+metadata:
+  title: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+  description: 'Course AZ-040T00--A: Automating Administration with PowerShell '
+uid: course.az-040t00
+courseNumber: 'AZ-040T00'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Windows PowerShell 的功能性并用其来运行和查找基本命令。
+- skill: 为本地系统管理员确定身份并运行 cmdlets。
+- skill: 使用 Windows PowerShell 通道。
+- skill: 使用 PSProviders 和 PSDrives 来利用其它形式的存储。
+- skill: 使用 WMI 和 CIM 查询系统信息。
+- skill: 使用变量、数组和哈希表。
+- skill: 在 Windows PowerShell 中撰写基础脚本。
+- skill: 使用 Windows PowerShell 管理远程计算机。
+- skill: 使用 PowerShell 管理 Azure。
+- skill: 使用 PowerShell 管理 Microsoft 365 服务。
+- skill: 使用后台作业和已安排作业。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+summary: |-
+  该课程为学生提供了 Windows 服务器管理和自动化管理而使用 Windows PowerShell 的基础原理知识和技能。该课程为学生提供了他们执行特定任务所需的识别和创建命令的技能。此外，学生将学习如何创建脚本来完成高级任务如自动化重复任务并生成报告。该课程提供了支持 Microsoft 广泛产品包括 Windows Server, Windows Client、Microsoft Exchange Server、Microsoft SharePoint Server、Microsoft SQL Server 和 Microsoft System Center 的首要必备技能。与该目标同步，本课程将不会专注于这些产品中的任何一项，虽然 Windows Server 是所有这些产品的通用平台，但仅作为此课程所教授技术的实例之用。
+
+  #### 受众概览
+
+  本课旨在针对已具备 Windows Server 和 Windows 客户端管理且希望学习更多使用 Windows PowerShell 用于管理的 IT 专业人士。无需任何 Windows PowerShell 经验或任何指定的脚步语言要求。该课程也适合已具备服务器管理，包括 Exchange Server、SharePoint Server、SQL Server 系统中心经验的 IT 专业人士。
+outlineSection: |-
+  ### 模块 1: Windows PowerShell 基础入门
+
+  此模块将向您介绍 Windows PowerShell 并提供该产品功能性的概览。 该模块解释了如何打开和配置 Windows PowerShell。也解释了如何在 Windows PowerShell 中运行命令并使用内置帮助系统。
+
+  #### 课程
+
+  *   Windows PowerShell 概览
+
+  *   理解 Windows PowerShell 命令语法
+
+  *   在 Windows PowerShell 中查找命令并获得帮助
+
+
+  #### 实验室: 配置 Windows PowerShell 控制台应用程序
+
+  ####
+
+  #### 实验室: 配置 Windows PowerShell ISE 应用程序
+
+  ####
+
+  #### 实验室: 查找并运行 Windows PowerShell 命令
+
+  ####
+
+  #### 实验室: 使用帮助和关于文件
+
+  ####
+
+  完成此模块后，学生将能够: 
+
+  *   打开并配置Windows PowerShell。
+
+  *   发现、学习和运行 Windows PowerShell命令。
+
+  *   为执行特定任务查找 Windows PowerShell 命令。
+
+
+  ### 模块 2: 用于本地系统管理的 Windows PowerShell
+
+  该模块为您介绍了通常用于系统管理的不同类型的 cmdlets 。当您每次搜索 cmdlets 时，您需要完成一项任务，这对于拥有对这些 cmdlets 的最低的基础理解是更高效的。该模块也解释了如何在 Windows 10 中安装和开始使用 Windows PowerShell。
+
+  #### 课程
+
+  *   Active Directory Domain Services 管理 cmdlets
+
+  *   网络配置 cmdlets
+
+  *   服务器管理 cmdlets
+
+  *   Windows 10 中的 Windows PowerShell
+
+
+  #### 实验室: 创建一个网站
+
+  ####
+
+  #### 实验室: 在 Windows Server 配置网络设置
+
+  ####
+
+  #### 实验室: 创建和管理 Active Directory 对象
+
+  ####
+
+  完成此模块后，学生将能够:
+
+  *   为 AD DS 管理确认和使用 cmdlets。
+
+  *   为网络配置确认和使用 cmdlets。
+
+  *   为服务器管理任务确认和使用 cmdlets。
+
+  *   在 Windows 10 中安装和使用 Windows PowerShell。
+
+  ### 模块 3: 使用  Windows PowerShell 通道
+
+  该模块介绍了 Windows PowerShell 的通道功能。通道功能包含在一些命令行界面中，如 Windows 操作系统中的命令提示符。但是，Windows PowerShell 中的通道功能相比其他界面提供了更多复杂、灵活和综合性的功能。该模块为您提供了将能帮助您更加有效和高效使用 Windows PowerShell 的技能和知识。
+
+  #### 课程
+
+  *   理解通道
+
+  *   选择、排序和测量对象
+
+  *   利用通道过滤对象
+
+  *   在通道中列举对象
+
+  *   作为输出发送和传递通道
+
+
+  #### 实验室: 选择、分类和显示数据
+
+  ####
+
+  #### 实验室: 过滤对象
+
+  ####
+
+  #### 实验室: 列举对象
+
+  ####
+
+  #### 实验室: 转换对象
+
+  ####
+
+  完成此模块后，学生将能够：
+
+  *   描述 Windows PowerShell通道的目的。
+
+  *   在通道中选择、排序和测量对象。
+
+  *   利用通道过滤对象。
+
+  *   在通道中列举对象。
+
+  *   发送由通道数据组成的输出。
+
+
+  ### 模块 4: 使用 PSProviders 和 PSDrives
+
+  该模块介绍了 PSProviders 和 PSDrives 适配器。PSProvider 本质上是类似于磁盘驱动器一样产生一些形式的存储的 Windows PowerShell 适配器。PSDrive 实际上是到某种形式存储的关联。 您可以使用这两种适配器，通过使用您用来管理文件系统的相同命令和技术来利用不同形式的存储。
+
+  #### 课程
+
+  *   使用 PSProviders
+
+  *   使用 PSDrives
+
+
+  #### 实验室: 创建新的 Active Directory 组
+
+  ####
+
+  #### 实验室: 为您未来的脚步创建注册秘钥
+
+  ####
+
+  #### 实验室: 在远程电脑上创建文件和文件夹
+
+  ####
+
+  完成此模块后，学生将能够: 
+
+  *   使用PSProviders。
+
+  *   使用 PSDrives。
+
+  ### 模块 5: 使用 CIM 和 WMI 查询管理信息
+
+  该模块为您介绍了两种类似的技术：Windows Management Instrumentation (WMI) 和 Common Information Model (CIM)。 两种技术都提供了对管理信息资源库的本地和远程访问，包括从操作系统、计算机硬件和以安装的软件中访问可用的可靠信息。
+
+  #### 课程
+
+  *   理解 CIM 和 WMI
+
+  *   使用 CIM 和 WMI 查询数据
+
+  *   使用 CIM 和 WMI 做出更改
+
+
+  #### 实验室: 使用 WMI 查询信息
+
+  ####
+
+  #### 实验室: 使用 CIM 查询信息
+
+  ####
+
+  #### 实验室: 调用方法
+
+  ####
+
+  完成此模块后，学生将能够：
+
+  *   区分常见信息模型和Windows Management Instrumentation。
+
+  *   使用 CIM 和 WMI 查询管理信息。
+
+  *   使用 CIM 和 WMI 调用方法。
+
+
+  ### 模块 6: 使用变量、数组和哈希表
+
+  该模块为您提供了使用 Windows PowerShell 中变量、数组和哈希表所要求的技能和知识。
+
+  #### 课程
+
+  *   使用变量
+
+  *   操作变量
+
+  *   操作数组和哈希表
+
+
+  #### 实验室: 使用哈希表
+
+  ####
+
+  #### 实验室: 使用数组
+
+  ####
+
+  #### 实验室: 使用变量类型
+
+  ####
+
+  完成此模块后，学生将能够: 
+
+  *   向变量分配值。
+
+  *   描述如何操作变量。
+
+  *   描述如何操作数组和哈希表。
+
+  ### 模块 7: Windows PowerShell 脚本处理
+
+  该模块解释了如何在脚本中打包 Windows PowerShell。 脚本让您能够执行不能在单个命令中完成的重复性任务和更多复杂的任务。
+
+  #### 课程
+
+  *   使用 Windows PowerShell 处理脚本介绍
+
+  *   脚本构成
+
+  *   从文件导入数据
+
+  *   接收用户输入
+
+  *   解决问题和错误处理
+
+  *   功能和模型
+
+
+  #### 实验室: 签署脚本
+
+  ####
+
+  #### 实验室: 处理带有 ForEach 循环的数组
+
+  ####
+
+  #### 实验室: 使用 If 表达式处理项目
+
+  ####
+
+  #### 实验室: 基于 CSV 文件创建用户
+
+  ####
+
+  #### 实验室: 从远程计算机查询磁盘信息
+
+  ####
+
+  #### 实验室: 更新脚本以使用其他权限
+
+  ####
+
+  完成此模块后，学生将能够: 
+
+  *   运行 Windows PowerShell脚本。
+
+  *   使用 Windows PowerShell脚本构成。
+
+  *   从文件导入数据。
+
+  *   获得用户输入。
+
+  *   解决脚本问题并理解错误操作。
+
+  *   创建功能和模型。
+
+
+  ### 模块 8: 使用 Windows PowerShell 管理远程计算机
+
+  该模块为您介绍了能够让您连接至一个或多个远程计算机并命令它们代表您运行命令的 Windows PowerShell 远程控制技术。
+
+  #### 课程
+
+  *   使用基础的 Windows PowerShell 控制
+
+  *   使用高级 Windows PowerShell 远程控制技术
+
+  *   使用 PSSessions
+
+
+  #### 实验室: 管理多台计算机
+
+  ####
+
+  #### 实验室: 使用隐式远程控制
+
+  ####
+
+  #### 实验室: 执行一对多远程控制
+
+  ####
+
+  #### 实验室: 执行一对一远程控制
+
+  ####
+
+  #### 实验室: 在本地电脑上启用远程控制
+
+  ####
+
+  完成此模块后，学生将能够: 
+
+  *   描述远程控制架构和安全。
+
+  *   使用高级远程控制技术。
+
+  *   创建和管理连贯的远程控制会话。
+
+  ### 模块 9: 使用 PowerShell 管理 Azure 资源
+
+  该模块提供了关于 Azure PowerShell 的信息。同时也介绍了 Azure Cloud Shell。解释了如何使用 PowerShell 管理 Azure VMs。该模块也描述了你可以如何使用 Azure PowerShell 管理存储和 Azure 订阅。
+
+  #### 课程
+
+  *   Azure PowerShell
+
+  *   介绍 Azure Cloud Shell
+
+  *   使用 PowerShell 管理 Azure VMs
+
+  *   管理存储和订阅
+
+
+  #### 实验室: 安装 Azure PowerShell 模型
+
+  ####
+
+  #### 实验室: 安装 Cloud Shell
+
+  ####
+
+  #### 实验室: 使用 PowerShell 管理 Azure 资源
+
+  ####
+
+  完成此模块后，学生将能够: 
+
+  *   完成此模块后，学生将能够: 
+
+  *   使用Azure Cloud Shell.
+
+  *   使用 PowerShell 管理 Azure VMs。
+
+  *   管理存储和订阅。
+
+
+  ### 模块 10: 使用 PowerShell 管理 Microsoft 365 服务
+
+  该模块描述了如何使用 PowerShell 来管理 Microsoft 365 用户账户、许可和组、Exchange Online、SharePoint Online及Microsoft Teams。
+
+  #### 课程
+
+  *   使用 PowerShell 来管理 Microsoft 365 用户账户、许可和组
+
+  *   使用 PowerShell 来管理 Exchange Online
+
+  *   使用 PowerShell 来管理 SharePoint Online
+
+  *   使用 PowerShell 来管理 Microsoft Teams
+
+
+  #### 实验室: 使用 Windows PowerShell 来管理 Exchange Online 资源
+
+  ####
+
+  #### 实验室: 使用 Windows PowerShell 来管理 SharePoint Online
+
+  ####
+
+  #### 实验室: 使用 Windows PowerShell 来管理 Microsoft 365 用户和组对象
+
+  ####
+
+  #### 实验室: 使用 Windows PowerShell 关联至 Microsoft 365
+
+  ####
+
+  完成此模块后，学生将能够: 
+
+  *   使用 PowerShell 来管理 Microsoft 365 用户账户、许可和组。
+
+  *   使用 PowerShell 管理 Exchange Online。
+
+  *   使用 PowerShell 管理 SharePoint Online。
+
+  *   使用 PowerShell 管理 Microsoft Teams。
+
+  ### 模块 11: 使用后台作业和已安排作业
+
+  该模块描述了如何使用后台作业和已安排作业。也解释了如何创建已安排作业并重新得到作业结果。
+
+  #### 课程
+
+  *   使用后台作业
+
+  *   使用已安排作业
+
+
+  #### 实验室: 开始并管理作业
+
+  ####
+
+  #### 实验室: 创建已安排作业
+
+  ####
+
+  完成此模块后，学生将能够: 
+
+  *   创建并使用后台作业。
+
+  *   创建并使用安排作业。

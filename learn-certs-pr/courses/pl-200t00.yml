@@ -8,7 +8,7 @@ courseNumber: 'PL-200T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 与一个组织合作，收集需求并实施Power Platform解决方案
+- skill: 与组织合作收集要求并实施 Microsoft Power Platform 解决方案。
 - skill: 建立模型驱动、画布和门户应用程序
 - skill: 创建Power Automate流程
 - skill: 用Power Virtual Agents设计简单的聊天机器人
@@ -19,34 +19,47 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- functional-consultant
 products:
 - power-platform
 exams:
 - uid: exam.pl-200
 summary: |-
-  Power Platform将使组织能实现业务流程自动化及自主开发大量的应用程序。在本课程中，学生将学会执行发现、捕获需求、吸引领域专家和利益相关者、翻译需求、配置Power Platform解决方案和应用程序。这样，动手实验室将补充学生创建应用程序增强、自定义用户体验、系统集成、数据转换、自定义流程自动化和自定义可视化的知识。Power Platform包括四个关键产品&#58; Power Apps、Power Automate、Power BI和Power Virtual Agents。在本课程中，我们将深入讨论这四个应用程序，并额外关注Microsoft Dataverse（以前称为Common Data Service)、AI Builder、连接器以及门户网站。
+  Microsoft Power Platform 使组织能够自动化商业流程、开发他们自己丰富的应用程序经验并与客户更好、更快地关联。在本课中，学生将学习执行发现、捕获要求、吸引主题内容专家和利益相关者、翻译要求并配置 Microsoft Power Platform 解决方案和应用程序。他们将通过实践实验室补充自己的学习来创建应用程序增强、定制用户体验、系统集成、数据转换、定制流程自动化及定制视觉化。Microsoft Power Platform 由4个主要的产品组成：Power Apps、Power Automate、Power BI 和 Power Virtual Agents。在本课中，我们将深入探讨这4个应用程序，且额外专注于Microsoft Dataverse、AI Builder、连接器和入口。
 
-  #### 受众概况
-  Power Platform功能顾问负责执行发现、捕获需求、吸引领域专家和利益相关者、翻译需求、配置Power Platform解决方案和应用程序。功能顾问将实施解决方案的各个部分，包括应用增强、自定义用户体验、系统集成、数据转换、自定义流程自动化和自定义可视化。
+  #### 受众概览
+
+  Microsoft Power Platform Functional Consultant 负责创建和配置应用程序、自动化和解决方案。 他们充当用户和实施团队之间的联络。功能顾问在组织内推广解决方案的利用。功能顾问可以执行发现、吸引主题内容专家和利益相关者、捕获要求并匹配要求和功能。他们实施解决方案的组成部分包括应用程序增强、定制用户体验、系统集成、数据转换、定制流程自动化及定制视觉化。
 prerequisitesSection: |-
-  - 作为IT专业人员或学生的经验
-  - Power Platform及其关键组件的使用知识
-  - 了解Microsoft Dataverse（或一般数据建模）和安全概念
+  *   作为 IT 专业人士的经验或学生
+
+  *   Microsoft Power Platform 和其核心组件的使用经验
+
+  *   &nbsp;Microsoft&nbsp;Dataverse （或通用数据模型）知识&nbsp;和安全概念
 outlineSection: |-
-  ### 模块 1&#58; Power Platform简介
-  本模块将为学员提供Power Platform及其4个关键组件的背景知识&#58; Power Apps、Power Automate、Power BI和Power Virtual Agents。
-  #### 课程概述
-  - Power Platform概述
-  
-  #### 实验室&#58; 确认实验室环境
-  
-  完成本模块学习后，学生将能&#58; 
-  - 识别Power Platform的关键组件
-  - 描述功能顾问的角色
-  
-  ### 模块 2&#58; “功能顾问”角色
-  在本模块中，学员将更多地了解该功能顾问角色，以及为组织成功实施Power Platform 解决方案所需的技能。
+  ### 模块 1: Microsoft Power Platform 介绍
+
+  该模块将为学习者提供关于 Microsoft Power Platform 和其4个关键组件的背景知识：Power Apps、Power Automate、Power BI 和 Power Virtual Agents。
+
+  #### 课程
+
+  *   Microsoft Power Platform 概览
+
+
+  #### 实验室: 验证实验室环境
+
+  ####
+
+  完成此模块后，学生将能够：
+
+  *   确认 Microsoft Power Platform 的关键组件
+
+  *   描述功能顾问的任务
+
+
+  ### 模块 2: 功能顾问任务
+
+  在此模块中，学生将学习更多关于功能顾问角色的任务以及成功为组织实施 Microsoft Power Platform 解决方案所要求的技能。
 
   - 顾问技能概述
   - 创建并验证文档
@@ -82,7 +95,7 @@ outlineSection: |-
   完成本模块学习后，学生将能&#58; 
   - 了解表、列、行以及它们之间的关系
   - 在Dataverse中配置一个数据模型
-  - 在Power Platform管理中心的环境中工作
+  - 在 Microsoft Power Platform 管理中心的环境中工作
   
   
   ### 模块 4&#58; 制作Power应用程序

@@ -3,7 +3,6 @@ title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
   description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
-  iltScheduling: true
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -17,7 +16,6 @@ roles:
 - data-scientist
 products:
 - azure
-- azure-data-science-vm
 exams:
 - uid: exam.dp-100
 summary: |-
@@ -34,10 +32,11 @@ prerequisitesSection: |-
   - 用Scikit-Learn、PyTorch和TensorFlow等常见框架来培训和校验机器学习模型。
   
   为了获取此类必备技能，上课前请完成以下免费在线培训&#58
-  - [研究Microsoft云概念](/learn/paths/explore-microsoft-azure-cloud-concepts/)。
-  - [创建机器学习模型](/learn/paths/create-machine-learn-models/) 
+  - [研究Microsoft云概念](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/)。
+  - [创建机器学习模型](https://docs.microsoft.com/learn/paths/create-machine-learn-models/).
+  - [Azure 中的管理容器](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/) 
   
-  若您之前完全不了解数据科学和机器学习，请先完成[Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)学习。
+  若您之前完全不了解数据科学和机器学习，请先完成[Microsoft Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)学习。
 outlineSection: |-
   ### 模块 1&#58; 在Azure上研究数据科学
   学生将学习数据科学过程和数据科学家的工作。  然后将其应用于了解Azure服务如何支持和增强数据科学处理。
@@ -46,7 +45,7 @@ outlineSection: |-
   - Azure数据科学选项概述
   - 介绍Azure Notebooks
   
-  ### 模块 2&#58; 使用Azure机器学习服务从事数据科学研究
+  ### 模块 2: 机器学习的视觉工具
   学生将学习如何使用Azure机器学习服务（AML）端到端自动化数据科学处理。
   #### 课程
   - 介绍AML服务

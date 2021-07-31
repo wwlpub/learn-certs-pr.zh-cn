@@ -18,14 +18,9 @@ locales:
 levels:
 - intermediate
 roles:
-- administrator
-- identity-access-admin
 - security-engineer
 products:
 - azure
-- azure-active-directory
-- azure-log-analytics
-- azure-sentinel
 exams:
 - uid: exam.sc-300
 summary: |-
@@ -34,7 +29,7 @@ summary: |-
   #### 受众人群
   本课程针对计划参加相关认证考试或者在日常工作中执行身份和访问管理任务的身份和访问管理员。本课程还可以帮助打算专门为基于Azure的解决方案提供身份解决方案和访问管理系统；专门在组织保护中发挥不可或缺的作用的管理员和工程师。
 prerequisitesSection: |-
-  成功的初学者将事先学习和了解&#58;
+  参加该课之前，学生应拥有对如下方面的理解：
   - 安全性最佳做法和行业安全性需求，如深度防御、最小权限访问、责任分担和零信任模型。
   - 熟悉身份验证、授权和活动目录等身份概念。
   - 具备一定的Azure workloads部署经验。本课程不涉及Azure管理基本知识。相反，课程内容以该知识为基础，添加了安全性特定信息。
@@ -78,7 +73,7 @@ outlineSection: |-
   #### 实验室 &#58; 探索动态组
   
   完成本模块学习后，学生将能&#58; 
-  - 用自定义设置部署初始Azure AD 
+  - 使用自定义设置部署初始的 Azure AD
   - 同时管理内部和外部身份
   - 实现混合身份解决方案
   

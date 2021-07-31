@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
+  <div><font color='red'><strong>该考试内容将在2021年7月23日更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
+
   Microsoft安全操作分析师与组织利益相关方协作，为该组织的信息技术系统提供安全防护。他们的目标是通过快速修复环境中的主动攻击，对威胁防护实践的改进提出建议，并将违反组织策略的行为提交给适当的利益相关者，从而降低组织风险。
 
   职责包括通过在其环境中使用各种安全解决方案进行威胁管理、监控及响应。通过使用Microsoft Azure Sentinel、Azure Defender、Microsoft 365 Defender以及第三方安全产品，该角色主要调查、回应并搜索各种威胁。由于安全操作分析师使用这些工具的操作输出，所以他们也是这些技术的配置和部署中的关键利益相关者。
@@ -22,6 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 该考试内容将在2021年7月23日更新。请在下方下载考试技能大纲以查看将要改变的地方。
 - 使用Microsoft 365 Defender来降低威胁 (25-30%)
 - 使用Azure Defender来降低威胁 (25-30%)
 - 使用Azure Sentinel来降低威胁 (40-45%)

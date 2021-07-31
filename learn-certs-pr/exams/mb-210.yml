@@ -6,16 +6,14 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div>
-  <div><strong>该考试的内容已于2020年10月2日更新。请下载下面的技能测量文档，看看有何变化。</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>该考试内容将在2021年7月23日更新。请下载下面的技能测试文档，看看将有何变化。</strong></font><br/><br/></div>
   
   本考试的考生是具备销售专门知识的 Dynamics 365 功能顾问。考生负责实施支持销售生命周期的解决方案，以便有效和高效的地实现收入目标、销售策略以及公司目标。
   
   考生负责配置并扩展线索、联系人、账户和机会的核心功能，并支持实体在公司内将这些销售过程匹配到位。他们确定机会使用Power Apps为所有设备开发统一的体验，使用Power Automate进行应用程序集成，业务流程流以及其他自动化工具，以构建支持并加速“通往现金之旅”的应用程序。
   
   考生必须具备扎实的业务知识，并最好在销售领域有亲身经历，曾承担一个或多个销售职能。
-subTitle: '此考试评估您完成以下技术任务的能力: 执行配置、管理核心销售实体以及配置其他工具和服务。'
+subTitle: '本次考试测试您完成以下技术任务的能力：实施配置、管理核心销售表格、配置其他工具和服务。'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
 practiceTestUrl: https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 此考试的内容于2020年10月2日更新。请下载下面概述的考试技能大纲，以了解已发生的变化。
+- 该考试内容将在2021年7月23日更新。请在下方下载考试技能大纲以查看将要改变的地方。
 - 进行设定 (25-30%)
 - 管理核心销售实体 (50-55%)
 - 设定其他工具和服务 (15-20%)
